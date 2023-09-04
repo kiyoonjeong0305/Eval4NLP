@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour."
+    ],
+    "aspect": [
+        "1. Luigi Costa, 71, is accused of stomping on his elderly neighbor Terrence Freebody's head, cutting his throat, and stabbing him multiple times in the dining room of his home in Red Hill, Canberra, in 2012.",
+        "2. Forensic psychiatrist Professor Paul Mullen examined Costa after the attack and believes there was evidence of his state of mind declining before and during the event.",
+        "3. The trail of feces from the crime scene to the toilet where police found Costa suggested his confused mental state, according to Professor Mullin. He also said that Costa's alcohol abuse and dementia led to a confused state, making him unable to understand the consequences of his actions."
+    ],
+    "explain": [
+        "The aspect describes Luigi Costa's alleged actions when he allegedly murdered his elderly neighbor Terrence Freebody. According to the aspect, Costa is accused of stomping on Freebody's head, cutting his throat, and stabbing him multiple times in the dining room of his home in Red Hill, Canberra, in 2012. The fact that the murder happened in the dining room of his own home adds another layer of disturbing detail to the alleged crime.",
+        "The given aspect highlights that there is evidence of Luigi Costa's state of mind declining before and during the event of murdering his elderly neighbor Terrence Freebody. The forensic psychiatrist Professor Paul Mullen, who examined Costa, believes that his mental state was in a precarious condition and continued to deteriorate as the incident unfolded.",
+        "The aspect states that the trail of feces from the crime scene to the toilet where police found Costa suggested his confused mental state, according to Professor Mullin."
+    ],
+    "answer": [
+        "It appears that the summary does not contain the core idea of the aspect; rather, it is a simple statement of the accused's identity and the alleged crime. The aspect, on the other hand, provides details about the brutal nature of the alleged murder.",
+        "Shortly: No, the summary does not contain the core idea of the aspect. The summary only mentions that Luigi Costa is on trial for the murder of his neighbor, but it does not mention any evidence of his declining mental state. The aspect reveals that there is evidence to suggest that Luigi Costa's mental state was deteriorating before and during the murder, which is not mentioned in the summary.",
+        "It depends on which aspect you are referring to. If you are referring to the aspect about Professor Mullin's testimony, then no, the summary does not contain the core idea. If you are referring to the summary of the overall case, then yes, the core idea is present.\nExplain: The aspect states that the trail of feces from the crime scene to the toilet where police found Costa suggested his confused mental state, according to Professor Mullin. This testimony supports the claim that Costa was in a confused mental state at the time of the murder, which may have affected his understanding of the consequences of his actions."
+    ],
+    "score": [
+        0,
+        0,
+        4
+    ],
+    "mean_score": 1.3333333333333333,
+    "gt_score": 4.66666666665
+}

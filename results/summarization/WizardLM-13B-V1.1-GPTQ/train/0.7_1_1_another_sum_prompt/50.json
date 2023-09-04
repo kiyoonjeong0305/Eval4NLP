@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "leicester host swansea on saturday just three points from safety . last week 's 3-2 win at west brom handed them a survival lifeline . jamie vardy scored an injury-time winner against west bromwich albion .",
+        "leicester host swansea on saturday just three points from safety . last week 's 3-2 win at west brom handed them a survival lifeline . jamie vardy scored an injury-time winner against west bromwich albion .",
+        "leicester host swansea on saturday just three points from safety . last week 's 3-2 win at west brom handed them a survival lifeline . jamie vardy scored an injury-time winner against west bromwich albion .",
+        "leicester host swansea on saturday just three points from safety . last week 's 3-2 win at west brom handed them a survival lifeline . jamie vardy scored an injury-time winner against west bromwich albion .",
+        "leicester host swansea on saturday just three points from safety . last week 's 3-2 win at west brom handed them a survival lifeline . jamie vardy scored an injury-time winner against west bromwich albion ."
+    ],
+    "aspect": [
+        "1. Leicester is bottom of the table.",
+        "2. They have won back-to-back games against West Brom.",
+        "3. Jamie Vardy scored an injury-time winner.",
+        "4. Nigel Pearson wants his team to focus on their own job.",
+        "5. He wants to ensure they have a realistic chance of survival."
+    ],
+    "explain": [
+        "Leicester City Football Club, currently ranked bottom of the English Premier League table, faces a crucial match against Swansea City on Saturday, 6th May 2017.",
+        "Describe the aspect in your own words.\n\nSummary: \nLeicester City, currently in the Premier League, will host Swansea City on Saturday with only three points separating them from relegation. Their recent victory against West Brom at the same ground last week has provided them with a critical lifeline in the battle for survival. England international Jamie Vardy scored an injury-time winner during that match, contributing significantly to their recent upturn in form.",
+        "\nThe core idea behind the aspect \"3. Jamie Vardy scored an injury-time winner\" is that the Leicester City forward, Jamie Vardy, made a crucial goal in the match against West Bromwich Albion, which gave his team a lifeline in their fight for Premier League survival. His last-minute strike not only secured a 3-2 victory but also propelled Leicester closer to safety, as they now have just three points from the top of the table. This incredible effort by Vardy played a significant role in turning the tide in Leicester's favor and gave them a much-needed boost for their upcoming matches, including their home game against Swansea City on Saturday.",
+        "To focus on one's own duties, responsibilities, or tasks without being influenced by external factors or distractions. \n\nCore Idea of Given Aspect: Nigel Pearson, the Leicester City football club manager, wants his team to remain focused on their own performances and game plan, rather than being distracted by external factors, such as their precarious position in the league standings or the result of other teams. This means that the team should not be influenced by the knowledge that a victory or draw against Swansea City on Saturday would move them closer to safety, but instead, they should focus on executing their game plan and playing to the best of their abilities.",
+        "With a strong desire to secure survival in the Premier League for Leicester City, the team's manager is focused on ensuring they have a realistic chance of avoiding relegation. This requires making strategic decisions, managing the squad, and inspiring confidence in the players to perform well in every match. The goal is to maintain momentum after last week's crucial victory at West Brom, which provided a lifeline for Leicester in their pursuit of safety."
+    ],
+    "answer": [
+        "No\n\nExplain: The summary mentions a crucial match against Swansea City on May 6th, 2017, which is important for Leicester as they are currently bottom of the table, and a win could potentially give them a chance for survival.",
+        "Yes, the summary indeed contains the core idea in question, which is the significance of Leicester City's two consecutive wins against West Bromwich Albion and their current fight for survival in the Premier League. The summary describes the upcoming match against Swansea City, Leicester's current position in the league, and their recent positive result against West Brom, which has given them a lifeline in the relegation battle.",
+        "\nNo, the summary does not contain the core idea of the aspect mentioned, which is Jamie Vardy scoring an injury-time winner. Though the summary briefly mentions Vardy scoring in a match against West Brom, it does not emphasize the timing or the consequence of his goal in relation to Leicester's survival. The summary mainly focuses on Leicester's upcoming game against Swansea and their position in the league table.",
+        "Yes, I understand the core idea from the given aspect in the summary, which is to focus on their own performance without being influenced by external factors or distractions. This is evident from the fact that Leicester City is currently three points away from safety and their last week's 3-2 win at West Brom handed them a survival lifeline. However, the team's manager Nigel Pearson is instructing them to concentrate on their own job, i.e., their game plan and performance during the match against Swansea on Saturday, and should not be swayed by the significance of the upcoming match in the context of their overall league position.",
+        "No, the summary does not contain the core idea of the given aspect. While the summary mentions Leicester City's efforts to stay above the relegation zone, it does not directly address the manager's intention to ensure a realistic chance of survival, as per the aspect's guidance. Although the summary highlights the importance of the West Brom win, it does not provide enough information to directly relate it to the manager's intention to make the team survive in the Premier League."
+    ],
+    "score": [
+        4,
+        5,
+        2,
+        5,
+        2
+    ],
+    "mean_score": 3.6,
+    "gt_score": 3.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year"
+    ],
+    "aspect": [
+        "1. Mexican restaurant Chipotle partners with Postmates to offer delivery in 67 cities, adding a 9% service charge.",
+        "2. Chipotle rejects previous delivery offers but approves collaboration with Postmates, following the success of the brand.",
+        "3. Chipotle is part of a growing trend of franchises seeking to expand in the $70 billion food delivery market."
+    ],
+    "explain": [
+        "Chipotle has partnered with Postmates to introduce delivery services in 67 cities, bringing in a 9% service charge on top of the orders.",
+        "Chipotle has approved a collaboration with Postmates for delivery services, after rejecting previous delivery offers due to their success, as they now see the potential benefits of adapting to online ordering for enhanced customer experience.",
+        "Chipotle is among the franchises targeting the expanding $70 billion food delivery market."
+    ],
+    "answer": [
+        "Yes, the summary accurately provides the context of the given sentence.",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.75
+}

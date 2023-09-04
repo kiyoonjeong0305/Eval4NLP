@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital .",
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital .",
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital ."
+    ],
+    "aspect": [
+        "1. A 2-year-old boy fell into a cheetah exhibit at Cleveland Metroparks Zoo after his parents dangled him over the edge.",
+        "2. The boy was rescued by his parents before firefighters and paramedics arrived, suffering from minor bumps and bruises.",
+        "3. The cheetahs did not attack the child, and Cleveland Metroparks Zoo plans to press child endangerment charges against the family."
+    ],
+    "explain": [
+        "A 2-year-old boy fell approximately 10-12 feet into a pit at Cleveland Metroparks Zoo, resulting in minor injuries, and was rescued by his parents when the facility's firefighters and paramedics arrived on scene.",
+        "The toddler fell into a pit and was caught by his parents who saved him before emergency services arrived, causing minor injuries to the child.",
+        "Cleveland Metroparks Zoo will press child endangerment charges against the family, as the cheetahs did not attack the child despite the dangerous situation."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of that sentence.",
+        "Yes",
+        "No"
+    ],
+    "score": [
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.83333333335
+}

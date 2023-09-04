@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 .",
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 .",
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 ."
+    ],
+    "aspect": [
+        "1. Timewarp home in Horfield, Bristol, from 1930s, up for sale with original features, untouched for over 80 years.",
+        "2. Property includes stained-glass windows, oil-fired central heating, retro food jars, and an antique lover's paradise.",
+        "3. Guide price between £200,000 and £250,000, auctioned on April 30 at the County Ground in Bristol."
+    ],
+    "explain": [
+        "The property in Horfield, Bristol, is from the 1930s and remains untouched from that era with original features intact, and is now up for sale with a guide price of £200k-£250k.",
+        "The collector's paradise in Horfield, Bristol, is an old, well-preserved property with original features such as stained-glass windows, oil-fired central heating, retro food jars, and an antique lover's paradise, all dating back at least 80 years. It is now up for sale with a guide price between £200,000 and £250,000.",
+        "The property called Collector’s Paradise in Horfield, Bristol, is an authentic historical building featuring pre-war architecture and several original features like the bathroom, kitchen, stained-glass windows, and an old oil-fired central heating system. The guide price for this unique property is between £200,000 and £250,000 and is going to be auctioned on April 30 at County Ground in Bristol."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "No, the summary does not contain the context of this sentence, it only provides some basic information about the property.",
+        "Yes, the summary context does contain the core idea of this sentence."
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.333333333325
+}

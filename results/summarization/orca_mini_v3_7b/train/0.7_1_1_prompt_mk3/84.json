@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "an fbi agent 's sniper rifle -lrb- similar to the one pictured -rrb- was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot just days before president obama visited utah earlier this month . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites , according to police .",
+        "an fbi agent 's sniper rifle -lrb- similar to the one pictured -rrb- was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot just days before president obama visited utah earlier this month . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites , according to police .",
+        "an fbi agent 's sniper rifle -lrb- similar to the one pictured -rrb- was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot just days before president obama visited utah earlier this month . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites , according to police ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot.",
+        "2. The rifle was secured properly in a hard case, but the thief broke into the car and stole it.",
+        "3. The agent's bags and clothing were also stolen, but the sniper rifle has not been recovered."
+    ],
+    "explain": [
+        "An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot despite being secured properly in a hard rifle case within a truck safe with padlocks and chains.",
+        "The given aspect mentions that the sniper rifle was securely locked inside a hard case but still managed to be stolen from the car. This highlights the challenge in properly securing valuables, even when they are safeguarded using locks and chains.",
+        "The sniper rifle of the FBI agent was stolen from the hotel parking lot. Additionally, the agent's bags and clothing were also taken, but the rifle was not found."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the given aspect does contain the context described and highlights the challenge of properly securing valuables.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.083333333325
+}

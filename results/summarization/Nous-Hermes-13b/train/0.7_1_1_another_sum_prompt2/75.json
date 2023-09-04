@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "gregory van der wiel has denied claims he is set to leave paris saint-germain in the summer . the dutchman recently had a falling out with his boss laurent blanc . but van der wiel insists he 's happy in paris and is making no plans to leave the ligue 1 side .",
+        "gregory van der wiel has denied claims he is set to leave paris saint-germain in the summer . the dutchman recently had a falling out with his boss laurent blanc . but van der wiel insists he 's happy in paris and is making no plans to leave the ligue 1 side .",
+        "gregory van der wiel has denied claims he is set to leave paris saint-germain in the summer . the dutchman recently had a falling out with his boss laurent blanc . but van der wiel insists he 's happy in paris and is making no plans to leave the ligue 1 side .",
+        "gregory van der wiel has denied claims he is set to leave paris saint-germain in the summer . the dutchman recently had a falling out with his boss laurent blanc . but van der wiel insists he 's happy in paris and is making no plans to leave the ligue 1 side ."
+    ],
+    "aspect": [
+        "1. Gregory van der Wiel denies plans to leave Paris Saint-Germain in the summer.",
+        "2. The full back had a recent spat with manager Laurent Blanc.",
+        "3. He loves the club, teammates, and city and wants to sign a new contract.",
+        "4. Parisians are linked with Dani Alves, Van der Wiel's future is uncertain."
+    ],
+    "explain": [
+        "Gregory van der Wiel, a Dutch football player, dismisses reports that he will depart from Paris Saint-Germain in the summer. French media had previously speculated that there was tension between van der Wiel and his team's manager, Laurent Blanc, but the player asserts that he is content with the club and has no plans to leave.",
+        "The given aspect is that Gregory van der Wiel had a recent spat with his manager Laurent Blanc, but insists that he is happy in Paris and is making no plans to leave the Ligue 1 side. This means that there is some tension between the two, but the player is still committed to playing for the team and has no plans to leave in the near future.",
+        "Gregory van der Wiel loves the club, teammates, and city of Paris Saint-Germain and wants to sign a new contract with the Ligue 1 side. This shows his happiness and commitment to the team and his willingness to continue playing for them in the future. He does not want to leave despite recent tensions with his coach.",
+        "The aspect highlights the uncertainty surrounding Gregory Van der Wiel's future at Paris Saint-Germain despite recent rumors linking the French club with a move for Brazilian full back, Dani Alves."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea. The core idea is explained in the aspect given.",
+        "I'm sorry, I'm not sure what you mean. Can you please rephrase your question?",
+        "Yes, I believe the aspect is present in the summary. The core idea of the aspect is mentioned in the summary where Gregory van der Wiel denies claims that he is planning to leave the club in the summer and insists that he is happy with the club, teammates, and city, and wants to sign a new contract.",
+        "I would suggest rephrasing the aspect to make it clearer. The current aspect is somewhat vague and does not directly relate to the summary. A better way to express the idea would be \"Gregory Van der Wiel has denied that he is planning to leave Paris Saint-Germain in the summer, despite rumors linking them with a move for Dani Alves.\" This way, the aspect directly addresses Van der Wiel's future with the club and how it may be affected by the reported interest in Alves."
+    ],
+    "score": [
+        0,
+        4,
+        5,
+        4
+    ],
+    "mean_score": 3.25,
+    "gt_score": 4.916666666675
+}

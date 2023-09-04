@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help ."
+    ],
+    "aspect": [
+        "1. Jin Pai, a 35-year-old passenger, was hospitalized after breaking a toilet he was squatting on in Hefei Xinqiao International Airport.",
+        "2. Passenger Jin Pai was standing on the rim of a toilet when it collapsed, leaving him hospitalized with cuts on his leg and buttocks.",
+        "3. Jin Pai was too embarrassed to shout for help after breaking the toilet in Hefei Xinqiao International Airport."
+    ],
+    "explain": [
+        "The core idea of this aspect is that Jin Pai, a 35-year-old passenger, was hospitalized after a toilet collapsed under his weight while he was squatting on it in Hefei Xinqiao International Airport.\n\nSummary: jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "The core idea of the given aspect is that the passenger, Jin Pai, suffered injuries when the toilet rim he was standing on collapsed, causing him to fall onto the toilet floor. As a result, he sustained cuts on his leg and buttocks and had to be hospitalized.",
+        "In the summary, it is mentioned that Jin Pai got hospitalized after the toilet collapsed while he was standing on it, and his companions found him bleeding on the floor after he made a call for help. According to the third aspect, Jin Pai was embarrassed to shout for help due to the fact that he broke the toilet in Hefei Xinqiao International Airport. The aspect suggests that Jin Pai's embarrassment prevented him from seeking immediate assistance, leading to his injuries."
+    ],
+    "answer": [
+        "I apologize for my previous response. After reviewing the summary word by word, I found that the information related to the core idea is not directly mentioned in the given text. The summary only mentions that Jin Pai, a 35-year-old passenger, was injured in the incident but does not provide specific details about how the accident occurred. Therefore, I must retract my earlier statement, and I apologize for any confusion caused.",
+        "No, the summary does not contain the core idea mentioned in the aspect. The summary only briefly mentions Jin Pai's accident and does not provide any details about the injuries he sustained or the situation leading to his hospitalization.",
+        "No, the summary does not contain the core idea mentioned in the aspect. The summary merely states that Jin Pai got injured after the toilet collapsed while he was standing on it, and his companions found him bleeding on the floor after he called for help. The aspect, however, provides additional information that Jin Pai was too embarrassed to shout for help because he broke the toilet in Hefei Xinqiao International Airport. This information highlights the role of Jin Pai's embarrassment in preventing him from seeking immediate assistance, which led to his injuries."
+    ],
+    "score": [
+        0,
+        0,
+        3
+    ],
+    "mean_score": 1.0,
+    "gt_score": 4.16666666665
+}

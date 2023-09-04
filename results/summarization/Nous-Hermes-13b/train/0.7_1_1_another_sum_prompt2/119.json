@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful .",
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful .",
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful .",
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful .",
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful ."
+    ],
+    "aspect": [
+        "1. SpaceX launched a Falcon 9 rocket with an uncrewed Dragon spacecraft to the ISS. ",
+        "2. The rocket's landing on a droneship was unsuccessful, but SpaceX will continue to try and land rockets at sea. ",
+        "3. SpaceX wants to reduce costs by reusing rockets like airplanes. ",
+        "4. The Dragon will deliver supplies and take back trash from the ISS. ",
+        "5. This is the sixth SpaceX mission to the ISS and the second attempt for this specific mission."
+    ],
+    "explain": [
+        "The core idea of the aspect is that SpaceX launched a Falcon 9 rocket with an uncrewed Dragon spacecraft to the ISS, which is the main focus of the news.",
+        "The given aspect highlights that despite being unsuccessful in landing the Falcon 9 rocket stage on its droneship, SpaceX will continue to try and land rockets at sea. This shows their determination and commitment to achieving their ultimate goal of making space travel more accessible and cost-effective by successfully recovering and reusing rocket stages.",
+        "\nSpaceX wants to reduce costs by reusing rockets like airplanes. They aim to be able to refurbish the rockets and send them back into space multiple times, rather than building new ones each time. This will help them reduce expenses in the long run and make space travel more affordable.",
+        "The aspect states that the Dragon cargo spacecraft will be delivering supplies to and carrying trash from the International Space Station during its upcoming mission.",
+        "The core idea of this aspect of the mission is that it is the second time SpaceX has attempted this particular mission to the ISS."
+    ],
+    "answer": [
+        "The summary does not contain the core idea. The core idea is mentioned in the aspect provided.",
+        "After analyzing the summary, it does not seem to explicitly convey the core idea of that specific aspect.",
+        "It depends on what you consider to be the core idea of the aspect mentioned. The summary does not explicitly mention the idea of reducing costs by reusing rockets like airplanes. However, the mention of SpaceX's unsuccessful attempt to land a rocket stage on a floating barge for the first time may be related to the company's broader goal of reducing costs and making space travel more affordable.",
+        "Yes. The summary mentions that the Dragon cargo spacecraft is delivering supplies and taking trash from the ISS. This is the core idea of the aspect.",
+        "It certainly seems like the information provided in the aspect does not overlap with the summary in any significant way. The summary focuses on the launch and the mission's objective, while the aspect focuses on its historical context as the second time this specific mission has been attempted."
+    ],
+    "score": [
+        0,
+        0,
+        3,
+        5,
+        2
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.6666666667
+}

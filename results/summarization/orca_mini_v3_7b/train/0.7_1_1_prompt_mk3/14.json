@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "mark clattenburg will take charge of the manchester derby on sunday . the english referee sent off vincent kompany for belgium against israel . tyler blackcett and luke shaw have also been sent off for united . clattenburg will be joined by assistants simon beck and jake collin . jonathan moss will serve as the fourth official at old trafford .",
+        "mark clattenburg will take charge of the manchester derby on sunday . the english referee sent off vincent kompany for belgium against israel . tyler blackcett and luke shaw have also been sent off for united . clattenburg will be joined by assistants simon beck and jake collin . jonathan moss will serve as the fourth official at old trafford .",
+        "mark clattenburg will take charge of the manchester derby on sunday . the english referee sent off vincent kompany for belgium against israel . tyler blackcett and luke shaw have also been sent off for united . clattenburg will be joined by assistants simon beck and jake collin . jonathan moss will serve as the fourth official at old trafford ."
+    ],
+    "aspect": [
+        "1. Referee Clattenburg appointed to Manchester derby, having sent off three players from United and City this season.",
+        "2. Clattenburg has courted controversy but generally regarded as one of the Premier League's leading referees.",
+        "3. The Manchester derby could determine the second-place finisher, with United winning their last five games and City struggling since January."
+    ],
+    "explain": [
+        "Referee Clattenburg is appointed to the Manchester derby, where he has already sent off three players from United and City this season.",
+        "Clattenburg, one of the Premier League's leading referees, has faced criticism but is known for his performances.",
+        "The Manchester derby, which involves Manchester United and Manchester City, might be crucial in determining the second-place finisher since United has been winning their recent games and City has struggled since January."
+    ],
+    "answer": [
+        "The summary contains the context of this sentence.",
+        "No, the summary does not convey the stated sentence's context.",
+        "The Manchester derby, which involves Manchester United and Manchester City, might be crucial in determining the second-place finisher since United has been winning their recent games and City has struggled since January."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.16666666665
+}

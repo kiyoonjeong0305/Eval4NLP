@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '"
+    ],
+    "aspect": [
+        "1. A masked man robbed a Christchurch dairy, stealing cash and a till.",
+        "2. The offender was very tall and wore a distinctive cartoon mask.",
+        "3. Police are seeking public assistance to identify the robber.",
+        "4. The incident occurred on Saturday at Union St dairy, Christchurch."
+    ],
+    "explain": [
+        "The given aspect provides a concise summary of an event that took place in Christchurch, New Zealand, where a dairy (a small convenience store) was robbed by a masked man. The offender was wearing a distinctive cartoon mask, and the incident occurred in a fluoro orange sweatshirt as well. The masked man is described as being \"very tall.\"\n\nOffer possible interpretations or explanations:\nThe purpose of this aspect is to help the public in identifying the perpetrator of the crime, particularly focusing on his distinctive mask and height. The police are appealing for assistance from the public to identify the individual and bring him to justice. This information may lead to vital clues or witness accounts that could assist in the investigation.",
+        "The core idea of this aspect is that the man who robbed the Christchurch Dairy wore a distinctive cartoon mask, which can potentially help identify him. His height was also very tall, which could have given him a noticeable presence during the crime.",
+        "To make the summary more concise and accurate.\n\nBased on the given summary and aspect, I will provide a more concise and accurate summary while focusing on the core idea of the aspect:\n\nSummary:\nNew Zealand Police are requesting assistance from the public to help identify a tall man who robbed a Christchurch dairy while wearing a distinctive cartoon mask. The criminal is visible on security camera footage, wearing a fluorescent orange sweatshirt and an oversized mask, and is believed to be \"very tall.\"",
+        "\n\nThe given aspect is mentioning the location of the incident, which is Union St dairy, Christchurch. This information could be useful in identifying the suspect as witnesses or store employees might have seen the man wearing the mask and sweatshirt during that specific time. Moreover, it can help the police to gather more information about the area and potential witnesses who were present near the location."
+    ],
+    "answer": [
+        "Yes, I apologize for the confusion. Upon reevaluating the summary, I understand that the core idea is indeed related to the masked man robbing a Christchurch dairy and stealing cash and a till. The aspect provided focuses on the relevant details of the incident: the use of a mask, the description of the offender's clothing, and their height. My previous response did not accurately reflect the core idea of the aspect.",
+        "Sorry, after reconsidering the summary, I made an error in my previous response. The core idea of the aspect is not explicitly mentioned in the summary. The aspect says that the offender was \"very tall,\" but there is no mention of his height in the summary. Therefore, the summary, as it stands, does not contain the core idea mentioned in the aspect.",
+        "Yes, the summary I provided contains the core idea of the given aspect, which is to request public assistance in identifying the robber. The summary is concise and accurate, focusing on the main details of the incident, including the description of the offender and the appeal for help from the public.",
+        "\nYes, the summary contains the core idea of the aspect. The aspect mentions the location of the incident, which is Union St dairy, Christchurch. This information is integral to understanding the case and could be useful in identifying the suspect."
+    ],
+    "score": [
+        4,
+        0,
+        5,
+        5
+    ],
+    "mean_score": 3.5,
+    "gt_score": 4.916666666675
+}

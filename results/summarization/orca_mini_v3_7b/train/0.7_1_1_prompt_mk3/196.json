@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface .",
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface .",
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface ."
+    ],
+    "aspect": [
+        "1. A landslide near Rausu on Hokkaido Island's Shiretoko Peninsula forced 1,000ft of seabed to the surface, exposing the coastline.",
+        "2. The emergence of the new stretch of land is believed to be a result of the landslide, which has risen 50ft above sea level.",
+        "3. Local residents were unaware of the land movement overnight, with no indication of the event."
+    ],
+    "explain": [
+        "A landslide near Rausu on Hokkaido Island's Shiretoko Peninsula raised a clump of land, which measures roughly 1,000-1,640 ft long and 100ft wide, exposing about 1,000ft of the seabed and the coastline, leading to the emergence of an extra stretch of land. This phenomenon is a result of the landslide, which has raised the mass as high as 50ft from the sea surface.",
+        "The emergence of the new stretch of land in Hokkaido, Japan is attributed to a nearby landslide, which has raised the land by 50 feet, providing a new coastline measure to be around 1,000-1,640 feet long and 100 feet wide.",
+        "Local residents were unaware of the land movement overnight, implying the event was not witnessed or noticed during their regular routines or observations, suggesting the change was abrupt or sudden."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the sentence, as it mentions the landslide raising the clump of land, its measurements, and exposing the coastline.",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

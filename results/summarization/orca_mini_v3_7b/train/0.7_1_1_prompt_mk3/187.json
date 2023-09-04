@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "fbi agent 's sniper was ripped out of his car 's window and stolen from a salt lake city hotel . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe . police believe the thief stole the rifle by breaking the rear right window . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel just days before president obama visited utah earlier the window frame of the agent 's car was pulled from the door .",
+        "fbi agent 's sniper was ripped out of his car 's window and stolen from a salt lake city hotel . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe . police believe the thief stole the rifle by breaking the rear right window . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel just days before president obama visited utah earlier the window frame of the agent 's car was pulled from the door .",
+        "fbi agent 's sniper was ripped out of his car 's window and stolen from a salt lake city hotel . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe . police believe the thief stole the rifle by breaking the rear right window . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel just days before president obama visited utah earlier the window frame of the agent 's car was pulled from the door ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot.",
+        "2. The rifle was secured properly, but still taken by a thief who broke the window.",
+        "3. The stolen rifle has not been recovered, and the thief's motive is unclear."
+    ],
+    "explain": [
+        "An FBI agent's expensive and high-powered sniper rifle was pilfered in broad daylight from a parking lot of a Salt Lake City hotel, causing concern for security in the area.",
+        "The secured rifle, despite its precautions, was still stolen by a thief who broke the window, showcasing the need for additional measures to prevent such thefts.",
+        "The stolen rifle is still missing, and the motive of the thief remains unknown."
+    ],
+    "answer": [
+        "Yes, the context of the sentence is conveyed in the summary.",
+        "Yes, the summary contains the context of the given sentence.",
+        "The rifle was stolen and there is no information about the thief's motive, so the rifle is still missing."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.91666666665
+}

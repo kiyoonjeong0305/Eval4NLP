@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour."
+    ],
+    "aspect": [
+        "1. 71-year-old Luigi Costa accused of viciously murdering his elderly neighbor Terrence Freebody in 2012.",
+        "2. Costa allegedly suffering from dementia and alcohol abuse at the time of the murder.",
+        "3. Professor Paul Mullen believes Costa's state of mind was deteriorating leading up to and during the incident."
+    ],
+    "explain": [
+        "71-year-old Luigi Costa is on trial for the alleged murder of his elderly neighbor, Terrence Freebody, in 2012, at their residential location in Red Hill, Canberra.",
+        "Luigi Costa, the accused, was allegedly suffering from dementia and alcohol abuse when the murder took place, suggesting possible mitigating factors in the trial's consideration.",
+        "Professor Paul Mullen suggests that Costa's mental state was worsening before and during the incident, leading to the alleged murder of his elderly neighbor."
+    ],
+    "answer": [
+        "Yes, the summary contains the content of your sentence.",
+        "No",
+        "No."
+    ],
+    "score": [
+        4,
+        1,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.66666666665
+}

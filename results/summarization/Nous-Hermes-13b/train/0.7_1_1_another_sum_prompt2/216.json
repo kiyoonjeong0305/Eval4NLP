@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "north pacific gray whale has earned a spot in the record books . the whale , named varvara , swam nearly 14,000 miles -lrb- 22,500 kilometers -rrb- . varvara 's journey surpassed a record listed on the guinness worlds records website . varvara visited `` three major breeding areas for eastern gray whales ''",
+        "north pacific gray whale has earned a spot in the record books . the whale , named varvara , swam nearly 14,000 miles -lrb- 22,500 kilometers -rrb- . varvara 's journey surpassed a record listed on the guinness worlds records website . varvara visited `` three major breeding areas for eastern gray whales ''",
+        "north pacific gray whale has earned a spot in the record books . the whale , named varvara , swam nearly 14,000 miles -lrb- 22,500 kilometers -rrb- . varvara 's journey surpassed a record listed on the guinness worlds records website . varvara visited `` three major breeding areas for eastern gray whales ''"
+    ],
+    "aspect": [
+        "1. Varvara, a North Pacific gray whale, set a record for the longest mammal migration ever recorded, swimming nearly 14,000 miles.",
+        "2. Varvara's journey surpassed the previous record of a humpback whale's 10,190-mile round trip journey.",
+        "3. Varvara's ability to navigate long distances suggests that some western gray whales might actually be eastern grays."
+    ],
+    "explain": [
+        "The aspect of the given summary states that Varvara, a North Pacific gray whale, set a record for the longest mammal migration ever recorded. This means that Varvara traveled an extraordinary distance of nearly 14,000 miles. This impressive journey surpassed a record listed on the Guinness World Records website. The whale visited \"three major breeding areas for eastern gray whales.\"",
+        "The aspect states that Varvara's journey surpassed the previous record of a humpback whale's 10,190-mile round trip journey, which means her journey was longer than that of a humpback whale and thus holds a considerable significance in the context of marine mammals.",
+        "According to the given aspect, the ability of Varvara - a North Pacific gray whale - to navigate long distances suggests that some of the Western gray whales might actually be Eastern gray whales. It implies that there could be a possibility of mixing of species due to their ability to travel long distances."
+    ],
+    "answer": [
+        "Yes, the aspect mentioned is the core idea of the summary and it is clearly presented in the summary.",
+        "I don't think the summary contains the core idea.",
+        "No, the summary does not contain the core idea of the given aspect."
+    ],
+    "score": [
+        5,
+        0,
+        0
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 4.5
+}

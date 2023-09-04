@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '"
+    ],
+    "aspect": [
+        "1. Ben Stokes' aggression in the team.",
+        "2. Need for careful man-management.",
+        "3. England wants him to bring runs and wickets.",
+        "4. Decision to play second spinner in Adil Rashid. ",
+        "5. England wants both Stokes and Jordan to play. ",
+        "6. Exciting prospect of them getting better."
+    ],
+    "explain": [
+        "Aspect: 1. Ben Stokes' aggression in the team. \n\nCore idea: The given aspect highlights the presence of Ben Stokes' aggressive nature within the team. Stokes is known for his aggressive style of play, both with the bat and the ball. This means that he shows a lot of energy and drive while playing, and is passionate about winning. Within the context of the team, this could mean that he encourages his teammates to be more competitive and not to give up easily, even in difficult situations. Overall, Stokes' aggression adds to the team's competitive edge and could be seen as a valuable asset.",
+        "Managing team members and recognizing their individual needs and personalities is essential to foster a positive and productive environment. Leaders must consider the feelings and concerns of each team member and take steps to ensure everyone feels valued and supported. Through careful man-management, leaders can prevent conflicts and promote cooperation among team members, ultimately resulting in a more successful and harmonious team.",
+        "The core idea of this aspect is that England wants Ben Stokes to perform well in the ongoing test match against West Indies. This means that they are counting on him to not only contribute with the bat but also with the ball, scoring runs and taking wickets. They are probably looking for him to be a key player in helping England win the match and the series.",
+        "The decision to play second spinner in Adil Rashid could have been taken because the team management wanted to strengthen the spin department in the match against Pakistan in the ongoing World Cup. The pitch at the Kensington Oval is known to assist spin and having an extra spinner in the team could have granted the team an additional tactical advantage. Moreover, Adil Rashid has been in good form in the tournament so far and the management would have been confident in his ability to contribute with the ball. Overall, the decision to play Adil Rashid as a second spinner could have been a strategic move to help the team perform better in the match against Pakistan.",
+        "England desires that both Ben Stokes and Chris Jordan participate in the upcoming Ashes series, as the team wants to take full advantage of their abilities.",
+        "One core idea of the \"Exciting prospect of them getting better\" aspect is the potential for the team to improve and become even better in the future, which can create anticipation and excitement for fans and supporters. This concept can be applied to any sports team, not just the specific example mentioned in the input, and can be a driving force behind continued fan engagement and interest in the team's success."
+    ],
+    "answer": [
+        "Aspect: 1. Ben Stokes' aggression in the team.",
+        "The given aspect does not appear in the summary.",
+        "While the summary may have some relevance to the aspect, it is not clear how the locker and Ben Stokes' nickname mentioned in the summary relate to England's expectations of him in the match. It seems like an unrelated piece of information.",
+        "It depends on the context in which the decision was made. If the decision to play Adil Rashid was made before the team left for the West Indies, then it would have been based on his performance in the tournament and expected conditions in the West Indies. However, if the decision was made after the team arrived in the West Indies and saw the pitch, then it would have been based on the current conditions and the need to strengthen the spin department. In either case, the core idea behind the decision to play Adil Rashid as a second spinner would have been to strengthen the spin department and give the team an additional tactical advantage.",
+        "No, the summary does not contain the core idea of the given aspect.",
+        "No, I do not think the summary contains the core idea of the aspect. It is unclear how the summary relates to the aspect or how the two concepts are connected."
+    ],
+    "score": [
+        4,
+        0,
+        1,
+        4,
+        0,
+        0
+    ],
+    "mean_score": 1.5,
+    "gt_score": 3.66666666665
+}

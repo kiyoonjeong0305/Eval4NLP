@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "FA chairman Greg Dyke wants to increase the number of home-grown players in club squads from eight to 12 . Graham Taylor , Glenn Hoddle , Kevin Keegan , Sven-Goran Eriksson and Steve McClaren have signed a letter addressed to Dyke .",
+        "FA chairman Greg Dyke wants to increase the number of home-grown players in club squads from eight to 12 . Graham Taylor , Glenn Hoddle , Kevin Keegan , Sven-Goran Eriksson and Steve McClaren have signed a letter addressed to Dyke .",
+        "FA chairman Greg Dyke wants to increase the number of home-grown players in club squads from eight to 12 . Graham Taylor , Glenn Hoddle , Kevin Keegan , Sven-Goran Eriksson and Steve McClaren have signed a letter addressed to Dyke ."
+    ],
+    "aspect": [
+        "1. Football Association chairman Greg Dyke seeks to increase minimum number of home-grown players in club squads from eight to 12, which faces opposition from the Premier League.",
+        "2. Former England managers warn against blocking Dyke's proposals as it risks England falling behind leading football nations.",
+        "3. The emergence of talented young players like Harry Kane suggests that England can still produce top young talent."
+    ],
+    "explain": [
+        "FA chairman Greg Dyke aims to implement a policy by increasing the minimum number of home-grown players in club squads from eight to 12.",
+        "The aspect argues that the proposals by FA chairman Dyke for increasing the number of home-grown players in club squads should not be opposed, as it risks England falling behind other advanced football nations.",
+        "The rise of young players like Harry Kane shows that England has the potential to consistently produce top talents."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.0
+}

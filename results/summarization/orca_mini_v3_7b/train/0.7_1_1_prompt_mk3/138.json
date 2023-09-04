@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance .",
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance .",
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance ."
+    ],
+    "aspect": [
+        "1. Arsenal manager Arsene Wenger doesn't know the reason for Alexis Sanchez's choice between Arsenal and Liverpool, but is glad he joined Arsenal.",
+        "2. Arsenal boss Arsene Wenger thinks Sanchez's quick adaptation to the team is a testament to his skills.",
+        "3. Wenger plays down rumors of Liverpool's interest in Raheem Sterling, focusing on how Brendan Rodgers has developed the team."
+    ],
+    "explain": [
+        "Arsenal manager Arsene Wenger is uncertain about why Alexis Sanchez chose Arsenal over Liverpool, but he is grateful for the Chilean forward's decision to join the team.",
+        "Wenger appreciates Sanchez's skills as evidenced by his quick adaptation to the team.",
+        "Wenger dismisses Liverpool's interest in Sterling and emphasizes Rodgers' positive influence on the team's development."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary contains the core idea of the sentence. Wenger appreciates Sanchez's skills as shown by his quick adaptation to the team.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.833333333325
+}

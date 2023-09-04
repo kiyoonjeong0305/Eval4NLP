@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region ."
+    ],
+    "aspect": [
+        "1. Fiery sunsets in Washington were caused by raging wildfires in Siberia. ",
+        "2. The fires were started by farmers burning grass in their fields. ",
+        "3. The smoke from the fires was carried across the Pacific Ocean and brought to the Pacific Northwest. ",
+        "4. The red sunsets were a result of smoke particles filtering out shorter wavelength colors from the sunlight. ",
+        "5. The intense colors were especially intense during sunrises and sunsets due to more atmosphere for light to travel through. ",
+        "6. As the smoke dissipates, air quality will improve and the fiery sunsets will lose their reddish hue."
+    ],
+    "explain": [
+        "The given aspect is highlighting the cause of \"fiery sunsets\" in Washington that were seen in the photographs taken by Tim Durkan. The aspect describes how these sunsets were caused by raging wildfires that occurred in Siberia, specifically started by farmers burning grass in their fields. The aspect connects the photographs of Tim Durkan with the incident in Siberia, mentioning how the fires in Siberia ultimately affected the skyline of Washington.",
+        "This aspect highlights that the fires in Siberia were started by farmers burning their fields.",
+        "The aspect states that the smoke from the fires set in Southeastern Siberia was carried across the Pacific Ocean by the winds and travelled to the Pacific Northwest. The smoke thus covered a vast distance and affected regions far away from the original source of the fires.",
+        "The core idea of this aspect is that the red sunsets that were captured in photographs were a result of smoke particles from the fires created by farmers in Siberia filtering out shorter wavelength colors from the sunlight. This caused the remaining longer wavelength colors, such as red and orange, to be more prominent in the sunset.",
+        "The core idea of this aspect is that the sun's light is refracted or bent as it passes through the Earth's atmosphere, which gives the sun's rays a reddish or orange hue during sunrises and sunsets. This is due to the scattering of shorter wavelengths of light, such as blue and green, by molecules and particles in the atmosphere, while longer wavelengths like red and orange are allowed to pass through. As a result, the sky appears reddish or orange during sunrise and sunset, giving the scenes a warm and vibrant appearance.",
+        "\nThe aspect states that as the smoke dissipates from the wildfires in Siberia, the air quality will improve, and the sunsets will lose their reddish hue. The fires that were started by farmers burning grass in their fields quickly grew out of control because of strong winds and spread throughout the region. The fires produced a large amount of smoke, which was carried by the winds and caused poor air quality. However, as the smoke clears, the air quality will become better, and the sunsets will lose their reddish color because the smoke will no longer be present in the atmosphere to scatter sunlight."
+    ],
+    "answer": [
+        "I agree that the core idea of the aspect is highlighting the cause of \"fiery sunsets\" in Washington that were seen in the photographs taken by Tim Durkan, which was the result of raging wildfires that occurred in Siberia.",
+        "No, the summary does not contain the core idea. The aspect explains that the fires were started by farmers burning their fields, while the summary is about aerial shots of the sunset warming the city's skyline and shared them on CNN iReport.",
+        "No, the summary does not contain the core idea. It only provides information about the photographs taken of the sunset and the source of the fires in Siberia. The aspect highlights the impact of the smoke from these fires on regions across the Pacific Northwest.",
+        "No, the summary does not contain the core idea of the aspect. The aspect explains the reason behind the red color of the sunsets, while the summary is about the photographer who captured the sunsets and shared them on CNN iReport.",
+        "Yes, the core idea of the aspect is present in the summary, which states that the fires started in Siberia due to farmers burning grass in their fields and quickly grew out of control due to strong winds. However, the summary also notes that Tim Durkan photographed aerial shots of the sunset warming the city's skyline and shared them on CNN iReport, which may indicate that the aspect of the intense colors of sunrise and sunset is not directly related to the main idea of the summary.",
+        "The aspect provided explains that as the smoke dissipates from the wildfires in Siberia, air quality will improve, and sunsets will lose their reddish hue. The fires that were started by farmers burning grass in their fields quickly grew out of control because of strong winds and spread throughout the region."
+    ],
+    "score": [
+        4,
+        0,
+        0,
+        0,
+        3,
+        5
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.33333333335
+}

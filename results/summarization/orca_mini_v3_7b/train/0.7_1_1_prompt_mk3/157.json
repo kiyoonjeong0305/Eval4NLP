@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .",
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .",
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother ."
+    ],
+    "aspect": [
+        "1. Two-year-old boy falls into cheetah exhibit at Cleveland Metroparks Zoo.",
+        "2. The boy was rescued by his parents and suffered minor bumps and bruises.",
+        "3. Cheetahs did not approach the boy or his parents while in the pit, and zoo officials plan to press child endangerment charges against the family."
+    ],
+    "explain": [
+        "A two-year-old boy fell into the cheetah exhibit at the Cleveland Metroparks Zoo, and his parents were able to pull him out unharmed. The zoo will press child endangering charges against the mother, as it appears she didn't keep a close enough watch on her son.",
+        "The 2-year-old boy was saved by his parents when he fell into the cheetah pit at the Cleveland Metroparks Zoo. Despite the cheetahs potentially nearing the child, the youngster only had minor injuries like bumps and bruises.\n\nRelate back to the summary and provide the complete aspect.\nSummary: boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .\nAspect: 2. The boy was rescued by his parents and suffered minor bumps and bruises.",
+        "In the incident at the Cleveland Metroparks Zoo, a 2-year-old boy slipped into the cheetah pit, but the cheetahs didn't harm him. The parents quickly pulled the child out before paramedics arrived. However, the zoo plans to press child endangerment charges against the child's mother for putting them in this situation."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the sentence you provided with a few minor adjustments.",
+        "Yes, the context of the given sentence is present in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

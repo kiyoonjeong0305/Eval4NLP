@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface .",
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface .",
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface ."
+    ],
+    "aspect": [
+        "1. 1,000ft seabed forced to the surface overnight in Hokkaido, Japan.",
+        "2. Landslip near Rausu caused by melting ice and snow.",
+        "3. New coastline measures 1,000-1,640ft long and 100ft wide; no further expansion expected."
+    ],
+    "explain": [
+        "An unprecedented phenomenon occurred in Hokkaido, Japan, when a 1,000-foot seabed was forced to the surface overnight, leading to the emergence of a clump of land that rose 30 to 50ft above sea level. Geologists attribute this event to a massive landslide in the area.",
+        "A landslide near Rausu is likely caused by melting ice and snow, which is responsible for the emergence of a clump of land on Hokkaido Island, Japan.",
+        "The newly formed clump of land in Hokkaido, Japan, measures 1,000-1,640ft long and 100ft wide, and its coastline has risen up to 50ft from the sea surface. The formation is believed to be a result of a landslide, and there is no further expected expansion."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary does not contain the context of that sentence.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

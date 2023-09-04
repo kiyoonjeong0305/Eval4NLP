@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "a young accountant fell down a 70ft cliff to his death when he ran from a taxi to avoid paying the fare . graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it .",
+        "a young accountant fell down a 70ft cliff to his death when he ran from a taxi to avoid paying the fare . graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it .",
+        "a young accountant fell down a 70ft cliff to his death when he ran from a taxi to avoid paying the fare . graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it ."
+    ],
+    "aspect": [
+        "1. A 23-year-old accountant, Jacob Phillips, died after falling down a 70ft cliff during a night out with friends in December. ",
+        "2. Phillips was trying to avoid paying the fare in a taxi and ran from the driver, causing him to plunge down the cliff. ",
+        "3. Graduate Phillips had worked for Pretty Green, a clothing label owned by Oasis star Liam Gallagher, and had studied accountancy at the University of Birmingham before his tragic death."
+    ],
+    "explain": [
+        "A 23-year-old accountant, Jacob Phillips, lost his life after jumping over a fence in the dark and falling down a 70ft cliff to avoid paying a $70 (£50) taxi fare. The incident occurred during a night out with friends in December.",
+        "Phillips tried to avoid paying the taxi fare, and out of haste, he accidentally slipped and fell down a 70ft cliff, resulting in his tragic death.",
+        "Jacob Phillips, a 23-year-old graduate in accounting from Birmingham University, had previously worked for Pretty Green, a clothing label owned by Oasis star Liam Gallagher. He sadly passed away when he plunged down a 70ft cliff in an attempt to avoid paying the fare of a taxi he caught home after a night out with friends during December, not having enough cash at that time."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of that specific sentence.",
+        "Yes",
+        "Yes, the summary does contain the context of the sentence provided."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.833333333325
+}

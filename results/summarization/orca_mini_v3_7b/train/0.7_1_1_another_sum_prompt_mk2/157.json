@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .",
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .",
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother ."
+    ],
+    "aspect": [
+        "1. A two-year-old boy fell into a cheetah exhibit at Cleveland Metroparks Zoo after his parents dangled him over the edge.",
+        "2. The toddler was rescued by his parents before firefighters and paramedics arrived, suffering from minor bumps and bruises and listed in stable condition.",
+        "3. The zoo plans to press child endangering charges against the family."
+    ],
+    "explain": [
+        "At Cleveland Metroparks Zoo, a two-year-old boy fell into a cheetah exhibit after his parents were dangling him over the edge; this incident raised child endangering charges against the mother.",
+        "The 2-year-old boy accidentally fell into a cheetah pit at the Cleveland Metroparks Zoo and was rescued by his parents, both unharmed but with minor injuries. The zoo plans to hold the mother accountable for child endangering.",
+        "The zoo is taking legal action by charging the child's mother with child endangering, as this incident puts the child at risk."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "No, it doesn't.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.75
+}

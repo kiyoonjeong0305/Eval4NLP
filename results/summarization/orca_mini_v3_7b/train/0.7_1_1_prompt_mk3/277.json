@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions ."
+    ],
+    "aspect": [
+        "1. Argentinian midfielder Esteban Cambiasso states that keeping Leicester City in the Premier League would be an achievement like winning a trophy.",
+        "2. Cambiasso has won multiple cups during his impressive career, including the 2010 FIFA Club World Cup.",
+        "3. Cambiasso is confident in Leicester's chances to win matches and save themselves from relegation, despite their current seven-point deficit."
+    ],
+    "explain": [
+        "Argentinian midfielder Esteban Cambiasso sees winning a trophy equal in achievement to keeping Leicester City in the Premier League, highlighting the respect and prestige associated with this accomplishment.",
+        "Esteban Cambiasso, a midfielder, has won multiple cups throughout his career, including the 2010 FIFA Club World Cup.",
+        "Esteban Cambiasso, an Argentinian midfielder, believes that Leicester City has an excellent chance to win more games and avoid relegation, even though they are seven points behind in the Premier League standings."
+    ],
+    "answer": [
+        "No, the summary does not contain the exact context of the sentence provided.",
+        "Yes",
+        "No, the summary does not contain the full context of the provided sentence."
+    ],
+    "score": [
+        1,
+        4,
+        2
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 2.333333333325
+}

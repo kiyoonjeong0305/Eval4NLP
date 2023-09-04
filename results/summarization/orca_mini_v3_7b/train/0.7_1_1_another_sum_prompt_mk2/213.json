@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a 'distinctive' cartoon mask . the offender, snapped on security footage in a fluoro orange sweatshirt and oversized mask, is described as being 'very tall' he made off with the dairy's till and about $1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a 'distinctive' cartoon mask . the offender, snapped on security footage in a fluoro orange sweatshirt and oversized mask, is described as being 'very tall' he made off with the dairy's till and about $1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a 'distinctive' cartoon mask . the offender, snapped on security footage in a fluoro orange sweatshirt and oversized mask, is described as being 'very tall' he made off with the dairy's till and about $1500 in cash on saturday ."
+    ],
+    "aspect": [
+        "1. A man in a distinctive cartoon mask robbed a Christchurch dairy, making off with $1500.",
+        "2. The offender is described as very tall and was wearing a fluoro orange sweatshirt and oversized mask.",
+        "3. Police are seeking help from the public to identify the man responsible for the robbery."
+    ],
+    "explain": [
+        "A man wearing a cartoon mask robbed a dairy in Christchurch, taking away $1500.",
+        "The offender in the robbery of a Christchurch dairy is described as very tall and was wearing a fluoro orange sweatshirt and oversized mask.",
+        "Police are requesting the public's assistance to identify the individual involved in the robbery."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.666666666675
+}

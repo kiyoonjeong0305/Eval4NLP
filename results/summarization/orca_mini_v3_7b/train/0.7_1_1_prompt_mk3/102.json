@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Heritage Auctions offered the gray jacket and skirt , featuring a black zigzag applique , plus more than 150 other items from the Academy Award-winning film at auction on Saturday . The dress - a jacket and full skirt ensemble - was worn in several key scenes in the 1939 movie but has suffered a little with age and has faded to light gray .",
+        "Heritage Auctions offered the gray jacket and skirt , featuring a black zigzag applique , plus more than 150 other items from the Academy Award-winning film at auction on Saturday . The dress - a jacket and full skirt ensemble - was worn in several key scenes in the 1939 movie but has suffered a little with age and has faded to light gray .",
+        "Heritage Auctions offered the gray jacket and skirt , featuring a black zigzag applique , plus more than 150 other items from the Academy Award-winning film at auction on Saturday . The dress - a jacket and full skirt ensemble - was worn in several key scenes in the 1939 movie but has suffered a little with age and has faded to light gray ."
+    ],
+    "aspect": [
+        "1. Vivien Leigh's Scarlett O'Hara dress from Gone With the Wind, featuring a black zigzag applique, fetched $137,000 at auction, worn in key scenes.",
+        "2. James Tumblin's 300,000-piece Hollywood memorabilia collection highlights the dress's history.",
+        "3. Other notable items include a straw hat sold for $52,500, Clark Gable's Rhett Butler suit for $55,000, and a black bonnet worn by Vivien Leigh and Olivia De Havilland, selling for $30,000."
+    ],
+    "explain": [
+        "Vivien Leigh's Scarlett O'Hara dress from the movie Gone With the Wind, featuring a black zigzag applique, sold at auction for $137,000, making it a notable item in the collection highlighted in the mentioned auction.",
+        "James Tumblin's extensive Hollywood memorabilia collection features the dress, showcasing its historical significance, worn in the iconic 1939 movie which earned an Academy Award.",
+        "The aspect mentions significant other items sold at the auction, including a straw hat sold for $52,500, Clark Gable's Rhett Butler suit for $55,000, and a black bonnet worn by Vivien Leigh and Olivia De Havilland, selling for $30,000."
+    ],
+    "answer": [
+        "Yes, the summary contains the core idea of the sentence.",
+        "Yes, the context of this sentence can be found in the summary where it is mentioned that the dress was part of Heritage Auctions' auction and has been featured in James Tumblin's Hollywood memorabilia collection with a description focusing on its historical importance from the 1939 movie.",
+        "The summary provides information about the sale of the jacket and skirt, but the aspect contains the context of the significant other items sold at the auction."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.0
+}

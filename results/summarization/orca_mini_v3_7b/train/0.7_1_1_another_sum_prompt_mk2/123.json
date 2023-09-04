@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "first blood to united after their under 18s saw off city 1-0 in the ` mini-derby ' . kits aside , this was probably as far removed from sunday 's big match as you could imagine . for a start , no less than 13 out of the 22 players on show at kick-off were english .",
+        "first blood to united after their under 18s saw off city 1-0 in the ` mini-derby ' . kits aside , this was probably as far removed from sunday 's big match as you could imagine . for a start , no less than 13 out of the 22 players on show at kick-off were english .",
+        "first blood to united after their under 18s saw off city 1-0 in the ` mini-derby ' . kits aside , this was probably as far removed from sunday 's big match as you could imagine . for a start , no less than 13 out of the 22 players on show at kick-off were english ."
+    ],
+    "aspect": [
+        "1. United's Under 18s beat City 1-0 in a 'mini-derby' with 13 English players from both sides.",
+        "2. Young Reds coach Paul McGuinness's strategy of using a more advanced formation paid off.",
+        "3. The match showcased talents from both sides, potentially deserving of first-team opportunities."
+    ],
+    "explain": [
+        "In a 'mini-derby' between United's Under 18s and City, United's younger team won 1-0, featuring 13 English players from both sides. Despite the rivalry between the two teams, this game was relatively low-key compared to their recent big match.",
+        "Aspect 2 suggests that in the match described, the Young Reds' coach Paul McGuinness's decision to use a more advanced formation succeeded in achieving positive results on the field. This can be inferred from the fact that his team won the match, with a score of 1-0 against the City team.",
+        "The match included talented players from both teams who could potentially earn first-team opportunities."
+    ],
+    "answer": [
+        "Yes, the summary contains the core idea of the sentence.",
+        "Yes, the summary contains the context of the given sentence, which highlights that the Young Reds' advanced formation, implemented by their coach Paul McGuinness, delivered a favourable result in the match.",
+        "No, the summary does not directly contain the context of the given aspect. It mainly focuses on the composition of the players and the differences between the matches."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 3.916666666675
+}

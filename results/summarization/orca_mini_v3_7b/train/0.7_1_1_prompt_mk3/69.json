@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "thierry henry has criticised arsenal 's recent dealings in the transfer window . the frenchman believes arsenal need to buy four players in the summer . sky sports pundit thierry henry questioned whether arsenal can win the title .",
+        "thierry henry has criticised arsenal 's recent dealings in the transfer window . the frenchman believes arsenal need to buy four players in the summer . sky sports pundit thierry henry questioned whether arsenal can win the title .",
+        "thierry henry has criticised arsenal 's recent dealings in the transfer window . the frenchman believes arsenal need to buy four players in the summer . sky sports pundit thierry henry questioned whether arsenal can win the title ."
+    ],
+    "aspect": [
+        "1. Thierry Henry criticizes Arsenal's recent transfers, suggesting they need a goalkeeper, centre back, defensive midfielder, and striker to compete for the title.",
+        "2. Henry questions whether Olivier Giroud is enough for Arsenal to win the league, suggesting they need a top-quality striker.",
+        "3. Arsenal needs to sign players of similar caliber to Chelsea's recent acquisitions to have a chance at the title, according to Henry."
+    ],
+    "explain": [
+        "Thierry Henry believes Arsenal needs to sign a goalkeeper, a centre back, a defensive midfielder, and a striker to strengthen their team and be competitive in the title race.",
+        "Thierry Henry suggests that Arsenal need to buy four players, including a top-quality striker, to compete and win the league, since Olivier Giroud might not be enough.",
+        "In order for Arsenal to have a chance at the title, they need to sign players of a similar caliber to Chelsea's recent acquisitions, as stated by Henry."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "Yes, the summary does contain the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.66666666665
+}

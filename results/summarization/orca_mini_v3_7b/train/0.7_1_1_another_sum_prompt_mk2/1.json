@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person."
+    ],
+    "aspect": [
+        "1. Becky Schoenig of St. Louis, Missouri had her 2015 Ford Fusion stolen but got it back with new red rims and detailing.",
+        "2. Schoenig responded positively to the alterations and thanked the thieves, opening a smoothie at her restaurant called \"The Sexton on Wheels\" in honor of the man who returned her car to her.",
+        "3. Schoenig's friend Marlene Trice describes her as \"vibrant and happy\" and \"a very special person who loves making people laugh.\""
+    ],
+    "explain": [
+        "Becky Schoenig's car was stolen, but she got it back with new red rims and detailing.",
+        "Becky Schoenig had her car stolen, but it was returned to her after alterations were made. Despite the damage, she reacted positively, thanked the thieves, and even opened her restaurant in their honor. The core idea here is Schoenig's generous and accepting attitude towards the situation.",
+        "Becky Schoenig's car was stolen on April 1st, and the rims and steering wheel were damaged. Although her car was found the next day, the damage shows the theft was malicious. Marlene Trice, however, praises Schoenig as a \"vibrant and happy\" person who loves to make others laugh. This showcases Schoenig's positive and caring nature, even in the face of such a theft."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of the given sentence.",
+        "The summary is missing the context of the provided sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.666666666675
+}

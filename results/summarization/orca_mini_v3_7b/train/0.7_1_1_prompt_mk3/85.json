@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31-year-old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first .",
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31-year-old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first .",
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31-year-old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first ."
+    ],
+    "aspect": [
+        "1. Carlos Tevez wants to leave Juventus and return to Boca Juniors.",
+        "2. Boca Juniors close to completing a deal for Tevez, who has scored 17 goals in Serie A this season.",
+        "3. Juventus have already started identifying potential replacements for Tevez, who joined the club in 2009."
+    ],
+    "explain": [
+        "Carlos Tevez, a former Manchester City striker, is seeking to leave Italian club Juventus and return to his former team Boca Juniors in Argentina.",
+        "Boca Juniors are nearing the signing of Carlos Tevez, who has had a strong performance this season in Serie A with 17 goals.",
+        "Juventus have begun looking for replacements in case Tevez leaves before next season, indicating their intention to resume his role following the completion of the transfer to Boca Juniors."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the given sentence.",
+        "Yes, the given aspect context is present in the summary.\n\nYou're right, the aspect does contain context from the summary, but it is presented differently. The summary has the aspect structured like a question, and it should be more like a statement: Boca Juniors is close to completing a deal for Tevez, who has scored 17 goals in Serie A this season.",
+        "No, the context isn't in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.66666666665
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "John Peacock has named his squad for next month 's UEFA European Under-17 Championship . The Young Lions are the defending champions , having beaten Holland on penalties in the final last year . They have been placed in Group D alongside Holland , Italy and the Republic of Ireland .",
+        "John Peacock has named his squad for next month 's UEFA European Under-17 Championship . The Young Lions are the defending champions , having beaten Holland on penalties in the final last year . They have been placed in Group D alongside Holland , Italy and the Republic of Ireland .",
+        "John Peacock has named his squad for next month 's UEFA European Under-17 Championship . The Young Lions are the defending champions , having beaten Holland on penalties in the final last year . They have been placed in Group D alongside Holland , Italy and the Republic of Ireland ."
+    ],
+    "aspect": [
+        "1. England Under-17 coach John Peacock names squad for UEFA European Championship in Bulgaria, including Chelsea's Jay Dasilva and Arsenal's Chris Willock.",
+        "2. Young Lions aiming for consecutive championship title and will face Italy, Holland, and the Republic of Ireland in Group D.",
+        "3. High-profile players from Premier League clubs like Chelsea, Arsenal, Liverpool, and Everton compose the team."
+    ],
+    "explain": [
+        "England Under-17 coach John Peacock has selected his squad for the upcoming UEFA European Under-17 Championship, featuring notable players such as Jay Dasilva from Chelsea and Chris Willock from Arsenal. The Championship will be held in Bulgaria, with England's group consisting of Holland, Italy, and the Republic of Ireland.",
+        "The Young Lions are aiming for consecutive championship title as defending champions, and they are placed in Group D with Italy, Holland, and the Republic of Ireland.",
+        "The fact that the team is composed of high-profile players from Premier League clubs like Chelsea, Arsenal, Liverpool, and Everton implies that the team has a strong lineup, possibly making them a contender for the title."
+    ],
+    "answer": [
+        "The given sentence is a clear representation of the context provided in the summary. John Peacock announces the England Under-17 team's squad, featuring notable players from Chelsea and Arsenal, for the upcoming UEFA European Under-17 Championship in Bulgaria, with the team's group including Holland, Italy, and the Republic of Ireland.\n\nHow can it be simplified without losing its meaning:\nJohn Peacock, England Under-17 coach, selected his squad for the upcoming European Under-17 Championship in Bulgaria - featuring notable players Jay Dasilva from Chelsea and Chris Willock from Arsenal. The group consisting of England, Holland, Italy, and Republic of Ireland.",
+        "Yes, the summary does contain part of the context of this sentence.",
+        "Yes, the context of the given sentence can be found within the summary, as it mentions that the Young Lions include high-profile players from Premier League clubs."
+    ],
+    "score": [
+        4,
+        3,
+        4
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 4.83333333335
+}

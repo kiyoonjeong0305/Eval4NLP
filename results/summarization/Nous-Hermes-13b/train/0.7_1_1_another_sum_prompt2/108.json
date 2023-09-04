@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance . luis suarez opened the scoring for barcelona after just one minute against high-flying valencia .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance . luis suarez opened the scoring for barcelona after just one minute against high-flying valencia .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance . luis suarez opened the scoring for barcelona after just one minute against high-flying valencia .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance . luis suarez opened the scoring for barcelona after just one minute against high-flying valencia .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance . luis suarez opened the scoring for barcelona after just one minute against high-flying valencia .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance . luis suarez opened the scoring for barcelona after just one minute against high-flying valencia .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance . luis suarez opened the scoring for barcelona after just one minute against high-flying valencia ."
+    ],
+    "aspect": [
+        "1. Barcelona club president Josep Maria Bartomeu has stated that the La Liga leaders have no plans to replace manager Luis Enrique. ",
+        "2. Enrique, who only took charge of the club last summer, is six games away from winning the title. ",
+        "3. Bartomeu is impressed with Enrique's performance and says the club is \"very happy\" with him. ",
+        "4. There is no plans to discuss Enrique's contract in the future. ",
+        "5. Enrique is focused on La Liga and his team. ",
+        "6. Bartomeu sees Enrique working hard on preparing for the game against Valencia. ",
+        "7. Barca is one of the few clubs in the world capable of winning three trophies."
+    ],
+    "explain": [
+        "One core idea of given aspect is that Barcelona club president Josep Maria Bartomeu has stated that the La Liga leaders have no plans to replace manager Luis Enrique. This means that the club is satisfied with Luis Enrique's performance and sees no need to replace him.",
+        "The aspect highlights the recent success of Barcelona's head coach Luis Enrique, who has only been in charge for a year. In just six games, he could potentially secure the league title for the team, signifying that he has made a significant impact since taking over the team.",
+        "The given aspect states that Josep Maria Bartomeu, the president of Barcelona football club, is impressed with the performance of Luis Enrique and is 'very happy' with his work. This statement suggests that Bartomeu and the rest of the club's management are satisfied with Enrique's coaching abilities and leadership. They have no plans to replace him in the foreseeable future.",
+        "The core idea of this aspect of the summary is that Bartomeu stated that Barcelona has no plans to replace Luis Enrique and they are very happy with his performance. Therefore, they do not plan on discussing his contract in the future.",
+        "The aspect states that Enrique is focused on La Liga and his team. This means that he is dedicated to achieving success in the league and is fully committed to his team, investing all of his time and energy into guiding them towards their goals. \n \nDescribe how this idea relates to the summary.\nThe idea of Enrique being focused on La Liga and his team supports the idea that the club is happy with his performance. By being fully invested in the league and his team, Enrique is able to make strategic decisions and implement effective tactics, leading to success on the field and the club's satisfaction. \n \nExplain how this idea relates to the aspect given.\nThe aspect and the summary are consistent in conveying the idea that Enrique is valued by the club for his dedication to La Liga and his team. The club's happiness with his performance is a direct result of his focus and commitment, which translates into success on the field. \n \nIn conclusion, the aspect highlights Enrique's dedication to La Liga and his team, which is a key factor in the club's satisfaction with his performance.",
+        "The core idea of the given aspect is that Barcelona's president, Josep Maria Bartomeu, mentioned in a conference that the club is \"very happy\" with head coach Luis Enrique's performance and there are no plans to replace him. He also mentioned that Enrique worked hard in preparing for the game against Valencia.",
+        "The given aspect states that Barcelona is one of the few clubs in the world capable of winning three trophies. This means that the club is exceptional and has achieved a rare feat in the world of football, where winning multiple trophies in a single season is a challenging and rare accomplishment. By achieving this, Barcelona has proven itself as a dominant force in the sport."
+    ],
+    "answer": [
+        "It is not clear from the summary whether it contains the core idea or not. The summary only mentions that Barcelona president Josep Maria Bartomeu is happy with Luis Enrique's performance and does not directly mention the club's plans to replace the manager.",
+        "The aspect highlights the recent success of Barcelona's head coach Luis Enrique, who has only been in charge for a year. In just six games, he could potentially secure the league title for the team, signifying that he has made a significant impact since taking over the team.",
+        "While a nod towards Bartomeu's impression of Enrique's performance is present in the summary, it is not the core idea. The aspect, however, explicitly states that Bartomeu is impressed with Enrique's performance and is happy with him.",
+        "Yes No",
+        "No, the summary does not contain the core idea of the aspect. The aspect states that Enrique is focused on La Liga and his team, whereas the summary only mentions that the club is happy with him. The connection between Enrique's focus and the club's satisfaction is not explicitly stated in the summary.",
+        "The aspect does not contain a core idea related to the summary. It only mentions a statement made by the president regarding Luis Enrique's performance and the team's happiness with his work, but it does not refer to any plans for replacing him.",
+        "No, the summary does not contain the core idea of the given aspect. The aspect discusses Barcelona's ability to win multiple trophies, while the summary is about the club's president stating that they are happy with their current coach and have no plans to replace him."
+    ],
+    "score": [
+        2,
+        5,
+        4,
+        5,
+        1,
+        4,
+        0
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.75
+}

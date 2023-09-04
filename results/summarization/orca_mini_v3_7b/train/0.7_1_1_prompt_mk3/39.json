@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bereaved mother , named dawn , was appearing on jeremy kyle show and accused burglar jamie . when one of mr kyle 's famous lie detector tests revealed she burst into tears and stormed off . the drama began when dawn , who has previously appeared on the itv talk show . suspecting house-mate jamie and his girlfriend carol confronted them but was initially met with a flat denial .",
+        "bereaved mother , named dawn , was appearing on jeremy kyle show and accused burglar jamie . when one of mr kyle 's famous lie detector tests revealed she burst into tears and stormed off . the drama began when dawn , who has previously appeared on the itv talk show . suspecting house-mate jamie and his girlfriend carol confronted them but was initially met with a flat denial .",
+        "bereaved mother , named dawn , was appearing on jeremy kyle show and accused burglar jamie . when one of mr kyle 's famous lie detector tests revealed she burst into tears and stormed off . the drama began when dawn , who has previously appeared on the itv talk show . suspecting house-mate jamie and his girlfriend carol confronted them but was initially met with a flat denial ."
+    ],
+    "aspect": [
+        "1. A woman with seven miscarriages, Dawn, accused friend and convicted burglar Jamie of stealing money meant for her babies' grave stone;",
+        "2. Dawn discovered the theft and confronted Jamie and his girlfriend, but couldn't prove it;",
+        "3. A lie detector test revealed that Jamie was lying, and he admitted to stealing the money, blaming his girlfriend Carol."
+    ],
+    "explain": [
+        "Dawn, a woman with a tragic history of seven miscarriages, accuses her friend and convicted burglar Jamie of stealing money intended for her children's grave stones.",
+        "Dawn, the bereaved mother, suspects Jamie and his girlfriend Carol of theft. Though she confronts them, she can't provide concrete evidence, leading to an emotional breakdown on the Jeremy Kyle show.",
+        "After a lie detector test, Jamie admitted to stealing money and blaming Carol, his girlfriend, for the theft."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the sentence about Dawn's miscarriages.",
+        "Yes",
+        "No"
+    ],
+    "score": [
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 3.333333333325
+}

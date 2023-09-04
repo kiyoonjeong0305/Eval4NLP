@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday , stuff.co.nz reports .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday , stuff.co.nz reports .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday , stuff.co.nz reports ."
+    ],
+    "aspect": [
+        "1. A man in a 'distinctive' cartoon mask robbed a Christchurch dairy, taking about $1500 in cash.",
+        "2. Police appeal to public for help identifying the offender; no weapons were used.",
+        "3. The incident is unusual as the robber demanded cash from the owner's daughter, scaring her."
+    ],
+    "explain": [
+        "A man dressed in a fluoro orange sweatshirt and a distinctive cartoon mask carried out a robbery in a Christchurch dairy, making off with the till and approximately $1500 in cash.",
+        "Police urge citizens to assist in recognizing the offender, who stole from a shop without utilizing weapons.",
+        "The robber's unusual demand for cash from the owner's daughter caused her to become scared during the incident, making it an uncommon event."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence, describing the robbery and the man's attire in the cartoon mask. \n\nBased on the summary, how did the police describe the man in the cartoon mask who robbed the dairy? Police described the man as very tall and in a fluoro orange sweatshirt and a 'distinctive' cartoon mask. \n\nBased on the aspect, how did the police describe the man in the cartoon mask who robbed the dairy? The man was described as being 'very tall' and was dressed in a fluoro orange sweatshirt and a distinctive cute cartoon mask, according to the aspect.",
+        "Yes, the summary contains the context of the core idea provided.",
+        "No, the summary does not clearly represent the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.75
+}

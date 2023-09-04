@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "steve bruce is confident he can keep hull city in the premier league this season . hull were beaten 2-0 by southampton on saturday and are just two points clear of the drop zone . mohamed diame returned from five months out and james chester from three ."
+    ],
+    "aspect": [
+        "Steve Bruce aims to keep Hull City in the Premier League, Hull struggles with long-term injuries to key players, and Southampton defeated Hull in a 2-0 match."
+    ],
+    "explain": [
+        "Steve Bruce wants Hull City to stay in the Premier League despite their recent 2-0 loss to Southampton where key players Mohamed Diame and James Chester returned from injuries.\n\nAlternatively, write a simple question to test understanding of the aspect:\nQuestion: How does Bruce's aim to keep Hull City in the Premier League relate to their recent match against Southampton, where key players Diame and Chester returned from injury?"
+    ],
+    "answer": [
+        "Bruce's aim to keep Hull City in the Premier League relates to their recent match against Southampton, where key players Diame and Chester returned from injuries, as shown by their 2-0 loss."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.083333333325
+}

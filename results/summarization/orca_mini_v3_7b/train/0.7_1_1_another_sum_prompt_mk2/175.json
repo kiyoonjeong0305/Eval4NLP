@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "space lasers : dr adrian quarterman has suggested space lasers could be used to power homes in the future - but says the beams will be nowhere near as powerful as imagined in films like star wars -lrb- pictured -rrb- . dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy , the times reported . the energy it then creates , using semi-conductors , can be shot back down to earth .",
+        "space lasers : dr adrian quarterman has suggested space lasers could be used to power homes in the future - but says the beams will be nowhere near as powerful as imagined in films like star wars -lrb- pictured -rrb- . dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy , the times reported . the energy it then creates , using semi-conductors , can be shot back down to earth .",
+        "space lasers : dr adrian quarterman has suggested space lasers could be used to power homes in the future - but says the beams will be nowhere near as powerful as imagined in films like star wars -lrb- pictured -rrb- . dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy , the times reported . the energy it then creates , using semi-conductors , can be shot back down to earth ."
+    ],
+    "aspect": [
+        "1. Dr. Adrian Quarterman suggests using space lasers for energy in the future.",
+        "2. Initial trials in Scotland were successful, but Quarterman aims to move to Portugal for further testing.",
+        "3. Lasers won't be as powerful as in movies, and Quarterman acknowledges the potential concerns about control."
+    ],
+    "explain": [
+        "Dr. Adrian Quarterman proposes utilizing space lasers for home energy purposes in the future, although he clarifies that the beams in question will not possess the immense power depicted in movies like Star Wars. His research focuses on creating a laser that converts sunlight into energy, ultimately utilizing semi-conductors to distribute the generated power back down to Earth.",
+        "Quarterman's solar energy laser project showed promising initial results in Scotland, leading him to consider expanding the testing to Portugal.",
+        "Laser technology will be powerful enough to generate energy and used to power homes as suggested by Dr. Adrian Quarterman, but it won't be as intense or advanced as depicted in movies like Star Wars. Dr. Quarterman also recognizes the need for proper control and regulation in practical applications."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the provided sentence.",
+        "No.",
+        "Yes, the summary contains the core idea of the aspect mentioned above."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.16666666665
+}

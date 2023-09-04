@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "aaron siler , 26 , was fatally shot after he ` armed himself with a weapon ' after being confronted by officer pablo torres on march 14 . torres is currently on leave pending the outcome of the investigation into the deadly shooting . in the meantime a billboard , paid for by the kenosha professional police association .",
+        "aaron siler , 26 , was fatally shot after he ` armed himself with a weapon ' after being confronted by officer pablo torres on march 14 . torres is currently on leave pending the outcome of the investigation into the deadly shooting . in the meantime a billboard , paid for by the kenosha professional police association .",
+        "aaron siler , 26 , was fatally shot after he ` armed himself with a weapon ' after being confronted by officer pablo torres on march 14 . torres is currently on leave pending the outcome of the investigation into the deadly shooting . in the meantime a billboard , paid for by the kenosha professional police association ."
+    ],
+    "aspect": [
+        "1. Family and friends of Aaron Siler in shock after a billboard featuring the officer who shot him, Pablo Torres, was erected in Kenosha, Wisconsin.",
+        "2. Siler was fatally shot by Torres after 'arming himself with a weapon' during a confrontation on March 14.",
+        "3. Kenosha Professional Police Association claims the billboard was meant to thank the community for its support and no offense was intended."
+    ],
+    "explain": [
+        "The aspect brings attention to the reactions of Aaron Siler's family and friends after a billboard featuring the officer responsible for the shooting, Pablo Torres, was erected in Kenosha, Wisconsin.",
+        "Aaron Siler was fatally shot by Officer Pablo Torres following a confrontation on March 14, where Siler armed himself with a weapon.",
+        "The Kenosha Professional Police Association states that the billboard was meant to appreciate the community's support and no offense was intended."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes",
+        "The summary does not contain the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.5
+}

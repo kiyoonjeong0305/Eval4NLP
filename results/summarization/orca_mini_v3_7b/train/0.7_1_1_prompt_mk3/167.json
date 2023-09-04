@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "becky schoenig was shocked when her stolen car was located monday night , just a little over a month after she took the car home . then , on april 1 , schoenig was shocked to learn that police had found her car after receiving a tip from a man who recognized the vehicle as schoenig 's and would be returning it to her - but with a few minor changes . the sexton on wheels will feature banana , pineapple , peach and coconut cream .",
+        "becky schoenig was shocked when her stolen car was located monday night , just a little over a month after she took the car home . then , on april 1 , schoenig was shocked to learn that police had found her car after receiving a tip from a man who recognized the vehicle as schoenig 's and would be returning it to her - but with a few minor changes . the sexton on wheels will feature banana , pineapple , peach and coconut cream .",
+        "becky schoenig was shocked when her stolen car was located monday night , just a little over a month after she took the car home . then , on april 1 , schoenig was shocked to learn that police had found her car after receiving a tip from a man who recognized the vehicle as schoenig 's and would be returning it to her - but with a few minor changes . the sexton on wheels will feature banana , pineapple , peach and coconut cream ."
+    ],
+    "aspect": [
+        "1. Becky Schoenig's car stolen, found with custom modifications and red rims.",
+        "2. Schoenig thanked car thieves for customization, creating special smoothie at her restaurant.",
+        "3. Schoenig, described as vibrant and happy, honors Mick Sexton for locating her car."
+    ],
+    "explain": [
+        "Becky Schoenig's car, which was stolen a month ago, was found by the police with custom modifications such as tropical flavor designs and red rims.",
+        "Schoenig expressed gratitude towards the car thieves who customized her vehicle by adding fruits and creams, as she decided to pay tribute to their creativity by creating a special smoothie at her restaurant.",
+        "Becky Schoenig, after learning her stolen car was found, shows her gratitude to Mick Sexton by honoring him as a core idea of the given aspect."
+    ],
+    "answer": [
+        "No",
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary does not contain the context of the sentence as mentioned above, which suggests that the aspect does not correctly convey the whole context of the situation. The aspect should better be written as: \"Becky Schoenig honors Mick Sexton for locating her stolen car after it was returned to her, featuring a unique and refreshing ice cream flavor called the 'Sexton on Wheels'.\""
+    ],
+    "score": [
+        1,
+        4,
+        2
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.083333333325
+}

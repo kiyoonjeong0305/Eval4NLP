@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Terry's strong challenge on Falcao was a foul and should not have been punished. The full story can be read here.",
+        "Terry's strong challenge on Falcao was a foul and should not have been punished. The full story can be read here.",
+        "Terry's strong challenge on Falcao was a foul and should not have been punished. The full story can be read here."
+    ],
+    "aspect": [
+        "1. Chelsea forward Eden Hazard scored a goal; ",
+        "2. A foul was suspected in the build-up; ",
+        "3. The pundits agreed that the play should have been stopped for Terry's rough tackle on Falcao."
+    ],
+    "explain": [
+        "Eden Hazard from Chelsea scored a goal in a match, which is unrelated to the incident involving Falcao and Terry.",
+        "In the situation described, it is possible that Terry might have committed a foul or infringed on Falcao before the play led to the penalty kick.",
+        "The pundits believe that the play should have been halted when Terry tackled Falcao, as it was a rough and unnecessary challenge."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of that sentence.",
+        "Yes, the summary does contain the context of the core idea from the given aspect.",
+        "Yes, the context of the given sentence is present in the summary."
+    ],
+    "score": [
+        3,
+        4,
+        4
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 3.75
+}

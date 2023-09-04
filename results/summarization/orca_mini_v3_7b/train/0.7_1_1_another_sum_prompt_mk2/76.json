@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent.",
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent.",
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent."
+    ],
+    "aspect": [
+        "1. Former Monaco team-mate Nabil Dirar thinks Falcao regrets his loan move to Manchester United, as he struggled to reach his previous heights.",
+        "2. Falcao, a former Atletico Madrid striker, was loaned to United last summer but scored only four goals all season.",
+        "3. Falcao's Monaco team-mate Dirar believes he would be better off staying in Monaco, citing his better performance and participation in the Champions League."
+    ],
+    "explain": [
+        "Nabil Dirar, a former teammate of Falcao in Monaco, believes Falcao may have regretted his loan move to Manchester United as he struggled to regain his previous form.",
+        "Falcao, a high scoring forward, struggled to contribute significantly in the Premier League after transferring from Atletico Madrid, scoring only 4 goals in the entire season on loan at United.",
+        "Nabil Dirar, Falcao's Monaco teammate, believes that Falcao would have been better off staying at Monaco rather than joining Manchester United. Dirar cites Falcao's better performance and participation in the Champions League while playing for Monaco as a reason for his stronger belief in staying there."
+    ],
+    "answer": [
+        "Yes",
+        "No, the sentence does not contain the entire context of the aspect provided.",
+        "I do not think the summary contains the context of this sentence as it is missing key information such as Nabil Dirar's exact explanation and the reason for his belief that Falcao would be better off staying at Monaco."
+    ],
+    "score": [
+        4,
+        2,
+        2
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 3.083333333325
+}

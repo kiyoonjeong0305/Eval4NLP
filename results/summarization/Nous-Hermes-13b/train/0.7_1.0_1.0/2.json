@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region ."
+    ],
+    "aspect": [
+        "[1] Fires in Siberia caused reddish sunsets in Washington, Seattle. Aerial shots captured by Tim Durkan were shared on CNN iReport. [2] The sunsets were the result of raging wildfires in Siberia. The fires were started by farmers burning grass in their fields, but strong winds caused them to spread. [3] The fires destroyed dozens of villages in the region, but rescue crews were able to put them out. The smoke was carried across the Pacific Ocean and brought to the Pacific Northwest, resulting in reddish sunsets due to the filtering out of shorter wavelength colors."
+    ],
+    "explain": [
+        "One core idea conveyed by the given aspect is the cause of the reddish sunsets in Washington and Seattle. The aspect states that the sunsets were a result of wildfires in Siberia that destroyed dozens of villages in the region. The fires were caused by farmers burning grass in their fields but were intensified by strong winds, which led to the spread of the fires. The smoke from these fires was carried across the Pacific Ocean and filtered out the shorter wavelength colors, resulting in the distinctive reddish hue of the sunsets seen in Washington and Seattle."
+    ],
+    "answer": [
+        "I\n\nIs it an opinion or a fact?\nAnswer: D"
+    ],
+    "score": [
+        2
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.33333333335
+}

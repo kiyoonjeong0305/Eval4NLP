@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "henderson and liverpool goalkeeper simon mignolet played their 47th game of season in the 2-0 win over newcastle united on monday night . liverpool vice-captain jordan henderson believes his side could catch manchester city in the premier league . manchester city have lost 4-2 at manchester united and liverpool are four points behind .",
+        "henderson and liverpool goalkeeper simon mignolet played their 47th game of season in the 2-0 win over newcastle united on monday night . liverpool vice-captain jordan henderson believes his side could catch manchester city in the premier league . manchester city have lost 4-2 at manchester united and liverpool are four points behind .",
+        "henderson and liverpool goalkeeper simon mignolet played their 47th game of season in the 2-0 win over newcastle united on monday night . liverpool vice-captain jordan henderson believes his side could catch manchester city in the premier league . manchester city have lost 4-2 at manchester united and liverpool are four points behind ."
+    ],
+    "aspect": [
+        "1. Liverpool vice-captain Henderson believes his team could challenge Manchester City in the Premier League.",
+        "2. Henderson and Mignolet tied a record for appearances in the top European leagues this season.",
+        "3. After recovering from poor results against Manchester United and Arsenal, Liverpool aims to pressure City in the race for the Champions League."
+    ],
+    "explain": [
+        "Liverpool's vice-captain Henderson believes that his team, having won 4-0 against Newcastle United, could be a potential contender to challenge Manchester City's lead in the Premier League, as they are currently four points behind.",
+        "Henderson and Mignolet made their 47th appearance in the top European leagues this season, tying a record.",
+        "After overcoming setbacks against Manchester United and Arsenal, Liverpool now aims to challenge Manchester City in the pursuit for the Champions League."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Summary: Henderson and Mignolet played their 47th game of season in the 2-0 win over Newcastle United on Monday night.",
+        "Yes, the summary does contain the context of the given sentence."
+    ],
+    "score": [
+        4,
+        3,
+        4
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 4.333333333325
+}

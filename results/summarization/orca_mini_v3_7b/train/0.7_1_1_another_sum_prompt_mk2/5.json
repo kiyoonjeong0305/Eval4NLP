@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '"
+    ],
+    "aspect": [
+        "1. Ben Stokes' return to England team: focus on channeling aggression.",
+        "2. Stokes' character: fiery, but need careful managing.",
+        "3. England's dilemma in balancing aggression and performance, with Stokes and Adil Rashid."
+    ],
+    "explain": [
+        "The England team is focused on channeling Ben Stokes' aggression since his return to the squad, as seen in the team's mentality in the dressing room and attitude towards one another.",
+        "The aspect focuses on Ben Stokes' character, highlighting his fiery personality but also suggesting the importance of careful management due to his temperament.",
+        "Balancing aggression and performance can be a challenging dilemma for England, especially when considering players like Ben Stokes and Adil Rashid."
+    ],
+    "answer": [
+        "No, the given summary doesn't contain the context of the provided sentence accurately. It primarily highlights the lack of mercy and team dynamics rather than focusing on channeling Ben Stokes' aggression.",
+        "Yes, the summary contains the context of the aspect by emphasizing Stokes' fiery personality and the need for careful management.",
+        "Yes"
+    ],
+    "score": [
+        2,
+        4,
+        3
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.66666666665
+}

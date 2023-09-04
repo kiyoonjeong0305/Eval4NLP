@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "steve bruce is adamant he can keep hull city in premier league . bruce was targeting 10 wins to survive . steve bruce is confident he will keep hull city in the premier league . they have six games to save their season including nightmare fixtures .",
+        "steve bruce is adamant he can keep hull city in premier league . bruce was targeting 10 wins to survive . steve bruce is confident he will keep hull city in the premier league . they have six games to save their season including nightmare fixtures .",
+        "steve bruce is adamant he can keep hull city in premier league . bruce was targeting 10 wins to survive . steve bruce is confident he will keep hull city in the premier league . they have six games to save their season including nightmare fixtures .",
+        "steve bruce is adamant he can keep hull city in premier league . bruce was targeting 10 wins to survive . steve bruce is confident he will keep hull city in the premier league . they have six games to save their season including nightmare fixtures ."
+    ],
+    "aspect": [
+        "1. Steve Bruce is confident Hull City can avoid relegation this season despite a poor start.",
+        "2. Hull City have had a tough season due to injuries to key players.",
+        "3. Southampton defeated Hull City 2-0, moving up to fifth in the table.",
+        "4. Ronald Koeman will remind his team about the importance of following team rules."
+    ],
+    "explain": [
+        "\nAccording to the aspect, Steve Bruce is confident that Hull City can avoid relegation this season despite a poor start. He believes that they can survive in the Premier League with a winning goal of 10 wins in the remaining games this season.",
+        "One of the core ideas behind the aspect of injuries to key players is that it has had a significant impact on Hull City's performance this season. Due to the injuries, the team's morale, chemistry, and overall ability to play their best has been hindered, causing the club to underperform and struggle in the Premier League. This has made it difficult for Hull City to stay afloat and avoid relegation, with their remaining games becoming even more challenging due to the tough fixtures they face.",
+        "The given aspect mentions the result of the match between Southampton and Hull City. Southampton defeated Hull City 2-0, which means that Southampton won the game and Hull City lost. This result shows that Hull City are currently struggling in the league and are yet to secure their spot in the Premier League.",
+        "The given aspect states that Ronald Koeman will remind his team about the importance of following team rules. This means that as the coach, Koeman will reinforce the rules and guidelines that he has established for the team to follow. These rules could pertain to anything from behavior expectations, training guidelines, to playing style or tactics. By reminding the team about the importance of following these rules, Koeman is highlighting the value that adherence to these policies has on team success. It underscores his leadership and authority as the coach and emphasizes the need for discipline and structure within the team."
+    ],
+    "answer": [
+        "According to the summary, Steve Bruce is adamant he can keep Hull City in the Premier League by targeting at least 10 wins in the remaining games this season. Despite facing nightmare fixtures, he remains confident that he can save their season against all odds.",
+        "Yes, the summary does contain the core idea of Hull City struggling due to injuries to key players. The aspect highlights the impact of the injuries on the team's performance, which has contributed to their underwhelming season and struggles to avoid relegation.",
+        "No, the summary does not contain the core idea of the aspect. The aspect provides information about the result of a specific match between Southampton and Hull City, while the summary discusses Steve Bruce's confidence in keeping Hull City in the Premier League.",
+        "Aspect: 4. Ronald Koeman will remind his team about the importance of following team rules."
+    ],
+    "score": [
+        4,
+        4,
+        0,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.833333333325
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '",
+        "there would have been no mercy in the dressing room . nothing is sacred in the team . when ben stokes first turned up at the kensington oval this week someone would have said : ` mind that locker , stokesey . '"
+    ],
+    "aspect": [
+        "1. Ben Stokes is a fiery character in the England cricket team who has a reputation for aggression on the field. He was reprimanded for his behavior during last year's Test match against West Indies, but was encouraged by coach Peter Moores to channel his energy positively. ",
+        "2. Stokes has the potential to bring runs and wickets to the team, but needs careful management to avoid quashing his natural exuberance. His aggression must be controlled to prevent him from becoming pigeon-holed or living up to his reputation. ",
+        "3. England wants to have Stokes in the team as much as possible to help him reach his full potential. They believe he can only get better with time and have chosen to play him in the second Test in Barbados despite the potential for a spinner to be added to the team."
+    ],
+    "explain": [
+        "Ben Stokes is a cricket player for England who is known for his aggression on the field. He was previously reprimanded for his behavior during a game against the West Indies, but his coach encouraged him to channel his energy positively. As a result, Stokes is now seen as a valuable member of the team who brings both passion and skill to the game.",
+        "The given aspect highlights the potential of Ben Stokes to bring runs and wickets to the team, but emphasizes the need to control his aggression to prevent him from being pigeon-holed or living up to his reputation. It implies that while Stokes' energy and enthusiasm can be valuable assets for the team, it is essential to manage him properly to get the best out of him.",
+        "\n\nAccording to the aspect, the England team wants Ben Stokes in the team as much as possible to help him reach his full potential. They believe he can only get better with time and have chosen to play him in the second Test in Barbados despite the potential for a spinner to be added to the team. This shows that the team has great faith in Stokes and wants him to continue contributing to the team's success."
+    ],
+    "answer": [
+        "The summary does not contain the core idea of the aspect. The aspect discusses Ben Stokes and his behavior on the field, while the summary is about a dressing room and nothing being sacred in a team.",
+        "The summary contains a different core idea from the aspect. While the aspect talks about the potential of Ben Stokes and the need to control his aggression, the summary indicates that there would have been no mercy in the dressing room and nothing is sacred in the team when Ben Stokes first turned up at the Kensington Oval this week.",
+        "No, the summary does not contain the core idea. It is about the dressing room atmosphere and nothing is sacred in the team, whereas the aspect is about the England team’s decision to play Ben Stokes in the second Test in Barbados despite the potential for a spinner to be added to the team."
+    ],
+    "score": [
+        0,
+        0,
+        0
+    ],
+    "mean_score": 0.0,
+    "gt_score": 3.66666666665
+}

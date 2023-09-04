@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "-lrb- cnn -rrb- the parents of the youngest victim of the boston marathon bombings are making an emotional , passionate plea to take the death penalty off the table for the man convicted in the case . last week , dzhokhar tsarnaev was found guilty on all 30 charges he faced related to the bombings at the 2013 race and the dramatic violence that dragged out for days afterward . a look at all of the charges ."
+    ],
+    "aspect": [
+        "1. Boston Marathon bombings victim's parents plead for death penalty removal, 2. Tsarnaev found guilty of all charges, 3. Parents' emotional appeal for closure and no appeals."
+    ],
+    "explain": [
+        "The parents of the youngest victim of the Boston Marathon bombings are seeking the death penalty to be taken off the table for the convicted man, Dzhokhar Tsarnaev. They're making an emotional appeal for closure and no appeals."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of that sentence."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.333333333325
+}

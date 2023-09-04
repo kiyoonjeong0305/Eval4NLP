@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "ian guffick asked pupils to make changes to the the national curriculum tests for 11-year-olds , which assess english , maths and science at mitton manor primary school in tewskesbury , gloucestershire . this was despite the exam session finishing , a conduct panel heard . the 31-year-old also altered a number of the pupil 's exam answers himself before the papers were sent off .",
+        "ian guffick asked pupils to make changes to the the national curriculum tests for 11-year-olds , which assess english , maths and science at mitton manor primary school in tewskesbury , gloucestershire . this was despite the exam session finishing , a conduct panel heard . the 31-year-old also altered a number of the pupil 's exam answers himself before the papers were sent off .",
+        "ian guffick asked pupils to make changes to the the national curriculum tests for 11-year-olds , which assess english , maths and science at mitton manor primary school in tewskesbury , gloucestershire . this was despite the exam session finishing , a conduct panel heard . the 31-year-old also altered a number of the pupil 's exam answers himself before the papers were sent off ."
+    ],
+    "aspect": [
+        "1. A teacher, Ian Guffick, was banned from the classroom for changing pupils' exam answers, invalidating the school's SATs results.",
+        "2. He altered exam answers himself and asked pupils to make changes outside exam conditions.",
+        "3. His actions led to the annulment of all SATs exam results for the entire school last year, and he was forced to give up his job."
+    ],
+    "explain": [
+        "A teacher was banned from teaching for altering pupils' exam answers, thereby influencing the school's SATs results.",
+        "The teacher, Ian Guffick, changed some exam answers by himself and also asked the students to make alterations in the tests, even though they were not in the exam session.",
+        "Ian Guffick's actions resulted in the cancelation of all SATs exam results for the whole school last year, and he consequently had to leave his job."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary does not contain the context of the given sentence because it does not mention any cancelation of exam results or loss of the job."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.5
+}

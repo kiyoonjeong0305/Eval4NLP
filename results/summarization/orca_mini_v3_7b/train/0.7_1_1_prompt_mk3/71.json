@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "doncaster 's media team faced a tough challenge compling the match . saturday 's visit of fleetwood town is eyeing the beach after their play-off hopes . the two sides played out a goalless draw at the keepmoat stadium . yorkshire side firmly entrenched in mid-table mediocrity in league one .",
+        "doncaster 's media team faced a tough challenge compling the match . saturday 's visit of fleetwood town is eyeing the beach after their play-off hopes . the two sides played out a goalless draw at the keepmoat stadium . yorkshire side firmly entrenched in mid-table mediocrity in league one .",
+        "doncaster 's media team faced a tough challenge compling the match . saturday 's visit of fleetwood town is eyeing the beach after their play-off hopes . the two sides played out a goalless draw at the keepmoat stadium . yorkshire side firmly entrenched in mid-table mediocrity in league one ."
+    ],
+    "aspect": [
+        "1. Doncaster Rovers struggles in League One, with a disappointing season.",
+        "2. Fleetwood Town's visit was predictable, ending in a goalless draw.",
+        "3. The media team faced a challenge in creating highlights but managed to keep it short and sweet."
+    ],
+    "explain": [
+        "Doncaster Rovers, a team from League One, has been struggling throughout the season. They have had a disappointing performance and are firmly entrenched in mid-table mediocrity, which has led to their struggles in their play-off hopes for the current season.",
+        "Fleetwood Town's visit to Doncaster, mentioned in the summary, resulted in a predictable goalless draw, as stated in the aspect.",
+        "Although Doncaster's media team encountered difficulty in producing highlights, they were able to concisely summarize the match by keeping it short and sweet."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence providing a detailed explanation of Doncaster Rovers' struggle, as well as their mid-table mediocrity.",
+        "Yes, the summary contains the context of the sentence.",
+        "No, the given summary does not contain the context of the sentence you provided, which discusses the difficulty of creating highlights, along with the concise summarization."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.83333333335
+}

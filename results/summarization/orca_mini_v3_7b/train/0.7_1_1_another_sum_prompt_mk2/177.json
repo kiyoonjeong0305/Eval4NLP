@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years .",
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years .",
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years ."
+    ],
+    "aspect": [
+        "1. Speed camera pointed at house in Birmingham, West Midlands.",
+        "2. Camera not working for more than two years after 300 devices switched off in the region.",
+        "3. Birmingham City Council aware of situation, engineer to visit site to investigate."
+    ],
+    "explain": [
+        "A specific speed camera, the bright yellow Gatso, is responsible for enforcing the 30mph speed limit in Handsworth, Birmingham.",
+        "Since the publication of the news, the camera has not been operational for more than two years since all the fixed devices were disabled in the West Midlands region.",
+        "The Birmingham City Council is aware of the situation where a Gatso speed camera has been unoperational for more than two years, with an engineer scheduled to visit the site to investigate the problem."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the given sentence.",
+        "Yes",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.08333333335
+}

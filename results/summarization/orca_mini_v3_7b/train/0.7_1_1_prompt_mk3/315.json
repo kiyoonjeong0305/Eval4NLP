@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '"
+    ],
+    "aspect": [
+        "1. New Zealand police appeal for public help to identify a man wearing a 'distinctive' cartoon mask who robbed a Christchurch dairy on Saturday. ",
+        "2. The unidentified offender stole $1,500 from the dairy's till and demanded cash from the owner's daughter. ",
+        "3. Police ask for information to identify the robber, as there were no weapons involved but no suspects have been apprehended."
+    ],
+    "explain": [
+        "The New Zealand police are urgently seeking the public's assistance in identifying a man who robbed a Christchurch dairy and wore a special cartoon mask, making a distinctive impression. The person is depicted as being unusually tall, and was seen in security footage wearing a fluorescent orange sweatshirt and a large, possibly oversized, mask. Details as follows:\n\n1. Police request aid\n2. Cartoon mask worn\n3. Robbery at a dairy\n4. Uniquely tall suspect\n5. Uncommon garments description",
+        "The unidentified offender in a unique cartoon mask during the robbery in Christchurch stole $1,500 from the dairy's till and demanded money from the owner's daughter.",
+        "Police are seeking public assistance to identify a man who robbed a dairy in Christchurch while wearing a distinctive cartoon mask. Despite no weapons being involved, no suspects have been apprehended, so law enforcement officials are asking for information to apprehend the robber."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.916666666675
+}

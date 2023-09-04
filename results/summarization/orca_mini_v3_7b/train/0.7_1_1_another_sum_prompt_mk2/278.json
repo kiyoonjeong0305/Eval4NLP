@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "most of those released were women and children, a peshmerga commander says . isis previously released scores of other yazidis .",
+        "most of those released were women and children, a peshmerga commander says . isis previously released scores of other yazidis .",
+        "most of those released were women and children, a peshmerga commander says . isis previously released scores of other yazidis ."
+    ],
+    "aspect": [
+        "1. ISIS releases over 200 Yazidis, a minority group whose members were killed, captured, and displaced last summer in northern Iraq.",
+        "2. The Peshmerga force receives and sends the released Yazidis to Irbil.",
+        "3. ISIS' cruelty to Yazidis, including slaughter and enslavement, has drawn international attention and response."
+    ],
+    "explain": [
+        "The core idea is that ISIS has released over 200 Yazidis, a minority group that faced severe persecution in northern Iraq last summer, when many members were killed, captured, or displaced.",
+        "The Peshmerga force acts as a mediator and helps transport released Yazidi individuals (mostly women and children) from the battlegrounds to Irbil for further care and support.",
+        "The cruel treatment of ISIS towards the Yazidi community, involving slaughter and enslavement, has drawn widespread global concern and consequences."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the sentence you provided is a part of the context of the given summary and aspect.",
+        "The summary does not contain the context of the provided sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.5
+}

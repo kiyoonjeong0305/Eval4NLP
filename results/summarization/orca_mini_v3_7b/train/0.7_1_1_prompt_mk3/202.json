@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old ."
+    ],
+    "aspect": [
+        "1. Orlando City expresses interest in Manchester United's Javier Hernandez.",
+        "2. Hernandez may join Orlando City, as they have a large Latin-American fanbase.",
+        "3. Southampton, Stoke, West Ham, and Everton are also interested in Hernandez."
+    ],
+    "explain": [
+        "Javier Hernandez, a 26-year-old player linked with Orlando City, is being pursued by various European teams like Wolfsburg, AC Milan, Lazio, and Inter Milan, and Orlando City would like to sign him from Manchester United.",
+        "Javier Hernandez could join Orlando City because they have a significant Latin-American fanbase, potentially drawing in players like himself.",
+        "3 Premier League clubs, Southampton, Stoke, and West Ham, are also monitoring Hernandez's situation, along with Everton."
+    ],
+    "answer": [
+        "No, the given summary does not contain the context of the sentence accurately as it mentions \"former everton and adrian heath\" instead of \"Orlando City are coached by Adrian Heath, as per the given aspect.\"",
+        "Maybe, there is a slight connection between Hernandez moving to Orlando City and their large Latin-American fanbase in the summary, but it's not entirely clear if that's the main factor drawing Hernandez to the team.",
+        "Yes, the context of the given aspect is mentioned in the summary in part: \"the mls side are coached by former everton and adrian heath.\""
+    ],
+    "score": [
+        2,
+        3,
+        3
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 3.833333333325
+}

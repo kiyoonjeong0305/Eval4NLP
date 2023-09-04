@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital ."
+    ],
+    "aspect": [
+        "1. A two-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo after his parents dangled him over the edge. 2. The child suffered minor bumps and bruises and was in stable condition. 3. The zoo plans to press child endangerment charges against the family."
+    ],
+    "explain": [
+        "1. A two-year-old boy fell into a pit at a zoo. 2. The child suffered minor injuries. 3. The zoo may take legal action against the parents"
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the given sentence."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.83333333335
+}

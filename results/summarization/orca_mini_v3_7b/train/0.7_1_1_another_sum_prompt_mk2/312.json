@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "luigi costa , 71 , is accused of killing his elderly neighbour terrence freebody in the dining room of his home on mugga way in red hill , canberra in july 2012 . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident and also during the event . professor mullin told the court that the triple 0 calls which costa made ' almost certainly ' during the incident proved that his mood fluctuated from ' moment to moment ' .",
+        "luigi costa , 71 , is accused of killing his elderly neighbour terrence freebody in the dining room of his home on mugga way in red hill , canberra in july 2012 . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident and also during the event . professor mullin told the court that the triple 0 calls which costa made ' almost certainly ' during the incident proved that his mood fluctuated from ' moment to moment ' .",
+        "luigi costa , 71 , is accused of killing his elderly neighbour terrence freebody in the dining room of his home on mugga way in red hill , canberra in july 2012 . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident and also during the event . professor mullin told the court that the triple 0 calls which costa made ' almost certainly ' during the incident proved that his mood fluctuated from ' moment to moment ' ."
+    ],
+    "aspect": [
+        "1. Luigi Costa, 71, accused of killing elderly neighbour Terrence Freebody in horrendous 2012 murder, allegedly suffering from dementia and alcohol abuse.",
+        "2. Forensic psychiatrist Professor Paul Mullen believes Costa's state of mind was declining before and during the incident, supported by triple 0 calls and trail of faeces found at the crime scene.",
+        "3. Costa's state of mind crucial in trial, as jury can return not guilty verdict if unstable mindset at time of attack can be proven."
+    ],
+    "explain": [
+        "Luigi Costa, 71, is accused of murdering his elderly neighbor Terence Freebody in 2012. Forensic psychiatrist Paul Mullen believes Costa's state of mind declined leading up to the incident and during the event, with multiple mood fluctuations suggested by triple 0 calls made during the incident. Costa is allegedly dealing with dementia and alcohol abuse.",
+        "Forensic psychiatrist Professor Paul Mullen points out that according to his analysis, the declining mental state of accused person Luigi Costa was evident during the incident in question. This is supported by the triple 0 calls he made during the event, which indicated inconsistent emotions, and witnessed evidence such as faeces at the crime scene.",
+        "The state of Luigi Costa's mind is crucial in determining his guilt; a not guilty verdict is possible if his unstable mental state at the time of the attack can be proven."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "No, the given summary does not accurately represent the idea mentioned in the context provided.",
+        "No, the given sentence does not correspond to the context of the summary. The summary talks about the murder of Terrence Freebody by Luigi Costa and a psychiatrist's analysis, whereas the provided sentence discusses the importance of Costa's state of mind in the trial and the possibility of an acquittal due to an unstable mental state at the time of the attack."
+    ],
+    "score": [
+        4,
+        1,
+        2
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.75
+}

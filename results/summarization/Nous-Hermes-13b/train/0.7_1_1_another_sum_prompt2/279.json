@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff.",
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff.",
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff.",
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff.",
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff."
+    ],
+    "aspect": [
+        "- A young accountant died after falling down a 70ft cliff while running from a taxi to avoid paying the fare. ",
+        "- The taxi driver said he wouldn't have left the accountant if he knew where they were. ",
+        "- The accountant plunged down the cliff when he leapt over a fence in the dark. ",
+        "- The accountant had no money to pay for the taxi and ran from the driver. ",
+        "- The accountant was found dead at the bottom of the cliff after being discovered by a dog walker."
+    ],
+    "explain": [
+        "The aspect states that Jacob Phillips, a young accountant, died after falling down a 70ft cliff while running from a taxi to avoid paying the fare.",
+        "The core idea of this aspect is that the taxi driver wishes he had known where Jacob was headed so he could have prevented his death. If the driver had known, he could have taken proper precautions to ensure Jacob's safety.",
+        "The aspect states that accountant Jacob Phillips died after falling down a 70ft cliff. It adds that he was killed when he jumped over a fence in the dark. This means that his death was not an accident but a result of his own actions. It shows that there was a lack of caution on his part and that he took a risk that ultimately led to his death.",
+        "Jacob Phillips' death was not solely due to falling off a cliff. He was in a precarious situation even before he fell due to the fact that he couldn't pay for the taxi and ran from the driver, which then resulted in his unfortunate demise.",
+        "The core idea of the aspect is that the accountant was found dead at the bottom of the cliff after being discovered by a dog walker."
+    ],
+    "answer": [
+        "It appears that the given aspect is not present in the summary. The summary only mentions that Jacob Phillips fell down a 70ft cliff to his death in Cardiff, without any mention of how the accident occurred.",
+        "Yes, the summary contains the core idea of the aspect.",
+        "It depends on how you interpret the summary. Some people may say that the core idea of the summary is that Jacob Phillips died after falling down a cliff. However, others may argue that the core idea is that his death was not an accident. Therefore, it is subjective to say that the summary contains the core idea of the aspect.",
+        "Yes, the aspect provides additional information that sheds light on the circumstances surrounding Jacob Phillips' death and helps to provide a more complete picture of the situation.",
+        "I think the aspect does not contain the core idea."
+    ],
+    "score": [
+        0,
+        5,
+        3,
+        4,
+        0
+    ],
+    "mean_score": 2.4,
+    "gt_score": 4.583333333325
+}

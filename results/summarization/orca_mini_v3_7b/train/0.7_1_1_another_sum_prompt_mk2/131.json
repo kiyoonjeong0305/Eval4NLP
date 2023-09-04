@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "patrick kluivert has been winning start in world cup qualifiers . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert 's team won 4-3 on aggregate at montserrat to win . the holland face 2-2 in a second-leg match at montserrat .",
+        "patrick kluivert has been winning start in world cup qualifiers . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert 's team won 4-3 on aggregate at montserrat to win . the holland face 2-2 in a second-leg match at montserrat .",
+        "patrick kluivert has been winning start in world cup qualifiers . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert 's team won 4-3 on aggregate at montserrat to win . the holland face 2-2 in a second-leg match at montserrat ."
+    ],
+    "aspect": [
+        "1. Patrick Kluivert makes a winning start in World Cup qualifying as coach of Curacao.",
+        "2. Curacao advanced to the second qualifying round in CONCACAF for the 2018 tournament.",
+        "3. Kluivert's team won 2-1 on Saturday in Willemstad and faces Cuba in the next round."
+    ],
+    "explain": [
+        "In the case of World Cup qualifiers, Patrick Kluivert demonstrates an effective start to his coaching career with Curacao as they successfully advance to the second qualifying round in CONCACAF, winning a series of games and outshining their competition.",
+        "Curacao has secured a spot in the second qualifying round of CONCACAF for the 2018 football tournament following their remarkable victory against Montserrat with a score of 4-3 on aggregate, aided by Patrick Kluivert's exceptional performance.",
+        "Patrick Kluivert's team, representing the Caribbean island, recently won 4-3 on aggregate against Montserrat, securing their progress to the second qualifying round in CONCACAF. In the next round, Kluivert's team defeated Cuba by a score of 2-1 on Saturday in Willemstad."
+    ],
+    "answer": [
+        "Yes",
+        "No.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.5
+}

@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy .",
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy .",
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy .",
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy ."
+    ],
+    "aspect": [
+        "1. Esteban Cambiasso wants to keep Leicester in the Premier League, which he considers winning a trophy. ",
+        "2. Cambiasso has an impressive career with Inter Milan, winning 15 trophies. ",
+        "3. Cambiasso signed for Leicester and believes they can avoid relegation. ",
+        "4. Cambiasso is happy in the East Midlands and could stay beyond his current deal."
+    ],
+    "explain": [
+        "The core idea conveyed by the aspect is that Esteban Cambiasso, while realizing that Leicester City are in a tough situation in terms of points in the Premier League table, is determined to keep the team from being relegated and he considers this as winning a trophy, which shows his level of commitment to the team's success.",
+        "Esteban Cambiasso, with his impressive career of winning 15 trophies with Inter Milan, is an experienced and successful player. He has a strong understanding of what it takes to achieve success in the world of football and is bringing that experience to Leicester City as they fight to stay in the English Premier League. Keeping Leicester City in the league would feel like winning a trophy to Cambiasso, as he values the challenge and the triumph of overcoming difficult situations.",
+        "Esteban Cambiasso, who recently joined Leicester City, believes that his new team can avoid relegation even though they are currently seven points adrift at the bottom of the table. Despite the challenge, he is determined to help them stay in the Premier League, which he views as winning a trophy.",
+        "The aspect highlights that Esteban Cambiasso, a Leicester City player, is content in the East Midlands and may prolong his stay beyond his current contract. Despite being a high-profile footballer, he appreciates the culture and people of the region and finds value in remaining connected to the club and its fans."
+    ],
+    "answer": [
+        "Yes, in the given context the summary does contain the core idea of the aspect. The summary mentions that Leicester City are currently seven points adrift at the bottom of the table and that Esteban Cambiasso refuses to give up and admits that keeping Leicester up will feel like winning a trophy, which shows his commitment to the team's success.",
+        "Do you REALLY think the summary contains the core idea?",
+        "The summary does not contain the core idea of the aspect. To explain the core idea, you must know how to analyze and understand the paragraphs to identify the main point.",
+        "The aspect does not seem to be related to the given summary as it does not mention Esteban Cambiasso or Leicester City. The summary is about Leicester City being seven points adrift at the bottom of the table and the challenges they face in staying in the Premier League, while the aspect is about Cambiasso's positive experience of living and playing in the East Midlands and his potential decision to stay beyond his current contract."
+    ],
+    "score": [
+        4,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 1.0,
+    "gt_score": 3.91666666665
+}

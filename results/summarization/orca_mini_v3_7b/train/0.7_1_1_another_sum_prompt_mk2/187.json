@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "fbi agent 's sniper was ripped out of his car 's window and stolen from a salt lake city hotel . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe . police believe the thief stole the rifle by breaking the rear right window . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel just days before president obama visited utah earlier the window frame of the agent 's car was pulled from the door .",
+        "fbi agent 's sniper was ripped out of his car 's window and stolen from a salt lake city hotel . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe . police believe the thief stole the rifle by breaking the rear right window . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel just days before president obama visited utah earlier the window frame of the agent 's car was pulled from the door .",
+        "fbi agent 's sniper was ripped out of his car 's window and stolen from a salt lake city hotel . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe . police believe the thief stole the rifle by breaking the rear right window . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel just days before president obama visited utah earlier the window frame of the agent 's car was pulled from the door ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot, secured properly with locks and chains.",
+        "2. The thief may have broken the rear passenger-side window, pulled the rifle case through the shattered window, and tied the case to a vehicle.",
+        "3. The FBI agent's personal items and sniper rifle have not been recovered yet, and the hotel does not have surveillance cameras."
+    ],
+    "explain": [
+        "An FBI agent's sniper rifle was secured with locks and chains in a hard rifle case, but it was still stolen from the parking lot of a Salt Lake City hotel, highlighting the importance of careful security measures.",
+        "The thief used force to break the rear passenger-side window, grabbed the rifle case and tied it tightly to a vehicle, possibly a truck safe, for transportation. They planned the theft carefully to avoid getting caught during President Obama's visit to the area.",
+        "The stolen items and lack of surveillance cameras at the hotel are significant concerns for the investigation, as it increases the difficulty of recovery and potential resolution."
+    ],
+    "answer": [
+        "Yes, the sentence explains the core idea of the aspects, emphasizing the importance of proper security measures, even when the rifle was locked and chained in case.",
+        "Yes, the sentence in the given context captures the idea that the thief broke the rear passenger-side window, grabbed the rifle case, and secured it on a vehicle for transportation to execute a well-planned theft, avoiding being caught during President Obama's visit.",
+        "Yes, the summary contains the context of the sentence as it mentions the theft, lack of surveillance cameras and difficulties faced in recovery and solution."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.91666666665
+}

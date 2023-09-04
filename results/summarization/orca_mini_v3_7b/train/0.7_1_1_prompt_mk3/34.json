@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "stephen munden, 54, described as having 'fanatical obsession' with small girls . he has been missing since 6.15pm on tuesday and was last seen leaving hospital . was detained under mental health act after sexually touching three-year-old . described as 5ft 8ins tall, of heavy build, with dark hair and beard .",
+        "stephen munden, 54, described as having 'fanatical obsession' with small girls . he has been missing since 6.15pm on tuesday and was last seen leaving hospital . was detained under mental health act after sexually touching three-year-old . described as 5ft 8ins tall, of heavy build, with dark hair and beard .",
+        "stephen munden, 54, described as having 'fanatical obsession' with small girls . he has been missing since 6.15pm on tuesday and was last seen leaving hospital . was detained under mental health act after sexually touching three-year-old . described as 5ft 8ins tall, of heavy build, with dark hair and beard ."
+    ],
+    "aspect": [
+        "1. Predatory convicted paedophile Stephen Munden, 54, with an obsession for young girls, has gone missing from a psychiatric unit in Hampshire after vanishing at 6:15 PM on Tuesday.",
+        "2. Munden was detained under the Mental Health Act after sexually touching a 3-year-old girl.",
+        "3. Officers are searching for Munden, who was convicted of possessing indecent images of children, due to his learning difficulties and autism."
+    ],
+    "explain": [
+        "A convicted paedophile, Stephen Munden, 54, with an obsession for young girls, went missing from a psychiatric unit in Hampshire on Tuesday evening after vanishing at 6:15 PM. He was previously detained under the mental health act following a sexual incident with a three-year-old child. Munden is described as 5ft 8ins tall, heavy-built with dark hair and beard. The police are searching for him.",
+        "Stephen Munden, 54, with a fanatical obsession for small girls, was detained under the Mental Health Act after molesting a 3-year-old, as per the aspect.",
+        "The missing man, Stephen Munden, had prior offenses related to possessing indecent images of children and is believed to have a history of learning difficulties and autism. Officers are now searching for him."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes",
+        "Yes, the summary contains the core idea from the aspect mentioned."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.0
+}

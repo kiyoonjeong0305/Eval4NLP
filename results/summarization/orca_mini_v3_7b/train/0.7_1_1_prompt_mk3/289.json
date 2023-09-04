@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "harry kane 's 20th premier league goal of the season . the video is entitled ` harry kane - pfa player of the year ? ' kane is up against the likes of chelsea 's eden hazard and alexis sanchez .",
+        "harry kane 's 20th premier league goal of the season . the video is entitled ` harry kane - pfa player of the year ? ' kane is up against the likes of chelsea 's eden hazard and alexis sanchez .",
+        "harry kane 's 20th premier league goal of the season . the video is entitled ` harry kane - pfa player of the year ? ' kane is up against the likes of chelsea 's eden hazard and alexis sanchez ."
+    ],
+    "aspect": [
+        "1. Harry Kane nominated for PFA Player and Young Player of the Season.",
+        "2. Kane's animated video showcases his best goals and celebrations.",
+        "3. Kane faces competition for the top prize from Hazard and Sanchez."
+    ],
+    "explain": [
+        "Harry Kane is among the nominees for both PFA Player and Young Player of the Season.",
+        "In the mentioned context, the core idea behind aspect 2 is that Harry Kane's video acts as a comprehensive compilation of his remarkable goals and celebrations, possibly reflecting his potential for PFA Player of the Year nomination.",
+        "Harry Kane's 20th Premier League goal of the season is attracting attention, with him being one of three contenders for the PFA Player of the Year award alongside Chelsea's Eden Hazard and Alexis Sanchez."
+    ],
+    "answer": [
+        "No.",
+        "Yes, the summary contains the context of the sentence explaining aspect 2.",
+        "Yes"
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.4166666666500003
+}

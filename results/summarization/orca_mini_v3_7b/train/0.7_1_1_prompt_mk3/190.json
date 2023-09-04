@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "referee mark clattenburg has been named to take charge of the manchester derby on sunday . city captain vincent kompany was dismissed for two bookable offences during belgium 's narrow euro 2016 qualifier on march 31 . clattenburg has been accused of favouring louis van gaal 's side in the past .",
+        "referee mark clattenburg has been named to take charge of the manchester derby on sunday . city captain vincent kompany was dismissed for two bookable offences during belgium 's narrow euro 2016 qualifier on march 31 . clattenburg has been accused of favouring louis van gaal 's side in the past .",
+        "referee mark clattenburg has been named to take charge of the manchester derby on sunday . city captain vincent kompany was dismissed for two bookable offences during belgium 's narrow euro 2016 qualifier on march 31 . clattenburg has been accused of favouring louis van gaal 's side in the past ."
+    ],
+    "aspect": [
+        "1. Mark Clattenburg to referee Manchester derby, sent off three players this season.",
+        "2. Clattenburg, controversial but regarded as Premier League's leading referee.",
+        "3. Clattenburg to officiate Manchester derby between United and City, significant for league standings."
+    ],
+    "explain": [
+        "Mark Clattenburg will be refereeing the Manchester derby this season, as he has already sent off three players throughout his assignments thus far.",
+        "Clattenburg, though controversial because of past allegations of favouritism towards certain teams, is considered to be the Premier League's top referee due to his expertise and experience.",
+        "Manchester derby will have a significant influence on the league standings with referee Clattenburg managing the game."
+    ],
+    "answer": [
+        "Yes",
+        "Yes",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . river plate are keen to sign former forward radamel falcao who has struggled on loan at manchester united .",
+        "the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . river plate are keen to sign former forward radamel falcao who has struggled on loan at manchester united .",
+        "the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . river plate are keen to sign former forward radamel falcao who has struggled on loan at manchester united ."
+    ],
+    "aspect": [
+        "1. River Plate want to sign Manchester United's Radamel Falcao, but admit it's complicated.",
+        "2. Falcao has struggled at Manchester United, scoring only 4 Premier League goals.",
+        "3. Falcao has performed well for Colombia, equaling the all-time goalscoring record with 24 goals."
+    ],
+    "explain": [
+        "River Plate, a Colombian football club, is expressing interest in signing Manchester United's Radamel Falcao, a forward, but acknowledges that acquiring his services might be challenging due to potential complications.",
+        "Radamel Falcao, a powerful striker, had a difficult time at Manchester United, managing only 4 goals in the Premier League, highlighting his poor performance.",
+        "Radamel Falcao has had an outstanding career with Colombia's national team, scoring a remarkable 24 goals, equaling the all-time goalscoring record."
+    ],
+    "answer": [
+        "Yes, the context of the given sentence is present in the summary.",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.91666666665
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins aims to break cycling's hour record at London's Olympic Velodrome on June 7.",
+        "2. Wiggins will attempt to ride the furthest distance in 60 minutes, currently held by Australian rider Rohan Dennis.",
+        "3. Tickets to watch the event go on sale from April 19, with prices starting at £49."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins intends to attempt cycling's hour record at London's prestigious Olympic Velodrome on June 7, in front of a large enthusiastic audience.",
+        "Sir Bradley Wiggins aims to break the currently held 60-minute cycling distance record by Australian rider Rohan Dennis, by attempting to ride the furthest distance in June at London's Olympic Velodrome.",
+        "Sir Bradley Wiggins, a prominent British cyclist, aims to break cycling's hour record in June. He will attempt this feat at London's Olympic Velodrome, with a sell-out crowd in attendance. Tickets to watch the event go on sale from April 19, with prices starting at £49."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of this sentence by mentioning Sir Bradley Wiggins attempting to break the currently held 60-minute cycling distance record by Australian rider Rohan Dennis during his attempt in June at London's Olympic Velodrome.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.916666666675
+}

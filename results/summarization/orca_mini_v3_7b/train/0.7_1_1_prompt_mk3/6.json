@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the letters were expected to bring in anywhere from $ 300,000 to $ 600,000 , but received no bids at a sotheby 's auction wednesday . the 68-year-old yankee said he wanted ' a new generation to own and enjoy this icon of the yankees and of new york city '",
+        "the letters were expected to bring in anywhere from $ 300,000 to $ 600,000 , but received no bids at a sotheby 's auction wednesday . the 68-year-old yankee said he wanted ' a new generation to own and enjoy this icon of the yankees and of new york city '",
+        "the letters were expected to bring in anywhere from $ 300,000 to $ 600,000 , but received no bids at a sotheby 's auction wednesday . the 68-year-old yankee said he wanted ' a new generation to own and enjoy this icon of the yankees and of new york city '"
+    ],
+    "aspect": [
+        "1. Glowing blue letters from above Yankee Stadium did not find a buyer at Sotheby's auction, selling for $260,000 to a Sotheby's employee.",
+        "2. Yankee Hall of Famer Reggie Jackson purchased the letters for an undisclosed amount, hoping a new generation will enjoy the icon of the Yankees and New York City.",
+        "3. In addition to the letters, Sotheby's auctioned a New York Mets bullpen car from the late 60s, which fetched a winning bid of $112,500."
+    ],
+    "explain": [
+        "The historic glowing blue letters from above Yankee Stadium failed to find a buyer at the Sotheby's auction, but were eventually sold to a Sotheby's employee for $260,000, falling short of the anticipated price range of $300,000 to $600,000. The 68-year-old Yankee, however, expressed his desire for a new generation to enjoy and cherish this icon of the Yankees and New York City.",
+        "Reggie Jackson, a Hall of Famer Yankee, purchased letters for an undisclosed amount, wanting a new generation to appreciate the icon of the Yankees and New York City.",
+        "In addition to the letters, an auction of a vintage New York Mets bullpen car from the late 60s took place, which received a winning bid of $112,500."
+    ],
+    "answer": [
+        "Yes, the context of the provided sentence can be found in the summary. The summary mentions that the letters did not receive any bids at the Sotheby's auction, and although it does not mention the details about Sotheby's employee buying them later, it conveys the general idea.",
+        "Yes",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.66666666665
+}

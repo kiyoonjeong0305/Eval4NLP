@@ -1,0 +1,20 @@
+{{prompt_placeholder}}
+You will be given a summary and a aspect.
+Read the summary and the aspect carefully.
+
+Summary: {{summary}}
+Aspect: {{aspect}}
+
+{{response_placeholder}}
+Explain a core idea of given aspect shortly.
+Explain: {{gen 'explain' temperature=1}}
+
+Do you REALLY think the summary contains the context of this sentence? "{{explain}}" answer my question shortly.
+You should carefully inspect the summary word by word!
+Answer: {{gen 'answer' temperature=1}}
+
+Based on your answer "{{answer}}", score the summary from 1 to 5. 
+Score 1 means that the summary doesn't contain the core of the aspect.
+And score of 5 means that the summary perfectly contains the core of the aspect.
+
+Score: {{gen 'score' pattern='[1-5]'}}

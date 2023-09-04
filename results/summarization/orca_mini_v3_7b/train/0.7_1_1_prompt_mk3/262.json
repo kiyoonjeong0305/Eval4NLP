@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first .",
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first .",
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first ."
+    ],
+    "aspect": [
+        "1. Carlos Tevez wants to leave Juventus early and return to Boca Juniors, his former club.",
+        "2. Tevez's contract with Juventus runs until 2016 and Boca Juniors are close to completing a deal for him.",
+        "3. Juventus have started identifying potential replacements for Tevez, who has scored 17 times this season."
+    ],
+    "explain": [
+        "Carlos Tevez, the Juventus striker, is determined to leave the club this summer and return to his former team, Boca Juniors, as per the given aspect.",
+        "Juventus striker Carlos Tevez wants to leave the club this summer and Boca Juniors are close to finishing a deal. However, he must first end his contract with Juventus, as mentioned by Daniel Angelici, the club's president.",
+        "Juventus are preparing for Carlos Tevez's departure by finding suitable replacements as he has notched 17 goals this season."
+    ],
+    "answer": [
+        "No",
+        "Yes, the summary contains the context of the sentence.",
+        "To me, it doesn't convey the whole context of the given sentence. It should be rephrased or relocated in another part, as it is not necessarily connected to Tevez's potential departure or his goal tally."
+    ],
+    "score": [
+        1,
+        4,
+        2
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.75
+}

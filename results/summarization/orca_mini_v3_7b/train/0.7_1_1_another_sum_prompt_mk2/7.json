@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "serena williams beat sara errani 4-6 7-6(3) 6-3 in the fed cup play-off . the world no 1 eventually won the match to take her career record to 8-0 . williams and alison riske were thrashed 6-0 6-3 in the doubles rubber .",
+        "serena williams beat sara errani 4-6 7-6(3) 6-3 in the fed cup play-off . the world no 1 eventually won the match to take her career record to 8-0 . williams and alison riske were thrashed 6-0 6-3 in the doubles rubber .",
+        "serena williams beat sara errani 4-6 7-6(3) 6-3 in the fed cup play-off . the world no 1 eventually won the match to take her career record to 8-0 . williams and alison riske were thrashed 6-0 6-3 in the doubles rubber ."
+    ],
+    "aspect": [
+        "1. Serena Williams defeats Sara Errani in a thrilling match, but is unimpressed by her performance on clay, vowing to work harder.",
+        "2. Williams' victory brings her career record to 8-0 over Errani but her doubles defeat leaves the US relegated to World Group II.",
+        "3. US captain Mary Joe Fernandez acknowledges the team's struggle and emphasizes the need for continued effort and improvement."
+    ],
+    "explain": [
+        "Serena Williams emerges victorious against Sara Errani, maintaining her impressive career record but expressing dissatisfaction with her performance on clay and aiming for improvement.",
+        "Serena Williams had an impressive win against Sara Errani, bringing her career record to 8-0 against her opponent. However, in the doubles match, she and her partner Alison Riske were defeated, causing the U.S. team to be relegated to World Group II.",
+        "US captain Mary Joe Fernandez accepts the team's challenges and emphasizes the necessity of continuous effort and progress."
+    ],
+    "answer": [
+        "No, the summary does not contain this exact context.",
+        "Yes, the summary does contain the context of the sentence provided.",
+        "Yes, the summary contains the context of the sentence; however, it should be mentioned that Williams won against Errani and not \"Serena Williams\" as written in your response."
+    ],
+    "score": [
+        2,
+        4,
+        3
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.083333333325
+}

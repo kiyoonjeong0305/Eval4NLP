@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .",
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .",
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .",
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother .",
+        "boy, 2, slipped into cheetah pit at cleveland metroparks zoo on saturday . his parents jumped in and pulled him to safety before paramedics arrived . though the felines appeared to avoid the boy, cleveland metroparks zoo plans to press child endangering charges against the child's mother ."
+    ],
+    "aspect": [
+        "- A two-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo after his parents dangled him over the edge. ",
+        "- The boy suffered minor bumps and bruises and was listed in stable condition at the hospital. ",
+        "- The boy's leg was injured in the fall, but he was not attacked by the animals. ",
+        "- The cheetahs did not approach the boy or his parents while in the pit. ",
+        "- The boy's parents may face child endangering charges."
+    ],
+    "explain": [
+        "The aspect highlights that a 2-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo after his parents dangled him over the edge of the enclosure.",
+        "The aspect states that the boy who was 2 years old slipped into the cheetah pit at the Cleveland Metroparks Zoo on Saturday. His parents jumped in and pulled him to safety before paramedics arrived. Though the felines appeared to avoid the boy, Cleveland Metroparks Zoo plans to press child endangering charges against the child's mother. The core idea of this aspect is that the boy suffered minor injuries and his parents saved him from potential danger. The fact that the zoo intends to press charges against the mother suggests that they believe she was responsible for the child's actions.",
+        "The core idea of this aspect is that the boy was injured and the cheetahs did not attack him.",
+        "The aspect suggests that while the cheetahs may have been nearby, they did not pose an immediate threat or approach the boy or his parents while they were in the pit.",
+        "One of the potential consequences of the incident at the Cleveland Metroparks Zoo is that the boy's parents may face child endangerment charges."
+    ],
+    "answer": [
+        "Yes or No",
+        "Yes, the summary does contain the core idea of the aspect.",
+        "Yes",
+        "Yes or No.",
+        "I am sorry but I am unable to answer your question with the given information. Could you please provide me with more information or context?"
+    ],
+    "score": [
+        5,
+        5,
+        5,
+        5,
+        0
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

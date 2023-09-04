@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the woman , named only as gemma , has two children under five by two fathers and handed both infants over to her mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all . says her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "the woman , named only as gemma , has two children under five by two fathers and handed both infants over to her mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all . says her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "the woman , named only as gemma , has two children under five by two fathers and handed both infants over to her mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all . says her daughter 's penchant for legal high , mkat , and because she suspects her of stealing ."
+    ],
+    "aspect": [
+        "1. 23-year-old mother-of-two Gemma faces potential ban from seeing her children due to partying and drinking habits, according to her mother.",
+        "2. Debbie, Gemma's mother, is considering the ban after discovering Gemma's use of legal high MKat and suspicions of theft.",
+        "3. Debbie stepped in to care for the two children after social services threatened to take them away, and has since raised them alone."
+    ],
+    "explain": [
+        "Gemma is a 23-year-old mother of two children, with two different fathers. Her mother, Debbie, is threatening to ban Gemma from seeing the children if she keeps partying, using legal highs and drinking. The reasons include her daughter's alleged habit of using MKAT and theft suspicions.",
+        "In the case of Gemma and her two children, Debbie, their mother, is considering banning her daughter from seeing the kids because of her daughter's usage of legal high MKat and theft suspicions. Gemma has two young children by two different fathers and gave them to Debbie when they were four months old.",
+        "When Gemma was unable to care for her two young children, Debbie took on parenting responsibilities and has ever since raised the children alone."
+    ],
+    "answer": [
+        "Yes, the context of the given sentence \"Gemma is a 23-year-old mother of two children, with two different fathers. Her mother, Debbie, is threatening to ban Gemma from seeing the children if she keeps partying, using legal highs and drinking. The reasons include her daughter's alleged habit of using MKAT and theft suspicions\" can be found in the provided summary.",
+        "Yes",
+        "Yes, the summary contains the context of the quoted sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.833333333325
+}

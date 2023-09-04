@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "space lasers : dr adrian quarterman has suggested space lasers could be used to power homes in the future - but says the beams will be nowhere near as powerful as imagined in films like star wars -lrb- pictured -rrb- . dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy , the times reported . the energy it then creates , using semi-conductors , can be shot back down to earth .",
+        "space lasers : dr adrian quarterman has suggested space lasers could be used to power homes in the future - but says the beams will be nowhere near as powerful as imagined in films like star wars -lrb- pictured -rrb- . dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy , the times reported . the energy it then creates , using semi-conductors , can be shot back down to earth .",
+        "space lasers : dr adrian quarterman has suggested space lasers could be used to power homes in the future - but says the beams will be nowhere near as powerful as imagined in films like star wars -lrb- pictured -rrb- . dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy , the times reported . the energy it then creates , using semi-conductors , can be shot back down to earth .",
+        "space lasers : dr adrian quarterman has suggested space lasers could be used to power homes in the future - but says the beams will be nowhere near as powerful as imagined in films like star wars -lrb- pictured -rrb- . dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy , the times reported . the energy it then creates , using semi-conductors , can be shot back down to earth ."
+    ],
+    "aspect": [
+        "- Dr. Adrian Quarterman is working on a satellite-based laser system that converts sunlight into energy and can be beamed back to earth.",
+        "- The system could make solar power viable in Scotland and restore power in disaster-hit areas.",
+        "- The laser will not be powerful enough to blow up planets or blind pigeons.",
+        "- Dr. Quarterman acknowledges that control of the satellites could be a concern."
+    ],
+    "explain": [
+        "Dr. Adrian Quarterman's work involves creating a laser that converts sunlight into energy.",
+        "\"The system could make solar power viable in Scotland and restore power in disaster-hit areas\"",
+        "The given aspect states that the space lasers will not be powerful enough to destroy planets or harm objects on earth. This means that the beams of energy being used in the space lasers will be significantly less intense and destructive than portrayed in science fiction movies.",
+        "The given aspect highlights the concern that the satellite controlling the laser might be vulnerable to hazards and therefore control of the satellites will be a concern."
+    ],
+    "answer": [
+        "Yes. The summary mentions Dr. Adrian Quarterman's work on a laser that converts sunlight into energy, which is the core idea presented in the aspect.",
+        "It is not mentioned in the summary.",
+        "The summary does not contain the core idea of the given aspect. Instead, it provides information about the use of space lasers in powering homes and the focus of Dr. Adrian Quarterman's work on a laser that converts sun beams into energy.",
+        "Actually, the aspect is not directly present in the summary. It is an opinion or concern that has been mentioned in a news report about Dr. Adrian Quarterman's work on space lasers, but it is not mentioned in the summary itself."
+    ],
+    "score": [
+        5,
+        0,
+        2,
+        3
+    ],
+    "mean_score": 2.5,
+    "gt_score": 4.16666666665
+}

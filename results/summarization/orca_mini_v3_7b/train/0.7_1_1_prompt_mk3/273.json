@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "three vehicles collided on brisbane valley highway on wednesday afternoon . three vehicles were taken to ipswich hospital in brisbane . the three were involved in a crash crash in brisbane , brisbane . three people were including four children , have been taken to hospital with minor injuries . three car pileup happened at the brisbane valley west of fernvale . a 40-year-old man with chest and shoulder injuries and a five-year-old boy suffered from abdominal pain . the two were airlifted to hospital and airlifted a number of patients to hospital .",
+        "three vehicles collided on brisbane valley highway on wednesday afternoon . three vehicles were taken to ipswich hospital in brisbane . the three were involved in a crash crash in brisbane , brisbane . three people were including four children , have been taken to hospital with minor injuries . three car pileup happened at the brisbane valley west of fernvale . a 40-year-old man with chest and shoulder injuries and a five-year-old boy suffered from abdominal pain . the two were airlifted to hospital and airlifted a number of patients to hospital .",
+        "three vehicles collided on brisbane valley highway on wednesday afternoon . three vehicles were taken to ipswich hospital in brisbane . the three were involved in a crash crash in brisbane , brisbane . three people were including four children , have been taken to hospital with minor injuries . three car pileup happened at the brisbane valley west of fernvale . a 40-year-old man with chest and shoulder injuries and a five-year-old boy suffered from abdominal pain . the two were airlifted to hospital and airlifted a number of patients to hospital ."
+    ],
+    "aspect": [
+        "1. Ten people, including four children, were involved in a multi-vehicle crash near Fernvale.",
+        "2. The accident took place on Brisbane Valley Highway, with three vehicles colliding.",
+        "3. A 40-year-old man and a five-year-old boy were among the first patients flown to the hospital, followed by two other people with injuries."
+    ],
+    "explain": [
+        "The aspect states that a multi-vehicle crash, involving ten people (including four children), occurred near Fernvale.",
+        "The accident took place on Brisbane Valley Highway, where three vehicles collided, resulting in injuries to four children and two adults, including a 40-year-old man with chest and shoulder injuries and a 5-year-old boy with abdominal pain. They were all transported to Ipswich Hospital in Brisbane.",
+        "A 40-year-old man and a 5-year-old boy were among the first patients from the 3-vehicle crash airlifted to Ipswich Hospital, followed by two others with injuries."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the stated aspect.",
+        "Yes",
+        "Yes\nBy carefully inspecting each word, the context of the given sentence can be identified within the summary text."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 2.5
+}

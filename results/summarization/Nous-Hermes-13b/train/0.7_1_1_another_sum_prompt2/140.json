@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson .",
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson .",
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson .",
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson .",
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson ."
+    ],
+    "aspect": [
+        "1. A young accountant fell down a 70ft cliff to his death while running from a taxi to avoid paying the fare.",
+        "2. Graduate Jacob Phillips, 23, leapt over a fence in the dark, plunging down the cliff when he caught a cab home after a night out.",
+        "3. Mr Phillips had no money for the fare and ran from the driver, who gave chase in Penarth, South Wales.",
+        "4. The taxi driver didn't know the danger Phillips faced and wouldn't have left him if he knew where they were going.",
+        "5. Phillips, who worked for Pretty Green, fell down the cliff after a pitch-black run and died at the bottom of the disused Northern Promenade."
+    ],
+    "explain": [
+        "A core idea of this aspect is that a young accountant, Jacob Phillips, fell down a 70ft cliff to his death while running from a taxi to avoid paying the fare.",
+        "The given aspect states that Jacob Phillips, who was a 23-year-old graduate, leapt over a fence in the dark and ended up plunging down the cliff when he caught a cab home after a night out in Penarth. This core idea highlights the unfortunate outcome of Jacob's actions and the fact that his misstep led to a tragic accident.",
+        "Mr Phillips did not have any money to pay for his fare and ran away from the taxi driver in Penarth, South Wales, after catching a taxi with his friends.",
+        "Even though the taxi driver didn't know the danger Jacob Phillips faced, he still wouldn't have left him at the scene because he wouldn't have known where he was going. Therefore, the taxi driver can't be held accountable for Phillips' death.",
+        "The core idea of the given aspect is that Mr. Jacob Phillips, while on a night out with friends, drank alcohol in cardiff before catching a taxi with friends Padraig Crowley and Rory Robinson. The taxi cab driver later dropped them off at their destination in Penarth, but he later caught up with them with Jacob attempting to run away. In the ensuing chaos, he ended up leaping over a fence in the dark and fell over the cliff, resulting in his untimely demise. The incident occurred due to Jacob's actions while being under the influence of alcohol."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea.",
+        "A person leapt over a fence in the dark and plunged down the cliff.",
+        "No, the summary does not contain the core idea. The core idea is that Mr Phillips ran from the taxi driver and had no money for the fare.",
+        "\nYes, the aspect is that the taxi driver wouldn't have left Phillips at the scene even if he knew the danger he was in.",
+        "The aspect does not mention anything about Jacob's actions while being under the influence of alcohol. It only states that he jumped over a fence in the dark and fell down the cliff. So, the summary does not contain the core idea."
+    ],
+    "score": [
+        0,
+        0,
+        0,
+        4,
+        0
+    ],
+    "mean_score": 0.8,
+    "gt_score": 4.5
+}

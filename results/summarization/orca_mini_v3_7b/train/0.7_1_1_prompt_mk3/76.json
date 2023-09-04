@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent.",
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent.",
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent."
+    ],
+    "aspect": [
+        "1. Falcao struggled in Manchester United, despite not being happy in France.",
+        "2. Falcao's former teammate, Dirar, believes Falcao must regret the failed loan move.",
+        "3. Falcao may need a more atmospheric environment, as he wasn't feeling well in Monaco."
+    ],
+    "explain": [
+        "Falcao struggled in Manchester United, despite not being happy in France, pointing to difficulties that may persist regardless of where he plays.",
+        "Nabil Dirar, Falcao's former teammate, believes that Falcao regrets his failed loan move to England's Premier League because it is not the best environment for him and he must work harder and be more consistent.",
+        "Falcao may benefit from a more dynamic environment since he wasn't performing well in Monaco due to feeling unwell."
+    ],
+    "answer": [
+        "Yes.",
+        "Yes, the summary context captures the idea presented in the given sentence.",
+        "Yes, the summary does contain the context of the sentence, stating that Falcao might benefit from a more engaging atmosphere due to not performing well in Monaco and feeling unwell."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.083333333325
+}

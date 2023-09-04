@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "the frenchman believes arsenal need a goalkeeper , centre back , defensive midfielder and striker if they are to have any chance of winning the barclays premier league title . sky sports pundit thierry henry questioned whether arsenal can win the title with olivier giroud in attack . arsenal are third in the premier league , level on points with manchester city but with a game in hand .",
+        "the frenchman believes arsenal need a goalkeeper , centre back , defensive midfielder and striker if they are to have any chance of winning the barclays premier league title . sky sports pundit thierry henry questioned whether arsenal can win the title with olivier giroud in attack . arsenal are third in the premier league , level on points with manchester city but with a game in hand .",
+        "the frenchman believes arsenal need a goalkeeper , centre back , defensive midfielder and striker if they are to have any chance of winning the barclays premier league title . sky sports pundit thierry henry questioned whether arsenal can win the title with olivier giroud in attack . arsenal are third in the premier league , level on points with manchester city but with a game in hand .",
+        "the frenchman believes arsenal need a goalkeeper , centre back , defensive midfielder and striker if they are to have any chance of winning the barclays premier league title . sky sports pundit thierry henry questioned whether arsenal can win the title with olivier giroud in attack . arsenal are third in the premier league , level on points with manchester city but with a game in hand ."
+    ],
+    "aspect": [
+        "1. Thierry Henry criticized Arsenal's transfer window deals and urged them to purchase a goalkeeper, center back, defensive midfielder, and striker to have a chance at winning the Premier League title.",
+        "2. Henry also hit out at Olivier Giroud, saying Arsenal will struggle to win the league if he remains as the first choice striker.",
+        "3. Arsenal need four top players, including a goalkeeper, center back, holding midfielder, and top quality striker, to win the league.",
+        "4. Henry believes Arsenal need to buy players of similar caliber to those Chelsea signed last season."
+    ],
+    "explain": [
+        "The core idea of this aspect is that Henry questioned Arsenal's transfer window deals and suggested that the team lacks quality in key positions such as goalkeeper, center back, defensive midfielder, and striker. Without these additions, Henry believes that Arsenal will struggle to win the Premier League title.",
+        "The core idea of the given aspect is that striker Olivier Giroud is not good enough for Arsenal to challenge for the Barclays Premier League title. Henry believes that the team needs a better striker to have a chance at winning the league.",
+        "One of the core ideas of the aspect is that Arsenal needs a goalkeeper, a center back, a holding midfielder, and a top-quality striker to have any chance of winning the league. \n \nDoes the summary support or contradict this idea? Explain.\nSupport: The summary supports the idea by mentioning that Arsenal needs these four positions to have any chance of winning the league. \nContradict: The summary also mentions the pundit's questioning of Olivier Giroud's ability to lead Arsenal to the title, which does not directly contradict the idea but shows that there are other areas of concern.",
+        "The core idea of the given aspect is that Thierry Henry believes Arsenal need to invest in signing top quality players similar to those Chelsea signed last season. According to him, these players can strengthen the team and improve their chance of winning the title."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of this aspect.",
+        "Not necessarily, the summary only mentions that Arsenal need a goalkeeper, centre back, and defensive midfielder in addition to a striker if they want to challenge for the title. It does not explicitly state that Giroud is not good enough.",
+        "Not really, the summary only mentions that Arsenal needs a goalkeeper, a center back, a holding midfielder, and a top-quality striker to have any chance of winning the league and does not elaborate on the reason why these positions are important.",
+        "From the summary, the core idea of the given aspect is not explicitly mentioned. Therefore, the answer to the question is \"No\"."
+    ],
+    "score": [
+        0,
+        3,
+        1,
+        0
+    ],
+    "mean_score": 1.0,
+    "gt_score": 4.5
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying .",
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying .",
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying ."
+    ],
+    "aspect": [
+        "1. A woman with seven miscarriages, Dawn, accused her friend and burglar, Jamie, of stealing money meant for her babies' grave stone, which led to a confrontation on the Jeremy Kyle show.",
+        "2. Dawn suspected Jamie and his girlfriend Carol of hiding the money, and a lie detector test confirmed that Jamie took it.",
+        "3. Dawn was heartbroken, as she had saved the money for a £500 headstone for her deceased son, Daniele James, and felt betrayed by Jamie's actions."
+    ],
+    "explain": [
+        "Dawn, a woman with a history of seven miscarriages, accused her friend, Jamie, who is also a burglar, of stealing money meant for her babies' grave stone. This led to a confrontation on Jeremy Kyle show.",
+        "Dawn accuses Jamie of stealing money, which is later confirmed by a lie detector test, showing that Jamie indeed took the money.",
+        "Dawn was emotionally devastated after discovering that Jamie stole from her, as she had saved the money for her deceased son's headstone."
+    ],
+    "answer": [
+        "I do not think the summary contains the context of that sentence.",
+        "No, the context of the sentence does not accurately reflect the summary of the situation. The sentence states that the lie detector test confirmed Jamie's guilt, but the summary states that the lie detector test revealed Jamie was lying, not that he was guilty of stealing money.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        1,
+        2,
+        4
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.666666666675
+}

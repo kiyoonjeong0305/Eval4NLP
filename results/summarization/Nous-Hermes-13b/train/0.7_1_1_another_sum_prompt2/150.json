@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the",
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the",
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the"
+    ],
+    "aspect": [
+        "1. A landslide caused a section of land near Japan's Hokkaido Island coast to drop and pivot into the air, resulting in 1,000ft of seabed being forced to the surface overnight.",
+        "2. The new stretch of land, measuring 1,000- 1,640ft long, and 100ft wide, appeared unexpectedly and has not expanded further.",
+        "3. The landslide happened as a result of melting ice and snow causing a section of land to drop."
+    ],
+    "explain": [
+        "A landslide caused a section of land near Japan's Hokkaido Island coast to drop and pivot into the air, resulting in 1,000ft of seabed being forced to the surface overnight. A different landslide event in Rausu caused some coast to rise, but the residents are not sure why this is happening. These events are both caused by land shifting due to natural forces, resulting in changes to the coastline.",
+        "The aspect states that the new stretch of coastline appeared unexpectedly and has not expanded further than its initial size.",
+        "The aspect states that the landslide occurred due to melting of ice and snow causing a section of land to drop. This means that the instability of the terrain in this area is a result of natural processes like the melting of glaciers and snow, which can cause movement of the earth. This aspect also implies that the residents of Rausu should be cautious of further changes to the landscape that could be caused by such natural processes."
+    ],
+    "answer": [
+        "NO!\n\nDo you understand the aspect related to the summary? answer my question shortly.\nYou should think and then answer!\nAnswer: YES!",
+        "Yes, the core idea of the given aspect is explained in the summary. The summary states that the landslide in Rausu has caused an extra stretch of coastline to rise, which came as a complete surprise to the locals, and has not expanded further.",
+        "Yes, the summary does contain the core idea of the aspect. The aspect states that the landslide occurred due to melting of ice and snow causing a section of land to drop, and the summary mentions that a landslide in the area of Rausu caused an extra stretch of coastline to rise. Both the summary and the aspect are talking about the same event, which was caused by the melting of ice and snow."
+    ],
+    "score": [
+        4,
+        5,
+        5
+    ],
+    "mean_score": 4.666666666666667,
+    "gt_score": 2.75
+}

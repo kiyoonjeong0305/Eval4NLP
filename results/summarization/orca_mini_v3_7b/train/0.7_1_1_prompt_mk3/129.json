@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the extra stretch of coastline on shiretoko peninsula near the town of rausu has risen from the sea surface . melting ice and snow caused a section of land to drop , pivoting the underwater area into the air . the mass , which has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide .",
+        "the extra stretch of coastline on shiretoko peninsula near the town of rausu has risen from the sea surface . melting ice and snow caused a section of land to drop , pivoting the underwater area into the air . the mass , which has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide .",
+        "the extra stretch of coastline on shiretoko peninsula near the town of rausu has risen from the sea surface . melting ice and snow caused a section of land to drop , pivoting the underwater area into the air . the mass , which has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide ."
+    ],
+    "aspect": [
+        "1. A landslide in Hokkaido, Japan caused 1,000ft of seabed to emerge, exposing the ocean floor and creating a new stretch of coastline near the town of Rausu.",
+        "2. Geologists believe the emergence was a result of the landslide, which occurred when melting ice and snow caused a section of land to drop and pivot the underwater area into the air.",
+        "3. Local residents were unaware of the land movement overnight, and authorities have yet to determine the exact timing of the landslide."
+    ],
+    "explain": [
+        "A landslide in Hokkaido, Japan exposed 1,000 ft of seabed and created a new stretch of coastline near Rausu, rising 30-50 ft above sea level and measuring 1,000-1,640 ft long and 100 ft wide.",
+        "The emergence of the extra stretch of coastline on Shiretoko Peninsula is believed to have been caused by a landslide, where melting ice and snow led to a section of land dropping and causing the underwater area to rise, creating the raised coastline.",
+        "The local residents were unaware of the land movement overnight, and authorities are still unable to determine the exact time when the landslide occurred."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 5.0
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "leicester host swansea on saturday just three points from safety . last week 's 3-2 win at west brom handed them a survival lifeline . jamie vardy scored an injury-time winner against west bromwich albion .",
+        "leicester host swansea on saturday just three points from safety . last week 's 3-2 win at west brom handed them a survival lifeline . jamie vardy scored an injury-time winner against west bromwich albion .",
+        "leicester host swansea on saturday just three points from safety . last week 's 3-2 win at west brom handed them a survival lifeline . jamie vardy scored an injury-time winner against west bromwich albion ."
+    ],
+    "aspect": [
+        "1. Boss Nigel Pearson urges Leicester to focus on their own games, not rivals.",
+        "2. Leicester host Swansea with three points from safety in the Premier League.",
+        "3. Pearson wants his side to remain focused on their own jobs, as their future is in their hands."
+    ],
+    "explain": [
+        "Boss Nigel Pearson encourages Leicester to prioritize their matches rather than worrying about their opponents' performances in order to secure their spot in the league.",
+        "Leicester City, with just three points ahead of the relegation zone, are hosting Swansea in a must-win game to keep their hopes of survival alive. A crucial victory at West Brom last week gives them a lifeline, with a late goal from Jamie Vardy proving decisive.",
+        "Pearson wants the team to stay focused on their duties, emphasizing that their fate is in their own control, as they're simply three points away from safety."
+    ],
+    "answer": [
+        "No",
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.75
+}

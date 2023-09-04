@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 .",
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 .",
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 .",
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 .",
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 .",
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 ."
+    ],
+    "aspect": [
+        "1. England Under-17 coach John Peacock has named his squad for the upcoming UEFA European Championship in Bulgaria. ",
+        "2. The Young Lions are the defending champions and have progressed to the tournament with a 100% record in qualifying. ",
+        "3. Chelsea's Jay Dasilva and Arsenal's Chris Willock have been included in the squad. ",
+        "4. Liverpool duo Herbie Kane and Trent Arnold have been recalled after missing the Elite Round of qualifiers. ",
+        "5. The squad contains talented young players from a host of Premier League clubs and includes Layton Ndukwu and Ike Ugbo. ",
+        "6. England's first match is against Italy on May 7, followed by matches against Holland and Ireland."
+    ],
+    "explain": [
+        "John Peacock has announced the England Under-17 squad for the upcoming UEFA European Championship in Bulgaria.",
+        "The aspect states that England's Under-17 football team, also known as the Young Lions, are the defending champions of the European Under-17 Championships. This means that they won the tournament last year, beating the Netherlands on penalties in the final. They have qualified for this year's tournament with a perfect record, having won all of their games in the qualifying stage. This shows that they are a strong team and are likely to be a force to be reckoned with in the tournament.",
+        "The aspect states that Chelsea's Jay Dasilva and Arsenal's Chris Willock have been included in the squad. This suggests that the England Under-17 national team coach, John Peacock, has selected these two talented young football players to be a part of the team for the upcoming European Under-17 Championship in Bulgaria. These players will get an opportunity to showcase their skills on the international stage and represent their country in the tournament.",
+        "The aspect states that Liverpool duo Herbie Kane and Trent Arnold, who were missing during the Elite Round of qualifiers, have been recalled by manager John Peacock for the England Under-17 team for the upcoming European Championship in Bulgaria. The two players will now be a part of the team, which is the defending champion and will open its campaign against Italy on May 7.",
+        "The given aspect highlights the presence of talented young players from various Premier League clubs in the England U-17 football squad, such as Layton Ndukwu and Ike Ugbo. These players have been selected to participate in the European Under-17 Championship in Bulgaria next month. This championship is crucial for these young players as they have the opportunity to showcase their skills and abilities on a global platform.",
+        "The aspect states that England's first match of the European Under-17 Championship is against Italy on May 7. The match is significant because it marks the beginning of England's campaign in the tournament. Additionally, England's first two matches in the group stage will be against Italy and Holland, both of which are strong teams. Therefore, the team will need to prepare well and be at their best in order to have a successful campaign."
+    ],
+    "answer": [
+        "Yes, the summary contains the core idea.",
+        "No, the summary does not contain the core idea of the aspect. The aspect states that England's Under-17 football team won the tournament last year and have qualified with a perfect record, while the summary only mentions the team's participation in this year's tournament and their opening match against Italy.",
+        "No, the summary does not contain the core idea of the aspect. The aspect mentions the inclusion of Jay Dasilva and Chris Willock in the squad, while the summary only talks about the team's defending title, the tournament schedule and the opponents in the first match.",
+        "Yes, the summary contains the core idea.",
+        "After carefully analyzing the summary, I can say that the core idea of the given aspect is not present in the summary. The summary only provides information about John Peacock naming the England U-17 squad for the European Under-17 Championship in Bulgaria, the team's defending champions status, and their group opponents in the tournament. There is no mention of the squad's talent or the players selected from various Premier League clubs.",
+        "No, the summary does not contain the core idea of the aspect. The summary only provides basic information about the team and the tournament, without mentioning the upcoming matches against Italy, Holland, and Ireland. The aspect, on the other hand, focuses specifically on the team's first three matches in the group stage."
+    ],
+    "score": [
+        5,
+        0,
+        0,
+        5,
+        0,
+        0
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 5.0
+}

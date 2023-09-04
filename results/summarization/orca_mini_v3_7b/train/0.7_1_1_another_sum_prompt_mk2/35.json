@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "world no 1 williams beat sara errani in the fed cup play-off on sunday . the us were beaten 6-0 6-3 in the doubles rubber by errani and flavia pennetta . serena williams won her 19th singles grand slam at the australian open .",
+        "world no 1 williams beat sara errani in the fed cup play-off on sunday . the us were beaten 6-0 6-3 in the doubles rubber by errani and flavia pennetta . serena williams won her 19th singles grand slam at the australian open .",
+        "world no 1 williams beat sara errani in the fed cup play-off on sunday . the us were beaten 6-0 6-3 in the doubles rubber by errani and flavia pennetta . serena williams won her 19th singles grand slam at the australian open ."
+    ],
+    "aspect": [
+        "1. Serena Williams struggles to beat Sara Errani in Fed Cup, considers claycourt season eye-opener.",
+        "2. Williams defeats Errani 4-6 7-6(3) 6-3 but suffers doubles defeat; Williams considers claycourt season a challenge.",
+        "3. USA's defeat in Fed Cup relegates them to World Group II; Williams aims to improve performance on clay."
+    ],
+    "explain": [
+        "Serena Williams, the world number 1 tennis player, struggled to beat Sara Errani in the Fed Cup play-off game. This match showcased Errani's improved performance, which has made Williams consider the claycourt season as an eye-opener for future competitions.",
+        "Williams defeated Errani, but the doubles rubber went to Errani and Pennetta, showing a strong challenge for Williams on clay courts.",
+        "The USA's defeat in the Fed Cup play-off led to them being relegated to World Group II. Serena Williams aims to perform better on clay, emphasizing the importance of improving her performance on that surface."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary does indeed contain the context of the given sentence.",
+        "No, the summary does not contain the context mentioned in the sentence. It only provided details about Serena Williams' win at the Australian Open and their loss in the Fed Cup play-off, not mentioning the relegation to World Group II or her aim to improve her performance on clay."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.41666666665
+}

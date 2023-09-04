@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "\"( cnn ) spacex on tuesday launched a two - stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful . spacex founder elon musk tweeted : \"\" ascent successful . dragon enroute to space station .\"",
+        "\"( cnn ) spacex on tuesday launched a two - stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful . spacex founder elon musk tweeted : \"\" ascent successful . dragon enroute to space station .\"",
+        "\"( cnn ) spacex on tuesday launched a two - stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful . spacex founder elon musk tweeted : \"\" ascent successful . dragon enroute to space station .\""
+    ],
+    "aspect": [
+        "1. SpaceX launches Falcon 9 rocket carrying Dragon cargo spacecraft to ISS.",
+        "2. SpaceX's difficult bid to land rocket stage on floating barge unsuccessful but still attempts to master the technique.",
+        "3. Elon Musk seeks to reuse rockets to reduce space travel costs, with Dragon delivering cargo to ISS on the second SpaceX mission."
+    ],
+    "explain": [
+        "SpaceX successfully launched its Falcon 9 rocket carrying the Dragon cargo spacecraft to the International Space Station. However, during the attempt to land a rocket stage on a floating barge for the first time, they were unsuccessful.",
+        "Despite failing to land the rocket stage on a floating barge for the first time, SpaceX remains committed to mastering the technique.",
+        "Elon Musk aims to reuse space rockets to reduce space travel costs, with his company SpaceX delivering cargo to the International Space Station on its second mission using the Dragon spacecraft."
+    ],
+    "answer": [
+        "The summary contains the context of the sentence, as it details the successful launch of the rocket, the cargo spacecraft, and the unsuccessful landing attempt of the rocket stage on a floating barge.",
+        "After the successful launch of their Falcon 9 rocket carrying the Dragon spaceship, SpaceX made an effort to try something new by landing a rockets stage on a floating barge, which isn't mentioned in the summary. So, the original sentence by aspect would have been: \"SpaceX's difficult bid to land rocket stage on floating barge unsuccessful but still attempts to master the technique.\"",
+        "Yes, the summary contains the context of that sentence."
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 2.83333333335
+}

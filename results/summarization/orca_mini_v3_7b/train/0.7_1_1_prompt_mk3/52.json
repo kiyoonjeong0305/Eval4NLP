@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning . the driver of the car was pumping gas at a 76 station in south los angeles . the group covered his white dodge charger in gasoline and lit it ablaze . the man 's grandmother said the fire was lit after the suspects attempted to carjack her grandson .",
+        "at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning . the driver of the car was pumping gas at a 76 station in south los angeles . the group covered his white dodge charger in gasoline and lit it ablaze . the man 's grandmother said the fire was lit after the suspects attempted to carjack her grandson .",
+        "at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning . the driver of the car was pumping gas at a 76 station in south los angeles . the group covered his white dodge charger in gasoline and lit it ablaze . the man 's grandmother said the fire was lit after the suspects attempted to carjack her grandson ."
+    ],
+    "aspect": [
+        "1. A gang set fire to a car at a California gas station, causing no injuries.",
+        "2. The driver had an argument with the suspects before the fire started.",
+        "3. The Los Angeles County Fire Department is investigating the incident as arson."
+    ],
+    "explain": [
+        "A gang set fire to a car at a California gas station, which resulted in no injuries.",
+        "The aspect states that the driver had an argument with the suspects before the fire started, suggesting that the argument might have escalated into a threat or a plan to cause harm, ultimately leading to the gasoline being poured on the car and the fire that ensued.",
+        "The Los Angeles County Fire Department is investigating the incident as arson due to the fact that at least three people poured gasoline on a car and set it on fire, causing property damage."
+    ],
+    "answer": [
+        "The summary does not contain the context of the given sentence. It contains different information about the incident.",
+        "The summary contains the context of the sentence, mentioning that there was an argument between the driver and the suspects before the fire, which may have led to the gasoline being poured on the car.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.5
+}

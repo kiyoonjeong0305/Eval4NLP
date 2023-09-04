@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins finished his team sky career in the paris-roubaix 253.5km one-day race on sunday .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins finished his team sky career in the paris-roubaix 253.5km one-day race on sunday .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins finished his team sky career in the paris-roubaix 253.5km one-day race on sunday ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins attempts cycling's hour record on June 7 at London's Olympic Velodrome.",
+        "2. Wiggins, a four-time Olympic champion and 2012 Tour de France winner, is expected to set a long-lasting record.",
+        "3. Wiggins' attempt will be supported by a potential capacity crowd at the London Olympic Velodrome."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins, a four-time Olympic champion and 2012 Tour de France winner, will challenge cycling's hour record on June 7 at London's Olympic Velodrome, aiming to further his accomplishments by riding the greatest distance possible in 60 minutes at the Lee Valley VeloPark, following his career conclusion in the Paris-Roubaix 253.5km one-day race.",
+        "Sir Bradley Wiggins, a four-time Olympic champion and 2012 Tour de France winner, will attempt to break the cycling hour record at the London Olympic Velodrome on June 7th. His aim is to ride the furthest distance in 60 minutes, which is expected to set a long-lasting record in the sport.",
+        "The aspect suggests that Sir Bradley Wiggins' attempt to break the cycling hour record will likely attract a large audience at the London Olympic Velodrome, potentially creating a supportive and energizing atmosphere for him during the challenge."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence, as it mentions Wiggins attempting cycling's hour record, his attempt location (Olympic Velodrome in London), his recent career conclusion, and his aspirations to further his accomplishments.",
+        "Yes",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.166666666675
+}

@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions ."
+    ],
+    "aspect": [
+        "1. Esteban Cambiasso wants to keep Leicester City in the Premier League.",
+        "2. Leicester City is currently 7 points behind in the relegation zone.",
+        "3. Esteban Cambiasso won 15 trophies during his time at Inter Milan.",
+        "4. Esteban Cambiasso signed for Leicester City in the summer.",
+        "5. Esteban Cambiasso says that keeping Leicester City in the Premier League will feel like winning a trophy.",
+        "6. Esteban Cambiasso is currently playing for Leicester City."
+    ],
+    "explain": [
+        "One of the core ideas of this aspect is that Esteban Cambiasso, a midfielder for the Foxes, is optimistic about his team's chances of staying in the Premier League despite their current position at the bottom of the table. The Argentinian player believes that the Foxes have the potential to be counted among the best teams in the league if they can work hard and improve their game.",
+        "The aspect states that Leicester City is currently 7 points behind in the relegation zone. This means that they are at risk of being relegated to a lower division if they fail to improve their performances.",
+        "This core idea suggests that the player, Esteban Cambiasso, has an impressive winning record during his time at Inter Milan by securing 15 trophies. This achievement showcases his ability to lead teams to success and demonstrates his value as a player.",
+        "The aspect states that Esteban Cambiasso signed for Leicester City in the summer.",
+        "One of the core ideas of this aspect is that in his opinion, simply keeping Leicester City in the Premier League will feel like a great achievement, and it would be as if they had won a trophy.",
+        "Esteban Cambiasso, the famous Argentinian midfielder is currently playing for Leicester City, which is a top football club in England."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. The summary is about Leicester City's position in the Premier League and their Argentinian midfielder Esteban Cambiasso's optimism about keeping them in the league, while the aspect talks about Cambiasso's desire to keep the Foxes in the Premier League.",
+        "Yes, the aspect provided clarifies that Leicester City is currently 7 points behind in the relegation zone, which is mentioned in the summary.",
+        "After analyzing the summary, the aspect provided is not explicitly mentioned in the given text. However, it is possible that Esteban Cambiasso's experience of winning trophies at Inter Milan could be a core idea that can be inferred from the summary, as it suggests that he has the potential to help Leicester City rise to the top.",
+        "It does not appear that the summary contains the core idea of the aspect.",
+        "The summary does not contain the core idea of the aspect. The aspect discusses how Esteban Cambiasso perceives keeping Leicester City in the Premier League, while the summary talks about Foxes being seven points behind Leicester and other teams in the Premier League.",
+        "The aspect explains that Esteban Cambiasso, who has won a cup in European competitions, is currently playing for Leicester City."
+    ],
+    "score": [
+        0,
+        5,
+        3,
+        0,
+        0,
+        5
+    ],
+    "mean_score": 2.1666666666666665,
+    "gt_score": 2.333333333325
+}

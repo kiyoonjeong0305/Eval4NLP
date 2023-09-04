@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week .",
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week .",
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week ."
+    ],
+    "aspect": [
+        "1. Outspoken MP Bob Katter accuses Queensland Government of assuming Billy Gordon would quit amidst domestic violence allegations.",
+        "2. Katter's statement prompts criticism on social media, questioning his \"black puppet\" term.",
+        "3. Katter defends statement, explaining personal experiences and desire to call out racial overtones."
+    ],
+    "explain": [
+        "Bob Katter criticizes the Queensland Government for assuming Billy Gordon would quit due to recent domestic violence allegations, adding that he's experienced racism from both major parties.",
+        "Katter's statement about Mr. Gordon prompts criticism on social media, with people questioning the use of the \"black puppet\" term.",
+        "Katter defends his statement on experiencing racist attitudes, emphasizing the importance of addressing these issues."
+    ],
+    "answer": [
+        "No, the context of the sentence is not present in the summary.",
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary does not contain the context of the sentence."
+    ],
+    "score": [
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.166666666675
+}

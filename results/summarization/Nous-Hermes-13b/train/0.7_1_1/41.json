@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines .",
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines .",
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines ."
+    ],
+    "aspect": [
+        "1. A four-year-old boy was forced to hand over his plastic nerf gun after airport security deemed it a security risk at East Midlands Airport.",
+        "2. Security officers at East Midlands Airport were criticized for confiscating a harmless toy gun from a four-year-old boy.",
+        "3. East Midlands Airport apologized for confiscating a toy gun from a four-year-old boy and offered to post it back to the family."
+    ],
+    "explain": [
+        "James Hayward's four-year-old son was forced to hand over his plastic nerf gun at East Midlands Airport due to airport security deeming it a security risk.",
+        "The aspect describes the negative action of security officers at East Midlands Airport who confiscated a harmless toy gun from a four-year-old boy. It highlights the criticisms directed towards the officers for being over-zealous in their actions.",
+        "According to the given aspect, East Midlands Airport apologized for confiscating a toy gun from a four-year-old boy and offered to post it back to the family."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea.",
+        "It depends on the definition of \"core idea\". If by \"core idea\" you mean the general subject or main point of the aspect, then no, the summary does not contain the core idea. However, if by \"core idea\" you mean the specific detail or point being made, then yes, the aspect \"Security officers at East Midlands Airport were criticized for confiscating a harmless toy gun from a four-year-old boy\" is present in the summary.",
+        "Yes"
+    ],
+    "score": [
+        0,
+        4,
+        5
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.16666666665
+}

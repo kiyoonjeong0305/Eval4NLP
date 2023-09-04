@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says .",
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says .",
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says ."
+    ],
+    "aspect": [
+        "1. Russian SU-27 Flanker intercepts US reconnaissance plane, deemed unsafe and unprofessional due to close proximity and high speed.",
+        "2. US Pentagon and State Department plan to file diplomatic complaint, citing previous incidents.",
+        "3. Incidents occur between Russian and US aircraft in Northern Europe and the area between Russian Far East and Alaska."
+    ],
+    "explain": [
+        "A Russian SU-27 Flanker intercepted an American reconnaissance plane, causing concerns due to the close proximity and high speed exhibited during the maneuver, which was deemed unsafe and unprofessional.",
+        "The U.S. Pentagon and State Department plan to file a diplomatic complaint, citing previous incidents, due to the Russian fighter jet's \"unsafe and unprofessional\" behavior during the intercept.",
+        "Incidents between Russian and US aircraft often occur in Northern Europe and the area between Russian Far East and Alaska, indicating ongoing military tensions in these regions."
+    ],
+    "answer": [
+        "Yes",
+        "No, the given summary does not contain the context of the sentence precisely.",
+        "No, the summary does not contain the context of the given sentence, but it does mention an incident involving a Russian fighter jet and a US reconnaissance plane in the Baltic Sea."
+    ],
+    "score": [
+        4,
+        2,
+        2
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.41666666665
+}

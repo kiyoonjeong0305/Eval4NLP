@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "greg dyke wants to increase the minimum number of homegrown players at top flight clubs . dyke wants to increase the minimum number of home-grown players in club squads from eight to 12 , however he is facing opposition from the premier league . the five former three lions bosses warn the english game will suffer if it blocks the proposals from dyke and the fa 's england commission .",
+        "greg dyke wants to increase the minimum number of homegrown players at top flight clubs . dyke wants to increase the minimum number of home-grown players in club squads from eight to 12 , however he is facing opposition from the premier league . the five former three lions bosses warn the english game will suffer if it blocks the proposals from dyke and the fa 's england commission .",
+        "greg dyke wants to increase the minimum number of homegrown players at top flight clubs . dyke wants to increase the minimum number of home-grown players in club squads from eight to 12 , however he is facing opposition from the premier league . the five former three lions bosses warn the english game will suffer if it blocks the proposals from dyke and the fa 's england commission ."
+    ],
+    "aspect": [
+        "1. Greg Dyke receives backing from five former England managers in his pursuit of radical changes.",
+        "2. Dyke aims to increase the minimum home-grown players in club squads from eight to 12.",
+        "3. The proposals face opposition from the Premier League, but the former managers urge everyone in the English game to support them."
+    ],
+    "explain": [
+        "Greg Dyke's proposal to increase the minimum number of home-grown players in club squads from eight to 12 is facing opposition from the Premier League, but it has received support from five former England managers who warn the game will suffer if the proposals are blocked by the FA's England commission.",
+        "Dyke proposes to increase the minimum number of home-grown players in club squads from 8 to 12, but faces opposition from the Premier League.",
+        "The aspect mentions that Greg Dyke's proposal to increase the minimum number of home-grown players in club squads from 8 to 12 is facing opposition from the Premier League, but the former managers urge everyone in the English game to support these proposals since they believe that blocking the proposals will harm the English game."
+    ],
+    "answer": [
+        "Yes",
+        "No, the sentence does not adequately reflect the context of the summary, which discusses Dyke's proposed increase from 8 to 12 home-grown players and the opposition from the Premier League.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.25
+}

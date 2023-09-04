@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights .",
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights .",
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights ."
+    ],
+    "aspect": [
+        "1. Doncaster Rovers' season struggled; ",
+        "2. Saturday's match against Fleetwood Town was a goalless draw; ",
+        "3. The media team published a short match highlights video."
+    ],
+    "explain": [
+        "The core idea of the given aspect is that Doncaster Rovers' league season is not going as well as they would like, resulting in mid-table mediocrity in League One.",
+        "The aspect talks about a football match between Doncaster Rovers and Fleetwood Town, where it ended as a goalless draw.",
+        "The core idea of the aspect is that the media team, after a challenging task, managed to create and publish a short match highlights video."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of this sentence.",
+        "Yes, the summary contains the context of the sentence.",
+        "The core concept of the aspect is that the media team has challenges creating and publishing a short match highlights video after the game."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 5.0
+}

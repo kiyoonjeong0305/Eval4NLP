@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Manchester United Under 18s beat City 1-0 in the ` mini-derby ' Callum Gribbin scored the winner with a delightful free-kick . The result leaves United two points behind Middlesbrough with a game in hand . City have now lost both matches in the Barclays U18s Premier League .",
+        "Manchester United Under 18s beat City 1-0 in the ` mini-derby ' Callum Gribbin scored the winner with a delightful free-kick . The result leaves United two points behind Middlesbrough with a game in hand . City have now lost both matches in the Barclays U18s Premier League .",
+        "Manchester United Under 18s beat City 1-0 in the ` mini-derby ' Callum Gribbin scored the winner with a delightful free-kick . The result leaves United two points behind Middlesbrough with a game in hand . City have now lost both matches in the Barclays U18s Premier League ."
+    ],
+    "aspect": [
+        "1. United wins 'mini-derby' against City with a 1-0 score.",
+        "2. The match featured many English players, and it was attended by over 1,000 people.",
+        "3. Gribbin scored the winning goal for United, highlighting the potential for young players to make it to the seniors."
+    ],
+    "explain": [
+        "Manchester United's under 18 team secured a 1-0 victory over their rival City in a 'mini-derby' match. This win brings them two points closer to Middlesbrough and provides a game in hand advantage.",
+        "The match had a strong presence of English players, which appealed to a sizable crowd of over 1,000 people.",
+        "In this article, the focus is on the Manchester United Under 18s' victory over City with Callum Gribbin scoring the winning goal. This highlights the potential for younger players to make it to the senior team, indicating that talented young players can succeed in the professional football world."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "No",
+        "The summary contains the context of the sentence, with emphasis on the key elements - Manchester United Under 18s' victory, Callum Gribbin's goal, and the opportunity for younger players to make it to the seniors, showcasing the potential for young talent to succeed in professional football."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.666666666675
+}

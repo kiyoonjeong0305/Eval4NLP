@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend .",
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend .",
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend .",
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend ."
+    ],
+    "aspect": [
+        "1. Mesut Ozil returned home and posted a picture with his dog.",
+        "2. Ozil played well in Germany's Euro 2016 qualifier win.",
+        "3. Ozil missed Arsenal's last game due to illness.",
+        "4. Ozil has been in fine form since returning from injury for Arsenal."
+    ],
+    "explain": [
+        "Mesut Ozil, the midfielder of Arsenal football club, recently returned to London after a short break and an International friendly match. Upon his return, he shared a delightful picture on Twitter of himself playing with his pet dog, giving his followers a glimpse into his personal life.",
+        "In the second aspect, the core idea presented is that Mesut Ozil performed well during Germany's Euro 2016 qualifier match against Georgia, resulting in a victory for the German national team.",
+        "After Mesut Ozil arrived back in London following the international break, he missed Arsenal's previous game due to an illness. This information highlights the fact that Ozil was under the weather and could not participate in the match.",
+        "To describe or make clear the key details or main point of something, often providing context and supporting information."
+    ],
+    "answer": [
+        "Yes, the summary contains the core idea, as the second sentence mentions that Mesut Ozil has uploaded a picture of himself playing with his dog on Twitter after returning home from Germany's International friendly match against Georgia.",
+        "No, the summary does not contain the core idea mentioned in the aspect. While the summary mentions that Mesut Ozil played well in Germany's Euro 2016 qualifier win against Georgia, it does not explicitly state that he is the one who played well, or that it was his performance that led to the victory.",
+        "\nYes, the summary does contain the core idea that Mesut Ozil missed Arsenal's last game due to illness. The mention of Ozil returning to London after the international break and recovering from an illness could imply that he would not be available for the game. The statement \"he was in fine form as Germany beat Georgia 2-0 on Sunday\" further supports the idea that he was unwell during the Arsenal match.",
+        "After re-examining the summary, I apologize for my previous response. The summary does indeed mention Mesut Ozil's fine form since his return from injury for Arsenal."
+    ],
+    "score": [
+        4,
+        2,
+        4,
+        4
+    ],
+    "mean_score": 3.5,
+    "gt_score": 4.75
+}

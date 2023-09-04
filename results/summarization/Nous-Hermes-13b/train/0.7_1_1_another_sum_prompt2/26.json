@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday ."
+    ],
+    "aspect": [
+        "1. New Zealand police are appealing to the public to help identify a tall man who robbed a Christchurch dairy wearing a cartoon mask.",
+        "2. The man demanded cash from the dairy owner's daughter and made off with the till.",
+        "3. The police responded to the incident after receiving reports of a masked man and are asking for the public's help in identifying the person."
+    ],
+    "explain": [
+        "New Zealand police are requesting assistance from the public to identify and locate the man who robbed a dairy in Christchurch wearing a cartoon mask. The suspect is portrayed as tall by the authorities. They are eager to find more information about him to bring him to justice.",
+        "The aspect states that the man demanded cash from the dairy owner's daughter and made off with the till. This suggests that the man was aggressive and forceful in his actions, taking the cash from the daughter and stealing the entire till, indicating that he was likely trying to steal as much as possible.",
+        "The police responded to the incident after receiving reports of a masked man and are asking for the public's help in identifying the person."
+    ],
+    "answer": [
+        "Yes, the summary contains a lot of relevant information about the aspect, including the fact that the New Zealand police are appealing to the public for assistance in identifying the tall man who robbed a dairy in Christchurch wearing a cartoon mask.",
+        "Not Really. The summary does not contain the core idea of the aspect. The aspect describes the actions of the offender while the summary merely provides a description of the offender's appearance and the items he stole.",
+        "Yes \n\nDo you agree with the explanation of the core idea of the given aspect?"
+    ],
+    "score": [
+        5,
+        0,
+        5
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.583333333325
+}

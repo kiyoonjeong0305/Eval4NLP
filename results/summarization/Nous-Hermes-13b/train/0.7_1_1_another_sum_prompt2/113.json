@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) . it said the previous record was set by a humpback whale that swam a mere 10,190-mile round trip between the `` warm breeding waters of the arctic and antarctic regions '' .",
+        "the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) . it said the previous record was set by a humpback whale that swam a mere 10,190-mile round trip between the `` warm breeding waters of the arctic and antarctic regions '' .",
+        "the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) . it said the previous record was set by a humpback whale that swam a mere 10,190-mile round trip between the `` warm breeding waters of the arctic and antarctic regions '' .",
+        "the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) . it said the previous record was set by a humpback whale that swam a mere 10,190-mile round trip between the `` warm breeding waters of the arctic and antarctic regions '' ."
+    ],
+    "aspect": [
+        "1. Varvara, a North Pacific gray whale, set a record for the longest mammal migration, swimming 14,000 miles across the Pacific Ocean.",
+        "2. Varvara's journey surpassed the previous record held by a humpback whale.",
+        "3. Varvara visited three major breeding areas for eastern gray whales, suggesting she might be an eastern gray whale.",
+        "4. Varvara's ability to navigate long distances is impressive and may mean that some western gray whales are actually eastern grays."
+    ],
+    "explain": [
+        "The given aspect states that Varvara, a North Pacific gray whale, set a record for the longest mammal migration by swimming 14,000 miles across the Pacific Ocean.",
+        "That Varvara, a whale, set a new record for the longest journey by swimming nearly 14,000 miles, surpassing the previous record set by a humpback whale.",
+        "\n\nThe given aspect suggests that the whale named Varvara could be an Eastern gray whale as she is known to visit the major breeding areas for such species.",
+        "The aspect suggests that some western gray whales may actually be eastern grays, as their ability to navigate long distances is impressive, similar to that of eastern grays. This raises questions about the classification and distribution of gray whales in the wild."
+    ],
+    "answer": [
+        "Yes, the summary indeed contains the core idea that the record for the longest mammal migration was set by Varvara, a North Pacific gray whale, by swimming 14,000 miles across the Pacific Ocean.",
+        "No, the core idea of the aspect is not present in the summary.",
+        "\n\nThe aspect provided suggests that the whale Varvara, who swam nearly 14,000 miles, could be an Eastern gray whale due to her visits to the major breeding areas for this species.",
+        "It is not clear if the summary contains the core idea of the aspect. The summary discusses a whale named Varvara that swam nearly 14,000 miles, with the previous record set by a humpback whale that swam 10,190 miles between the Arctic and Antarctic regions. While the aspect mentions Varvara's impressive navigation skills, there is no clear mention of the possibility that some western gray whales may be eastern grays based on their navigation abilities."
+    ],
+    "score": [
+        5,
+        0,
+        4,
+        1
+    ],
+    "mean_score": 2.5,
+    "gt_score": 3.25
+}

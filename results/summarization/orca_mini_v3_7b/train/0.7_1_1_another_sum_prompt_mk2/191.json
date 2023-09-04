@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31 - year - old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first .",
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31 - year - old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first .",
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31 - year - old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first ."
+    ],
+    "aspect": [
+        "1. Carlos Tevez seeks return to Boca Juniors, potentially ending his contract with Juventus this summer.",
+        "2. Boca Juniors close to sealing deal for Tevez, who has scored 17 times this season.",
+        "3. Juventus identifies potential replacements for Tevez, accepting his desire to return to Argentina."
+    ],
+    "explain": [
+        "Carlos Tevez wants to return to Boca Juniors, potentially ending his contract with Juventus this summer.",
+        "Boca Juniors is inching towards completing a deal with Carlos Tevez, who has scored 17 goals this season.",
+        "Juventus has a plan to fill the void left by Carlos Tevez's potential departure, showing their willingness to adapt and transition after recognizing his wish to return to Argentina."
+    ],
+    "answer": [
+        "Yes",
+        "No",
+        "Yes"
+    ],
+    "score": [
+        4,
+        1,
+        3
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.75
+}

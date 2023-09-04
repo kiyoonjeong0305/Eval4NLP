@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "altrincham 's compact 6,000-capacity home may not be old trafford , but it does have a proud history of its own . callum gribbin was the matchwinner for manchester united with a delightful free-kick . entry was probably as far removed from sunday 's big match as you could imagine .",
+        "altrincham 's compact 6,000-capacity home may not be old trafford , but it does have a proud history of its own . callum gribbin was the matchwinner for manchester united with a delightful free-kick . entry was probably as far removed from sunday 's big match as you could imagine .",
+        "altrincham 's compact 6,000-capacity home may not be old trafford , but it does have a proud history of its own . callum gribbin was the matchwinner for manchester united with a delightful free-kick . entry was probably as far removed from sunday 's big match as you could imagine ."
+    ],
+    "aspect": [
+        "1. Manchester United's Under 18s defeated City 1-0 in a 'mini-derby' with 13 English players in the match.",
+        "2. Marcus Wood, Marcus Rashford, and Callum Gribbin were standout players for their respective teams.",
+        "3. The victory leaves United two points behind leaders Middlesbrough with a game in hand, while City lost both matches in the Under 18s Premier League play-off series."
+    ],
+    "explain": [
+        "Manchester United's Under 18s defeated City 1-0 in a 'mini-derby' match featuring 13 English players.",
+        "\n1. Callum Gribbin was the matchwinner for Altrincham with a free-kick, while Manchester United won the game. \n2. Marcus Wood and Marcus Rashford were standout players for their respective teams, but Callum Gribbin's moment in the spotlight was the focus of the aspect.",
+        "The victory puts United in second place, two points behind Middlesbrough, but with an additional game to play. They have lost both Under 18s Premier League play-off series games."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of this sentence.\n\nNow provide an answer for the specific question/ point:\nAfter reading both the summary and aspect, which part of the aspect matches the given information for the 'entry' part of the summary (since they are likely talking about separate events)?\nAnswer: None of the information provided in the aspect aligns with the given information about 'entry' in the summary.",
+        "No, the summary does not contain the context of the aspect as it focuses more on Altrincham's ground and the distance from Old Trafford while the aspect highlights Marcus Wood, Marcus Rashford, and Callum Gribbin's standout performance.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        1,
+        2,
+        4
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 3.5
+}

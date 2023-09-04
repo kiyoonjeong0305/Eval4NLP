@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "most of those released were women and children; the rest were ill or elderly, official says . isis previously released scores of other yazidis since attacking the group's towns last year . yazidis are of kurdish descent, and their religion is considered a pre-islamic sect .",
+        "most of those released were women and children; the rest were ill or elderly, official says . isis previously released scores of other yazidis since attacking the group's towns last year . yazidis are of kurdish descent, and their religion is considered a pre-islamic sect .",
+        "most of those released were women and children; the rest were ill or elderly, official says . isis previously released scores of other yazidis since attacking the group's towns last year . yazidis are of kurdish descent, and their religion is considered a pre-islamic sect ."
+    ],
+    "aspect": [
+        "1. ISIS release more than 200 Yazidis, a minority group whose members were killed and displaced last summer.",
+        "2. Arab tribal leaders helped coordinate the release.",
+        "3. The reasons for the release are unclear, but several hundred Yazidis were previously released."
+    ],
+    "explain": [
+        "The article states that ISIS released more than 200 Yazidis, a minority Kurdish group whose members were killed and displaced last summer.",
+        "The Arab tribal leaders played a crucial role in coordinating the release of the captive Yazidis, contributing to the successful rescue of the vulnerable group.",
+        "The reasons for the release are unknown, but around several hundred Yazidis have already been freed before."
+    ],
+    "answer": [
+        "Yes",
+        "Yes",
+        "Yes, the summary does contain the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.916666666675
+}

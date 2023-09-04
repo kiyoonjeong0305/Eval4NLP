@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "\"( cnn ) spacex on tuesday launched a two - stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful . spacex founder elon musk tweeted : \"\" ascent successful . dragon enroute to space station .\"",
+        "\"( cnn ) spacex on tuesday launched a two - stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful . spacex founder elon musk tweeted : \"\" ascent successful . dragon enroute to space station .\"",
+        "\"( cnn ) spacex on tuesday launched a two - stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful . spacex founder elon musk tweeted : \"\" ascent successful . dragon enroute to space station .\""
+    ],
+    "aspect": [
+        "1. SpaceX launches Falcon 9 rocket carrying uncrewed Dragon spacecraft to ISS, then attempts to land rocket stage on a barge, but fails. ",
+        "2. Cost reduction is the main goal for reusing rockets, according to SpaceX founder Elon Musk. ",
+        "3. Dragon delivers supplies including research equipment and ISSpresso, and returns to Earth with scientific experiments and waste."
+    ],
+    "explain": [
+        "\n\n1. SpaceX launched a Falcon 9 rocket carrying an uncrewed Dragon spacecraft to the International Space Station (ISS) from Cape Canaveral, Florida.\n2. The company attempted a challenging task - landing the rocket stage on a floating barge for the first time.\n3. SpaceX founder Elon Musk shared the news in a tweet: \"Ascent successful, Dragon enroute to Space Station.\"",
+        "Cost reduction through reusing rockets is the primary objective, as stated by SpaceX founder Elon Musk.",
+        "Dragon delivers supplies for the ISS such as research equipment and the ISSpresso, and returns to Earth with scientific experiments and waste."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the given sentence.",
+        "Yes, it does contain the context as the aspect states.",
+        "No, the summary does not contain the context of this sentence."
+    ],
+    "score": [
+        2,
+        4,
+        1
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 2.83333333335
+}

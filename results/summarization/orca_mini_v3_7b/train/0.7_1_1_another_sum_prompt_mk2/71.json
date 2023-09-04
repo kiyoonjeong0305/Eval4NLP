@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "doncaster 's media team faced a tough challenge compling the match . saturday 's visit of fleetwood town is eyeing the beach after their play-off hopes . the two sides played out a goalless draw at the keepmoat stadium . yorkshire side firmly entrenched in mid-table mediocrity in league one .",
+        "doncaster 's media team faced a tough challenge compling the match . saturday 's visit of fleetwood town is eyeing the beach after their play-off hopes . the two sides played out a goalless draw at the keepmoat stadium . yorkshire side firmly entrenched in mid-table mediocrity in league one .",
+        "doncaster 's media team faced a tough challenge compling the match . saturday 's visit of fleetwood town is eyeing the beach after their play-off hopes . the two sides played out a goalless draw at the keepmoat stadium . yorkshire side firmly entrenched in mid-table mediocrity in league one ."
+    ],
+    "aspect": [
+        "1. Doncaster Rovers struggles in League One, match against Fleetwood draws 0-0.",
+        "2. Match highlights on YouTube channel is short and sweet with 27 seconds of action.",
+        "3. Manager's reactions observed during the match at Keepmoat Stadium."
+    ],
+    "explain": [
+        "Doncaster Rovers, struggling in League One, drew 0-0 with Fleetwood Town in their match, showing the team's current mediocrity in their league position.",
+        "The aspect focuses on the match highlights being short and sweet, lasting only 27 seconds, which indicates that the crucial highlights have been captured and efficiently presented.",
+        "The aspect of 3. Manager's reactions observed during the match at Keepmoat Stadium, focuses on the responses, strategies, and actions taken by the team's manager during the match held at Keepmoat Stadium between Doncaster and Fleetwood Town."
+    ],
+    "answer": [
+        "Yes",
+        "No, the context of the sentence is not present in the summary. Instead, the summary discusses Doncaster's match issue and their playoff hopes.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.83333333335
+}

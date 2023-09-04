@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the letters were expected to bring in anywhere from $ 300,000 to $ 600,000 , but received no bids at a sotheby 's auction wednesday . the 68-year-old yankee said he wanted ' a new generation to own and enjoy this icon of the yankees and of new york city '",
+        "the letters were expected to bring in anywhere from $ 300,000 to $ 600,000 , but received no bids at a sotheby 's auction wednesday . the 68-year-old yankee said he wanted ' a new generation to own and enjoy this icon of the yankees and of new york city '",
+        "the letters were expected to bring in anywhere from $ 300,000 to $ 600,000 , but received no bids at a sotheby 's auction wednesday . the 68-year-old yankee said he wanted ' a new generation to own and enjoy this icon of the yankees and of new york city '"
+    ],
+    "aspect": [
+        "1. 13 glowing blue letters from Yankee Stadium failed to find a buyer at an auction at Sotheby's, with only a Sotheby's employee purchasing them for $260,000.",
+        "2. Yankee Hall of Famer Reggie Jackson bought the letters for an undisclosed amount, hoping a new generation would own and enjoy the iconic symbol.",
+        "3. Sotheby's also auctioned off a New York Mets bullpen car from the 1960s; it fetched $112,500, more than its estimated value."
+    ],
+    "explain": [
+        "13 historic blue letters from Yankee Stadium that were expected to bring in a range of $300,000 to $600,000 at a Sotheby's auction did not receive any bids. The 68-year-old Yankee said he wanted a new generation to own the iconic letters related to the Yankees and New York City, and an employee of Sotheby's bought them for $260,000.",
+        "\"Yankee Hall of Famer Reggie Jackson bought the letters for an undisclosed amount, hoping a new generation would own and enjoy the iconic symbol.\"",
+        "The 1960s New York Mets bullpen car from Sotheby's auction fetched $112,500, exceeding its estimated value."
+    ],
+    "answer": [
+        "The summary captures the main context of this sentence with minor differences in wording.",
+        "The context of the given sentence is not present in the summary provided.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.66666666665
+}

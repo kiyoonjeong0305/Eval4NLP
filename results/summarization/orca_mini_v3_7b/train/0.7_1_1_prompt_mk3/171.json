@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "ben stokes forged a reputation as a fiery character in the england cricket team . stokes broke his wrist punching a locker after being dismissed last year . stokes clashed with marlon samuels during the second test . ben stokes first turned up at the kensington oval this week . stokes responded positively to the row after talking to england coach peter moores .",
+        "ben stokes forged a reputation as a fiery character in the england cricket team . stokes broke his wrist punching a locker after being dismissed last year . stokes clashed with marlon samuels during the second test . ben stokes first turned up at the kensington oval this week . stokes responded positively to the row after talking to england coach peter moores .",
+        "ben stokes forged a reputation as a fiery character in the england cricket team . stokes broke his wrist punching a locker after being dismissed last year . stokes clashed with marlon samuels during the second test . ben stokes first turned up at the kensington oval this week . stokes responded positively to the row after talking to england coach peter moores ."
+    ],
+    "aspect": [
+        "1. Ben Stokes has a fiery reputation in the England cricket team, but needs to control his aggression to succeed.",
+        "2. Peter Moores, England's coach, advises Stokes on how to respond to challenges without being pigeon-holed.",
+        "3. England aims to have Stokes and other exciting players like Adil Rashid in the team as much as possible to help them reach their full potential."
+    ],
+    "explain": [
+        "Ben Stokes has a reputation for being aggressive in the England cricket team, but this needs to be controlled to improve his performance.",
+        "Peter Moores, England's coach, encourages Ben Stokes to handle challenges in a flexible manner, avoiding being stuck in a particular response pattern.",
+        "England wants Stokes and other promising players like Adil Rashid to be part of the team as often as possible to help them achieve their full potential."
+    ],
+    "answer": [
+        "No",
+        "Yes, the summary contains the context of this sentence.",
+        "Yes"
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.916666666675
+}

@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday ."
+    ],
+    "aspect": [
+        "1. Sanchez chose Arsenal over Liverpool.",
+        "2. Wenger is happy about Sanchez's choice.",
+        "3. Sanchez has made an impact in English football.",
+        "4. Arsenal and Liverpool were in negotiations.",
+        "5. Wenger believes Sanchez is one of the best players around.",
+        "6. Wenger played down talk of a potential transfer for Sterling.",
+        "7. Wenger praised Rodgers for his work with Liverpool."
+    ],
+    "explain": [
+        "Sanchez chose Arsenal over Liverpool shows that even though Liverpool was also interested in signing him, he ultimately decided to join Arsenal.",
+        "According to Arsene Wenger, he is happy with Alexis Sanchez's decision to join Arsenal last summer. This implies that Wenger feels that Sanchez is a valuable asset to the team and that the club made the right decision in signing him.",
+        "Alexis Sanchez made an impact in English football since joining Arsenal last summer for £32 million from Barcelona. The Chilean forward was also linked with Liverpool and Manchester City before deciding to sign with Arsenal. Arsene Wenger, the Arsenal manager, believes that Sanchez is one of the best players in the world. Sanchez's impact has been evident this season, as he has already scored 16 goals in all competitions for Arsenal. On Saturday, Arsenal will host Liverpool at the Emirates Stadium and Sanchez will look to continue his excellent form.",
+        "The given aspect states that Arsenal and Liverpool were in negotiations. This means that there were talks and discussions between the two teams regarding a possible transfer or trade of players or other business deals. The negotiations may have been about a potential deal for Alexis Sanchez, who was also linked with Liverpool and Manchester City last summer. It is not known what came out of these negotiations, but they could have played a role in Sanchez ultimately deciding to join Arsenal for £32million from Barcelona.",
+        "Arsene Wenger believes that Alexis Sanchez is one of the best players in the world, and therefore he was willing to spend £32 million to bring him to Arsenal from Barcelona last summer.",
+        "The aspect highlights that Wenger played down talk of a potential transfer for Sterling.",
+        "Arsene Wenger praised Brendan Rodgers for his work with Liverpool."
+    ],
+    "answer": [
+        "After considering both Arsenal and Liverpool, Sanchez decided to join Arsenal instead of Liverpool.",
+        "I think the aspect mentioned is not present in the summary given. The summary only mentions that Alexis Sanchez joined Arsenal last summer and was linked with Liverpool and Manchester City before that. There is no mention of Wenger's happiness regarding Sanchez's choice to join the club.",
+        "No. The summary does not contain the core idea of the aspect provided.",
+        "No, the summary does not contain the core idea of the aspect. The aspect states that Arsenal and Liverpool were in negotiations, while the summary only mentions that Alexis Sanchez joined Arsenal for £32million from Barcelona last summer and was also linked with Liverpool and Manchester City.",
+        "It does not. My apologies, it seems there was an error in the input. The core idea of the aspect is that Arsene Wenger believes Alexis Sanchez is one of the best players in the world.",
+        "The summary does NOT contain the core idea of the aspect. The aspect is about Wenger playing down talk of a potential transfer for Sterling, while the summary talks about Alexis Sanchez joining Arsenal and being one of the best forwards in the world.",
+        "Do you REALLY think the summary contains the core idea? No, it does not. \nSo, the aspect is missing from the summary. \n7. Wenger praised Rodgers for his work with Liverpool."
+    ],
+    "score": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 0.7142857142857143,
+    "gt_score": 4.75
+}

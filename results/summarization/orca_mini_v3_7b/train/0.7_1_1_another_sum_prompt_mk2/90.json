@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy . the energy it then creates , using semi-conductors , can be shot back down to earth . if it works , it could mean solar power could even become viable in scotland , or be able to restore power instantly to disaster hit areas .",
+        "dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy . the energy it then creates , using semi-conductors , can be shot back down to earth . if it works , it could mean solar power could even become viable in scotland , or be able to restore power instantly to disaster hit areas .",
+        "dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy . the energy it then creates , using semi-conductors , can be shot back down to earth . if it works , it could mean solar power could even become viable in scotland , or be able to restore power instantly to disaster hit areas ."
+    ],
+    "aspect": [
+        "1. Scottish scientist Adrian Quarterman suggests space lasers could be used for heating homes in the future, despite the possibility of them being utilized as weapons.",
+        "2. Quarterman's proposed laser system converts sunbeams into energy, which can be shot back to Earth to restore power or make solar power viable in Scotland.",
+        "3. Tokyo researchers propose using lasers on the ISS to remove space junk but emphasize they would not be powerful enough to be weaponized."
+    ],
+    "explain": [
+        "Scottish scientist Adrian Quarterman proposes that space lasers may eventually be used for heating homes; though it could also be weaponized, it could still potentially revolutionize renewable energy use by making solar power more viable in Scotland and restoring power to disaster-stricken areas.",
+        "\n- Dr. Adrian Quarterman's laser research project at Dundee University aims to convert sunbeams into usable energy, which he believes could potentially make solar power a viable option in Scotland. The technology also has the potential to restore power to disaster-stricken areas in a timely manner.",
+        "Researchers in Tokyo are suggesting utilizing lasers on the ISS to remove orbiting space debris. They emphasize the lasers would not be strong enough to be weaponized, focusing instead on a non-violent approach to managing space junk."
+    ],
+    "answer": [
+        "No",
+        "Yes, the summary contains the context of the provided sentence.",
+        "Yes"
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.666666666675
+}

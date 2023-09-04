@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "ian guffick asked pupils to make changes to the national curriculum . the 31-year-old also altered a number of the pupil 's exam answers . after the suspected breach of exam rules , school officials were tipped off .",
+        "ian guffick asked pupils to make changes to the national curriculum . the 31-year-old also altered a number of the pupil 's exam answers . after the suspected breach of exam rules , school officials were tipped off .",
+        "ian guffick asked pupils to make changes to the national curriculum . the 31-year-old also altered a number of the pupil 's exam answers . after the suspected breach of exam rules , school officials were tipped off ."
+    ],
+    "aspect": [
+        "1. A teacher, Ian Guffick, banned from classroom after changing pupil's exam answers, invalidating entire school's SATs results.",
+        "2. Guffick asked pupils to make changes to the national curriculum tests for 11-year-olds and altered exam answers himself.",
+        "3. The Department for Education annulled all SATs exam results for the school, and Guffick was forced to give up his job as a result."
+    ],
+    "explain": [
+        "A teacher, Ian Guffick, modified students' test answers, rendering the entire school's SATs results invalid. As a consequence, he has been barred from the classroom.",
+        "2. Ian Guffick asked students to make changes to the national curriculum tests for 11-year-olds, and he, himself, altered exam answers.",
+        "The Department for Education canceled all SATs exam results for the school after the suspected exam rule breach by Ian Guffick, causing him to lose his job."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the sentence.",
+        "No, the summary does not contain the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.25
+}

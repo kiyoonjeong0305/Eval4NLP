@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "everton manager roberto martinez was forced to defend another penalty fiasco at the club after ross barkley missed from the spot in their 1-0 win against burnley at goodison park . the untried barkley inexplicably took the 10th minute kick – awarded for a foul by david jones on aaron lennon – rather than leighton baines , who has scored 15 penalties from 16 attempts in the premier league . barkley 's effort is saved by burnley goalkeeper tom heaton at goodison park .",
+        "everton manager roberto martinez was forced to defend another penalty fiasco at the club after ross barkley missed from the spot in their 1-0 win against burnley at goodison park . the untried barkley inexplicably took the 10th minute kick – awarded for a foul by david jones on aaron lennon – rather than leighton baines , who has scored 15 penalties from 16 attempts in the premier league . barkley 's effort is saved by burnley goalkeeper tom heaton at goodison park .",
+        "everton manager roberto martinez was forced to defend another penalty fiasco at the club after ross barkley missed from the spot in their 1-0 win against burnley at goodison park . the untried barkley inexplicably took the 10th minute kick – awarded for a foul by david jones on aaron lennon – rather than leighton baines , who has scored 15 penalties from 16 attempts in the premier league . barkley 's effort is saved by burnley goalkeeper tom heaton at goodison park ."
+    ],
+    "aspect": [
+        "1. Ross Barkley misses a penalty in Everton's 1-0 win against Burnley, raising questions about penalty strategy.",
+        "2. Manager Roberto Martinez defends Barkley's decision, stating that players should be allowed to take responsibility in big moments.",
+        "3. Everton's only goal of the game is scored by Mirallas after Barkley's penalty."
+    ],
+    "explain": [
+        "Ross Barkley's penalty miss in Everton's 1-0 victory against Burnley calls into question the team's penalty strategy, as Barkley, an unproven player, took the crucial 10th-minute kick instead of more experienced and successful penalty taker, Leighton Baines.",
+        "Manager Roberto Martinez defends Barkley's decision, stating that players should be allowed to take responsibility in big moments.",
+        "After Everton's penalty fiasco, their sole goal in the game is scored by Mirallas, following Barkley's missed penalty."
+    ],
+    "answer": [
+        "Yes",
+        "No",
+        "yes"
+    ],
+    "score": [
+        4,
+        1,
+        3
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.416666666675
+}

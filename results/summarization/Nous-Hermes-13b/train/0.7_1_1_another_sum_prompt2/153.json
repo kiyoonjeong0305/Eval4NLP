@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "the queen 's guard slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on camera .",
+        "the queen 's guard slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on camera .",
+        "the queen 's guard slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on camera .",
+        "the queen 's guard slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on camera ."
+    ],
+    "aspect": [
+        "1. A Buckingham Palace guard slipped on a manhole cover during the Changing of the Guard.",
+        "2. The embarrassed guard quickly scrambled to his feet as his colleagues marched past.",
+        "3. The guard lost his footing and dropped his rifle.",
+        "4. The incident happened in front of hundreds of tourists who were watching the Changing of the Guard."
+    ],
+    "explain": [
+        "The core idea of this aspect is that a Buckingham Palace guard slipped during the Changing of the Guard ceremony, causing him to lose his footing, drop his rifle and knock his bearskin on the side of the box.",
+        "\nThe aspect mentions the embarrassment and effort of the guard to recover from the fall during the changing of the guard ceremony at Buckingham Palace. It suggests that the Queen's Guard slipped on a manhole cover and lost his footing, falling sideways and knocking his bearskin and dropping his rifle. However, instead of staying down, the guard quickly scrambled to his feet and stood at attention as his colleagues marched past, likely to salvage his dignity and avoid further embarrassment.",
+        "The aspect states that the guard lost his footing and dropped his rifle while performing the changing of the guard ceremony at Buckingham Palace.",
+        "This aspect describes how the incident happened in front of a large group of people."
+    ],
+    "answer": [
+        "The summary does not contain the core idea.",
+        "I guess not. The aspect appears to be a detail from the summary, explaining the reaction of the embarrassed guard who fell during the changing of the guard ceremony. It is not the core idea of the summary, which is about the incident itself, the guard's fall and the impact it had.",
+        "Yes, I believe the aspect does contain the core idea as it specifically mentions that the guard lost his footing and dropped his rifle.",
+        "Do you REALLY think the summary contains the core idea?"
+    ],
+    "score": [
+        0,
+        4,
+        5,
+        4
+    ],
+    "mean_score": 3.25,
+    "gt_score": 4.83333333335
+}

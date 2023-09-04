@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "steve bruce wants to keep hull city in the premier league this season . steve bruce is hoping ` nine or eight might be enough ' . hull have six games to save their season . james ward-prowse penalty and late strike from southampton for the first 45 minutes . michael dawson and nikica jelavic have also been out of the season .",
+        "steve bruce wants to keep hull city in the premier league this season . steve bruce is hoping ` nine or eight might be enough ' . hull have six games to save their season . james ward-prowse penalty and late strike from southampton for the first 45 minutes . michael dawson and nikica jelavic have also been out of the season .",
+        "steve bruce wants to keep hull city in the premier league this season . steve bruce is hoping ` nine or eight might be enough ' . hull have six games to save their season . james ward-prowse penalty and late strike from southampton for the first 45 minutes . michael dawson and nikica jelavic have also been out of the season ."
+    ],
+    "aspect": [
+        "1. Steve Bruce remains hopeful of keeping Hull City in the Premier League despite a 2-0 defeat by Southampton.",
+        "2. Bruce attributes the team's struggles to long-term injuries to key players.",
+        "3. Hull now has six games remaining to save their season, including challenging fixtures against Liverpool, Arsenal, Tottenham, and Manchester United."
+    ],
+    "explain": [
+        "Steve Bruce's optimism about Hull City's ability to stay in Premier League, even after losing 2-0 to Southampton.",
+        "The aspect highlights that Steve Bruce blames Hull City's struggles on long-term injuries to important players. This suggests that these injuries have had a significant impact on the team's performance and ability to stay in the Premier League.",
+        "Hull City has a tough task at hand, with six crucial games ahead, including challenging matches against Liverpool, Arsenal, Tottenham, and Manchester United. They must work diligently and strategically to keep their Premier League status."
+    ],
+    "answer": [
+        "No.",
+        "Yes, the summary contains the context of the sentence, as it discusses Bruce's belief that Hull's struggles are due to key players' long-term injuries and their impact on the team's performance.",
+        "Yes, the summary contains the context of the sentence provided."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.416666666675
+}

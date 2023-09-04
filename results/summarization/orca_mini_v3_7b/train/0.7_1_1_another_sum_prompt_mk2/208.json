@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website .",
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website .",
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website ."
+    ],
+    "aspect": [
+        "1. Varvara, a North Pacific gray whale, completed the longest migration ever recorded, swimming nearly 14,000 miles.",
+        "2. Her journey surpassed the previous record set by a humpback whale, and researchers believe it might indicate Varvara's true origin.",
+        "3. Varvara visited three major breeding areas for eastern gray whales, which suggests some western gray whales might be eastern grays."
+    ],
+    "explain": [
+        "Varvara, a North Pacific gray whale, traveled an astonishing 14,000 miles in its migration, setting a new record for the longest migration ever by a mammal, as documented by Oregon State University scientists.",
+        "Varvara, the North Pacific gray whale, surpassed the previous record set by a humpback whale, suggesting that Varvara might have a different origin than initially thought.",
+        "The whale, Varvara, visited three breeding areas for eastern gray whales, indicating that some western gray whales could be eastern gray whales as well."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "No, the summary mainly focuses on the whale's unprecedented 14,000 miles (22,500 kilometers) journey and the record it broke, but it doesn't include the sentence about Varvara having a different origin than initially thought.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object .",
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object .",
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object ."
+    ],
+    "aspect": [
+        "1. Japan's government official confirms ASDF has never encountered extraterrestrial UFOs.",
+        "2. Defense Minister Gen Nakatani mentioned ASDF's protocol for identifying unidentified flying objects.",
+        "3. Flamboyant former wrestler-turned-lawmaker Antonio Inoki asked about extraterrestrial threats in the Upper House Budget Committee meeting."
+    ],
+    "explain": [
+        "In the 'Space Invaders' context, it is confirmed that Japan's air self defense force has not come across extraterrestrial unidentified flying objects (UFOs). This aspect is focused on the government's statement regarding the country's military forces and the presence of extraterrestrial life.",
+        "Gen Nakatani elaborated on ASDF's procedures for distinguishing unidentified flying objects, such as assessing proximity, checking flight patterns, and analyzing unusual characteristics.",
+        "The aspect focuses on a conversation about extraterrestrial threats, specifically from Flamboyant former wrestler-turned-lawmaker, Antonio Inoki, during a Budget Committee meeting in Japan's Upper House."
+    ],
+    "answer": [
+        "Yes, the provided summary contains the context of the given sentence.",
+        "No, the context is not conveyed entirely in the given summary. The provided summary is about \"space invaders\" and Japan's defense from extraterrestrial threats, while the given aspect delves deeper into ASDF protocols for identifying unidentified flying objects. There is a lack of concordance between the aspects of both summaries and their contexts.",
+        "No, the summary does not contain the context from the given aspect."
+    ],
+    "score": [
+        4,
+        2,
+        1
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.1666666667
+}

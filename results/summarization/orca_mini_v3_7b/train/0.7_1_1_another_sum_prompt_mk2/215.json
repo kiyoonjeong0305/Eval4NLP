@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "\"( cnn ) donald sterling 's racist remarks cost him an nba team last year . but now it 's his former female companion who has lost big . a los angeles judge has ordered v. stiviano to pay back more than $ 2.6 million in gifts after sterling 's wife sued her . in the lawsuit , rochelle \"\" shelly \"\" sterling accused stiviano of targeting extremely wealthy older men .\"",
+        "\"( cnn ) donald sterling 's racist remarks cost him an nba team last year . but now it 's his former female companion who has lost big . a los angeles judge has ordered v. stiviano to pay back more than $ 2.6 million in gifts after sterling 's wife sued her . in the lawsuit , rochelle \"\" shelly \"\" sterling accused stiviano of targeting extremely wealthy older men .\"",
+        "\"( cnn ) donald sterling 's racist remarks cost him an nba team last year . but now it 's his former female companion who has lost big . a los angeles judge has ordered v. stiviano to pay back more than $ 2.6 million in gifts after sterling 's wife sued her . in the lawsuit , rochelle \"\" shelly \"\" sterling accused stiviano of targeting extremely wealthy older men .\""
+    ],
+    "aspect": [
+        "1. Ex-girlfriend V. Stiviano ordered to pay $2.6 million back to Donald Sterling's wife after a Los Angeles judge ruled in Sterling's favor.",
+        "2. Stiviano denies accusations of taking advantage of Sterling, who lavished her with gifts, including luxury cars and costumes.",
+        "3. Sterling's racist remarks led to him losing his NBA team and prompted a legal battle between the ex-couple."
+    ],
+    "explain": [
+        "V. Stiviano, former girlfriend of Donald Sterling, was ordered to pay a significant amount of money back to Sterling's wife due to a judgment in Sterling's favor.",
+        "Stiviano refutes charges that she manipulated Sterling into showering her with extravagant presents such as luxurious vehicles and attires.",
+        "Sterling's racist comments caused him to lose his NBA team and subsequently led to a legal battle involving his ex-partner."
+    ],
+    "answer": [
+        "Yes",
+        "No.",
+        "Yes, the given summary contains the context of the aspect mentioned."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.83333333335
+}

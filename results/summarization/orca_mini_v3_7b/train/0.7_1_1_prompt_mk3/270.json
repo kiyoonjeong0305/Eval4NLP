@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "hart has labelled buffon , who won his 147th cap against england on tuesday night , a ` legend of the game ' england and manchester city goalkeeper joe hart has lavished praise on fellow goalkeeper gianluigi buffon . england ace hart , pictured saving a shot by citadin eder , is desperate to add to his 50 international caps .",
+        "hart has labelled buffon , who won his 147th cap against england on tuesday night , a ` legend of the game ' england and manchester city goalkeeper joe hart has lavished praise on fellow goalkeeper gianluigi buffon . england ace hart , pictured saving a shot by citadin eder , is desperate to add to his 50 international caps .",
+        "hart has labelled buffon , who won his 147th cap against england on tuesday night , a ` legend of the game ' england and manchester city goalkeeper joe hart has lavished praise on fellow goalkeeper gianluigi buffon . england ace hart , pictured saving a shot by citadin eder , is desperate to add to his 50 international caps ."
+    ],
+    "aspect": [
+        "1. Joe Hart calls Gianluigi Buffon a 'legend of the game' after Italy match",
+        "2. Hart praises Buffon's 147th cap, saying it's an inspiration and he looks up to him",
+        "3. Hart proud of his 50th cap, hoping to continue playing well for his club and country"
+    ],
+    "explain": [
+        "Joe Hart considers Gianluigi Buffon a legend in the game after their match with Italy.",
+        "England goalkeeper Joe Hart highly praises Italian goalkeeper Gianluigi Buffon, who achieved his 147th cap against England, admiring him as a \"legend of the game\" and admitting his desire to follow in his footsteps.",
+        "Joe Hart is proud of his 50th cap for England and hopes to continue playing well both for his club and country."
+    ],
+    "answer": [
+        "Yes, it does contain the context of the sentence.",
+        "No, the summary does not contain the complete context of this sentence.",
+        "No, the given summary does not contain the context of the sentence."
+    ],
+    "score": [
+        4,
+        2,
+        1
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 3.666666666675
+}

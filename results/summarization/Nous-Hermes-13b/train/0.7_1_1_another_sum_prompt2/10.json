@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour."
+    ],
+    "aspect": [
+        "1. Luigi Costa allegedly killed his neighbor Terrence Freebody in 2012.",
+        "2. Costa is said to have been suffering from dementia and alcohol abuse at the time.",
+        "3. Forensic psychiatrist Professor Paul Mullen examined Costa and believes his state of mind was declining.",
+        "4. Professor Mullin testified that Costa's mood fluctuated during the incident.",
+        "5. Faeces found on the trail from the crime scene to the toilet suggest Costa's confused mental state.",
+        "6. Costa's state of mind is critical to the case.",
+        "7. The jury can return a not guilty verdict if Costa's unstable mindset at the time of the attack can be proven."
+    ],
+    "explain": [
+        "The aspect states that Luigi Costa, the accused, is on trial for the murder of his neighbor Terrence Freebody in 2012.",
+        "The aspect highlights that Luigi Costa was suffering from dementia and alcohol abuse at the time when he allegedly committed the murder of Terrence Freebody. This could factor into the trial, as his mental state and impaired judgment may be taken into consideration during his defense.",
+        "The given aspect deals with the belief of forensic psychiatrist Professor Paul Mullen that Luigi Costa's state of mind was declining at the time of the alleged murder.",
+        "According to Professor Mullin, Luigi Costa's mood was changeable.",
+        "The aspect suggests that the defendant's confused mental state can be inferred from the fact that faeces were found on the trail from the crime scene to the toilet. This indicates that the individual might have been disoriented or in some state of confusion during the time of the crime, which could impact the case being built against them.",
+        "According to the aspect given, Costa's state of mind is crucial to understanding the context behind the murder. The prosecution and the defense will likely argue over Costa's state of mind, and the specific details of his mental state, including his emotions, perception, thoughts and motives, may have been the driving force behind the murder.",
+        "The jury can return a not guilty verdict if they find that Luigi Costa's mental state at the time of the attack was so unstable that he was unable to understand the wrongfulness of his actions or control his actions."
+    ],
+    "answer": [
+        "It depends on the core idea that you want to explain. The aspect states that Luigi Costa is on trial for the murder of his neighbor Terrence Freebody in 2012, which is a part of the summary.",
+        "It is not clear from the given summary if the aspect is mentioned or not.",
+        "No, the summary does not contain the core idea of the aspect. The aspect deals with the opinion of Professor Paul Mullen regarding Luigi Costa's state of mind, while the summary simply reports that Costa is on trial for the murder of his neighbor Terrence Freebody. The aspect provides additional insight into the accused's mental state, which could potentially be a relevant factor in the trial.",
+        "Luigi Costa is accused of murdering his neighbour.",
+        "No, the summary does not mention the core idea of the aspect.",
+        "In the summary, there is no mention of Costa's state of mind. Therefore, the core idea of the given aspect does not appear in the summary.",
+        "No, the summary does not contain the core idea. The core idea is found in the aspect provided."
+    ],
+    "score": [
+        5,
+        0,
+        1,
+        5,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 1.5714285714285714,
+    "gt_score": 4.66666666665
+}

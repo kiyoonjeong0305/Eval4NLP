@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "dzhokhar tsarnaev was found guilty on all 30 charges he faced related to the bombings at the 2013 race and the dramatic violence that dragged out for days afterward . the sentencing phase begins tuesday , a day after this year 's edition of the landmark race . it is expected to last four weeks ."
+    ],
+    "aspect": [
+        "1. Parents of Boston Marathon bombings victim plead for death penalty removal. 2. Tsarnaev found guilty on all charges related to 2013 bombings, sentencing begins. 3. Richards urge Justice Department to seek life imprisonment without possibility of release as an alternative to death penalty, to avoid prolonging family's pain."
+    ],
+    "explain": [
+        "The parents of Boston Marathon bombings victim are pleading for the removal of the death penalty, instead requesting life imprisonment without possibility of release as an alternative to prevent further pain and suffering to their family."
+    ],
+    "answer": [
+        "No, the summary does not contain the context in relation to the parents' request. It only states Tsarnaev's guilt on all charges, the sentencing phase, and the expected duration."
+    ],
+    "score": [
+        1
+    ],
+    "mean_score": 1.0,
+    "gt_score": 3.666666666675
+}

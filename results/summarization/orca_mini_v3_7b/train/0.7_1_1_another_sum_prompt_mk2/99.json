@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . but mexican food fans should know that the restaurant plans to add a nine per cent service charge . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services - but has now given postmates the green light , new york daily news reports .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . but mexican food fans should know that the restaurant plans to add a nine per cent service charge . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services - but has now given postmates the green light , new york daily news reports .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . but mexican food fans should know that the restaurant plans to add a nine per cent service charge . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services - but has now given postmates the green light , new york daily news reports ."
+    ],
+    "aspect": [
+        "1. Chipotle partners with Postmates for delivery in 67 cities, adding a 9% service charge.",
+        "2. Mexican restaurant chain continues expansion by tapping into $70 billion food delivery market.",
+        "3. Starbucks, Taco Bell, McDonald's, and Burger King also venture into delivery services."
+    ],
+    "explain": [
+        "Chipotle partners with Postmates for delivery in 67 cities, adding a 9% service charge, as the fast-casual chain now offers online and mobile orders delivery through the third-party service.",
+        "Chipotle, a fast-casual chain specializing in Mexican food, has decided to collaborate with Postmates to begin offering delivery for online and mobile orders in 67 cities, marking their expansion and entering the $70 billion food delivery market.",
+        "In the aspect, it mentions that popular fast-food chains like Starbucks, Taco Bell, McDonald's, and Burger King have also started offering delivery services, suggesting that the demand for delivery options among consumers is rising."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the provided sentence.",
+        "Yes, the summary contains the context of that sentence.",
+        "Yes"
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.416666666675
+}

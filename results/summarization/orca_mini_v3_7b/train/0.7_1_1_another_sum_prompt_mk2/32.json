@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities , according to a report in nation 's restaurant news . but mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand . the app hires independent contractors who drive their own cars in a similar model to uber taxis .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities , according to a report in nation 's restaurant news . but mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand . the app hires independent contractors who drive their own cars in a similar model to uber taxis .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities , according to a report in nation 's restaurant news . but mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand . the app hires independent contractors who drive their own cars in a similar model to uber taxis ."
+    ],
+    "aspect": [
+        "1. Chipotle, a Mexican restaurant, partners with Postmates to deliver burritos in 67 cities, adding a 9% service charge.",
+        "2. Chipotle, considered a strong brand, has presidential candidates Marco Rubio and Hillary Clinton as customers.",
+        "3. The company joins other franchises like Starbucks, Taco Bell, McDonald's, and Burger King in cashing in on the delivery market."
+    ],
+    "explain": [
+        "Chipotle, a Mexican fast-casual chain, has partnered with Postmates to provide delivery services in 67 cities, although it's adding a 9% service charge. The delivery fees will be determined based on distance and demand, with costs starting at $5 and using independent contractors who drive their own cars, similar to Uber.",
+        "Chipotle, a popular fast-casual chain with strong brand reputation, has presidential candidates Marco Rubio and Hillary Clinton as its customers, suggesting its widespread appeal among high-profile individuals.",
+        "Other major fast-food chains have also started offering delivery services, and this fast-casual chain is joining them, indicating a significant shift towards digital services and convenience for customers."
+    ],
+    "answer": [
+        "Yes\n",
+        "No, the summary does not contain the context of the given sentence.",
+        "Yes, the summary contains the context of the sentence. The mention of Starbucks, Taco Bell, McDonald's, and Burger King already being part of the delivery market sets the context for how this particular fast-casual chain joining them contributes to a larger trend of increasing convenience and digital services for customers in the food industry."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands",
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands",
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands"
+    ],
+    "aspect": [
+        "1. Speed camera aimed at house in Birmingham after being deactivated in 2013. ",
+        "2. 300 fixed cameras turned off, replaced by mobile camera units and traffic officers. ",
+        "3. Mystery surrounds who re-pointed the camera, council aware of and will take appropriate action."
+    ],
+    "explain": [
+        "The speed camera once used to catch speeding vehicles was deactivated in 2013, but now it has been turned around and is aimed at a house in Birmingham, West Midlands, likely serving a different purpose.",
+        "The aspect suggests a significant change in how speed enforcement is carried out, with 2 fixed cameras turned off and replaced by mobile camera units and traffic officers, potentially implying a more dynamic and adaptable approach to traffic management.",
+        "The mystery behind the person who re-pointed the speed camera has drawn attention, and the council has been informed about the situation. They will take the necessary action to address the issue."
+    ],
+    "answer": [
+        "No. The summary does not capture the context of the given sentence.",
+        "Yes, the summary contains the context of the provided sentence. The fixed speed camera being turned around and pointing at a house in Birmingham is a crucial detail highlighting the potential shift towards more dynamic and adaptable traffic management, as mentioned in the given aspect.",
+        "No, the summary does not contain the context of the provided sentence. The summary does mention a speed camera pointing at a house in Birmingham, but it does not give the same information about the mystery surrounding the person who changed the direction of the camera and that the council is aware of the situation and will take appropriate action."
+    ],
+    "score": [
+        1,
+        4,
+        2
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.666666666675
+}

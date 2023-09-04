@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "John Peacock has named his squad for next month 's UEFA European Under-17 Championship . The Young Lions are the defending champions , having beaten Holland on penalties in the final last year . They have been placed in Group D alongside Holland , Italy and the Republic of Ireland .",
+        "John Peacock has named his squad for next month 's UEFA European Under-17 Championship . The Young Lions are the defending champions , having beaten Holland on penalties in the final last year . They have been placed in Group D alongside Holland , Italy and the Republic of Ireland .",
+        "John Peacock has named his squad for next month 's UEFA European Under-17 Championship . The Young Lions are the defending champions , having beaten Holland on penalties in the final last year . They have been placed in Group D alongside Holland , Italy and the Republic of Ireland ."
+    ],
+    "aspect": [
+        "1. England's Young Lions squad for next month's UEFA European Under-17 Championship in Bulgaria, led by coach John Peacock, includes talented players from Premier League clubs like Chelsea's Jay Dasilva and Ike Ugbo, Arsenal's Chris Willock, and Stephy Mavididi.",
+        "2. Team progressed to the championship with a 100% record in qualifying, and will open their campaign against Italy on May 7th, followed by matches against Holland, Italy, and the Republic of Ireland.",
+        "3. Liverpool pair Herbie Kane and Trent Arnold are recalled to the squad, having missed the Elite Round of qualifiers last month, while Arsenal's Chris Willock makes his first appearance."
+    ],
+    "explain": [
+        "The aspect highlights England's Young Lions squad for the UEFA European Under-17 Championship in Bulgaria, which consists of talented players from Premier League clubs like Chelsea's Jay Dasilva and Ike Ugbo, Arsenal's Chris Willock, and Stephy Mavididi.",
+        "The Young Lions have a strong track record, having won the title last year with a 100% qualification record. They'll start their campaign in the UEFA European Under-17 Championship with a match against Italy on May 7th.",
+        "In the UEFA European Under-17 Championship, John Peacock has selected his squad and Liverpool's Herbie Kane and Trent Arnold, who were initially excluded in the Elite Round qualifiers last month, are now included in the team. Arsenal's Chris Willock is also making his first appearance. This indicates that Peacock is likely giving the team key players who missed the previous crucial events, with a focus on strengthening their defense with Liverpool players and adding more attacking options with Arsenal's Chris Willock. The team has once again been named \"The Young Lions\" and is the defending champions, having beaten Holland on penalties last year. The squad has been placed in Group D along with Holland, Italy, and the Republic of Ireland."
+    ],
+    "answer": [
+        "Yes, I do think that the summary contains the context of the given sentence.",
+        "Yes",
+        "No, the summary does not contain the context of the provided sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.83333333335
+}

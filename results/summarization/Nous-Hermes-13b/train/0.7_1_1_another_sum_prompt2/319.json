@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "eden hazard scored a 1-0 lead against manchester united at stamford bridge on saturday . the chelsea forward eden hazard has scored his side a 1-0 win over manchester united . john terry has scored a goals for manchester united in the build-up to eden hazard . the sky sports punditry team were convinced there had been a foul form .",
+        "eden hazard scored a 1-0 lead against manchester united at stamford bridge on saturday . the chelsea forward eden hazard has scored his side a 1-0 win over manchester united . john terry has scored a goals for manchester united in the build-up to eden hazard . the sky sports punditry team were convinced there had been a foul form .",
+        "eden hazard scored a 1-0 lead against manchester united at stamford bridge on saturday . the chelsea forward eden hazard has scored his side a 1-0 win over manchester united . john terry has scored a goals for manchester united in the build-up to eden hazard . the sky sports punditry team were convinced there had been a foul form ."
+    ],
+    "aspect": [
+        "- Terry comes in with a strong challenge on Falcao ",
+        "- Chelsea score a goal after a move that started with Terry's challenge ",
+        "- Sky pundits agree that Terry's challenge on Falcao should have been penalized."
+    ],
+    "explain": [
+        "Terry comes in with a strong challenge on Falcao that stops him from turning with the ball, potentially putting him in a dangerous position. The pundits are seen arguing whether or not it was a foul on the play.",
+        "The aspect highlights the fact that Chelsea scored a goal after a move that began with John Terry's challenge, which suggests that Terry's actions set the stage for the goal.",
+        "\nThe core idea of this aspect is that the Sky pundits are in agreement that John Terry's challenge on Falcao should have been penalized during the match between Chelsea and Manchester United. They believe that it was a clear foul, and according to the rules of the game, the player should have been given a penalty kick. This decision could have potentially impacted the outcome of the game, as Falcao was in a clear goal-scoring opportunity."
+    ],
+    "answer": [
+        "No. The summary does not contain the core idea of the aspect. The aspect is about John Terry coming in with a strong challenge on Falcao while the summary is about Eden Hazard scoring a 1-0 lead against Manchester United at Stamford Bridge on Saturday.",
+        "Based on the information provided in the aspect, it appears that the summary accurately reflects the core idea of Terry's challenge leading to a goal for Chelsea.",
+        "B\nWould you like me to explain the reason behind my answer?"
+    ],
+    "score": [
+        0,
+        5,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.583333333325
+}

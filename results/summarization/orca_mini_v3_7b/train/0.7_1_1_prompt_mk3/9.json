@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "chelsea have made an offer for fc tokyo 's yoshinori muto . japan international will join chelsea 's vitesse arnhem on loan next season . muto claims chelsea 's interest in muto is not connected to the # 200million deal they signed with yokohama rubber in february .",
+        "chelsea have made an offer for fc tokyo 's yoshinori muto . japan international will join chelsea 's vitesse arnhem on loan next season . muto claims chelsea 's interest in muto is not connected to the # 200million deal they signed with yokohama rubber in february .",
+        "chelsea have made an offer for fc tokyo 's yoshinori muto . japan international will join chelsea 's vitesse arnhem on loan next season . muto claims chelsea 's interest in muto is not connected to the # 200million deal they signed with yokohama rubber in february ."
+    ],
+    "aspect": [
+        "1. Chelsea offers FC Tokyo's 22-year-old forward, Yoshinori Muto, according to club president Naoki Ogane.",
+        "2. Muto will join Chelsea's Dutch partner club Vitesse Arnhem on loan next season if he completes the move to Stamford Bridge this summer.",
+        "3. Muto is the first Japanese player to represent Chelsea if he moves to west London."
+    ],
+    "explain": [
+        "Chelsea offers 22-year-old forward Yoshinori Muto from FC Tokyo, as stated by club president Naoki Ogane.",
+        "Yoshinori Muto, from FC Tokyo, has received an offer from Chelsea who will loan him to Vitesse Arnhem for next season if he completes the move to Stamford Bridge this summer. This transfer is unrelated to the previous 200 million deal signed with Yokohama Rubber in February.",
+        "Yoshinori Muto would be the first Japanese player to officially sign with Chelsea if his move to the club takes place, making a historic milestone in their roster."
+    ],
+    "answer": [
+        "Yes",
+        "No, the context of the sentence is not included in the summary, as it focuses more on the transfer details rather than the context of Chelsea's interest in Muto independent of the previous deal.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.0
+}

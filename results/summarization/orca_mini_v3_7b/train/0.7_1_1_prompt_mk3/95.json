@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on a tourist 's camera .",
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on a tourist 's camera .",
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on a tourist 's camera ."
+    ],
+    "aspect": [
+        "1. Buckingham Palace guard slips and falls on manhole cover, embarrassing himself in front of tourists.",
+        "2. Incident caught on camera during popular Changing of the Guard ceremony.",
+        "3. Soldier's slip may have been caused by metal protectors on his boots."
+    ],
+    "explain": [
+        "In a famous event like the changing of the guard at Buckingham Palace, a Queen's guard faces an awkward situation when he slips and falls on a manhole cover, subsequently losing his rifle and injuring his bearskin hat, all of which are captured on a tourist's camera.",
+        "In this aspect, it is mentioned that the incident occurred during a well-known Changing of the Guard ceremony, and a tourist's camera captured the entire event. This highlights the significant event in question and emphasizes its popularity, as many people attend and film such occasions.",
+        "The soldier's slip could have been caused by the metal protectors on his boots, as they might have caused him to lose his footing on the slippery manhole cover."
+    ],
+    "answer": [
+        "Yes",
+        "No, the provided summary does not accurately represent the context of this sentence.\n\nDid I successfully help you? If yes, kindly let me know. If not, please provide the information you need, and I'll do my best to assist you.",
+        "Yes, the summary contains the context of the sentence about the metal protectors on the soldier's boots potentially causing his slip on the manhole cover."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.833333333325
+}

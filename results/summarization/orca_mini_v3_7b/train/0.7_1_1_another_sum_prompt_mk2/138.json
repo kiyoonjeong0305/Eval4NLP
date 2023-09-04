@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance .",
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance .",
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance ."
+    ],
+    "aspect": [
+        "1. Arsenal manager Arsene Wenger does not fully understand Alexis Sanchez's decision to join Arsenal over Liverpool but is glad the forward will be playing for his team.",
+        "2. Wenger believes Sanchez, who has scored 19 goals this season, is one of the best players due to his qualities and work ethic.",
+        "3. Wenger dismisses the possibility of a summer transfer move for Liverpool's Raheem Sterling, who has rejected a new contract offer."
+    ],
+    "explain": [
+        "Wenger is happy to have Alexis Sanchez in the team, but does not know the exact reason why he chose Arsenal over Liverpool.",
+        "Wenger praises Sanchez for his skills and work ethic, considering him as one of the best players on the team.",
+        "\nWenger rules out a possible summer transfer for Liverpool's Raheem Sterling, who has rejected a new contract."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary doesn't contain the core idea of the given aspect. It mainly focuses on Sanchez's decision to join Arsenal instead of Liverpool and his previous options.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        2,
+        2
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.833333333325
+}

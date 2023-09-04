@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "doncaster drew 0-0 with fleetwood at the keepmoat stadium on saturday . doncaster's media team faced a tough task compiling the match highlights . so they made it short and sweet, just 27 seconds in fact with 14 seconds of match action . just enough time for the kick off, a goal kick and the final whistle .",
+        "doncaster drew 0-0 with fleetwood at the keepmoat stadium on saturday . doncaster's media team faced a tough task compiling the match highlights . so they made it short and sweet, just 27 seconds in fact with 14 seconds of match action . just enough time for the kick off, a goal kick and the final whistle .",
+        "doncaster drew 0-0 with fleetwood at the keepmoat stadium on saturday . doncaster's media team faced a tough task compiling the match highlights . so they made it short and sweet, just 27 seconds in fact with 14 seconds of match action . just enough time for the kick off, a goal kick and the final whistle ."
+    ],
+    "aspect": [
+        "1. Doncaster Rovers had an uninspired season.",
+        "2. Saturday's game against Fleetwood Town was a 0-0 draw.",
+        "3. The match highlights were kept short and sweet."
+    ],
+    "explain": [
+        "Doncaster Rovers had an underwhelming season, with their matches being relatively unremarkable in terms of excitement and action on the field. This is evident in the match highlights provided, which were kept short and lacking in action.",
+        "Doncaster drew their match against Fleetwood Town on Saturday, resulting in a 0-0 draw.",
+        "The match highlights were kept short and sweet, indicating that the video only included essential parts of the game to save time and focus on key moments."
+    ],
+    "answer": [
+        "No, the summary does not explicitly mention \"an underwhelming season.\" However, the context of the summary is focused on the match highlights not being particularly exciting, which could be a reflection of the overall season being unremarkable.",
+        "No, the summary does not contain the context of that sentence.",
+        "Yes, the summary contains the context of the given aspect."
+    ],
+    "score": [
+        3,
+        1,
+        4
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.583333333325
+}

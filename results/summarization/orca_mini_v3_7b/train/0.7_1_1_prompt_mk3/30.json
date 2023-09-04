@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands",
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands",
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands"
+    ],
+    "aspect": [
+        "1. Owners of house in Birmingham must not leave quickly, as a speed camera is pointed at their front door.",
+        "2. Speed camera in Handsworth, Birmingham, has not been functioning for over two years.",
+        "3. There are plans for a pilot using digital technology to replace fixed location safety cameras in West Midlands."
+    ],
+    "explain": [
+        "In this aspect, the core idea is that the owners of a house in Birmingham must not leave too quickly, as a speed camera is aimed at their front door, which suggests that they might be receiving speeding violations.",
+        "Speed camera in Handsworth, Birmingham, has not been functioning for over two years.",
+        "The given aspect states that there are plans for a pilot using digital technology to replace fixed location safety cameras in the West Midlands region. This implies that the focus is on exploring the implementation of digital technology to improve safety camera systems and potentially adapt them to better serve the needs of local communities in the West Midlands area."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of this sentence.",
+        "Yes, the summary contains the context of the sentence. The summary mentions a speed camera pointing at a house in Birmingham, West Midlands, which is consistent with the aspect about the non-functioning speed camera in Handsworth, Birmingham.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.666666666675
+}

@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "patrick kluivert has been winning start in world cup qualifiers . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert 's team won 4-3 on aggregate at montserrat to win . the holland face 2-2 in a second-leg match at montserrat .",
+        "patrick kluivert has been winning start in world cup qualifiers . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert 's team won 4-3 on aggregate at montserrat to win . the holland face 2-2 in a second-leg match at montserrat .",
+        "patrick kluivert has been winning start in world cup qualifiers . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert 's team won 4-3 on aggregate at montserrat to win . the holland face 2-2 in a second-leg match at montserrat .",
+        "patrick kluivert has been winning start in world cup qualifiers . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert 's team won 4-3 on aggregate at montserrat to win . the holland face 2-2 in a second-leg match at montserrat .",
+        "patrick kluivert has been winning start in world cup qualifiers . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert 's team won 4-3 on aggregate at montserrat to win . the holland face 2-2 in a second-leg match at montserrat ."
+    ],
+    "aspect": [
+        "1. Patrick Kluivert has helped Curacao progress to the next stage of 2018 World Cup qualification.",
+        "2. Kluivert's team won 2-1 on Saturday in Willemstad.",
+        "3. Curacao faced Montserrat in the first round of qualifications but won with the help of Charlton Vicento.",
+        "4. The team will face Cuba in the next round.",
+        "5. Kluivert was a World Cup losing semi-finalist in 1998 as a player and last year as assistant to coach Louis van Gaal."
+    ],
+    "explain": [
+        "The aspect highlights that Patrick Kluivert, a football player from Curacao, has played a crucial role in helping his team advance to the next stage of the 2018 World Cup qualification.",
+        "The given aspect states that Kluivert's team won the first leg of the qualifying round with an aggregate score of 2-1 in Willemstad. This indicates that the team performed well and achieved a victory in the first match of the qualifying round. The core idea of this aspect is that the team started the qualifying process with a win, which is an essential aspect of getting into the second qualifying round and ultimately, the World Cup.",
+        "The aspect states that in the World Cup qualifiers, Curacao's team advanced to the second round within the CONCACAF region. Moreover, Patrick Kluivert's team won with a 4-3 aggregate score at Montserrat. Therefore, their squad managed to progress from the first qualifying round by facing 2-2 draw in the second leg game at Montserrat.",
+        "One possible core idea of the given aspect is that after defeating Montserrat, Holland will face Cuba, a more strategically challenging opponent, in the next round of qualifiers.",
+        "The given aspect states that Patrick Kluivert was a World Cup losing semi-finalist in 1998 as a player and also last year as an assistant to the coach Louis van Gaal. It implies that Patrick Kluivert has experienced the feeling of losing in the World Cup semifinal stage on two separate occasions."
+    ],
+    "answer": [
+        "Maybe not, but the aspect does. The summary only mentions that Patrick Kluivert's team won the qualifiers and progressed to the next stage, without specifying his role or contribution in the process.",
+        "2. Kluivert's team won 2-1 on Saturday in Willemstad.\nInspect: It is a fact that Kluisvert' s team won the first leg of the qualifying round with an aggregate score of 2-1 in Willemstad.",
+        "It appears that the aspect about Charlton Vicento's role in helping Curacao win against Montserrat does not seem to be explicitly mentioned in the summary. However, if you refer to the CONCACAF region, it is mentioned that Curacao faced Montserrat in the first round of qualifications.",
+        "It depends on the context. If we assume that the summary is about the World Cup qualifiers, then the aspect may or may not contain the core idea. However, if we consider the summary as a standalone text, the aspect has no relation to the core idea of the summary. The summary is about a winning start and advancement to the next round, while the aspect only mentions the opponent in the next round without providing any context.",
+        "The summary does not contain the core idea of the given aspect."
+    ],
+    "score": [
+        1,
+        5,
+        3,
+        3,
+        0
+    ],
+    "mean_score": 2.4,
+    "gt_score": 2.5
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "luigi costa , 71 , is accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home on mugga way in red hill , canberra on july 2012 . the man who allegedly killed his neighbour was believed to be suffering from dementia and alcohol abuse at the time of the horrendous murder in 2012 , a jury has heard . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident and also during the event , the abc reported .",
+        "luigi costa , 71 , is accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home on mugga way in red hill , canberra on july 2012 . the man who allegedly killed his neighbour was believed to be suffering from dementia and alcohol abuse at the time of the horrendous murder in 2012 , a jury has heard . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident and also during the event , the abc reported .",
+        "luigi costa , 71 , is accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home on mugga way in red hill , canberra on july 2012 . the man who allegedly killed his neighbour was believed to be suffering from dementia and alcohol abuse at the time of the horrendous murder in 2012 , a jury has heard . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident and also during the event , the abc reported ."
+    ],
+    "aspect": [
+        "1. Alleged 2012 murderer Luigi Costa, 71, was suffering from dementia and alcohol abuse at the time of the incident.",
+        "2. Costa allegedly killed his elderly neighbour Terrence Freebody in the dining room of his home.",
+        "3. Costa's state of mind is critical to the case, as the jury can return a not guilty verdict if his unstable mindset at the time of the attack can be proven."
+    ],
+    "explain": [
+        "Luigi Costa, the 71-year-old accused of the 2012 murder, was alleged to have been suffering from dementia and alcohol abuse at the time of the incident, according to forensic psychiatrist Professor Paul Mullen.",
+        "In 2012, 71-year-old Luigi Costa faces accusations of fatally attacking his elderly neighbour, Terrence Freebody, in Freebody's dining room at his home in Red Hill, Canberra. Costa's alleged actions included stomping on Freebody's head, cutting his throat, and multiple stabbing incidents. The defendant was believed to be suffering from dementia and alcohol abuse at the time of the gruesome 2012 murder, according to forensic psychiatrist Professor Paul Mullen, who examined Costa following the attack.",
+        "Costa's state of mind prior to and during the attack is crucial for determining his guilt, as the jury might find him not guilty if they can demonstrate that his cognitive impairments significantly impacted his actions at the time."
+    ],
+    "answer": [
+        "Yes",
+        "No, the context of this sentence is not present in the summary.",
+        "Yes, the context of the sentence is present in the summary."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 5.0
+}

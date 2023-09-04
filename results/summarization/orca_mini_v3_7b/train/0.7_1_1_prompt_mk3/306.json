@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "nigel pearson has urged leicester to keep their cool and ignore their relegation rivals . the foxes host swansea on saturday just three points from safety in the barclays premier league . jamie vardy scored an injury-time winner against west brom on saturday .",
+        "nigel pearson has urged leicester to keep their cool and ignore their relegation rivals . the foxes host swansea on saturday just three points from safety in the barclays premier league . jamie vardy scored an injury-time winner against west brom on saturday .",
+        "nigel pearson has urged leicester to keep their cool and ignore their relegation rivals . the foxes host swansea on saturday just three points from safety in the barclays premier league . jamie vardy scored an injury-time winner against west brom on saturday ."
+    ],
+    "aspect": [
+        "1. Boss Nigel Pearson urged Leicester to stay calm and focus on their own games.",
+        "2. Leicester is three points from safety in the Premier League after back-to-back wins.",
+        "3. Pearson wants his team to prioritize their own run-in and not worry about relegation rivals."
+    ],
+    "explain": [
+        "Nigel Pearson wants Leicester to remain composed and avoid getting distracted by their relegation rivals, staying focused on their upcoming match against Swansea.",
+        "Leicester is close to relegation with only 3 points from safety, but they recently had two consecutive wins, which could give them some hope for avoiding relegation.",
+        "The aspect focuses on Nigel Pearson, the manager of Leicester, urging his team to focus on their upcoming games and not let concerns about other teams sway their performance during their crucial relegation battle in the Barclays Premier League."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes",
+        "Yes, the summary does contain the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.91666666665
+}

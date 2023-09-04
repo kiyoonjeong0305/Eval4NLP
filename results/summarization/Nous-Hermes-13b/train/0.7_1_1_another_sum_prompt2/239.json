@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large .",
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large .",
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large .",
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large .",
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large .",
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large .",
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large ."
+    ],
+    "aspect": [
+        "1. New Zealand police are appealing to the public to help identify a man who robbed a Christchurch dairy on Saturday. ",
+        "2. The offender, wearing a 'distinctive' cartoon mask, is described as being 'very tall'. ",
+        "3. The man demanded cash from the dairy owner's daughter and made off with the till and about $1500 in cash. ",
+        "4. The police were called to the Union St dairy after reports of a masked man demanding cash. ",
+        "5. The masked man threw the cash register to the ground and took off with the till drawer and up to $1,500. ",
+        "6. Christina Chen's daughter ran out of the shop screaming 'robber!' after the incident. ",
+        "7. The masked man remains at large and police are asking for anyone with information to contact Crimestoppers."
+    ],
+    "explain": [
+        "Police are seeking public assistance to identify and apprehend a man who robbed a Christchurch dairy on Saturday, February 15th. The culprit wore a \"distinctive\" cartoon mask and stole the cash register and an estimated $1500 in cash. \n\nWhat information would be helpful for law enforcement to investigate this incident? - The man's identifying characteristics, the make and model of the mask used, and any details about the getaway vehicle.\n\nWhat is the current status of the investigation? - Police are still seeking information about the suspect and the incident.\n\nWhat could happen to the perpetrator if caught? - The perpetrator could face charges of armed robbery and may have to serve time in prison.\n\nWhat is the role of the public in helping to solve this case? - The public can assist by providing any information or tips that could lead to the identification and arrest of the suspect.\n\nWhat is the significance of the dairy being robbed? - It shows that even small businesses can be targeted by criminals, and highlights the need for vigilance and security measures to be in place.",
+        "The aspect of the man being very tall is an important detail given by the police about the offender's appearance. It can potentially help witnesses or anyone else who may have information about the robbery to identify and recognized the offender.",
+        "One core idea of the aspect is that the man demanded cash from the dairy owner's daughter during the robbery.",
+        "The given aspect provides information about the location of the robbery of a Christchurch dairy which took place on Saturday. It states that the incident occurred on Union Street and that the police were called after reports of a masked man demanding cash.",
+        "The core idea of this aspect is that the masked man committed the robbery by taking the cash register and till drawer and leaving with an amount ranging from $150 to $1,500.",
+        "The given aspect states that 6. Christina Chen's daughter ran out of the shop screaming 'robber!' after the incident. This implies that the daughter was present at the dairy when the robbery occurred and that she saw the thief in action. Her reaction of screaming 'robber!' indicates that she realized what was happening and was likely scared or shocked by the incident. This suggests that the incident was quite alarming and that the daughter may have been traumatized by the experience. Overall, this aspect helps to convey the fear and chaos that the robbery caused.",
+        "\nThe aspect states that the masked man who robbed the Christchurch dairy is still at large and police are asking for anyone with information to contact Crimestoppers. This means that the person responsible for the crime has not been apprehended yet and the authorities are seeking assistance from the public to help locate the individual."
+    ],
+    "answer": [
+        "It seems like the summary contains the core idea of the given aspect.",
+        "After examining the summary word by word, yes, it does contain the core idea of the given aspect. The summary states that the offender robbed a Christchurch dairy on Saturday and made off with the till and about $1500 in cash. It also mentions that there were no signs of any weapons used and that the robber remains at large. The aspect of the offender being very tall is mentioned along with the detailed description of him wearing a 'distinctive' cartoon mask.",
+        "Yes, I think the summary contains the core idea that a man robbed a Christchurch dairy and made off with the till and about $1500 in cash.",
+        "Yes, the summary contains the core idea by stating that a man in a 'distinctive' cartoon mask robbed a Christchurch dairy on Saturday, making off with the till and about $1500 in cash, and that there were no signs of any weapons used.",
+        "No, the summary does not contain the core idea of the aspect. The summary only mentions that the man robbed the dairy and took the cash register and till drawer, but does not mention the amount of money stolen. The aspect, on the other hand, provides more details about the amount of money taken during the robbery.",
+        "Yes, the summary does contain the core idea that a man in a 'distinctive' cartoon mask robbed a Christchurch dairy on Saturday, and made off with the dairy's till and about $1500 in cash. There were no signs of any weapons used, but the robber remains at large. Additionally, the summary also mentions that the daughter of one of the witnesses, Christina Chen, ran out of the shop screaming 'robber!' after the incident.",
+        "\nNo, the summary does not contain the core idea of the aspect. The aspect provides additional information about the robbery, specifically that the culprit remains at large and police are seeking information from the public through Crimestoppers. The summary only contains information about the robbery itself and does not mention the state of the robber or police efforts to apprehend them."
+    ],
+    "score": [
+        4,
+        5,
+        4,
+        4,
+        0,
+        5,
+        1
+    ],
+    "mean_score": 3.2857142857142856,
+    "gt_score": 4.916666666675
+}

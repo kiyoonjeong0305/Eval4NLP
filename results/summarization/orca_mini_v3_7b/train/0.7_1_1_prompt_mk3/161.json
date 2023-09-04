@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help ."
+    ],
+    "aspect": [
+        "1. Passenger breaks toilet in China airport, hospitalized.",
+        "2. Jin Pai, 35, stands on toilet rim, causing it to collapse.",
+        "3. Hospitalized for deep cuts on leg and buttocks, Jin Pai denies squatting."
+    ],
+    "explain": [
+        "In Hefei, Anhui, China, a 35-year-old passenger named Jin Pai was standing on the rim of a collapsing toilet in a local airport, leading him to be hospitalized with injuries.",
+        "Jin Pai, a 35-year-old man, stands on a toilet rim in Hefei, China's Anhui province, causing it to collapse, leaving him hospitalized.",
+        "Jin Pai, 35, was standing on the toilet rim but denies squatting. He collapsed, got hospitalized due to deep cuts on his leg and buttocks."
+    ],
+    "answer": [
+        "Yes, I think the summary contains the context of the given sentence. It mentions the details like Jin Pai's age, China's province, the accident, and his subsequent hospitalization.",
+        "Yes, the summary contains the context of the given sentence.",
+        "No, the sentence does not accurately represent the context of the original text."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.16666666665
+}

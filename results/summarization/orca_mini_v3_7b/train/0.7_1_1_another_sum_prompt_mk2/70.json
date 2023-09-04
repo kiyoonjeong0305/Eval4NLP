@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock .",
+        "an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock .",
+        "an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot.",
+        "2. The rifle was secured properly with padlocks and chains, but the thief still managed to steal it.",
+        "3. The stolen rifle has not been recovered, and the Secret Service was notified before President Obama's visit."
+    ],
+    "explain": [
+        "An FBI agent's weapon was taken during a break-in at a hotel parking lot in Salt Lake City. The suspect allegedly pried open the vehicle's window, tied a rope around the rifle case handle, or broke through the security using a cable lock.",
+        "Despite the secured rifle case with padlocks and chains, the thief still managed to steal the sniper rifle from the parking lot.",
+        "Due to the stolen rifle incident, the Secret Service needed to be notified before President Obama's visit. This means that the authorities recognized the importance of informing the Secret Service, which is responsible for Presidential protection, about the stolen weapon to ensure proper measures are taken for the President's safety."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes",
+        "Yes, the summary contains the context of that sentence. The authorities recognized the importance of informing the Secret Service about the stolen rifle due to the incident."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.416666666675
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "holidaymaker david meadwell recorded the unscheduled manouevre outside buckingham palace . he lost his footing and slid sideways , knocking bearskin on the side of the box . queen 's guard was left red-faced after he slipped on manhole cover . the entire incident was caught on a manhole cover . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past .",
+        "holidaymaker david meadwell recorded the unscheduled manouevre outside buckingham palace . he lost his footing and slid sideways , knocking bearskin on the side of the box . queen 's guard was left red-faced after he slipped on manhole cover . the entire incident was caught on a manhole cover . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past .",
+        "holidaymaker david meadwell recorded the unscheduled manouevre outside buckingham palace . he lost his footing and slid sideways , knocking bearskin on the side of the box . queen 's guard was left red-faced after he slipped on manhole cover . the entire incident was caught on a manhole cover . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past ."
+    ],
+    "aspect": [
+        "1. A Buckingham Palace guard slipped on a manhole cover during the Changing of the Guard and lost his footing, dropping his rifle.",
+        "2. The incident was caught on camera, and the embarrassed guard quickly regained his balance as his colleagues marched past.",
+        "3. The Queen's Guard is a full-time operational soldier under the command of the Captain of The Queen's Guard."
+    ],
+    "explain": [
+        "A Buckingham Palace guard's slip on a manhole cover led to a comical incident during the Changing of the Guard, where he dropped his rifle, stepped sideways into the bearskin on the side of the box, and left the Queen's Guard's team red-faced.",
+        "The incident involved a man sliding sideways on his way to Buckingham Palace, knocking onto the Bearskin, while the Queen's Guard soldier lost his balance on a manhole cover. This mishap was captured by a camera. The embarrassed guard managed to swiftly stand upright while other guards passed by.",
+        "The Queen's Guard is a full-time operational soldier who serves under the command of the Captain of The Queen's Guard. This means they have a specific duty to protect and represent Queen Elizabeth II."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the context of the sentence can be found in the summary.",
+        "No, the summary does not convey the context of the given aspect about The Queen's Guard being a full-time operational soldier under the command of the Captain of The Queen's Guard, with a specified duty to protect and represent Queen Elizabeth II. The emphasis in the given context is on a humorous incident involving a Queen's Guard slipping on a manhole cover during their ceremonial duty near Buckingham Palace, rather than on their role and responsibilities."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.2500000000250004
+}

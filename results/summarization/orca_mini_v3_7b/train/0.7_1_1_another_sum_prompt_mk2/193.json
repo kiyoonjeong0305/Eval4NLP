@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "roma beat napoli 4-2 on saturday in a key match for champions league places . miralem pjanic finished off a swift counter-attack for roma in the 25th minute . miralem pjanic slots home to put roma ahead in the 25th minute .",
+        "roma beat napoli 4-2 on saturday in a key match for champions league places . miralem pjanic finished off a swift counter-attack for roma in the 25th minute . miralem pjanic slots home to put roma ahead in the 25th minute .",
+        "roma beat napoli 4-2 on saturday in a key match for champions league places . miralem pjanic finished off a swift counter-attack for roma in the 25th minute . miralem pjanic slots home to put roma ahead in the 25th minute ."
+    ],
+    "aspect": [
+        "1. Roma ends four-month winless streak at home with a victory over Napoli in Serie A.",
+        "2. Miralem Pjanic scores in 25th minute, while Morgan de Sanctis saves shots to secure Roma's victory.",
+        "3. Roma gains momentum for Champions League places, moving four points ahead of city rivals Lazio."
+    ],
+    "explain": [
+        "Roma breaks a four-month home winless streak by defeating Napoli in Serie A, securing a significant victory for their Champions League placement.",
+        "Miralem Pjanic scored the crucial goal for Roma in the 25th minute, contributing to their 4-2 win against Napoli. Morgan de Sanctis also played a significant role in defending Roma's victory with his goalkeeping.",
+        "Roma wins a crucial match against Napoli, with Miralem Pjanic scoring in the 25th minute, making them four points ahead of city rivals Lazio in the race for Champions League places."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence, as it mentions Roma's victory over Napoli in Serie A and their placement for Champions League, highlighting their crucial home win.",
+        "No, the summary does not contain the context of the sentence provided.",
+        "Yes, the summary captures the core idea with the specific event of Roma winning the match against Napoli, Miralem Pjanic's goal in the 25th minute, and their four-point lead over Lazio in the Champions League race."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.58333333335
+}

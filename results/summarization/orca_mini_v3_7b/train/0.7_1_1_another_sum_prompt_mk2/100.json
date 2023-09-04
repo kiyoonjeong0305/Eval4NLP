@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "manchester city want to sign anderlecht teenager evangelos patoulidis . the belgian starlet rejected a move to barcelona 's la masia academy . he was 12 as his family wanted him to continue his studies .",
+        "manchester city want to sign anderlecht teenager evangelos patoulidis . the belgian starlet rejected a move to barcelona 's la masia academy . he was 12 as his family wanted him to continue his studies .",
+        "manchester city want to sign anderlecht teenager evangelos patoulidis . the belgian starlet rejected a move to barcelona 's la masia academy . he was 12 as his family wanted him to continue his studies ."
+    ],
+    "aspect": [
+        "1. Manchester City targets Anderlecht's 14-year-old playmaker, Evangelos Patoulidis.",
+        "2. The talented teenager impresses in Anderlecht's youth set-up, attracting interest from Arsenal and Barcelona.",
+        "3. City aims to secure Patoulidis by negotiating a compensation package with Anderlecht chairman Roger Vanden Stock."
+    ],
+    "explain": [
+        "Manchester City is interested in signing Anderlecht's 14-year-old playmaker, Evangelos Patoulidis, who rejected a move to Barcelona's La Masia academy due to his family's desire for him to concentrate on his studies.",
+        "the talented teenager impresses in Anderlecht's youth set-up, attracting interest from Arsenal and Barcelona",
+        "Manchester City is aiming to sign Anderlecht teenager Evangelos Patoulidis by negotiating a compensation package with Anderlecht chairman Roger Vanden Stock."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence, as it properly highlights Manchester City's interest in Patoulidis and the reason for him refusing the move to Barcelona's academy.",
+        "Yes",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.5
+}

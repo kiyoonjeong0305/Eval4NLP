@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "ian guffick asked pupils to make changes to the the national curriculum tests for 11-year-olds , which assess english , maths and science at mitton manor primary school in tewskesbury , gloucestershire . this was despite the exam session finishing , a conduct panel heard . the 31-year-old also altered a number of the pupil 's exam answers himself before the papers were sent off .",
+        "ian guffick asked pupils to make changes to the the national curriculum tests for 11-year-olds , which assess english , maths and science at mitton manor primary school in tewskesbury , gloucestershire . this was despite the exam session finishing , a conduct panel heard . the 31-year-old also altered a number of the pupil 's exam answers himself before the papers were sent off .",
+        "ian guffick asked pupils to make changes to the the national curriculum tests for 11-year-olds , which assess english , maths and science at mitton manor primary school in tewskesbury , gloucestershire . this was despite the exam session finishing , a conduct panel heard . the 31-year-old also altered a number of the pupil 's exam answers himself before the papers were sent off ."
+    ],
+    "aspect": [
+        "1. A teacher, Ian Guffick, was banned from the classroom after bending SATs rules at Mitton Manor Primary School.",
+        "2. He asked students to change their exam answers and altered some himself, resulting in the cancellation of the entire school's SATs results.",
+        "3. Guffick had to give up his job after admitting the allegations but claimed he didn't ask students to change answers but make them more legible."
+    ],
+    "explain": [
+        "A teacher, Ian Guffick, changed exam answers of students and modified the national curriculum tests at Mitton Manor Primary School, resulting in his ban from the classroom.",
+        "Ian Guffick asked students to change their exam answers and changed some himself, which led to the cancellation of the entire school's SATs results.",
+        "3. Guffick lost his job after admitting the accusations because he changed the exam answers himself and asked students to make changes to national curriculum tests."
+    ],
+    "answer": [
+        "Yes",
+        "No, the summary does not include the context of this sentence.",
+        "Yes, the context is included in the summary."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.5
+}

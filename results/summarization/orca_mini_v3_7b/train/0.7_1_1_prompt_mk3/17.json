@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 ."
+    ],
+    "aspect": [
+        "1. United wins under 18's match against City with a score of 1-0, highlighting its young talent.",
+        "2. The match showcased a mix of English and Mancunian players, and Moss Lane was the location.",
+        "3. The game had an even first half, with Marcus Wood coming close for City and Rashford wasting opportunities for United. Callum Gribbin scored the first goal for United with a free-kick."
+    ],
+    "explain": [
+        "Under 18's competition between Manchester United and City witnesses a victory for United with a score of 1-0, showcasing the team's young talent.",
+        "2. The match featured a blend of English and Mancunian players, with Moss Lane serving as the venue.",
+        "The junior teams of Manchester United and Manchester City played an equal first half, with both teams having opportunities for goals, but it was Callum Gribbin from Manchester United who scored a free-kick and achieved victory."
+    ],
+    "answer": [
+        "Yes, I believe the summary contains the context of the sentence, as it mentions United's victory against City with a score of 1-0 and showcasing their young talent.",
+        "Yes",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.75
+}

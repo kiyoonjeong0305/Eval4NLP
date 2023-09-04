@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "at the same time , managers at the passport agency , which made a # 42 million profit during the chaos , received up to # 3,500 in bonuses . ministers refused to give a blanket refund to the desperate families who had to pay extra to get their travel documents rushed through , and even to some who missed out on trips .",
+        "at the same time , managers at the passport agency , which made a # 42 million profit during the chaos , received up to # 3,500 in bonuses . ministers refused to give a blanket refund to the desperate families who had to pay extra to get their travel documents rushed through , and even to some who missed out on trips .",
+        "at the same time , managers at the passport agency , which made a # 42 million profit during the chaos , received up to # 3,500 in bonuses . ministers refused to give a blanket refund to the desperate families who had to pay extra to get their travel documents rushed through , and even to some who missed out on trips ."
+    ],
+    "aspect": [
+        "1. Thousands of holidaymakers affected by last summer's passport delay received no compensation, while passport agency managers received thousands in bonuses.",
+        "2. Ministers refused to provide blanket refunds to families impacted by the fiasco.",
+        "3. Only 2,191 compensation applications were approved, with the total paid out at £203,066, giving an average sum of £92.68."
+    ],
+    "explain": [
+        "The passport agency managers received thousands in bonuses, while thousands of holidaymakers affected by last summer's passport delay were not given compensation.",
+        "The ministers did not offer refunds to everyone affected by the issue, only to some individuals who had to pay extra for rush services or missed their trips.",
+        "Out of the 3,540 compensation applications received, only 2,191 were approved, with a total payout of £203,066, resulting in an average payout of £92.68."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the context of that sentence is in the summary.",
+        "No, the context of the sentence is not present in the given summary, which appears to be more focused on the profit of the passport agency and the lack of refunds for some travelers despite the chaos."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.0
+}

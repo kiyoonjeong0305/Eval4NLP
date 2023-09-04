@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "ben stokes forged a reputation as a fiery character in the england cricket team . stokes broke his wrist punching a locker after being dismissed last year . stokes clashed with marlon samuels during the second test . ben stokes first turned up at the kensington oval this week . stokes responded positively to the row after talking to england coach peter moores .",
+        "ben stokes forged a reputation as a fiery character in the england cricket team . stokes broke his wrist punching a locker after being dismissed last year . stokes clashed with marlon samuels during the second test . ben stokes first turned up at the kensington oval this week . stokes responded positively to the row after talking to england coach peter moores .",
+        "ben stokes forged a reputation as a fiery character in the england cricket team . stokes broke his wrist punching a locker after being dismissed last year . stokes clashed with marlon samuels during the second test . ben stokes first turned up at the kensington oval this week . stokes responded positively to the row after talking to england coach peter moores ."
+    ],
+    "aspect": [
+        "1. Ben Stokes showed fiery character in England cricket team, fighting his way back after a challenging year.",
+        "2. Stokes needs careful man-managing, as his aggression must be controlled while retaining his natural exuberance.",
+        "3. Stokes' full potential should be encouraged, but his aggression should be balanced with runs and wickets for England to excel in international games."
+    ],
+    "explain": [
+        "Ben Stokes exhibited a noteworthy fiery character in England's cricket team, despite facing difficulties during the previous year. He persevered and successfully responded positively after a conversation with the English coach, Peter Moore.",
+        "Stokes requires careful handling and control of his aggression while maintaining his enthusiastic personality.",
+        "Stokes' aggressive nature needs to be harnessed, with runs and wickets being balanced with positive mental attitude, to help England's international performance."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the provided sentence.",
+        "No",
+        "No, the summary does not contain the provided context."
+    ],
+    "score": [
+        4,
+        1,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 3.916666666675
+}

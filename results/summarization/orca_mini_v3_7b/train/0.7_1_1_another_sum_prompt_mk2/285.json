@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "alexis sanchez is glad chile forward will be lining up for his side . arsenal manager arsene wenger does not know the reason . alexis sanchez has scored 19 goals in 19 goals so far this season . french coach arsene wenger says the club could use the interest in sanchez . the world cup . the arsenal manager says the move is a ` strength ' .",
+        "alexis sanchez is glad chile forward will be lining up for his side . arsenal manager arsene wenger does not know the reason . alexis sanchez has scored 19 goals in 19 goals so far this season . french coach arsene wenger says the club could use the interest in sanchez . the world cup . the arsenal manager says the move is a ` strength ' .",
+        "alexis sanchez is glad chile forward will be lining up for his side . arsenal manager arsene wenger does not know the reason . alexis sanchez has scored 19 goals in 19 goals so far this season . french coach arsene wenger says the club could use the interest in sanchez . the world cup . the arsenal manager says the move is a ` strength ' ."
+    ],
+    "aspect": [
+        "1. Wenger does not know the exact reason for Sanchez choosing Arsenal over Liverpool.",
+        "2. Sanchez's decision was influenced by Wenger's guidance; he has 19 goals this season.",
+        "3. Wenger praises Sterling but dismisses talk of a summer transfer move."
+    ],
+    "explain": [
+        "Wenger is unsure of the reason behind Sanchez choosing Arsenal instead of Liverpool, despite Sanchez's impressive performance and numbers in the current season.",
+        "While Sanchez's decision to move to the club could partly be influenced by Arsene Wenger's guidance (as demonstrated by his record of 19 goals this season), the aspect also emphasizes that the importance of his presence in the team strengthens it.",
+        "Wenger praises Sterling's performance but refutes rumors of a potential transfer in the summer."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the sentence.",
+        "Yes, the context of this sentence is present in the summary; it is focused on the influence of Arsene Wenger's guidance on Sanchez and the strengthening effect of his presence in the team.",
+        "No, the context of the given sentence is not present in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 1.83333333335
+}

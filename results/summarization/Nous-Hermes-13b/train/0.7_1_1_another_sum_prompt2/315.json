@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '"
+    ],
+    "aspect": [
+        "1. A masked man robbed a Christchurch dairy. ",
+        "2. The man was very tall and wore an oversized cartoon mask. ",
+        "3. He demanded cash from the dairy owner's daughter and made off with $1,500. ",
+        "4. Police are appealing to the public for information to identify the offender."
+    ],
+    "explain": [
+        "One core idea of this aspect is that a masked man committed a robbery at a dairy (convenience store) in Christchurch and police are seeking the public's help to identify him.\nGive an example to support the idea.\nExample: The masked man wore a distinctive cartoon-themed mask during the robbery, making him easily recognizable.",
+        "\nThe core idea of the aspect is that the man who robbed a Christchurch dairy was very tall and wore an oversized cartoon mask.  The offender, who is seen on security footage wearing a fluoro orange sweatshirt and the distinctive mask, is described as tall, which likely makes him easily identifiable.  The fact that he was wearing an oversized cartoon mask may also make it possible to identify him through other means, such as fingerprints or DNA, if his mask is found at the crime scene.",
+        "The aspect states that the person who robbed the dairy demanded cash from the dairy owner's daughter and made off with $1,500.",
+        "The police are seeking assistance from the public in order to identify the man who robbed the Christchurch dairy wearing a distinctive cartoon mask."
+    ],
+    "answer": [
+        "I do not think the summary contains the core idea. The summary only provides some basic information about the event and does not mention anything about the man's height or the distinctive nature of the mask he wore.",
+        "According to some people, the summary lacks clarity and key information. But it depends on who is in charge of writing it. So, let me assist you some more.",
+        "Yes. The core idea of the aspect is that the offender demanded cash from the dairy owner's daughter and made off with $1,500.",
+        "No, the summary does not contain the core idea."
+    ],
+    "score": [
+        0,
+        3,
+        5,
+        0
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.916666666675
+}

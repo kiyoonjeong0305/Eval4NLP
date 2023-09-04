@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "an fbi agent 's sniper rifle -lrb- similar to the one pictured -rrb- was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot just days before president obama visited utah earlier this month . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites , according to police .",
+        "an fbi agent 's sniper rifle -lrb- similar to the one pictured -rrb- was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot just days before president obama visited utah earlier this month . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites , according to police .",
+        "an fbi agent 's sniper rifle -lrb- similar to the one pictured -rrb- was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot just days before president obama visited utah earlier this month . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites , according to police ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot.",
+        "2. The rifle was secured properly in a hard rifle case and chained to a truck safe.",
+        "3. The rifle was stolen by breaking the rear passenger-side window, using a rope to pull the case free from the lock."
+    ],
+    "explain": [
+        "An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot, which was inside a hard rifle case and secured properly with padlocks and chains in a truck safe.",
+        "The sniper rifle was well secured by being placed in a hard rifle case and safely chained to a truck safe with padlocks, ensuring its security.",
+        "The rifle was stolen by breaking the rear passenger side window and using a rope to pull the case free from the lock, revealing that it was not properly secured in the hard rifle case."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.083333333325
+}

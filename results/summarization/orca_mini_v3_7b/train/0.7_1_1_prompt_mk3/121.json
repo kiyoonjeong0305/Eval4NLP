@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "joe hart has labelled fellow goalkeeper gianluigi buffon a 'legend of the game' the manchester city stopper won his 147th cap against england on tuesday night . hart is desperate to add to his 50 international caps .",
+        "joe hart has labelled fellow goalkeeper gianluigi buffon a 'legend of the game' the manchester city stopper won his 147th cap against england on tuesday night . hart is desperate to add to his 50 international caps .",
+        "joe hart has labelled fellow goalkeeper gianluigi buffon a 'legend of the game' the manchester city stopper won his 147th cap against england on tuesday night . hart is desperate to add to his 50 international caps ."
+    ],
+    "aspect": [
+        "1) England goalkeeper Joe Hart praises Italian veteran Gianluigi Buffon as a 'legend of the game' after Buffon claimed his 147th cap, with Hart himself representing England for the 50th time.",
+        "2) Both Hart and Buffon play their roles in inspiring younger players like Hart, who looks up to Buffon's achievement.",
+        "3) England's Joe Hart expresses his desire to continue playing for his country and add to his 50 caps, while also emphasizing the importance of learning from goalkeepers like Buffon, who have already achieved great success in their careers."
+    ],
+    "explain": [
+        "In a football match between England and Italy, England's goalie Joe Hart admires Italian legend Gianluigi Buffon, stating that Buffon is a 'legend of the game', after Buffon achieved his 147th cap. Hart himself marks his 50th cap for England, aiming for more.",
+        "Both Manchester City goalkeeper Joe Hart and Italian legend Gianluigi Buffon inspire younger players like Hart, who admires Buffon's achievements.",
+        "Joe Hart admires Gianluigi Buffon as a 'legend' and hopes to add to his 50 caps while learning from goalkeepers like Buffon, who have already achieved great success in their careers."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence describing Joe Hart praising Buffon as a legend after Buffon's 147th cap and Joe Hart's 50th cap for England.",
+        "No",
+        "Yes"
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.249999999975
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help ."
+    ],
+    "aspect": [
+        "1. Passenger injured in Hefei airport after breaking a toilet",
+        "2. Jin Pai, 35, hurt in multiple places after standing on toilet rim",
+        "3. Authorities believe incident is an accident, suggest using toilets for sitting instead of standing"
+    ],
+    "explain": [
+        "A passenger named Jin Pai, 35, suffered an injury in Hefei airport, China when he accidentally broke a toilet and fell from its rim, leading him to be hospitalized. His friends found him bleeding on the toilet floor after he called for help.",
+        "Jin Pai, a 35-year-old passenger, fell from a collapsed toilet and suffered injuries in multiple places, requiring hospitalisation.",
+        "Authorities think the incident was an accident, and suggest using toilets for sitting instead of standing to avoid similar situations in the future."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "yes",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.16666666665
+}

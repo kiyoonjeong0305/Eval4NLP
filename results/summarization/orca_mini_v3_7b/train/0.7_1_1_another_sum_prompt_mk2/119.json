@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful ."
+    ],
+    "aspect": [
+        "1. SpaceX launches Falcon 9 rocket carrying Dragon spacecraft to ISS, aiming to land on a floating barge, but unsuccessful. 2. Dragon successfully reaches ISS, delivering supplies and ISSpresso; Dragon will later return to Earth. 3. This is SpaceX's sixth mission to the ISS and the first private company to dock with the station."
+    ],
+    "explain": [
+        "1. SpaceX launches Falcon 9 rocket carrying Dragon spacecraft to ISS. However, they unsuccessfully try to land the rocket stage on a floating barge, but Dragon successfully reaches ISS, delivering supplies, and will later return to Earth."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of that particular sentence in whole."
+    ],
+    "score": [
+        1
+    ],
+    "mean_score": 1.0,
+    "gt_score": 4.6666666667
+}

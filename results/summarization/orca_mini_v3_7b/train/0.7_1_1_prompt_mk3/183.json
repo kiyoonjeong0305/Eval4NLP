@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent .",
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent .",
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent ."
+    ],
+    "aspect": [
+        "1. Falcao regrets loan move to Man Utd despite not being happy in France.",
+        "2. Falcao struggled at United after injury, unlikely to become permanent.",
+        "3. Falcao would have been better off staying at Monaco, says former teammate."
+    ],
+    "explain": [
+        "Falcao deeply regrets his decision to join Manchester United on loan, even though he was unhappy with his situation in France, as he struggles to recover from a serious knee injury and has not reached the same level of performance as before the injury.",
+        "Falcao struggled after his injury at United, making it unlikely for his transfer to be made permanent.",
+        "Nabil Dirar, Falcao's former Monaco teammate, believes Falcao would have been better off staying in Monaco, and regrets his failed loan move to Manchester United, where he struggled due to a serious knee injury he suffered before."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes",
+        "Yes, the summary contains the context of the sentence and accurately represents Nabil Dirar's opinion on Falcao's loan move to Manchester United."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.25
+}

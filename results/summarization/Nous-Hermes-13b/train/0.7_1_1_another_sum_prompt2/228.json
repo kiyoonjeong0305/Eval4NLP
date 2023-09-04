@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 .",
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 .",
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 .",
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 ."
+    ],
+    "aspect": [
+        "1. Wales' Euro 2016 qualifier with Belgium has sold out with 33,000 tickets.",
+        "2. Wales vs. Belgium is a crucial game that could decide who qualifies for the 2016 finals in France.",
+        "3. Wales' victory over Israel has raised expectations that they can claim one of the two automatic qualifying spots.",
+        "4. Wales' squad prefers playing at the Cardiff City Stadium rather than the Millennium Stadium."
+    ],
+    "explain": [
+        "The aspect states that fans have bought all the available tickets for Wales' Euro 2016 qualifier match against Belgium on June 12th.",
+        "The given aspect emphasizes the significance of the match between Wales and Belgium in the Euro 2016 qualifiers. The game is crucial as it could potentially decide who qualifies for the finals in France. A win for either team could secure one of the two automatic qualifying spots.",
+        "The aspect states that Wales' victory over Israel has raised expectations among the supporters that the national team can claim one of the two automatic qualifying spots in the upcoming Euro 2016. This victory has boosted the confidence of the team and has increased the hopes of the fans that they can secure a spot in the tournament.",
+        "According to the given aspect, the Wales' squad prefers playing at the Cardiff City Stadium rather than the Millennium Stadium. This preference indicate that the players are more comfortable and confident playing at the Cardiff City Stadium, due to its familiarity, atmosphere, and design, which may give them an edge over their opponents."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea. It mainly discusses the information about the date and opponent of the match, as well as other Wales' matches in the past.",
+        "No, the summary does not contain the core idea of the aspect. However, the aspect is mentioned in the summary as it is an important game that could decide who qualifies for the Euro 2016 finals.",
+        "I disagree. The summary does not contain the core idea of the aspect. The aspect is referring to a specific event, i.e. Wales' victory over Israel, whereas the summary is talking about the match between Wales and Belgium in general.",
+        "No, the summary does not contain the core idea presented in the given aspect. The summary is about the upcoming Euro 2016 qualifier between Wales and Belgium, whereas the aspect deals with the preference of the Wales' squad for the Cardiff City Stadium over the Millennium Stadium."
+    ],
+    "score": [
+        0,
+        3,
+        0,
+        0
+    ],
+    "mean_score": 0.75,
+    "gt_score": 2.16666666665
+}

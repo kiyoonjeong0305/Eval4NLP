@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the toddler's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital . the cheetahs did not approach the boy or his parents while in the pit, according to zoo officials .",
+        "the toddler's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital . the cheetahs did not approach the boy or his parents while in the pit, according to zoo officials .",
+        "the toddler's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital . the cheetahs did not approach the boy or his parents while in the pit, according to zoo officials ."
+    ],
+    "aspect": [
+        "1. A two-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo after his parents dangled him over the edge.",
+        "2. The boy suffered minor bumps and bruises and was listed in stable condition at the hospital.",
+        "3. The cheetahs did not approach the boy or his parents while in the pit, and zoo officials plan to press child endangerment charges against the family."
+    ],
+    "explain": [
+        "In the Cleveland Metroparks Zoo, a two-year-old boy fell into a cheetah exhibit when his parents dangled him over the edge, resulting in minor injuries.",
+        "The child fell into a pit but was rescued by his parents, later arriving at a stable condition in the hospital with minor injuries from bumps and bruises, as stated by the officials.",
+        "The family responsible for the toddler who slipped into a pit will face child endangerment charges because the cheetahs did not approach them, as mentioned by zoo officials."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes",
+        "Yes, the summary contains the context of the sentence mentioned in the aspect."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

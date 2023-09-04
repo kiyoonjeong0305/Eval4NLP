@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "luis enrique only took charge of barcelona last summer . the 44-year-old is only six games away from winning the la liga title . barcelona president josep maria bartomeu says the club are 'very happy' with enrique .",
+        "luis enrique only took charge of barcelona last summer . the 44-year-old is only six games away from winning the la liga title . barcelona president josep maria bartomeu says the club are 'very happy' with enrique .",
+        "luis enrique only took charge of barcelona last summer . the 44-year-old is only six games away from winning the la liga title . barcelona president josep maria bartomeu says the club are 'very happy' with enrique ."
+    ],
+    "aspect": [
+        "1. Bartomeu confirms no plans to replace Luis Enrique.",
+        "2. Barcelona satisfied with Luis Enrique's performance.",
+        "3. Enrique focuses on current games, no immediate contract talks."
+    ],
+    "explain": [
+        "Bartomeu states that the club has no intentions of replacing Luis Enrique, emphasizing their satisfaction with his current leadership.",
+        "Barcelona soccer team is happy with Luis Enrique's performance as their coach.",
+        "Luis Enrique is focusing on current games as Barcelona manager without discussing immediate contract extensions."
+    ],
+    "answer": [
+        "No",
+        "No, the summary does not contain the context mentioned in the sentence.",
+        "Yes"
+    ],
+    "score": [
+        1,
+        1,
+        4
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.75
+}

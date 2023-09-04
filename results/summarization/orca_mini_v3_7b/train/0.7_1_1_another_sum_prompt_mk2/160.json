@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season ."
+    ],
+    "aspect": [
+        "1. Steve Bruce remains optimistic about Hull City's chances for Premier League survival, despite their 2-0 defeat against Southampton.",
+        "2. Bruce aims for nine or eight wins to achieve this goal, emphasizing their difficult situation due to key player absences.",
+        "3. Hull City faces challenging fixtures but Bruce believes their team can overcome these obstacles."
+    ],
+    "explain": [
+        "Apart from the recent 2-0 loss to Southampton, Hull City's head coach Steve Bruce is confident of keeping the team in the Premier League this season.",
+        "Steve Bruce is aiming for his team to have either nine or eight wins remaining in the season to avoid relegation from the Premier League, acknowledging their difficult situation with key players unavailable.",
+        "Hull City struggles in the Premier League with a difficult position, close to relegation, but their coach, Steve Bruce, remains optimistic and believes they have the capacity to overcome their challenging matches."
+    ],
+    "answer": [
+        "No",
+        "yes",
+        "yes"
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.5
+}

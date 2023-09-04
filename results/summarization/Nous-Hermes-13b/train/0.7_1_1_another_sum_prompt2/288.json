@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . the app hires independent contractors who drive their own cars in a similar model to uber taxis . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . the app hires independent contractors who drive their own cars in a similar model to uber taxis . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . the app hires independent contractors who drive their own cars in a similar model to uber taxis . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . the app hires independent contractors who drive their own cars in a similar model to uber taxis . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . the app hires independent contractors who drive their own cars in a similar model to uber taxis . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services ."
+    ],
+    "aspect": [
+        "1. Chipotle has teamed up with Postmates to offer delivery for online and mobile orders in 67 cities. ",
+        "2. The service charge for delivery is 9%, with fees starting at $5. ",
+        "3. Chipotle has rejected previous offers of collaboration with third-party delivery services, but has now given Postmates the green light. ",
+        "4. The delivery model is similar to Uber taxis, with independent contractors using their own cars. ",
+        "5. Republican presidential candidate Marco Rubio and Democratic candidate Hillary Clinton have been spotted in Chipotle restaurants."
+    ],
+    "explain": [
+        "Chipotle started offering delivery by teaming up with the Postmates app in 67 cities.",
+        "The aspect of the delivery service provided by chipotle through postmates app states that the service charge for delivery is 9%, with fees starting at $5. This means that customers are required to pay an additional 9% of their order value as a delivery fee, in addition to the cost of their order. The minimum fee for delivery is $5, which means that customers with orders totaling less than $50 will still be charged the minimum fee.",
+        "Chipotle has been previously hesitant to collaborate with third-party delivery services, but has now agreed to work with Postmates, which hires independent contractors to deliver food using their own cars in a model similar to Uber taxis.",
+        "The delivery model for Chipotle, which is being offered in 67 cities in collaboration with Postmates app, relies on independent contractors who use their own cars in a similar model to Uber taxi service.",
+        "The aspect presents the idea that both the Republican and Democratic presidential candidates, Marco Rubio and Hillary Clinton, were seen at Chipotle restaurants, raising the possibility that the popular fast-casual chain could be a place where people of different political ideologies can come together to enjoy a meal."
+    ],
+    "answer": [
+        "Yes, the core idea of the given aspect is that Chipotle began offering delivery by teaming up with the Postmates app in 67 cities.",
+        "AI generated text.",
+        "Yes, the summary does contain the core idea of the aspect, which is that Chipotle has rejected previous offers of collaboration with third-party delivery services, but has now given Postmates the green light.",
+        "No, the summary does not contain the core idea of the aspect. The core idea of the aspect is that the delivery model for Chipotle is similar to Uber taxis, with independent contractors using their own cars.",
+        "Based on the text provided, it appears that the summary accurately reflects the core idea of the aspect."
+    ],
+    "score": [
+        5,
+        0,
+        5,
+        0,
+        5
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

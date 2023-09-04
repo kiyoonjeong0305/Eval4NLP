@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 .",
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 .",
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 ."
+    ],
+    "aspect": [
+        "1. Patrick Kluivert, former Holland forward and assistant coach, starts with a winning start in World Cup qualifying.",
+        "2. Curacao advances to the second qualifying round in CONCACAF for the 2018 tournament.",
+        "3. Kluivert, with a background of playing as a World Cup losing semi-finalist in 1998 and assisting last year, will face Cuba in the next round."
+    ],
+    "explain": [
+        "Patrick Kluivert, former member of the Holland football team, has made a strong beginning in World Cup qualifying matches as Curaçao won its match through his efforts with a score of 4-3. This is significant because Kluivert's mother was from Curacao and was a World Cup losing semi-finalist in 1998.",
+        "Curacao moves forward to the next stage in CONCACAF for the 2018 tournament following their victory in the second-leg match against Montserrat, where they secured a 4-3 aggregate win, assisted by Patrick Kluivert.",
+        "Patrick Kluivert, son of a World Cup losing semi-finalist from Curaçao in 1998, will now help Curaçao progress in the tournament by defeating Cuba in the next round."
+    ],
+    "answer": [
+        "1. Patrick Kluivert, former Holland forward and assistant coach, starts with a winning start in World Cup qualifying.",
+        "Yes, the summary contains the context of the given sentence.",
+        "No, the summary does not contain the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.58333333335
+}

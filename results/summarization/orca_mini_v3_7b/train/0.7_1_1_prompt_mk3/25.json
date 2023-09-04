@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis ."
+    ],
+    "aspect": [
+        "1. ISIS freed over 200 Yazidis, a minority group whose members were killed, captured, and displaced last summer. ",
+        "2. Mostly women and children were released, and some Arab tribal leaders helped coordinate the release. ",
+        "3. The Yazidi release is still unclear, but ISIS has previously released scores of other Yazidis since last year's attacks."
+    ],
+    "explain": [
+        "ISIS freed a significant number of Yazidis, demonstrating a crucial step towards addressing the humanitarian crisis they faced, while acknowledging the past atrocities experienced by these minority group members.",
+        "In the mentioned aspect, it is mentioned that mostly women and children were released after ISIS's conquest of the town of Sinjar. Furthermore, some Arab tribal leaders helped in coordinating the release. These critical points highlight the efforts of specific groups and leaders who worked together for the release of non-combatants, ultimately dealing with the humanitarian crisis caused by ISIS's operation.",
+        "The Yazidi release situation is uncertain, with past ISIS releases of Yazidis."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the mentioned sentence.",
+        "Yes, the summary does contain the context of the given sentence, as it discusses the significant release of mostly women and children, including the involvement of Arab tribal leaders in coordinating the release, which points to the humanitarian crisis caused by ISIS's conquest of the town of Sinjar.",
+        "No, the summary does not contain the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.33333333335
+}

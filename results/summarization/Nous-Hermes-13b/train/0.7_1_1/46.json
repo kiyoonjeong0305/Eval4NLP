@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "james hayward had his toy gun confiscated at east midlands airport . but security officers , who were described as ` over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . also performed a patting patting down and inspection of the primary school child .",
+        "james hayward had his toy gun confiscated at east midlands airport . but security officers , who were described as ` over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . also performed a patting patting down and inspection of the primary school child .",
+        "james hayward had his toy gun confiscated at east midlands airport . but security officers , who were described as ` over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . also performed a patting patting down and inspection of the primary school child ."
+    ],
+    "aspect": [
+        "1. A four-year-old boy had his plastic nerf gun confiscated by airport security at East Midlands Airport, deemed a security risk, and was subjected to a patting down and inspection. ",
+        "2. Security staff at East Midlands Airport were criticized for taking a plastic gun away from a four-year-old and for being overzealous in their inspection. ",
+        "3. A four-year-old boy had his toy gun confiscated at East Midlands Airport, causing him to miss his flight, and was bought a replacement toy gun after returning from his holiday."
+    ],
+    "explain": [
+        "The aspect states that a four-year-old boy had his plastic nerf gun confiscated by airport security at East Midlands Airport.",
+        "The aspect describes the actions of the security staff at East Midlands Airport, which were criticized by the father of a four-year-old boy whose plastic gun was taken away from him. The security staff were accused of being overzealous in their inspection of the boy and for patting him down after the plastic gun was detected on the x-ray machine.",
+        "The core idea of this aspect is that a four-year-old boy had his toy gun confiscated at East Midlands Airport and later on, he was bought a replacement toy gun after returning from his holiday."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea.",
+        "If you look at the summary, it does not explicitly state the core idea of the aspect. The aspect, on the other hand, provides more details about the actions of the security staff and the criticisms leveled against them.",
+        "It depends on how well you understand the summary. The aspect gives more information about the incident mentioned in the summary. If you think the summary provides enough information for you to understand the core idea, then yes, the core idea is contained in the summary. However, if you feel the summary is not sufficient, then the aspect provides more detail."
+    ],
+    "score": [
+        0,
+        1,
+        4
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 4.333333333325
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "brendan rodgers has reminded raheem sterling and jordon ibe about their professional responsibilities . brendan rodgers ( left ) has n't disciplined sterling ( pictured ) or ibe for the incident . rodgers , who has steven gerrard available for the fa cup semi-final with aston villa , spoke to sterling and ibe in his office on thursday but neither will be disciplined .",
+        "brendan rodgers has reminded raheem sterling and jordon ibe about their professional responsibilities . brendan rodgers ( left ) has n't disciplined sterling ( pictured ) or ibe for the incident . rodgers , who has steven gerrard available for the fa cup semi-final with aston villa , spoke to sterling and ibe in his office on thursday but neither will be disciplined .",
+        "brendan rodgers has reminded raheem sterling and jordon ibe about their professional responsibilities . brendan rodgers ( left ) has n't disciplined sterling ( pictured ) or ibe for the incident . rodgers , who has steven gerrard available for the fa cup semi-final with aston villa , spoke to sterling and ibe in his office on thursday but neither will be disciplined ."
+    ],
+    "aspect": [
+        "1. Liverpool manager Brendan Rodgers reminded Sterling and Ibe of their professional responsibilities, encouraging them to learn from their recent incidents.",
+        "2. Sterling was exposed for inhaling nitrous oxide, and both he and Ibe were pictured with shisha pipes.",
+        "3. Rodgers wants to draw a line under the matter and emphasizes the importance of understanding professional responsibilities, as well as the challenges of coming close to major achievements."
+    ],
+    "explain": [
+        "Brendan Rodgers talked to Raheem Sterling and Jordon Ibe about their professional responsibilities in football, urging them to learn from their past incidents and be more aware of their duties. He did not punish them, as he has Steven Gerrard available for the FA Cup semi-final against Aston Villa.",
+        "Raheem Sterling and Jordon Ibe were exposed for inhaling nitrous oxide, and both players were seen with shisha pipes.\n\nGiven aspect: Sterling's behavior is concerning, as it might result in disciplinary action.\n",
+        "In the context of Brendan Rodgers not disciplining Raheem Sterling and Jordon Ibe, Rodgers aims to draw a line under the matter by highlighting the significance of professional responsibilities and the difficulties of attaining significant accomplishments."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "No, the given summary does not encompass the core idea of the given aspect.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.66666666665
+}

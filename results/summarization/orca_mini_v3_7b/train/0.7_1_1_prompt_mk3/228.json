@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 .",
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 .",
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 ."
+    ],
+    "aspect": [
+        "1. Wales' crunch Euro 2016 qualifier with Belgium in June is a sell-out.",
+        "2. Wales and Belgium both have 11 points in Group B, but Belgium is ranked fourth.",
+        "3. Wales' victory over Israel has increased expectations of qualifying for the 2016 finals."
+    ],
+    "explain": [
+        "The Wales vs Belgium Euro 2016 qualifier in June is completely sold-out, as the enthusiasm and support for the team is high.",
+        "In Group B, both Wales and Belgium have 11 points after 5 games, but Belgium is currently ranked fourth. This shows the competitiveness between these teams in the qualifying standings.",
+        "Wales' victory over Israel boosts confidence that they may qualify for the 2016 Euro finals, as their performance improves expectations."
+    ],
+    "answer": [
+        "The summary contains some elements mentioned in the context but is not a direct representation of it.",
+        "Yes, the summary contains the context of this sentence, which describes the competitiveness between Wales and Belgium in Group B based on their 11 points and ranking after 5 games.",
+        "Yes"
+    ],
+    "score": [
+        3,
+        4,
+        4
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 2.16666666665
+}

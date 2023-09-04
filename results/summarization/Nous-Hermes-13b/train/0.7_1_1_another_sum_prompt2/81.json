@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands ."
+    ],
+    "aspect": [
+        "- A speed camera that was not working for two years has been re-aimed at a house in Birmingham, UK.",
+        "- The camera was turned off in 2013 and replaced with mobile and motorway units.",
+        "- Mystery surrounds who re-aimed the camera and it could be removed.",
+        "- The technology inside the fixed cameras had become obsolete.",
+        "- The pilot for new digital technology is in development. ",
+        "- The camera will not be included in the pilot. ",
+        "- The owners of the house were not available for comment."
+    ],
+    "explain": [
+        "The given aspect is about a speed camera in Birmingham, UK that has been re-aimed after being non-functional for two years.",
+        "\"The camera was turned off in 2013 and replaced with mobile and motorway units\" is an aspect of the given summary. This means that a fixed speed camera named Gatso, which was previously used to enforce a 30mph limit along a residential road in Handsworth, Birmingham, was shut down in 2013. The reason behind this was the belief that it was no longer effective in reducing speeding and accidents in the area. Instead, mobile and motorway cameras were introduced to replace the functions of the disabled Gatso camera.",
+        "This aspect talks about the mystery surrounding who re-aimed the camera that was previously enforcing the 30mph speed limit for motorists along the residential road in Handsworth, Birmingham. It could be removed by someone unknown, leaving the authorities clueless about their action.",
+        "The technology inside the fixed cameras had become obsolete means that the devices were no longer functional due to being outdated, and unable to accommodate updated software or hardware requirements. As a result, they were turned off, as they were not meeting the needs of the intended purpose.",
+        "The new digital technology for monitoring and enforcing speed limits on motorists is currently being piloted and developed in the West Midlands.",
+        "The aspect states that the camera, which was previously enforcing the 30mph speed limit for motorists along the residential road in Handsworth, Birmingham, will not be included in the pilot project to improve road safety. The two-year-old camera has been turned off and will not be used to monitor the road's speed limit for the duration of the pilot.",
+        "The owners of the house were not available for comment may indicate that the residents were not consulted or informed about the decision to turn off the speed cameras, and thus, they have no opinion or response to share on the matter. The absence of their comments could symbolize a lack of involvement, ownership, or concern for the issue."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the given aspect. The summary is about a 30mph speed limit enforced by a speed camera that was turned off two years ago in Handsworth, Birmingham. The aspect is about a non-functional speed camera that has been re-aimed at a house.",
+        "It is not mentioned in the summary whether the camera was shut down or not. Therefore, the aspect provided is not necessarily related to the summary.",
+        "Not Really, the aspect is an additional piece of information about the camera and its current state which does not directly relate to the fact that it was not working for two years after every single fixed device was switched off.",
+        "I would need the complete summary to accurately determine the core idea. Could you please provide it?",
+        "No, the summary does not contain the core idea of the aspect because it is focused on the lack of effectiveness of the previous speed limit enforcement measure, rather than the current development of a new digital technology.",
+        "The aspect states that the camera, which was previously enforcing the 30mph speed limit for motorists along the residential road in Handsworth, Birmingham, will not be included in the pilot project to improve road safety. The two-year-old camera has been turned off and will not be used to monitor the road's speed limit for the duration of the pilot.",
+        "It is not easy to determine if the core idea of the aspect is contained in the summary, as the summary only provides information about the speed cameras being turned off, and not the residents' reaction to that decision."
+    ],
+    "score": [
+        0,
+        0,
+        3,
+        3,
+        0,
+        5,
+        0
+    ],
+    "mean_score": 1.5714285714285714,
+    "gt_score": 4.25
+}

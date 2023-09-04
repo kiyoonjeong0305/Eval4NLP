@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season ."
+    ],
+    "aspect": [
+        "1. Steve Bruce is confident Hull City can avoid relegation despite a strong start. ",
+        "2. Hull City is battling to stay in the Premier League with six games remaining. ",
+        "3. Steve Bruce attributes Hull City's struggles to long-term injuries to key players. ",
+        "4. Hull City was defeated 2-0 by Southampton, leaving them with a tough remaining fixture list. ",
+        "5. Southampton moved up to fifth in the table with a 2-0 win over Hull City. ",
+        "6. Ronald Koeman will remind his squad not to break team rules after Sadio Mane tried to take a penalty."
+    ],
+    "explain": [
+        "Steve Bruce, the manager of Hull City, is confident that his team can avoid relegation from the Premier League despite a tough start to the season.",
+        "The core idea of the second aspect is that Hull City, a team in the English Premier League, is currently in a battle to stay in the league with only six games remaining in the season. The team is currently in danger of being relegated to a lower division and is currently two points clear of the relegation zone. Despite their precarious position, the team's manager, Steve Bruce, remains optimistic that they can avoid relegation this season.",
+        "Steve Bruce, the head coach of Hull City, attributes the team's struggles in the ongoing Premier League season to long-term injuries to key players.",
+        "Hull City's fate hangs in the balance this weekend. With the defeat to Southampton, time is not on their side. \nWhat are the immediate consequences of this event for Hull City?\nExplain: With just two points clear of the relegation zone, Hull City needs to win their remaining matches to ensure their safety.",
+        "Southampton were victorious against Hull City, moving them up to fifth in the table.",
+        "The core idea of this aspect is that Southampton's coach Ronald Koeman will remind his squad not to break team rules after Senegalese winger Sadio Mane, who plays for Southampton, tried to take a penalty during the match against Hull City. \n\nWhat led to this action being taken by Koeman?\nAnswer: The action is apparently being taken by Koeman as a form of disciplinary measure after Mane, who has been in great form for the club this season, tried to take a penalty during the match against Hull City, despite the fact that there was no consent from any of the Southampton players."
+    ],
+    "answer": [
+        "No, I don't think the summary contains the core idea. The aspect mentions Steve Bruce's confidence in avoiding relegation, which is not explicit in the summary.",
+        "Yes actually you are right, according to the aspect it is mentioned that \"Hull City is battling to stay in the Premier League with six games remaining\".",
+        "No, the summary does not contain the core idea of the aspect.",
+        "I would have to read the summary word by word to determine if it contains the core idea.",
+        "Yes, the summary does contain the core idea of the aspect which is Southampton's win against Hull City and their subsequent move up to fifth in the table.",
+        "Without having the summary in front of me, it is difficult to determine if the core idea of the aspect is contained in the summary. However, the aspect refers to a specific issue that occurred during the match between Hull City and Southampton, which does not appear to be mentioned in the summary."
+    ],
+    "score": [
+        0,
+        5,
+        0,
+        3,
+        4,
+        0
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.5
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "manchester city are keen to sign anderlecht teenager evangelos patoulidis . the 14-year-old is regarded as one of the best talents to emerge from anderlecht 's youth set-up . the belgian starlet rejected a move to barcelona 's la masia academy when he was 12 as his family wanted him to continue his studies .",
+        "manchester city are keen to sign anderlecht teenager evangelos patoulidis . the 14-year-old is regarded as one of the best talents to emerge from anderlecht 's youth set-up . the belgian starlet rejected a move to barcelona 's la masia academy when he was 12 as his family wanted him to continue his studies .",
+        "manchester city are keen to sign anderlecht teenager evangelos patoulidis . the 14-year-old is regarded as one of the best talents to emerge from anderlecht 's youth set-up . the belgian starlet rejected a move to barcelona 's la masia academy when he was 12 as his family wanted him to continue his studies ."
+    ],
+    "aspect": [
+        "1. Manchester City aims to sign Anderlecht's 14-year-old playmaker, Evangelos Patoulidis.",
+        "2. Patoulidis is considered one of Anderlecht's best youth talents and attracted interest from Arsenal and Barcelona.",
+        "3. The player rejected Barcelona's offer to join their academy at age 12 to focus on studies."
+    ],
+    "explain": [
+        "Manchester City is targeting the talented 14-year-old playmaker, Evangelos Patoulidis from Anderlecht, to strengthen their youth team.",
+        "Evangelos Patoulidis, a 14-year-old Anderlecht youth player, is highly regarded as one of the best talents in their team and has attracted interest from clubs like Arsenal and Barcelona in the past.",
+        "The player rejected Barcelona's academy at just 12 years old, as he preferred to prioritise his studies over football."
+    ],
+    "answer": [
+        "Yes, the context of the sentence is present in the summary, as it mentions Manchester City's intention to sign Evangelos Patoulidis and highlights his young age. It also emphasizes his talent from Anderlecht's youth set-up and the rejection of a move from La Masia academy.",
+        "Yes, the summary accurately conveys the concept that Patoulidis is highly esteemed within Anderlecht's youth program and has attracted interest from other prestigious clubs like Arsenal and Barcelona.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.833333333325
+}

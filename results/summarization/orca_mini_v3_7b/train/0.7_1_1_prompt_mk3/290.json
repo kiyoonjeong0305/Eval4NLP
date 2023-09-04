@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . the full back signed a three-year contract when he moved from the spanish champions last july . luis played in brazil 's friendly wins against france and chile .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . the full back signed a three-year contract when he moved from the spanish champions last july . luis played in brazil 's friendly wins against france and chile .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . the full back signed a three-year contract when he moved from the spanish champions last july . luis played in brazil 's friendly wins against france and chile ."
+    ],
+    "aspect": [
+        "1. Filipe Luis plans to stay at Chelsea until the end of his contract, despite Atletico Madrid's interest.",
+        "2. Luis struggled to hold the left back position at Stamford Bridge.",
+        "3. Chelsea manager Mourinho is urging the team to remain focused and win every game."
+    ],
+    "explain": [
+        "Filipe Luis commits to Chelsea for the remainder of his contract term, even though Atletico Madrid might be interested.",
+        "Filipe Luis, the left back from Chelsea, faced challenges maintaining his position and struggled in his role at Stamford Bridge, as mentioned in the aspect given.",
+        "Chelsea manager Mourinho is emphasizing the importance of maintaining the team's concentration and achieving victories in every match."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the sentence.",
+        "Yes, the summary does contain the context of the given sentence.",
+        "Yes, the summary contains the context of the given sentence, emphasizing Mourinho's focus on the team's concentration and victories in every match.\n\nDo you think the context of the given sentence matches the context of the summary? If so, explain the context of the sentence.\nAnswer: The context of the sentence suggests that Chelsea manager Mourinho is stressing the team's ongoing focus on maintaining their concentration and winning every game. This aligns with the stress on concentration and victory mentioned in the summary."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.83333333335
+}

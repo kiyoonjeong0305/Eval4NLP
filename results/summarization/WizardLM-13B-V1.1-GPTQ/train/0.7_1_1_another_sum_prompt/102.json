@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "Heritage Auctions offered the gray jacket and skirt , featuring a black zigzag applique , plus more than 150 other items from the Academy Award-winning film at auction on Saturday . The dress - a jacket and full skirt ensemble - was worn in several key scenes in the 1939 movie but has suffered a little with age and has faded to light gray .",
+        "Heritage Auctions offered the gray jacket and skirt , featuring a black zigzag applique , plus more than 150 other items from the Academy Award-winning film at auction on Saturday . The dress - a jacket and full skirt ensemble - was worn in several key scenes in the 1939 movie but has suffered a little with age and has faded to light gray .",
+        "Heritage Auctions offered the gray jacket and skirt , featuring a black zigzag applique , plus more than 150 other items from the Academy Award-winning film at auction on Saturday . The dress - a jacket and full skirt ensemble - was worn in several key scenes in the 1939 movie but has suffered a little with age and has faded to light gray .",
+        "Heritage Auctions offered the gray jacket and skirt , featuring a black zigzag applique , plus more than 150 other items from the Academy Award-winning film at auction on Saturday . The dress - a jacket and full skirt ensemble - was worn in several key scenes in the 1939 movie but has suffered a little with age and has faded to light gray ."
+    ],
+    "aspect": [
+        "1. A gray jacket and skirt ensemble worn by Vivien Leigh as Scarlett O'Hara in Gone With the Wind fetches $137,000 at auction.",
+        "2. James Tumblin bought the dress for $20 and amassed a collection of 300,000 movie memorabilia.",
+        "3. The dress suffered from age and faded to light gray from its original slate blue-gray color.",
+        "4. Gone With the Wind celebrated its 75th anniversary, and Hattie McDaniel became the first African-American actor to win an Academy Award."
+    ],
+    "explain": [
+        "The aspect highlights the sale of a gray jacket and skirt ensemble worn by Vivien Leigh as Scarlett O'Hara in Gone With the Wind at a Heritage Auctions event. This garment was auctioned for an impressive amount of $137,000, showcasing the significant value and nostalgia associated with the iconic film.",
+        "James Tumblin, an avid collector of movie memorabilia, decided to buy the dress from the auction as it was an integral part of 'Gone with the Wind' - a film he admired. The purchase of this dress was not an isolated incident. Rather, it was part of his larger collection of over 300,000 movie memorabilia. He added the dress to his collection as it held significant value for him due to its connection with the film and the fact that it had been worn by an iconic character, Scarlett O'Hara, played by Vivien Leigh. This purchase was one of many strategic moves by Tumblin to amass the most extensive collection of movie memorabilia in the world.",
+        "\nThe age and wear from the 1939 movie have caused the once slate blue-gray colored dress to fade to a lighter shade of gray.",
+        "To clarify or make clear; elucidate; set forth in detail.\n\nCore idea: The aspect highlights an important milestone in the 1939 film \"Gone with the Wind\" on its 75th anniversary, specifically mentioning Hattie McDaniel becoming the first African-American actor to win an Academy Award."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. The summary mainly discusses the auction of more than 150 items from the Academy Award-winning film Gone With the Wind, while the aspect specifically mentions the sale of a gray jacket and skirt ensemble worn by Vivien Leigh as Scarlett O'Hara in the film for $137,000 at auction.",
+        "No, the summary does not contain the core idea. The core idea is that the individual mentioned in the aspect has a collection of over 300,000 movie memorabilia and bought the dress as a strategic move to amass the largest collection in the world.",
+        "\n\n\nYes\nYou should carefully inspect the summary word by word!",
+        "Not exactly. While the summary does mention the 75th anniversary of the movie and Hattie McDaniel winning an Academy Award, it does not directly connect these events to the given aspect. The aspect focuses on Hattie McDaniel's achievement in the context of the movie's anniversary, which is not explicitly stated in the summary."
+    ],
+    "score": [
+        3,
+        4,
+        4,
+        3
+    ],
+    "mean_score": 3.5,
+    "gt_score": 4.0
+}

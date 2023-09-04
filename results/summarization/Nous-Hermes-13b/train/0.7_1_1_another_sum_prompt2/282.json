@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '",
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '",
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '",
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '",
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '",
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '"
+    ],
+    "aspect": [
+        "1. Steve Bruce is confident he can keep Hull City in the Premier League.",
+        "2. Hull were beaten by Southampton, leaving them with a battle to stay up.",
+        "3. Ronald Koeman's side moved to fifth in the table.",
+        "4. Hull have six games to save their season.",
+        "5. Long-term injuries have affected Hull's performance.",
+        "6. Steve Bruce targets 'nine or eight' wins to avoid relegation."
+    ],
+    "explain": [
+        "Steve Bruce, the manager of Hull City, expressed confidence in his team's ability to remain in the Premier League despite a recent 2-0 loss to Southampton.",
+        "The aspect highlights the fact that Hull City, the football club, faced a setback in their game against Southampton, losing 2-0 at St Mary's Stadium on March 9th, 2019. The loss has put them in a difficult position as they now have to fight to remain in the Premier League for the upcoming season.",
+        "A core idea of the mentioned aspect is that Ronald Koeman's side (Southampton) moved to fifth position in the league table after their win against Hull. This shows that the team performed well and has been able to secure a high position in the table, demonstrating their overall strength and competence.",
+        "One of the main ideas in this aspect is portraying the urgency and dire situation of Hull City's situation in the Premier League. They have six games remaining to avoid relegation and it is stated that everyone involved in the team is committed to this challenge.",
+        "One of the core ideas of the aspect \"5. Long-term injuries have affected Hull's performance\" is that Hull City has been facing challenges due to injuries to some of their key players. These injuries have negatively impacted the team's performance in recent games. As a result, the team's chances of staying in the Premier League are in jeopardy.",
+        "Steve Bruce - Hull City manager - believes that his team can avoid relegation from the Premier League. However, he estimates that they need to win 'nine or eight' games out of the remaining fourteen matches to stay in the league. This means that the team needs to be consistent in their performance and secure as many wins as possible to stay in the top flight of English football."
+    ],
+    "answer": [
+        "It depends on which aspect of the summary you are referring to. If you are asking about the core idea of the first aspect you mentioned, then no, it does not contain that core idea. However, if you are asking about the core idea of the aspect that Bruce is confident in keeping Hull City in the Premier League, then yes, that is the core idea of that aspect.",
+        "Yes, the aspect mentions that Hull were beaten by Southampton, leading to a challenge for them to stay up in the Premier League.",
+        "Yes, the summary does contain the core idea as it mentions that Southampton won the game against Hull, which resulted in their movement to the fifth position in the league table.",
+        "After reviewing the summary word by word, I don't think the core idea of the given aspect is present in the summary. It does mention that Hull were beaten 2-0 by Southampton at St Mary's Stadium on Saturday, and that Steve Bruce is confident that Hull can stay in the Premier League, but it does not mention the urgency or the remaining six games to avoid relegation.",
+        "No, the summary does not contain the core idea of the aspect \"5. Long-term injuries have affected Hull's performance.\" The aspect talks about the impact of long-term injuries on Hull City's performance, while the summary is focused on Hull's defeat against Southampton and Steve Bruce's confidence in keeping the team in the Premier League.",
+        "No, the summary does not contain the core idea of the given aspect. The summary is focused on the match between Hull City and Southampton and Steve Bruce's confidence that his team can avoid relegation. While the aspect mentions Bruce's comments on the number of wins needed to avoid relegation, it is not directly mentioned in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        4,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.0
+}

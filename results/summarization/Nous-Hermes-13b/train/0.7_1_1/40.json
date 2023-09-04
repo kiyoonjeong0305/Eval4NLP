@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year"
+    ],
+    "aspect": [
+        "1. Chipotle has teamed up with Postmates to begin offering delivery for online and mobile orders in 67 cities as it taps into the $70 billion food delivery market. ",
+        "2. Chipotle has decided to collaborate with Postmates for delivery, having previously turned down offers from other third-party services. The app uses independent contractors who drive their own cars, similar to Uber. ",
+        "3. Chipotle is now offering delivery through Postmates in 67 cities, with a 9% service charge added to the delivery fees. The fast-casual chain is popular among politicians, with presidential candidates Marco Rubio and Hillary Clinton being spotted in its restaurants."
+    ],
+    "explain": [
+        "Chipotle has teamed up with Postmates to begin offering delivery for online and mobile orders in 67 cities as it taps into the $70 billion food delivery market. This means that the company is using the partnership with Postmates to expand its delivery services to more cities and tap into the potential revenue from the food delivery industry.",
+        "This aspect provides information about the collaboration between Chipotle and Postmates for delivery services, which is a significant aspect of the company's plan to expand its delivery services.",
+        "One important idea from the aspect is that Chipotle is now offering delivery through Postmates in 67 cities, which means that customers can order food online and have it delivered to their homes. This delivery service is a new offering from the chain, and it comes with a service charge of 9% added to the delivery fees. The addition of this service charge is likely in order to cover the costs of the delivery process. It is interesting to note that Chipotle is popular among politicians, with both Marco Rubio and Hillary Clinton being spotted in its restaurants. This may indicate that the chain has a wide appeal and is well-regarded by people of different political affiliations."
+    ],
+    "answer": [
+        "Yes, the aspect contains the core idea that Chipotle has teamed up with Postmates to begin offering delivery for online and mobile orders in 67 cities as it taps into the $70 billion food delivery market.",
+        "I need more information about the aspect to accurately explain its core idea. Please provide more detail about the aspect.",
+        "Yes, the aspect is related to the summary. The aspect provides additional information about Chipotle's plans to launch a delivery service for online and mobile orders in 67 cities by the end of the year, which is mentioned in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

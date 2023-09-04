@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy .",
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy .",
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy ."
+    ],
+    "aspect": [
+        "1. Esteban Cambiasso won multiple European competitions during his career but believes keeping Leicester City in the Premier League would be significant.",
+        "2. Cambiasso is determined to help Leicester avoid relegation and thinks they have a chance, as they have matches left to win.",
+        "3. Cambiasso is content with his family life and career in Leicester, and although he has not disclosed his decision, he is open to staying beyond his current one-year deal."
+    ],
+    "explain": [
+        "Esteban Cambiasso, despite having won multiple European competitions in his career, sees the significance of keeping Leicester City in the Premier League, describing it as winning a trophy in his own words.",
+        "Esteban Cambiasso is determined to assist Leicester City in avoiding relegation and believes they have a chance, considering they still have matches left to win.",
+        "Esteban Cambiasso is settled in his family life and job in Leicester and is open to extending his current deal beyond one year, despite the team being seven points adrift at the bottom of the table."
+    ],
+    "answer": [
+        "Yes, the context is present in the summary.",
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.91666666665
+}

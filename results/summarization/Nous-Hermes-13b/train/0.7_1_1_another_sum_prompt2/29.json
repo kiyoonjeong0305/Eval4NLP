@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 ."
+    ],
+    "aspect": [
+        "1. A collector's paradise with original features from the 1930s is up for sale in Bristol. ",
+        "2. The house has an old-fashioned bathroom, kitchen, stained-glass windows, and oil-fired central heating. ",
+        "3. The house is a treasure trove with fetching features such as stained glass windows and a mint green and black bathroom. ",
+        "4. The kitchen has original cupboards, an open-face fireplace, and a dated sink. ",
+        "5. The house has unusual original features like coats of arms in the glass and a shelf holding original tins of produce. ",
+        "6. The house is a perfect family home for antique lovers, despite the potential cost of renovations. ",
+        "7. The auction for the house will take place on April 30 in Bristol."
+    ],
+    "explain": [
+        "The aspect states that a collector's paradise with original features from the 1930s is up for sale in Bristol.",
+        "The given aspect highlights that the house is outdated with its bathroom, kitchen, stained-glass windows, and heating system. The aspect mentions that the house is in need of modernization and is equipped with old-fashioned features.",
+        "The given aspect focuses on the attractive features of the house that are expected to appeal to potential buyers. These features include stained glass windows, which add an artistic touch to the property, and a mint green and black bathroom, which is likely to be a stylish and unique addition to the house. The aspect suggests that these features make the house a valuable and desirable property, and could help it to fetch a higher price at auction.",
+        "This means the kitchen has old, unmodernized cabinets, a fireplace that doesn't enclose the flame, and a sink that has not been updated to modern standards. The aspect describes the features of the kitchen that are outdated and in need of modernization.",
+        "The aspect highlights some unusual original features of the house in the auction such as coats of arms in the glass and a shelf holding original tins of produce.",
+        "The aspect highlights that the house in question could potentially be an excellent family home for individuals who are avid collectors and appreciate the charm of antique items. Although it may require some renovations due to its age, the home's original features such as stained-glass windows and oil-fired central heating could add character to the home.",
+        "The aspect states that the auction for the house will take place on April 30 in Bristol. This means that the event to sell the property will occur on that specific date in that particular city."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect.",
+        "Yes, the summary contains the core idea of the aspect by mentioning the old-fashioned features of the house such as the bathroom, kitchen, stained-glass windows, and oil-fired central heating.",
+        "No, the summary does not contain the core idea of the aspect. However, it does provide information about the auction of the house and some of its key features. The aspect focuses specifically on three attributes of the house that are likely to appeal to potential buyers, while the summary provides a more general overview of the property and its auction.",
+        "I'm sorry but I do not understand your question. Can you please rephrase it?",
+        "No, the summary does not contain the core idea of the aspect. The aspect highlights some unusual original features of the house in the auction while the summary only mentions some basic information about the auction date and guide price.",
+        "Yes, I believe that the aspect is a core idea of the summary. It is mentioned that the house is a perfect family home for antique lovers despite the potential cost of renovations.",
+        " The core idea of this aspect is that the event to sell the house is scheduled to take place on April 30 in Bristol."
+    ],
+    "score": [
+        0,
+        4,
+        2,
+        0,
+        0,
+        4,
+        5
+    ],
+    "mean_score": 2.142857142857143,
+    "gt_score": 4.25
+}

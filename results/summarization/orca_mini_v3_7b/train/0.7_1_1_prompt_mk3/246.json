@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bayern munich manager pep guardiola ripped a hole during the champions league match in germany . bayern munich manager pep guardiola was left with a hole in his trousers . bayern 's european rivals will be running scared after their outstanding display .",
+        "bayern munich manager pep guardiola ripped a hole during the champions league match in germany . bayern munich manager pep guardiola was left with a hole in his trousers . bayern 's european rivals will be running scared after their outstanding display .",
+        "bayern munich manager pep guardiola ripped a hole during the champions league match in germany . bayern munich manager pep guardiola was left with a hole in his trousers . bayern 's european rivals will be running scared after their outstanding display ."
+    ],
+    "aspect": [
+        "1. Bayern Munich defeated Porto 6-1 with a hole in Pep Guardiola's trousers.",
+        "2. Bayern Munich advanced to the Champions League semi-finals.",
+        "3. Bayern's victory was a significant victory after Porto's early two-goal lead."
+    ],
+    "explain": [
+        "Bayern Munich secured a dominant 6-1 win against Porto, with their manager Pep Guardiola incidentally sporting a hole in his trousers during the match. This impressive victory will surely instill fear in the side's European rivals.",
+        "Bayern Munich has successfully advanced to the Champions League semi-finals.",
+        "Bayern Munich achieved an important win, especially after going two goals down early on in the match, as shown by their European rivals feeling intimidated."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence. It mentions the 6-1 win and the hole in Pep Guardiola's trousers, which showcases the core idea of the sentence.",
+        "Yes, the context of the aspect is mentioned in the summary.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.916666666675
+}

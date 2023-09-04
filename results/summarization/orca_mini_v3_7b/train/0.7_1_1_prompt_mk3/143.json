@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large ."
+    ],
+    "aspect": [
+        " 1. A man in a 'distinctive' cartoon mask robbed a Christchurch dairy, taking $1,500 from the till.",
+        "2. The offender is described as very tall and was wearing a fluoro orange sweatshirt and oversized mask.",
+        "3. Police are seeking the public's help to identify the man, who remains at large."
+    ],
+    "explain": [
+        "A man wearing a 'distinctive' cartoon mask robbed a Christchurch dairy, managing to steal $1,500 from the till, without showing any weapons. The New Zealand police are now appealing for public help in identifying the robber.",
+        "The offender is described as very tall with a distinctive fluoro orange sweatshirt and an oversized cartoon-style mask, making his identity more recognizable for the public in the appeal to identify him.",
+        "Police are actively looking for the individual who carried out the robbery using a unique cartoon mask, while no weapons were observed but the suspect remains unidentified."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the sentence as it mentions the distinctive fluoro orange sweatshirt and oversized cartoon-style mask used by the offender, which helps to identify him more easily for the public.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

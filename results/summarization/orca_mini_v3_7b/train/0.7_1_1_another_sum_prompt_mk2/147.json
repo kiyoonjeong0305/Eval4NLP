@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "rome -lrb- cnn -rrb- italy is coping with a rising wave of desperate migrants from africa and middle east hoping to make it to europe . from friday to monday , a total of 8,480 migrants were rescued , according to the italian coast guard , which said it received on monday -- alone -- sos calls from 20 boats in distress . on tuesday , a spokesman with save the children told cnn the group fears 400 migrants could be missing , citing testimony from survivors who said their ship carrying 550 people capsized in the mediterranean sea about 80 miles off the libyan coast .",
+        "rome -lrb- cnn -rrb- italy is coping with a rising wave of desperate migrants from africa and middle east hoping to make it to europe . from friday to monday , a total of 8,480 migrants were rescued , according to the italian coast guard , which said it received on monday -- alone -- sos calls from 20 boats in distress . on tuesday , a spokesman with save the children told cnn the group fears 400 migrants could be missing , citing testimony from survivors who said their ship carrying 550 people capsized in the mediterranean sea about 80 miles off the libyan coast .",
+        "rome -lrb- cnn -rrb- italy is coping with a rising wave of desperate migrants from africa and middle east hoping to make it to europe . from friday to monday , a total of 8,480 migrants were rescued , according to the italian coast guard , which said it received on monday -- alone -- sos calls from 20 boats in distress . on tuesday , a spokesman with save the children told cnn the group fears 400 migrants could be missing , citing testimony from survivors who said their ship carrying 550 people capsized in the mediterranean sea about 80 miles off the libyan coast ."
+    ],
+    "aspect": [
+        "1. Italy faces rising wave of desperate African and Middle East migrants seeking Europe; ",
+        "2. 8,480 migrants rescued from Friday to Monday, fear of 400 missing; ",
+        "3. Italian coast guard investigates capsizing incident, with over 10,000 migrants arriving in Italy in first three months of 2015."
+    ],
+    "explain": [
+        "Italy is struggling with an increasing number of desperate African and Middle Eastern migrants who aim to reach Europe. Since Friday, 8,480 migrants were rescued, and on Monday, the Italian Coast Guard received distress SOS calls from 20 boats. Save the Children fears that 400 migrants could be missing, as survivors reported that their ship carrying 550 people capsized in the Mediterranean Sea off the Libyan coast.",
+        "Since the aspect focuses on 8,480 migrants being rescued from Friday to Monday, the core idea could be: \"Rising numbers of migrants rescued in Mediterranean Sea; Increasing concern for unaccounted missing individuals.\"",
+        "The Italian coast guard is investigating a capsizing incident involving a ship carrying over 500 migrants, who may have been missing. Additionally, the number of migrants arriving in Italy during the first three months of 2015 has exceeded 10,000."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the passage contains the core idea from the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.58333333335
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Jin Pai , 35 , was standing on rim of toilet in Hefei Xinqiao International Airport . Airport officials said he had not wanted to let his bottom touch the seat . But he was caught out when the porcelain toilet tipped over and shattered . He received dozens of stitches on his left leg and buttocks .",
+        "Jin Pai , 35 , was standing on rim of toilet in Hefei Xinqiao International Airport . Airport officials said he had not wanted to let his bottom touch the seat . But he was caught out when the porcelain toilet tipped over and shattered . He received dozens of stitches on his left leg and buttocks .",
+        "Jin Pai , 35 , was standing on rim of toilet in Hefei Xinqiao International Airport . Airport officials said he had not wanted to let his bottom touch the seat . But he was caught out when the porcelain toilet tipped over and shattered . He received dozens of stitches on his left leg and buttocks ."
+    ],
+    "aspect": [
+        "1. A passenger waiting to board a plane in an airport terminal was hospitalized with deep cuts on his leg and buttocks after he broke a toilet he was squatting on. ",
+        "2. The passenger had been standing on the rim of the toilet when it collapsed. ",
+        "3. The incident was likely an accident, but police reminded people not to stand on toilets."
+    ],
+    "explain": [
+        "The core idea of this aspect is that a passenger at an airport terminal had a misfortune while using a toilet before boarding a flight. Instead of sitting on the toilet seat, the passenger decided to squat over the toilet bowl, which then broke and caused him to fall and sustain deep cuts on his leg and buttocks.",
+        "The given aspect highlights that the passenger was standing on the rim of the toilet when it collapsed. This core idea implies that the passenger's actions might have contributed to the toilet tipping over and shattering.",
+        "The core idea of the aspect is that although Jin Pai's accident with the toilet was likely unintentional, it serves as a reminder to others not to stand on toilets, as it can be dangerous."
+    ],
+    "answer": [
+        "The summary also provides information about the passenger and the airport where the incident occurred, but it does not explicitly mention the core idea of the aspect, which is the passenger's unfortunate incident while using the toilet.",
+        "Yes or No",
+        "No, the summary does not contain the core idea of the aspect. The core idea of the aspect is mentioned in the sentence \"Police reminded people not to stand on toilets\" which is not present in the summary."
+    ],
+    "score": [
+        2,
+        5,
+        0
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.75
+}

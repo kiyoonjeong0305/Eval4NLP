@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands",
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands",
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands"
+    ],
+    "aspect": [
+        "- A speed camera in Handsworth, Birmingham has been turned to face a house, but has not been working for more than two years. ",
+        "- The camera was decommissioned in March 2013 due to outdated technology, and has since been replaced with traffic officers and mobile cameras. ",
+        "- The house owners have not commented on the issue."
+    ],
+    "explain": [
+        "The aspect mentions that a speed camera in Handsworth, Birmingham, has been turned to face a house but has not been working for over two years, indicating that it is not actively capturing speeding offenses or issuing fines.",
+        "The aspect states that the speed camera that was turned round and pointing at a house in Birmingham, West Midlands had been decommissioned in March 2013 due to outdated technology. This means that the camera was no longer functional and had been replaced with traffic officers and mobile cameras to monitor and enforce speeding in the area.",
+        "House owners have not commented on the issue implies that they are not talking to anyone about the speed camera that has been turned around and is now pointing towards their house."
+    ],
+    "answer": [
+        "The summary does not contain the core idea of the aspect.",
+        "No, the summary does not contain the core idea of the aspect.",
+        "No, the summary does not contain the core idea which is \"The house owners have not commented on the issue.\""
+    ],
+    "score": [
+        0,
+        0,
+        0
+    ],
+    "mean_score": 0.0,
+    "gt_score": 4.666666666675
+}

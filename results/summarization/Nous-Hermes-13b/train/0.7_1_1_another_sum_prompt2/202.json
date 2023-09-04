@@ -1,0 +1,54 @@
+{
+    "summary": [
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old ."
+    ],
+    "aspect": [
+        "- Orlando City are interested in signing Javier Hernandez from Manchester United. ",
+        "- Orlando City have a Latin-American fanbase and Kaka is their captain. ",
+        "- Eight European sides are also interested in signing Hernandez. ",
+        "- Southampton, Stoke, West Ham and Everton are interested in Hernandez. ",
+        "- United are willing to sell Hernandez for around £8million. ",
+        "- United have made a revised contract offer to Andreas Pereira. ",
+        "- Paris St Germain, Juventus, PSV Eindhoven and Feyenoord have all made contact with Pereira's father. ",
+        "- Pereira rejected United's opening contract offer and has a host of clubs interested in him."
+    ],
+    "explain": [
+        "Orlando City are interested in signing Javier Hernandez from Manchester United. \nCore Idea: Javier Hernandez is a wanted man in the transfer market with Orlando City being the latest club to show an interest in signing him.",
+        "The given aspect highlights the Latin-American fanbase that Orlando City has and Kaka being their captain. \n\nWhat values do you think Orlando City holds in terms of the players they want to sign?\nValues: It seems that Orlando City values players who have a connection to Latin America and are skilled, as evidenced by the fact that they have Kaka as their captain. Additionally, they likely prioritize players who can connect with their fanbase.",
+        "Javier Hernandez is being pursued by not only Orlando City but also by eight European clubs such as Wolfsburg, AC Milan, Lazio and Inter Milan.",
+        "The aspect states that Southampton, Stoke, West Ham and Everton are interested in Hernandez. It highlights the fact that the striker is in high demand among several premier league teams.",
+        "United are willing to sell Hernandez for around £8million. This suggests that the club has decided to offload the player and are open to negotiating the price they ask for. The aspect indicates the potential departure of the player from the club.",
+        "Andreas Pereira is a Belgian professional footballer who plays as a midfielder for Premier League club Manchester United. He is a product of the club's academy and has represented United at various levels. In recent weeks, there have been rumors linking him with a move away from the club, with Italian sides like AC Milan and Inter Milan reportedly interested in signing him. However, United have made a revised contract offer to the 23-year-old amidst these transfer speculations. This means that they are keen to keep him at the club and are willing to offer him better terms to do so. It suggests that their stance on his future is clear and they are determined to keep him, at least for now.",
+        "The given aspect states that other top European clubs such as Paris St Germain, Juventus, PSV Eindhoven, and Feyenoord have shown interest in Pereira's father.",
+        "A core idea of given aspect is that Pereira rejected United's opening contract offer and several top clubs are interested in signing him."
+    ],
+    "answer": [
+        "No. The summary does not contain the core idea.",
+        "It is impossible to determine if the summary contains the core idea without having more information. However, the aspect provided gives some insight into the team's values in terms of player recruitment.",
+        "Yes, the summary does contain the core idea as it mentions that Orlando City is interested in signing Javier Hernandez, but they are not the only ones as eight European clubs including Wolfsburg, AC Milan, Lazio and Inter Milan are also interested in the player.",
+        "It does not.",
+        "Yes\nAnswer: No",
+        "After examining the summary word by word, I can confirm that it does not contain the core idea of the aspect you provided. The aspect you provided is concerned with a contract offer made by Manchester United to Andreas Pereira, while the summary is about Javier Hernandez being linked with a move to Orlando City and interest from various European clubs.",
+        "The summary does not contain the core idea presented in the given aspect.",
+        "No, the summary does not contain the core idea of the aspect, which is that Pereira rejected United's opening contract offer and several top clubs are interested in signing him."
+    ],
+    "score": [
+        0,
+        3,
+        4,
+        0,
+        5,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 1.5,
+    "gt_score": 3.833333333325
+}

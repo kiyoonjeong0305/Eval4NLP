@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the woman , named only as gemma , has two children under five by two different fathers and handed both infants over to her 52-year-old mother debbie when they were four months old . a 23-year-old mother-of-two is at risk of being banned from seeing her own children - because she refuses to stop drinking and partying . now debbie is threatening to ban gemma from seeing the children at all , after discovering her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "the woman , named only as gemma , has two children under five by two different fathers and handed both infants over to her 52-year-old mother debbie when they were four months old . a 23-year-old mother-of-two is at risk of being banned from seeing her own children - because she refuses to stop drinking and partying . now debbie is threatening to ban gemma from seeing the children at all , after discovering her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "the woman , named only as gemma , has two children under five by two different fathers and handed both infants over to her 52-year-old mother debbie when they were four months old . a 23-year-old mother-of-two is at risk of being banned from seeing her own children - because she refuses to stop drinking and partying . now debbie is threatening to ban gemma from seeing the children at all , after discovering her daughter 's penchant for legal high , mkat , and because she suspects her of stealing ."
+    ],
+    "aspect": [
+        "1. 23-year-old mother Gemma faces being banned from seeing her children by her 52-year-old mother Debbie, due to her substance abuse and partying.",
+        "2. Debbie stepped in to care for the children after social services threatened to take them away.",
+        "3. Debbie claims that Gemma stole an iPad and sold it to fund her partying lifestyle, although Gemma denies the accusation."
+    ],
+    "explain": [
+        "23-year-old mother Gemma faces being banned from seeing her children by her 52-year-old mother Debbie, due to her substance abuse and partying, particularly her consumption of legal highs and her potential involvement in theft.",
+        "After social services threatened to take the children away, Debbie, Gemma's 52-year-old mother, stepped in to care for them.",
+        "Debbie accuses Gemma of stealing an iPad, and Gemma denies the allegation, but she may be banned from seeing her own children if she doesn't stop partying and drinking."
+    ],
+    "answer": [
+        "No, the context of this sentence is not contained in the summary provided. The summary focuses on Gemma's behavior and lack of responsibility for her children, while the provided sentence highlights her substance abuse and potential theft involvement.",
+        "Yes, it contains the context of the sentence.",
+        "Yes, the summary contains the context of the given sentence. Both the summary and sentence discuss Debbie's accusations against Gemma regarding the stolen iPad, with Gemma denying the allegation and the potential consequences for not stopping partying and drinking."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.25
+}

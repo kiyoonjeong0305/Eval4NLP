@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "gregory van der wiel is happy at paris saint-germain and wants to stay . the full back had a spat with manager laurent blanc after he was dropped . the dutchman is being linked with a move to barcelona's dani alves .",
+        "gregory van der wiel is happy at paris saint-germain and wants to stay . the full back had a spat with manager laurent blanc after he was dropped . the dutchman is being linked with a move to barcelona's dani alves .",
+        "gregory van der wiel is happy at paris saint-germain and wants to stay . the full back had a spat with manager laurent blanc after he was dropped . the dutchman is being linked with a move to barcelona's dani alves .",
+        "gregory van der wiel is happy at paris saint-germain and wants to stay . the full back had a spat with manager laurent blanc after he was dropped . the dutchman is being linked with a move to barcelona's dani alves ."
+    ],
+    "aspect": [
+        "1. Gregory van der Wiel denies leaving PSG in the summer and reiterates his love for the club.",
+        "2. Van der Wiel recently had a falling out with manager Laurent Blanc over being dropped for a match.",
+        "3. Van der Wiel says he's happy at PSG, wants to sign a new contract, and is ready to play.",
+        "4. PSG is linked with Dani Alves, making it unclear if Van der Wiel will stay."
+    ],
+    "explain": [
+        "Gregory van der Wiel, a full-back for Paris Saint-Germain, denies leaving the club this summer and reaffirms his love for the team. The statement indicates that the player has no plans to leave PSG during the summer transfer window. Despite experiencing conflict with the manager, Laurent Blanc, due to being benched, van der Wiel still maintains a strong connection with the club and its fans.",
+        "In the context of the given summary, the core idea of the aspect \"Van der Wiel recently had a falling out with manager Laurent Blanc over being dropped for a match\" is that the Dutch full-back Gregory van der Wiel has had a disagreement with his manager, Laurent Blanc, after being dropped from the starting lineup for a Paris Saint-Germain game. This conflict may have stemmed from Van der Wiel's desire to remain at the club and his unhappiness with being benched.",
+        "Gregory van der Wiel is satisfied with his current situation at Paris Saint-Germain and desires to continue playing for the club. He also expressed his willingness to sign a new contract extension and is prepared to fulfill his duties as a professional footballer. This indicates that the footballer is content with his team and manager and has no plans to leave PSG in the near future.",
+        "In the context of the summary, the aspect highlights that Paris Saint-Germain (PSG) is being linked with a potential transfer for Brazilian full back Dani Alves, which creates uncertainty about Gregory van der Wiel's future at the club. This situation arises from the Dutch full back's earlier spat with manager Laurent Blanc after he was dropped from the team. The link between PSG and Alves raises questions about Van der Wiel's stay at the club, making it unclear whether he will remain with PSG or not."
+    ],
+    "answer": [
+        "\nNo, the summary does not contain the core idea indicated by the aspect. The summary mentions Gregory van der Wiel's happiness at Paris Saint-Germain, his desire to stay, and mentions him being linked with a move to Barcelona's Dani Alves. However, it does not directly address his plans for the summer transfer window or his relationship with the club, which is the main focus of the aspect.",
+        "Unfortunately, the summary does not contain the core idea presented in the aspect. While it is mentioned that Gregory van der Wiel is happy at Paris Saint-Germain and wants to stay, as well as being linked with a move to Barcelona's Dani Alves, the conflict with manager Laurent Blanc is not directly related to the idea that he was dropped from a match. This falling out seems to be an unrelated issue between the two.",
+        "Yes, I believe the summary provides the core idea that Gregory van der Wiel is content at Paris Saint-Germain and wants to stay. The aspects mentioned, such as his happiness, willingness to sign a new contract, and readiness to play, demonstrate his commitment to the team.",
+        "It seems the summary does not contain the core idea directly. While the summary mentions Gregory van der Wiel's happiness at PSG and his desire to stay, as well as PSG being linked with Dani Alves, it does not explicitly state that this linkage with Alves creates uncertainty about van der Wiel's position at the club. The aspect provided might not be the main focus of the summary, but it provides valuable context and highlights the potential implications of bringing in Dani Alves on van der Wiel's future at PSG."
+    ],
+    "score": [
+        2,
+        0,
+        4,
+        3
+    ],
+    "mean_score": 2.25,
+    "gt_score": 4.0
+}

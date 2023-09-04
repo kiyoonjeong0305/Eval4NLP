@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation .",
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation .",
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation .",
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation .",
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation .",
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation ."
+    ],
+    "aspect": [
+        "1. Steve Bruce is confident he can keep Hull City in the Premier League this season and avoid relegation. ",
+        "2. Hull were beaten 2-0 by Southampton on Saturday and are just two points clear of the drop zone. ",
+        "3. Steve Bruce believes they can survive relegation with nine or eight wins. ",
+        "4. The team is struggling due to long-term injuries to key players. ",
+        "5. Ronald Koeman's side moved to fifth in the table ahead of Tottenham and Liverpool. ",
+        "6. Koeman will remind his squad not to break team rules after Sadio Mane tried to take a penalty."
+    ],
+    "explain": [
+        "Steve Bruce is confident and believes he can keep Hull City from being relegated from the Premier League this season, despite a recent 2-0 loss to Southampton and tough upcoming fixtures against Liverpool, Arsenal, Tottenham, and Manchester United.",
+        "The aspect describes the recent match between Hull City and Southampton, in which Hull suffered a 2-0 defeat, further putting their position in the Premier League at risk. The team is now left with only six games to save their season and face tough fixtures against strong opponents like Liverpool, Arsenal, Tottenham, and Manchester United. Despite the challenges, the manager Steve Bruce remains optimistic about keeping Hull City in the league.",
+        "According to Steve Bruce, he believes that Hull City can survive relegation this season by winning nine or eight more matches, which includes tough fixtures against the likes of Liverpool, Arsenal, Tottenham, and Manchester United.",
+        "The aspect mentions that the team is struggling due to long-term injuries to key players. This means that due to injuries to important players in the team, they are finding it difficult to perform well in matches and are struggling to avoid relegation from the Premier League.",
+        "The summaries are brief written descriptions of the events, plots, or topics. \n\nExplain: They are usually composed of only a few sentences and give an overview of the key points of a text. \n\nExplain: They are often seen as a way to quickly get a gist of a larger work. \n\nExplain: For instance, if someone asks for a summary of a book or movie, a summary is what they provide. Summaries are often used as a way to condense large amounts of information into something that is much more manageable. \n\nExplain: They can help readers or viewers quickly understand important points or the main idea, and make it easier to remember the key details.",
+        "6. Koeman will remind his squad not to break team rules after Sadio Mane tried to take a penalty. \n\nAccording to the given aspect, Southampton manager Ronald Koeman has expressed his disappointment with Senegalese forward Sadio Mane after the player tried to take a penalty during a friendly match. Mane, who is known for his speed on the pitch, had been running towards the ball when his teammate had been brought down by the opposition, but he stopped short of taking the kick. This behavior reportedly surprised the coach and has now become a topic of discussion in the team. It appears that the coach is sending a clear message to his squad that they should strictly follow the established rules and procedures, even if the situation seems clear from their perspective. This could reflect the coach's desire to maintain discipline and a collective mindset within the team."
+    ],
+    "answer": [
+        "Yes, the summary contains indirectly the core idea that Steve Bruce is confident and believes he can keep Hull City from being relegated though they have tough upcoming fixtures.",
+        "Yes, the summary provides a brief overview of the match between Hull City and Southampton, and the aspect highlights the recent result and the challenges ahead for the team. The summary sets the context for the aspect by mentioning Steve Bruce's belief in keeping Hull City in the league and the tough fixtures ahead.",
+        "Aspect 3. Steve Bruce believes they can survive relegation with nine or eight wins.",
+        "Yes, the summary mentions that the team is struggling due to injuries to key players.",
+        "Yes! the summary contains the core idea. The aspect is about Southampton's victory over Hull City leaving them battling to stay up and facing nightmare fixtures against big clubs.",
+        "Yes, the summary does contain the core idea, which is that Steve Bruce is confident he can keep Hull City in the Premier League this season and avoid relegation, despite facing tough fixtures against Liverpool, Arsenal, Tottenham and Manchester United."
+    ],
+    "score": [
+        4,
+        4,
+        5,
+        5,
+        4,
+        4
+    ],
+    "mean_score": 4.333333333333333,
+    "gt_score": 4.333333333325
+}

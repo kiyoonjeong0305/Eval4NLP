@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "everton defeated burnley 1-0 in their premier league clash on saturday . ross barkley missed from the spot in the 10th minute at goodison park . the toffees boss roberto martinez was forced to defend his player . leighton baines has scored 15 penalties from 16 attempts in the league .",
+        "everton defeated burnley 1-0 in their premier league clash on saturday . ross barkley missed from the spot in the 10th minute at goodison park . the toffees boss roberto martinez was forced to defend his player . leighton baines has scored 15 penalties from 16 attempts in the league .",
+        "everton defeated burnley 1-0 in their premier league clash on saturday . ross barkley missed from the spot in the 10th minute at goodison park . the toffees boss roberto martinez was forced to defend his player . leighton baines has scored 15 penalties from 16 attempts in the league ."
+    ],
+    "aspect": [
+        "1. Ross Barkley missed a penalty in Everton's 1-0 win against Burnley, with manager Roberto Martinez defending the selection.",
+        "2. Barkley took the penalty instead of Leighton Baines, who has scored 15 penalties from 16 attempts in the Premier League.",
+        "3. Martinez trusts multiple players to take penalties, and Barkley showed responsibility during the match."
+    ],
+    "explain": [
+        "Ross Barkley missed a penalty in Everton's 1-0 win against Burnley, with manager Roberto Martinez defending the selection. This is concerning because it was an important opportunity for Everton to score, and Barkley's miss could potentially affect his future penalty taker choices by the manager.",
+        "In the Everton vs. Burnley match, on Saturday, Ross Barkley missed a penalty instead of Leighton Baines, who has an impressive record with 15 out of 16 scored penalties in the Premier League.",
+        "While Barkley missed one penalty, Martinez's trust in multiple penalty-takers, including Barkley, was evident during the match, demonstrating responsibility."
+    ],
+    "answer": [
+        "The summary contains the context of this sentence by mentioning that Ross Barkley missed a penalty in the 1-0 win against Burnley and that Roberto Martinez defended the selection. This shows that the situation you described in your sentence is present in the summary.",
+        "Yes, the summary does contain the context of this sentence.",
+        "No, the summary does not directly contain the context or focus on the trust and responsibility aspects mentioned in the given aspect."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.5
+}

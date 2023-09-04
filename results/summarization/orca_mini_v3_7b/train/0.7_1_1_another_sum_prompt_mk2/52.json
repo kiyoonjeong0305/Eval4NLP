@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning . the driver of the car was pumping gas at a 76 station in south los angeles . the group covered his white dodge charger in gasoline and lit it ablaze . the man 's grandmother said the fire was lit after the suspects attempted to carjack her grandson ."
+    ],
+    "aspect": [
+        "1. A gang of three people set fire to a car at a gas station in South Los Angeles. 2. The driver reported an argument with the suspects before the fire. 3. The Los Angeles County Fire Department is investigating the incident as arson, and the suspects remain at large."
+    ],
+    "explain": [
+        "A gang of three people set fire to a car at a gas station following an unsuccessful carjacking attempt, leading to an investigation by the Los Angeles County Fire Department."
+    ],
+    "answer": [
+        "Yes"
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.5
+}

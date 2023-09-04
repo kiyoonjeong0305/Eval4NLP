@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control ."
+    ],
+    "aspect": [
+        "1. Fiery sunsets in Washington, Seattle captures pictures, caused by Siberian wildfires.",
+        "2. CNN reports on fiery sunsets in Washington due to Siberian wildfires.",
+        "3. CNN speaks on the fiery sunsets in Washington caused by Siberian wildfires."
+    ],
+    "explain": [
+        "A core idea of the aspect is that due to the Siberian wildfires, there were fiery sunsets observed in Washington and Seattle, and people were able to capture these sunsets through pictures.",
+        "This aspect from CNN reports the impact of Siberian wildfires on the US, specifically mentioning fiery sunsets in Washington.",
+        "The given aspect talks about the Siberian wildfires that have caused fiery sunsets in Washington. The fires in Siberia have spread and got out of control, leading to widespread destruction of villages and the surrounding areas. As a result, the smoke from these fires has traveled a long way and has reached as far as Washington, causing fiery sunsets in the city."
+    ],
+    "answer": [
+        "Yes, the summary does contain the core idea of the aspect. The summary mentions that the fires in Siberia have destroyed dozens of villages and the smoke from these fires grew out of control. The aspect then talks about the fiery sunsets that were observed in Washington and Seattle due to these wildfires.",
+        "It depends on the context in which you are asking me if the core idea of the aspect about fiery sunsets in Washington is present in the summary. If we look at the summary only and not the aspect provided, then the answer is no, the core idea of the aspect is not present in the summary.",
+        "Yes, the summary does contain the core idea of the given aspect. It mentions the fires in southeastern Siberia that started on April 14 and have destroyed dozens of villages in the region. The summary also mentions the smoke from these fires becoming out of control and spreading to cause widespread destruction. This aspect states that the fiery sunsets in Washington were caused by these Siberian wildfires. So, the summary contains the core idea that the Siberian wildfires have caused widespread destruction and have affected areas as far as Washington, causing fiery sunsets in the city."
+    ],
+    "score": [
+        4,
+        0,
+        4
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 3.1666666666750003
+}

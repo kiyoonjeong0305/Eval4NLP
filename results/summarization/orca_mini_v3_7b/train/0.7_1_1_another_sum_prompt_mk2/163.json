@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane ."
+    ],
+    "aspect": [
+        "1. A billionaire transformed a Boeing 747 into a luxury home, featuring bedrooms, lounges, an onboard restaurant, and a dining room with kitchen. It costs an estimated £400 million and accommodates dozens of guests.",
+        "2. The extravagant plane has a master bedroom, lounge, conference room, office, and dining room, offering amenities found in top hotels.",
+        "3. The one-of-a-kind custom-built Boeing 747-8 serves as a private residence with luxurious interiors and amenities, making it the most expensive private plane ever built."
+    ],
+    "explain": [
+        "Billionaire transforms Boeing 747 into a luxury home, featuring a lavish interior with bedrooms, lounges, an onboard restaurant, and dining area with kitchen. It is extremely expensive, costing an estimated £400 million, and can accommodate dozens of guests.",
+        "The extravagant plane features a master bedroom, lounge, conference room, office, and dining room, providing amenities similar to high-end hotels.",
+        "The highly customized Boeing 747-8 serves as a private luxury residence, making it the most expensive private plane ever built, with extravagant interiors and facilities catering to its unique owner's specifications."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the context of the given sentence is present in the summary.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

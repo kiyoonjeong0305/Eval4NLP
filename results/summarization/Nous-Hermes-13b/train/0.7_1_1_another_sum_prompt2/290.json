@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . the full back signed a three-year contract when he moved from the spanish champions last july . luis played in brazil 's friendly wins against france and chile .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . the full back signed a three-year contract when he moved from the spanish champions last july . luis played in brazil 's friendly wins against france and chile .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . the full back signed a three-year contract when he moved from the spanish champions last july . luis played in brazil 's friendly wins against france and chile .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . the full back signed a three-year contract when he moved from the spanish champions last july . luis played in brazil 's friendly wins against france and chile .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . the full back signed a three-year contract when he moved from the spanish champions last july . luis played in brazil 's friendly wins against france and chile ."
+    ],
+    "aspect": [
+        "1. Filipe Luis wants to stay at Chelsea until his contract ends.",
+        "2. Atletico Madrid is considering re-signing Luis.",
+        "3. Luis played for Brazil during the international break.",
+        "4. Chelsea manager Jose Mourinho wants his team to focus on the title run-in.",
+        "5. Chelsea has nine difficult games left to win the league."
+    ],
+    "explain": [
+        "One core idea of the aspect states that Filipe Luis is dedicated to playing for Chelsea until the end of his contract.",
+        "\nCore Idea: \n- Filipe Luis has been playing well for Brazil in recent friendly matches.\n- Atletico Madrid is considering re-signing him.\n- His performance may have sparked their interest.",
+        "Filipe Luis is a Brazilian professional footballer who plays as a defender for English club Chelsea and the Brazilian national team. In the recent international break, he represented Brazil during their friendly matches against France and Chile.",
+        "A central idea of the given aspect is that Chelsea manager Jose Mourinho wants his team to focus on the title run-in, which means he wants the team to be fully committed and dedicate themselves towards winning the championship.",
+        "The aspect states that Chelsea has nine difficult games left to win the league. This implies that the team is currently in a position of strength, having already won the Premier League title. However, the remaining games are expected to be challenging as they have to maintain their winning streak in order to secure the championship. The games will require determination and focus on the part of the players and the team as a whole."
+    ],
+    "answer": [
+        "Yes, the aspect states that Filipe Luis wants to stay at Chelsea until the end of his contract.",
+        "NO",
+        "No, the summary does not contain the core idea as it only talks about Filipe Luis' contract with Chelsea and his performance in Brazil's friendly matches, but not about his playing for Brazil during the international break.",
+        "I'm sorry, but I didn't understand your question. Could you please rephrase it or provide more context?",
+        "No, the aspect does not appear to be contained in the summary."
+    ],
+    "score": [
+        5,
+        0,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 1.0,
+    "gt_score": 3.83333333335
+}

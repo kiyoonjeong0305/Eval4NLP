@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "esteban cambiasso says keeping leicester in the premier league would be up there with the best achievements of his career . the foxes are currently seven points adrift at the bottom of the table, with only eight games remaining . leicester face west ham united at upton park on saturday .",
+        "esteban cambiasso says keeping leicester in the premier league would be up there with the best achievements of his career . the foxes are currently seven points adrift at the bottom of the table, with only eight games remaining . leicester face west ham united at upton park on saturday .",
+        "esteban cambiasso says keeping leicester in the premier league would be up there with the best achievements of his career . the foxes are currently seven points adrift at the bottom of the table, with only eight games remaining . leicester face west ham united at upton park on saturday ."
+    ],
+    "aspect": [
+        "1. Cambiasso won all major European competitions but claims keeping Leicester in the Premier League would be an achievement.",
+        "2. Leicester is seven points adrift at the bottom of the table with only eight games remaining.",
+        "3. Cambiasso believes Leicester still has a chance to avoid relegation as they have matches left to win."
+    ],
+    "explain": [
+        "Cambiasso has won many prestigious European competitions, but he believes keeping Leicester in the Premier League would be a significant accomplishment.",
+        "\"Leicester's struggling position as they are seven points adrift at the bottom of the table with only eight games remaining highlights their ongoing challenge to stay in the Premier League.\"",
+        "Esteban Cambiasso believes that Leicester City still has a chance to avoid relegation, as they have matches left to win despite currently being at the bottom of the table with only eight games remaining."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the sentence as it is written.",
+        "Yes, the summary contains the context of the given sentence. Esteban Cambiasso's statement emphasizes Leicester's challenging situation, and the summary does a good job of conveying this information.",
+        "Yes, the summary contains the context of that sentence."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.333333333325
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Jin Pai , 35 , was standing on rim of toilet in Hefei Xinqiao International Airport . Airport officials said he had not wanted to let his bottom touch the seat . But he was caught out when the porcelain toilet tipped over and shattered . He received dozens of stitches on his left leg and buttocks .",
+        "Jin Pai , 35 , was standing on rim of toilet in Hefei Xinqiao International Airport . Airport officials said he had not wanted to let his bottom touch the seat . But he was caught out when the porcelain toilet tipped over and shattered . He received dozens of stitches on his left leg and buttocks .",
+        "Jin Pai , 35 , was standing on rim of toilet in Hefei Xinqiao International Airport . Airport officials said he had not wanted to let his bottom touch the seat . But he was caught out when the porcelain toilet tipped over and shattered . He received dozens of stitches on his left leg and buttocks ."
+    ],
+    "aspect": [
+        "1. A passenger, Jin Pai, was hospitalized after breaking a toilet while standing on its rim in Hefei Xinqiao Airport.",
+        "2. Pai was worried the seat might be dirty and opted not to touch it.",
+        "3. The toilet collapsed and cut Pai, leading him to seek help from his companions, who later confirmed the incident was an accident."
+    ],
+    "explain": [
+        "A passenger named Jin Pai injured himself severely after trying to stand on the rim of a toilet in Hefei Xinqiao International Airport, causing the toilet to tip over and shatter.",
+        "The aspect suggests that Jin Pai was hesitant to use a toilet seat due to concerns about it being dirty, which motivated his unusual behavior of standing on the rim.",
+        "3. The incident started with Jin Pai standing on the rim of a toilet in Hefei Xinqiao International Airport. Despite not wanting his bottom to touch the seat, the porcelain toilet collapsed and shattered, cutting Pai. His companions confirmed it was an accident."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does contain the context mentioned in the sentence regarding Jin Pai's reluctance to use the toilet seat due to cleanliness concerns.",
+        "No, the summary does not contain the full context of the given aspect."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.75
+}

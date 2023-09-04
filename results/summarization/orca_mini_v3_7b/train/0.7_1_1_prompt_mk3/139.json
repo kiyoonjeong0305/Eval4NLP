@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing on the side of the box and dropping his rifle . the embarrassed soldier is thought to have slipped because of the metal protectors .",
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing on the side of the box and dropping his rifle . the embarrassed soldier is thought to have slipped because of the metal protectors .",
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing on the side of the box and dropping his rifle . the embarrassed soldier is thought to have slipped because of the metal protectors ."
+    ],
+    "aspect": [
+        "1. Buckingham Palace guard slips and falls on manhole cover, left red-faced during Changing of the Guard.",
+        "2. The incident, which was caught on camera, saw the Queen's Guard losing his footing and dropping his rifle.",
+        "3. The Queen's Guard quickly regained his composure as his colleagues marched past, but was left blushing after realizing how many tourists had witnessed the slapstick moment."
+    ],
+    "explain": [
+        "In the midst of the Changing of the Guard at Buckingham Palace, a guard slipped and fell on a manhole cover, causing him to be embarrassed and leaving the crowd in amusement. The incident highlights the potential dangers posed by manhole covers, especially during ceremonial events like the Changing of the Guard.",
+        "The aspect highlights an incident where the Queen's Guard lost his balance, slipped on a manhole cover, and dropped his rifle, with a camera capturing this moment.",
+        "In the event, a Queen's Guard's slip during the popular changing of guard at Buckingham Palace caused him to drop his rifle. However, with the help of his colleagues, he managed to regain his composure and continue the performance, even though many tourists witnessed his embarrassing moment. The aspect explores his reaction to the incident in the presence of the spectators - he blushed but attempted to maintain professionalism."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the sentence, specifically focusing on the incident involving the Queen's Guard losing balance, slipping on a manhole cover, and dropping his rifle, with a camera capturing this moment. \n\nAnswer - Yes, the summary does contain the context of the sentence, though it could be improved by more precise language.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        3,
+        4
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 4.75
+}

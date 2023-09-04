@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "steve bruce wants to keep hull city in the premier league this season . steve bruce is hoping ` nine or eight might be enough ' . hull have six games to save their season . james ward-prowse penalty and late strike from southampton for the first 45 minutes . michael dawson and nikica jelavic have also been out of the season .",
+        "steve bruce wants to keep hull city in the premier league this season . steve bruce is hoping ` nine or eight might be enough ' . hull have six games to save their season . james ward-prowse penalty and late strike from southampton for the first 45 minutes . michael dawson and nikica jelavic have also been out of the season .",
+        "steve bruce wants to keep hull city in the premier league this season . steve bruce is hoping ` nine or eight might be enough ' . hull have six games to save their season . james ward-prowse penalty and late strike from southampton for the first 45 minutes . michael dawson and nikica jelavic have also been out of the season .",
+        "steve bruce wants to keep hull city in the premier league this season . steve bruce is hoping ` nine or eight might be enough ' . hull have six games to save their season . james ward-prowse penalty and late strike from southampton for the first 45 minutes . michael dawson and nikica jelavic have also been out of the season .",
+        "steve bruce wants to keep hull city in the premier league this season . steve bruce is hoping ` nine or eight might be enough ' . hull have six games to save their season . james ward-prowse penalty and late strike from southampton for the first 45 minutes . michael dawson and nikica jelavic have also been out of the season ."
+    ],
+    "aspect": [
+        "1. Steve Bruce is confident Hull City can avoid relegation from the Premier League. ",
+        "2. Hull City are battling to stay up in the Premier League with six games remaining. ",
+        "3. Hull City's struggles are due to long-term injuries to key players. ",
+        "4. Southampton defeated Hull City 2-0, moving up to fifth place in the table. ",
+        "5. Ronald Koeman will address his squad after Sadio Mane attempted to take a penalty."
+    ],
+    "explain": [
+        "Steve Bruce is confident that Hull City can avoid relegation from the Premier League. This core idea is that the manager of the team, Steve Bruce, believes that they are capable of retaining their spot in the top tier of English football for another season.",
+        "One of the main challenges that Hull City is currently facing is the battle to stay in the Premier League with six games left in the season.",
+        "This aspect highlights a critical issue that has impacted Hull City's performance this season. The team has been suffering from long-term injuries to key players, such as James Ward-Prowse, Michael Dawson, and Nikica Jelavic. As a result, Hull City has been struggling to maintain consistency on the field and retain their position in the Premier League.",
+        "The aspect states that Southampton defeated Hull City 2-0, moving up to fifth place in the table. This means that Southampton was successful in winning the game against Hull City and as a result, they have moved up to the fifth position in the table.",
+        "Ronald Koeman will address his squad after Sadio Mane attempted to take a penalty."
+    ],
+    "answer": [
+        "The aspect you gave is not mentioned in the summary.",
+        "I need more information about the summary and the aspect to determine if the summary contains the core idea. Please provide more context or clarify the aspect you want me to explain.",
+        "No, the summary does not contain the core idea of the aspect. The aspect talks about the impact of long-term injuries on Hull City's performance, while the summary discusses Steve Bruce's goal of keeping Hull City in the Premier League and his belief that a score of 9 or 8 might be enough to achieve this goal.",
+        "Yes, the summary contains the core idea of the aspect. It mentions that Steve Bruce wants to keep Hull City in the Premier League and is hoping that nine or eight might be enough. The summary also mentions that Hull have six games to save their season. The aspect then provides additional information about the game between Southampton and Hull City, stating that Southampton defeated Hull City 2-0 and as a result, moved up to fifth place in the table.",
+        "\"NO\" - the core idea of the aspect is not present in the summary."
+    ],
+    "score": [
+        0,
+        0,
+        0,
+        5,
+        0
+    ],
+    "mean_score": 1.0,
+    "gt_score": 3.416666666675
+}

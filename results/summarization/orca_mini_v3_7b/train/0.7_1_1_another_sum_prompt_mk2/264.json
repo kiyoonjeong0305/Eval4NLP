@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "steve bruce is confident he can keep hull city in the premier league this season . hull were beaten 2-0 by southampton on saturday and are just two points clear of the drop zone . mohamed diame returned from five months out and james chester from three .",
+        "steve bruce is confident he can keep hull city in the premier league this season . hull were beaten 2-0 by southampton on saturday and are just two points clear of the drop zone . mohamed diame returned from five months out and james chester from three .",
+        "steve bruce is confident he can keep hull city in the premier league this season . hull were beaten 2-0 by southampton on saturday and are just two points clear of the drop zone . mohamed diame returned from five months out and james chester from three ."
+    ],
+    "aspect": [
+        "1. Steve Bruce confident in keeping Hull City in Premier League, aiming for 9 or 8 wins.",
+        "2. Hull City struggles due to key long-term injuries to key players.",
+        "3. Southampton defeats Hull City 2-0, moving up to fifth in the table."
+    ],
+    "explain": [
+        "Steve Bruce aims to get 8 or 9 wins for Hull City to stay in the Premier League.",
+        "Hull City, under Steve Bruce's management, is facing challenges to maintain their position in the Premier League due to significant long-term injuries to important players like Mohamed Diame and James Chester. The team's recent loss against Southampton, coupled with their precarious two-point lead over the relegation zone, highlights these issues and emphasizes the importance of a speedy recovery for key players in the upcoming matches.",
+        "Southampton defeated Hull City 2-0, improving their position to fifth in the table."
+    ],
+    "answer": [
+        "No",
+        "Yes, the context is clear in the summary, although it's written in a slightly different structure than the given brief. The main essence remains, with reference to Hull City's struggles due to key long-term injuries to key players like Diame and Chester.",
+        "Yes, the summary contains the context of the given sentence as it clearly states that Southampton defeated Hull City 2-0 and improved their position to fifth in the table."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.083333333325
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half."
+    ],
+    "aspect": [
+        "1. Manchester United's Under 18s defeated City 1-0 in a 'mini-derby,' showcasing an even first-half and highlighting goals by Callum Gribbin and Marcus Wood.",
+        "2. The match aimed to provide an experience closer to first-team seniors for the young players, with both sides showcasing talents.",
+        "3. United now has two points behind leaders Middlesbrough, while City lost both matches in the Barclays Under 18s Premier League end-of-season play-off series."
+    ],
+    "explain": [
+        "Manchester United's Under 18s defeated City 1-0 in a 'mini-derby,' showcasing an even first-half and highlighting goals by Callum Gribbin and Marcus Wood.",
+        "The match sought to offer a more senior-team-like experience to young players, with both teams showcasing their skills.",
+        "- United has 2 points, 0.5 behind Middlesbrough, who are the leaders. \n- United won a match, while City lost both their matches in the Barclays Under 18s Premier League end-of-season play-off series."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes",
+        "No, the summary does not directly provide the context for that sentence. However, the summary does discuss United going in front with two points, which is a key part of the sentence you provided."
+    ],
+    "score": [
+        4,
+        4,
+        3
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 3.5
+}

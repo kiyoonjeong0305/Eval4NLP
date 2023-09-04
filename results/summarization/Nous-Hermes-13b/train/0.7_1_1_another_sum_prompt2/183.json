@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent .",
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent .",
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent ."
+    ],
+    "aspect": [
+        "1. Radamel Falcao struggled at Manchester United on loan.",
+        "2. Former teammate Nabil Dirar thinks Falcao regrets the move and would have been better off staying at Monaco.",
+        "3. Falcao was not happy in France but needed more atmosphere to perform well."
+    ],
+    "explain": [
+        "Radamel Falcao did not perform well while playing for Manchester United on loan. He struggled both in terms of his physical performance and his ability to integrate into the team, leading many to question whether remaining at the club would be in his best interests.",
+        "Nabil Dirar, Falcao's former teammate at Monaco, believes that Falcao might be regretting his decision to join Manchester United on loan.",
+        "The aspect states that Falcao was not happy in France, but he needed more atmosphere to perform well. This means that Falcao was not content with his time at Monaco, but he would have been more motivated and productive in a more competitive and high-pressure environment. Instead, he struggled to find his form at United due to injury and lack of playing time, which ultimately led to his failed loan move. The fact that United will have to pay £46 million to make his transfer permanent also highlights the unfulfilled potential of his loan move to Old Trafford."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. The aspect provides information about Falcao's struggles while on loan at Manchester United, while the summary discusses his lack of happiness at Monaco and the fee required to make his transfer permanent.",
+        "Yes, the core idea of the aspect is that Falcao's former Monaco team-mate Nabil Dirar thinks he regrets the move to Manchester United and would have been better off staying at Monaco.",
+        "Yes, the summary does contain the core idea of the aspect, which is that Falcao was not happy in France and needed more atmosphere to perform well."
+    ],
+    "score": [
+        0,
+        5,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.25
+}

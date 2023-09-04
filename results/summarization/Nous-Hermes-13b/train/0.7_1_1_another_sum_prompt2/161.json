@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help .",
+        "jin pai , 35 , was standing on the rim of a toilet in hefei , china 's anhui province . passenger jin pai , 35 , was standing on the rim of a toilet when it collapsed , leaving him hospitalised . the injured man was found bleeding on the toilet floor after he telephoned his travelling companions for help ."
+    ],
+    "aspect": [
+        "1. A passenger waiting to board a plane in an airport terminal was hospitalized with deep cuts on his leg and buttocks after he broke a toilet he was squatting on.",
+        "2. Passenger Jin Pai, 35, was standing on the rim of a toilet when it collapsed, leaving him hospitalized.",
+        "3. The smashed up toilet in Hefei Xinqiao International Airport in the city of Hefei.",
+        "4. The passenger broke the toilet while trying to avoid sitting on it because he was worried it might not be clean.",
+        "5. The man was too embarrassed to ask for help and ended up needing immediate hospitalization.",
+        "6. The passenger later changed his story to the police, possibly to avoid paying compensation.",
+        "7. Police spokesman Bo Chiang said that people should not stand on toilets."
+    ],
+    "explain": [
+        "a core idea of this aspect is that an airport passenger waiting to board a plane was injured when a toilet broke underneath him while he was squatting on it, resulting in deep cuts on his leg and buttocks that required hospitalization.",
+        "Jin Pai, 35, was standing on the rim of a toilet when it collapsed, causing him to be hospitalized.",
+        "The given aspect is about the smashed up toilet in Hefei Xinqiao International Airport in the city of Hefei.\n\nRelate a core idea from the given aspect to the summary.\nRelate: In the summary, it states that Jin Pai, 35, was standing on the rim of a toilet when it collapsed. The aspect states that the toilet was smashed up. It can be inferred that the collapsing of the toilet and the smashing up of the toilet are related events.",
+        "One possible explanation for why the passenger was standing on the rim of the toilet is that he was trying to avoid sitting on it because he was worried it might not be clean.",
+        "Jin Pai was too embarrassed to ask for help when the toilet collapsed. He ended up needing immediate hospitalization due to his injuries.",
+        "The given aspect highlights that the injured passenger might have changed his story to the police to avoid paying compensation. It suggests that the passenger might have been seeking to minimize his financial liability following the accident.",
+        "Police spokesman Bo Chiang advised people not to stand on toilets because it can cause them to collapse and result in injury."
+    ],
+    "answer": [
+        "Aspect 1 of a passenger waiting to board a plane was hospitalized with deep cuts on his leg and buttocks after he broke a toilet he was squatting on.",
+        "Sorry, the given aspect does not seem to be present in the summary.",
+        "The aspect does not contain any core idea related to the summary. The summary is about Jin Pai standing on the rim of a toilet when it collapsed, while the aspect is about a different toilet being smashed up.",
+        "\nIf you still need further assistance with this task or have any other questions, please feel free to ask.",
+        "I understand that the given aspect states that Jin Pai was too embarrassed to ask for help when the toilet collapsed and that led to his need for immediate hospitalization. However, I don't see how this idea is present in the summary provided. Can you explain how the summary relates to the aspect?",
+        "No, the aspect is not present in the summary.",
+        "The aspect of police spokesman Bo Chiang saying people should not stand on toilets is not present in the summary."
+    ],
+    "score": [
+        5,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 1.2857142857142858,
+    "gt_score": 4.16666666665
+}

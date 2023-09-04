@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins will attempt to break cycling's hour record on June 7 at London's Olympic Velodrome.",
+        "2. Four-time Olympic champion Bradley Wiggins will aim to set a record which will last for some time.",
+        "3. Wiggins will hope for a capacity crowd to motivate people to ride their bikes.",
+        "4. Tickets to watch Wiggins' attempt will go on sale on April 19."
+    ],
+    "explain": [
+        "The given aspect states that Sir Bradley Wiggins will attempt to break cycling's hour record on June 7 at London's Olympic Velodrome. This means that Wiggins is planning to set a new record for the longest distance that can be covered in one hour on a bicycle. The record has been held since May 2015 by Alex Dowsett, and Wiggins will be attempting to break it at the same velodrome where he won a gold medal in the team pursuit at the 2012 Summer Olympics. This attempt is considered one of the most prestigious records in cycling and Wiggins' attempt to break it will be highly-anticipated.",
+        "The given aspect highlights that Bradley Wiggins has attempted to break a cycling record which is considered to be one of the most difficult records in sport. The aspect suggests that Wiggins has the potential to set a record which will last for a significant amount of time, given his experience as a cyclist and his previous achievements. The attempt to break the hour record is seen as a challenging task, but Wiggins' skill and determination make him a strong contender to achieve this feat.",
+        "Sir Bradley Wiggins will attempt to break cycling's hour record in June. The core idea of given aspect is that Wiggins will hope for a capacity crowd at London's Olympic Velodrome to motivate people to ride their bikes. He wants to create an environment that encourages people to be active on their bikes and enjoy the sport.",
+        "The aspect states that tickets to watch Sir Bradley Wiggins attempt to break the cycling's hour record at London's Olympic Velodrome with go on sale on April 19th. This gives potential attendees enough time to plan, prepare, and secure their tickets for the much-anticipated event."
+    ],
+    "answer": [
+        "If we look at the summary, it does not contain any information about Sir Bradley Wiggins attempting to break the hour record. The summary mentions that he will race in front of a sell-out crowd at London's Olympic Velodrome, but it does not mention the hour record attempt. Therefore, the aspect is not a core idea of the summary.",
+        "\nNo, the aspect \"Wiggins will race in front of a sell-out crowd at London's Olympic Velodrome\" does not contain the core idea of the aspect.",
+        "The summary does not contain the core idea of the aspect. The core idea of the aspect is that Wiggins wants to use the hour record attempt to motivate people to ride their bikes and create an environment that encourages people to be active on their bikes and enjoy the sport.",
+        "How is the cycling's hour record event going to be attempted?"
+    ],
+    "score": [
+        0,
+        4,
+        0,
+        5
+    ],
+    "mean_score": 2.25,
+    "gt_score": 4.916666666675
+}

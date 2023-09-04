@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane ."
+    ],
+    "aspect": [
+        "1. A mysterious billionaire's £400 million luxury home, complete with bedrooms, lounges, and an onboard restaurant, is a custom-built Boeing 747 jumbo jet that was customized to fit his specifications.",
+        "2. The jumbo jet has been converted into an exclusive residence, featuring a dining room, lounge, 'state room,' and a top deck for sleeping with eight full beds.",
+        "3. The luxurious interior was built inside a Boeing 747-8, which can hold up to 600 passengers but was customized for a single ultra-wealthy owner."
+    ],
+    "explain": [
+        "A billionaire, who is mysterious, spent £400 million on a one-of-a-kind customized Boeing 747 Jumbo jet, which is now his luxurious private residence. The aircraft was designed to meet his exact preferences over a three-year period and is equipped with multiple bedrooms, lounges, an onboard restaurant, and other amenities.",
+        "The custom-built Boeing 747 has been transformed into an ultra-expensive, exclusive residence for its owner, featuring a dining room, lounge, 'state room,' and a top deck with eight full beds, designed to accommodate his friends and guests on a luxurious and personalized travel experience.",
+        "The Boeing 747, custom-built for a single ultra-wealthy owner, had a luxurious interior designed for their specific preferences, including a large dining room, kitchen and lounge areas, made possible by the removal of passenger seating to accommodate their needs."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does contain the context of the given sentence, accurately representing the information about the custom-built Boeing 747 being converted into a personal residence and featuring various amenities and accommodations for its owner and guests.",
+        "Yes, the summary contains the context of the sentence as both mention the customized luxurious interior and the removal of passenger seating in the Boeing 747."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.583333333325
+}

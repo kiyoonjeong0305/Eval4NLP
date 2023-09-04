@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "mexican restaurant chipotle has decided to tap into the $ 70 billion food delivery market by teaming up with an app to bring burritos straight to customers ' doors . mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand .",
+        "mexican restaurant chipotle has decided to tap into the $ 70 billion food delivery market by teaming up with an app to bring burritos straight to customers ' doors . mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand .",
+        "mexican restaurant chipotle has decided to tap into the $ 70 billion food delivery market by teaming up with an app to bring burritos straight to customers ' doors . mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand .",
+        "mexican restaurant chipotle has decided to tap into the $ 70 billion food delivery market by teaming up with an app to bring burritos straight to customers ' doors . mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand .",
+        "mexican restaurant chipotle has decided to tap into the $ 70 billion food delivery market by teaming up with an app to bring burritos straight to customers ' doors . mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand ."
+    ],
+    "aspect": [
+        "1. Chipotle teams up with Postmates to offer burrito delivery in 67 cities.",
+        "2. Chipotle adds 9% service charge for delivery fees ranging from $5 to $10.",
+        "3. Chipotle has turned down previous offers of collaboration with third-party delivery services but has now partnered with Postmates.",
+        "4. Chipotle is popular among presidential candidates, with Marco Rubio and Hillary Clinton being spotted in their restaurants. ",
+        "5. Chipotle is not the only franchise hoping to cash in on the delivery market, with Starbucks, Taco Bell, and McDonald's also planning to offer delivery services."
+    ],
+    "explain": [
+        "\n- Chipotle and Postmates will offer burrito delivery in 67 cities.\n- This is Chipotle's first time offering delivery.\n- Customers can expect to pay a delivery fee starting at $5, depending on distance and demand.\n- Customers will also notice a 9% service charge added to their order.",
+        "Chipotle is adding a 9% service charge on top of delivery fees that range from $5 to $10. This means that customers will pay an additional 9% on top of the already existing delivery fees.",
+        "Chipotle has rejected previous proposals from third-party delivery services to partner with them. Despite this, they have now teamed up with Postmates for delivery purposes.",
+        "The given aspect provides information about the popularity of Chipotle among political leaders. It names two examples of presidents who have been seen dining in Chipotle restaurants, including Marco Rubio and Hillary Clinton. This shows that even politicians from opposite ends of the political spectrum have a shared favorite food place.",
+        "The aspect states that Chipotle is not the only franchise hoping to cash in on the delivery market. This means that Chipotle is not alone in its efforts to enter the delivery market, and there are several other franchises that are also trying to capitalize on this opportunity. It highlights the level of competition in the food delivery market and the increasing demand for convenient and accessible food options."
+    ],
+    "answer": [
+        "\n- Chipotle wants to tap into the $70 billion food delivery market\n- They will use Postmates to deliver burritos to customers' doors\n- They will add a 9% service charge to orders\n- Customers will pay a delivery fee starting at $5, depending on distance and demand.",
+        "No, the summary does not contain the core idea and there is no mention of the 9% service charge or the delivery fees.",
+        "No, the summary does not contain the core idea of the aspect. The summary only mentions that Chipotle has decided to tap into the food delivery market by teaming up with Postmates and the service charge they apply for delivery. The aspect, however, explains that Chipotle has refused previous offers from third-party delivery services until now.",
+        "Based on the given aspect, it appears that the aspect is related to the core idea of the summary as it provides additional information about the popularity of Chipotle restaurant.",
+        "Not really. The summary only mentions Chipotle's plans to add a nine per cent service charge for delivery services through Postmates, and does not mention anything about the competition in the food delivery market."
+    ],
+    "score": [
+        4,
+        0,
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.916666666675
+}

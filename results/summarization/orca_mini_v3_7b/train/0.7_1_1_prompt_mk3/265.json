@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury .",
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury .",
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury ."
+    ],
+    "aspect": [
+        "1. Serge Gnabry prepares for return after over a year out due to a serious knee injury.",
+        "2. Gnabry impressed for Arsenal last season but progress stunted by injury.",
+        "3. Germany Under-21 international played 90 minutes for Arsenal's development squad."
+    ],
+    "explain": [
+        "Serge Gnabry, a 19-year-old midfielder for the Gunners, is getting better and better, according to his recent statement. However, his progress has slower due to a serious knee injury he's been dealing with for over a year.",
+        "Serge Gnabry showed a strong performance for Arsenal last season; however, his development has been slowed down by a severe knee injury.",
+        "Serge Gnabry, a 19-year-old Germany Under-21 international, played 90 minutes for Arsenal's development squad, showing his progress despite a serious knee injury."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence as it highlights Serge Gnabry's progress, the time he's been dealing with a serious knee injury, and the Gunners team he is associated with. Despite the brevity, the key information is present in the summary.",
+        "Yes, the summary contains the context of the mentioned sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.416666666675
+}

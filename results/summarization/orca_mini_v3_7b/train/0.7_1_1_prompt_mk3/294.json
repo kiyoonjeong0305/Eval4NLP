@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object .",
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object .",
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object ."
+    ],
+    "aspect": [
+        "1. Japan's Defense Minister confirms ASDF never encountered extraterrestrial UFOs.",
+        "2. Japanese politician Inoki asks about extraterrestrial threats, Nakatani responds with no aircraft scramble for UFOs and no research on alien visitors.",
+        "3. Politicians discuss legal implications of alien invasion under pacifist constitution."
+    ],
+    "explain": [
+        "Japan's Defense Minister confirms no extraterrestrial UFO sightings by the ASDF, providing reassurance to the public that they can sleep soundly.",
+        "Japanese politician Inoki asks about extraterrestrial threats, Nakatani responds with no aircraft scramble for UFOs and no research on alien visitors, indicating the absence of notable encounters or investigations on potential extraterrestrial activities in the country.",
+        "Politicians discussing the legal and constitutional implications of potential alien invasion in Japan, considering the country's pacifist constitution."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of the sentence, as it discusses Inoki asking about extraterrestrial threats and Nakatani responding with details about the absence of aircraft scramble for UFOs and research on alien visitors. This information indicates the lack of notable encounters or investigations on potential extraterrestrial activities in Japan.",
+        "No, the summary does not contain the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.1666666667
+}

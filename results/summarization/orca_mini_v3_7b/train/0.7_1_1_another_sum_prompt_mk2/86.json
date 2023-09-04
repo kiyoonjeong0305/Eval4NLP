@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the 13 letters were expected to bring in anywhere from $300,000 to $600,000 . the current owner of the signage is yankee hall of famer reggie jackson . jackson purchased the letters for an undisclosed amount after the stadium saw its final game in 2008 .",
+        "the 13 letters were expected to bring in anywhere from $300,000 to $600,000 . the current owner of the signage is yankee hall of famer reggie jackson . jackson purchased the letters for an undisclosed amount after the stadium saw its final game in 2008 .",
+        "the 13 letters were expected to bring in anywhere from $300,000 to $600,000 . the current owner of the signage is yankee hall of famer reggie jackson . jackson purchased the letters for an undisclosed amount after the stadium saw its final game in 2008 ."
+    ],
+    "aspect": [
+        "1. 13 glowing blue letters from Yankee Stadium failed to sell at Sotheby's auction, with a Sotheby's employee buying them for $260,000.",
+        "2. The letters had been displayed since 1976, and Yankee Hall of Famer Reggie Jackson, who purchased them, wanted 'a new generation to own and enjoy this icon of the Yankees and of New York City.'",
+        "3. Sotheby's also auctioned off a New York Mets bullpen car from the 60s, which sold for $112,500, higher than the estimated $20,000 to $30,000."
+    ],
+    "explain": [
+        "13 glowing blue letters from Yankee Stadium, originally expected to sell for $300,000 to $600,000, failed to find a buyer in the Sotheby's auction. Sotheby's employee ended up purchasing the letters for $260,000, making them $40,000 less expensive than anticipated.",
+        "The letters from 1976 Yankee Stadium, owned by Reggie Jackson, were expected to bring in a significant amount of money. However, Jackson wants the letters to be owned by a new generation, emphasizing their importance as an icon of the Yankees and New York City.",
+        "3. Sotheby's sold a New York Mets bullpen car from the 60s for $112,500, exceeding the estimated price range of $20,000 to $30,000."
+    ],
+    "answer": [
+        "Yes",
+        "No, the summary does not contain the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        1,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.5
+}

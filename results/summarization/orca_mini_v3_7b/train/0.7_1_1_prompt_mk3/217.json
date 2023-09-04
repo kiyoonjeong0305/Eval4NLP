@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "the gun was inside a hard rifle case and was 'secured properly' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window, tying a rope around the rifle case's handle or a cable lock, and using the momentum from another vehicle to then break the case's handle free from the lock . the rifle's serial number has been entered into the national crime information computer ."
+    ],
+    "aspect": [
+        "1. FBI agent's sniper rifle stolen from Salt Lake City hotel parking lot. 2. Rifle secured properly, but stolen by breaking window, using rope and vehicle momentum. 3. Stolen items include rifle, gear bag, backpack, and clothing; no recovery yet."
+    ],
+    "explain": [
+        "A FBI agent's sniper rifle was stolen by breaking the window, using a rope and vehicle momentum after the rifle was secured properly inside a hard rifle case and chained to a truck safe at a Salt Lake City hotel. The items stolen include the rifle, gear bag, backpack, and clothing, but there has been no recovery yet."
+    ],
+    "answer": [
+        "Yes, the summary contains that context."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.583333333325
+}

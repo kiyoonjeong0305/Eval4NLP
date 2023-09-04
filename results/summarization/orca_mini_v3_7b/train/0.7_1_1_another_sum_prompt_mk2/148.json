@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy ."
+    ],
+    "aspect": [
+        "1. Italy is dealing with an increasing number of African and Middle Eastern migrants attempting to reach Europe, with over 8,000 rescued in a span of two days.",
+        "2. Save the Children has raised concerns about 400 missing migrants, according to survivor statements, but the Italian Coast Guard has not yet confirmed the incident.",
+        "3. The IOM reports that over 10,000 migrants arrived in Italy in the first three months of 2015, with most originating from West Africa, Somalia, and Syria. So far this year, at least 480 migrants have died while attempting to cross the Mediterranean, often due to overcrowded vessels and bad weather conditions."
+    ],
+    "explain": [
+        "Italy is facing an increased influx of African and Middle Eastern migrants attempting to cross the Mediterranean, with over 8,000 individuals being rescued in a period of two days.",
+        "Save the Children is concerned about 400 missing migrants, according to survivor statements, despite the Italian Coast Guard not yet confirming the incident.",
+        "A surge in migrant boats crossing the Mediterranean into Italy has been reported, with numerous numbers of migrants being rescued, but Save the Children expresses fears about the potential number of missing individuals. This issue has been an ongoing concern, with over 10,000 migrants arriving in Italy in the first three months of 2015 and at least 480 deaths reported this year due to overcrowded vessels and bad weather conditions."
+    ],
+    "answer": [
+        "Yes, the summary accurately conveys the context as requested.",
+        "Yes, the summary does contain the context of the sentence.",
+        "Yes, the context of the sentence is present in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

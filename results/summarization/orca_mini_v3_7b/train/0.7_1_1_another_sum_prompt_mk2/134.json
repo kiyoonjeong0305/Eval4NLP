@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "maurice van ryn has told a court of the severe impact it had on her life . but when she found out he had been caught she knew she had to break her silence . the wealthy nsw businessman has pleaded guilty to 12 sex offences .",
+        "maurice van ryn has told a court of the severe impact it had on her life . but when she found out he had been caught she knew she had to break her silence . the wealthy nsw businessman has pleaded guilty to 12 sex offences .",
+        "maurice van ryn has told a court of the severe impact it had on her life . but when she found out he had been caught she knew she had to break her silence . the wealthy nsw businessman has pleaded guilty to 12 sex offences ."
+    ],
+    "aspect": [
+        "1. A young woman tells court about Bega Cheese boss Van Ryn's abuse, which had a severe impact on her life. ",
+        "2. Van Ryn pleaded guilty to 12 sex offences, including persistent sexual abuse of a child, and has been in custody. ",
+        "3. The victim is scared for future relationships, worried about Van Ryn being released and how his actions will affect her future interactions with men."
+    ],
+    "explain": [
+        "A young woman shares her story about Bega Cheese boss Maurice van Ryn's abuse, detailing the significant effect it had on her life.",
+        "Maurice van Ryn pleaded guilty to 12 sex offences including persistent sexual abuse of a child, and has been in custody.",
+        "The victim, Maurice van Ryn's ex, is scared for future relationships and worried about his release from prison, fearing potential harm to future interactions with men."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "No, the summary does not contain the context of the given sentence.",
+        "Yes, the summary captures the context of the given sentence regarding the victim's fear for future relationships and concerns about Van Ryn's potential release from prison and its effects on her future interactions with men."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.2499999999750004
+}

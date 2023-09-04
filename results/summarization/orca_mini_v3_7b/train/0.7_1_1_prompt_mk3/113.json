@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) . it said the previous record was set by a humpback whale that swam a mere 10,190-mile round trip between the `` warm breeding waters of the arctic and antarctic regions '' .",
+        "the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) . it said the previous record was set by a humpback whale that swam a mere 10,190-mile round trip between the `` warm breeding waters of the arctic and antarctic regions '' .",
+        "the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) . it said the previous record was set by a humpback whale that swam a mere 10,190-mile round trip between the `` warm breeding waters of the arctic and antarctic regions '' ."
+    ],
+    "aspect": [
+        "1. A North Pacific gray whale named Varvara completed the longest migration of a mammal ever recorded, swimming nearly 14,000 miles.",
+        "2. Varvara's journey surpassed a previous record held by a humpback whale, which swam a mere 10,190-mile round trip between the Arctic and Antarctic regions.",
+        "3. Varvara's ability to navigate long distances may indicate that some western gray whales are actually eastern grays, as their numbers are very low."
+    ],
+    "explain": [
+        "A North Pacific gray whale named Varvara completed a record-breaking migration of over 14,000 miles, surpassing the previous record held by a humpback whale swimming approximately 10,190 miles.",
+        "Varvara, the whale, surpassed a previous record held by a humpback whale for the longest swim, covering around 14,000 miles compared to the humpback whale's 10,190-mile round trip between the Arctic and Antarctic regions.",
+        "The mentioned aspect suggests that Varvara's remarkable long-distance swimming might suggest that some Western Gray Whales are actually Eastern Gray Whales, as there are few of them."
+    ],
+    "answer": [
+        "Yes, the summary indeed contains the context of the given sentence.",
+        "Yes, the summary contains the context of the sentence.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.25
+}

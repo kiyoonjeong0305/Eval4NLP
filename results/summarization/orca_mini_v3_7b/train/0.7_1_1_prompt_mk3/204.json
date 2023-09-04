@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "jordan henderson is set to sign a new long-term contract at anfield . the club 's vice-captain had 14 months remaining on his current contract . henderson 's new deal will run until the summer of 2020 .",
+        "jordan henderson is set to sign a new long-term contract at anfield . the club 's vice-captain had 14 months remaining on his current contract . henderson 's new deal will run until the summer of 2020 .",
+        "jordan henderson is set to sign a new long-term contract at anfield . the club 's vice-captain had 14 months remaining on his current contract . henderson 's new deal will run until the summer of 2020 ."
+    ],
+    "aspect": [
+        "1. Jordan Henderson signs a new long-term contract with Liverpool, ",
+        "2. Henderson's deal worth around £100,000-a-week and runs until 2020,",
+        "3. Henderson is set to replace Gerrard as the club captain."
+    ],
+    "explain": [
+        "Jordan Henderson, Liverpool's vice-captain, has signed a new long-term contract that extends his stay at the club until the summer of 2020, replacing the remaining 14 months on his previous one.",
+        "Jordan Henderson is set to sign a long-term contract at Anfield, with Henderson's new deal worth £100,000 a week and running until the summer of 2020.",
+        "Aspect mentions that Henderson might be replacing Gerrard as the club captain, indicating a significant leadership role change within the team."
+    ],
+    "answer": [
+        "Yes",
+        "Yes",
+        "Yes, the context of the sentence is present in the summary, which mentions that Jordan Henderson could potentially replace Steven Gerrard as the club captain."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.5
+}

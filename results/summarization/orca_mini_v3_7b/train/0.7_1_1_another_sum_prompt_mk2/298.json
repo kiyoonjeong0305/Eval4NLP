@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise.",
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise.",
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise."
+    ],
+    "aspect": [
+        "1. Passengers found dead on cruise ship in Puerto Rico suspected to be murder-suicide.",
+        "2. ms Ryndam passengers discovered dead in their stateroom.",
+        "3. Cruise ship departed from Tampa, Florida, on a 14-day Southern Caribbean cruise."
+    ],
+    "explain": [
+        "The two passengers discovered dead on a cruise ship in Puerto Rico are believed to have died due to a murder-suicide, according to the cruise line.",
+        "The aspect talks about two passengers being found dead in their stateroom on the MS Ryndam cruise ship.",
+        "The cruise ship left from Tampa, Florida, on a 14-day Southern Caribbean cruise."
+    ],
+    "answer": [
+        "1. Passengers found dead on cruise ship in Puerto Rico suspected to be murder-suicide.",
+        "Yes, the context of the sentence is present in the summary.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.83333333335
+}

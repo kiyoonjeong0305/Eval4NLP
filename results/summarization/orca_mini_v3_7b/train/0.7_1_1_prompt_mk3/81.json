@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands ."
+    ],
+    "aspect": [
+        "1. Speeding camera directed at a house in Birmingham, West Midlands, has not been operational for over two years.",
+        "2. The camera, which used to enforce speed limit, was switched off along with 300 other devices in March 2013.",
+        "3. The owners of the house are unaware of the re-pointing of the camera, and Birmingham City Council plans to remove it."
+    ],
+    "explain": [
+        "The 30mph speed limit enforcement camera in Handsworth, Birmingham has not been operational for 2 years, affecting motorist's traffic control.",
+        "The 30mph speed camera in Handsworth, Birmingham, was turned off along with 300 other devices in March 2013, rendering it inoperative for enforcing the speed limit.",
+        "The house owners are not knowing about the repositioning of the camera, and Birmingham City Council intends to take it down soon."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of that sentence.",
+        "No",
+        "No, the context of that sentence is not present in the summary provided."
+    ],
+    "score": [
+        4,
+        1,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.25
+}

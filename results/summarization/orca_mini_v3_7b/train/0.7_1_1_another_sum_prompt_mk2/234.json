@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Javier Hernandez has had a tough time on loan at Real Madrid this season . Orlando City have a huge Latin-American fanbase and made enquiries last week about the prospect of a deal . United have made a revised contract offer to 19-year-old Andreas Pereira .",
+        "Javier Hernandez has had a tough time on loan at Real Madrid this season . Orlando City have a huge Latin-American fanbase and made enquiries last week about the prospect of a deal . United have made a revised contract offer to 19-year-old Andreas Pereira .",
+        "Javier Hernandez has had a tough time on loan at Real Madrid this season . Orlando City have a huge Latin-American fanbase and made enquiries last week about the prospect of a deal . United have made a revised contract offer to 19-year-old Andreas Pereira ."
+    ],
+    "aspect": [
+        "1. MLS side Orlando City express interest in Manchester United's Javier Hernandez. ",
+        "2. Hernandez would be a popular arrival with Orlando supporters, and Southampton, Stoke, West Ham, and Everton are also interested. ",
+        "3. Manchester United made a revised contract offer to teenage prospect Andreas Pereira, with Paris St Germain, Juventus, PSV Eindhoven, and Feyenoord interested in him."
+    ],
+    "explain": [
+        "Orlando City from MLS express interest in Manchester United's Javier Hernandez, possibly as an option to replace his current tough season on loan at Real Madrid.",
+        "Javier Hernandez, a talented football player who has struggled at Real Madrid this season, has drawn interest from Orlando City, who have a significant Latin-American fanbase. They are among the clubs showing interest along with Southampton, Stoke, West Ham, and Everton. Hernandez would be a popular addition to these teams and could enhance their fan base with his skills and on-field performance.",
+        "Manchester United made a new contract offer to teenager Andreas Pereira, as they are interested in keeping the talented player. There is also strong interest from other top European clubs like Paris St. Germain, Juventus, PSV Eindhoven, and Feyenoord for Pereira's services."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary does not contain the core idea of the sentence provided."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.916666666675
+}

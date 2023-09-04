@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "everton defeated burnley 1-0 in their premier league clash on saturday . ross barkley missed from the spot in the 10th minute at goodison park . the toffees boss roberto martinez was forced to defend his player . leighton baines has scored 15 penalties from 16 attempts in the league .",
+        "everton defeated burnley 1-0 in their premier league clash on saturday . ross barkley missed from the spot in the 10th minute at goodison park . the toffees boss roberto martinez was forced to defend his player . leighton baines has scored 15 penalties from 16 attempts in the league .",
+        "everton defeated burnley 1-0 in their premier league clash on saturday . ross barkley missed from the spot in the 10th minute at goodison park . the toffees boss roberto martinez was forced to defend his player . leighton baines has scored 15 penalties from 16 attempts in the league ."
+    ],
+    "aspect": [
+        "1. Everton manager Roberto Martinez defended another penalty fiasco at the club after Ross Barkley missed a spot kick against Burnley. ",
+        "2. Ross Barkley, despite Leighton Baines being on the pitch, took a 10th minute penalty that was saved by Burnley goalkeeper Tom Heaton in Everton's 1-0 win against Burnley. ",
+        "3. Everton manager Roberto Martinez insisted that Barkley was within his rights to request penalty-taking duties and praised the young England player for taking responsibility."
+    ],
+    "explain": [
+        "\nIn the summary, it is mentioned that Everton defeated Burnley 1-0 in their Premier League clash on Saturday. However, the Everton manager Roberto Martinez had to defend another penalty fiasco after Ross Barkley missed a spot kick against Burnley. The aspect that is focused on is how manager Roberto Martinez had to defend his player.",
+        "Aspects are important for understanding and analyzing the given information. They help to narrow down the details and focus on specific points. In the given summary about Everton defeating Burnley in a 1-0 premier league match, where Ross Barkley missed a penalty, there was an interesting detail that Leighton Baines has scored 15 penalties out of 16 attempts in the league. This is something to highlight, not only because Baines was on the pitch, but also because it shows his accuracy and reliability from the spot.",
+        "According to Roberto Martinez, Barkley was within his rights to request penalty-taking duties and the Everton manager praised him for taking responsibility."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea that the aspect focuses on. The summary only mentions that Roberto Martinez had to defend another penalty fiasco, but it does not make clear that the core idea is that he had to defend his player.",
+        "What do you mean?",
+        "The summary does not contain the core idea of the aspect. The aspect talks about Everton manager Roberto Martinez defending Barkley for taking penalty-taking duties, while the summary only mentions Barkley missing a penalty."
+    ],
+    "score": [
+        0,
+        4,
+        0
+    ],
+    "mean_score": 1.3333333333333333,
+    "gt_score": 4.5
+}

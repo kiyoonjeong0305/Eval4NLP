@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins to attempt cycling's hour record on June 7 at London's Olympic Velodrome.",
+        "2. Wiggins, a four-time Olympic champion and 2012 Tour de France winner, aims to break the furthest distance record in 60 minutes.",
+        "3. Wiggins hopes to set a record that lasts for some time and inspire people to challenge themselves."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins will attempt a significant cycling achievement by attempting to break the hour record on June 7th at London's Olympic Velodrome, which will attract a sold-out crowd of spectators. This event marks a significant milestone in his cycling career.",
+        "Sir Bradley Wiggins, a notable cyclist with four Olympic championships and 2012 Tour de France victory, aims to break the kilometer distance record in 60 minutes while competing at London's Olympic Velodrome in June.",
+        "Sir Bradley Wiggins' main goal while attempting to break cycling's hour record in June is to create a lasting monument that encourages individuals to push their limits and challenge themselves. He aims for his accomplishment to serve as an inspiration for future generations in the sport."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.916666666675
+}

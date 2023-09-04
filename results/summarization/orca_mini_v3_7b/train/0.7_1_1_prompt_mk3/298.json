@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise.",
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise.",
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise."
+    ],
+    "aspect": [
+        "1. Passengers found dead in a cruise ship in Puerto Rico; ",
+        "2. Cruise line suspects murder-suicide; ",
+        "3. FBI investigating in cooperation with Holland America Line."
+    ],
+    "explain": [
+        "In the cruise ship incident in Puerto Rico, two passengers were found dead, and it is now believed to be a possible murder-suicide, as per the cruise line. The ship departed from Tampa, Florida on a 14-day Southern Caribbean cruise on March 29th.",
+        "The cruise line suspects that the deaths of the two passengers, found dead on a ship in Puerto Rico, might be a case of murder-suicide.",
+        "The FBI is involved in the investigation regarding the deaths on the cruise ship, which occurred during a 14-day Southern Caribbean cruise that left Tampa, Florida."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary mentions the involvement of the FBI in the investigation and the cruise details."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.83333333335
+}

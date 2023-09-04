@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday ."
+    ],
+    "aspect": [
+        "1. New Zealand police seek public assistance to identify a man who robbed a Christchurch dairy wearing a \"distinctive\" cartoon mask.",
+        "2. The offender, described as \"very tall,\" took $1500 in cash from the dairy's till.",
+        "3. Police are asking for information from the public to identify the robber; no weapons were involved."
+    ],
+    "explain": [
+        "New Zealand police are requesting the public's help to identify a man who committed an armed robbery at a Christchurch dairy, wearing a unique, recognizable cartoon mask for disguise. The perpetrator, captured on security footage in a lime-green sweatshirt and over-sized mask, is stated to be extremely tall and managed to steal the store's till, as well as around $1,500 in cash, during a Saturday heist.",
+        "The criminal, described as being very tall, stole around $1,500 from the cash register in the dairy during the robbery on Saturday.",
+        "The police in New Zealand are seeking public assistance to identify the masked robber responsible for stealing money from a dairy. There were no weapons used in the robbery."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.583333333325
+}

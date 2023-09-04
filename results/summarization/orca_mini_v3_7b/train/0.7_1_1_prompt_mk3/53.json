@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "( cnn ) isis on wednesday released more than 200 yazidis , a minority group whose members were killed , captured and displaced when the islamist terror organization overtook their towns in northern iraq last summer , officials said . most of those released were women and children ; the rest were ill or elderly , said rassol omar , a commander in the peshmerga force that defends northern iraq 's semi-autonomous kurdish region . the freed yazidis were received by peshmerga , who sent them to the kurdish regional capital , irbil , said nuri osman , an official with iraq 's kurdistan regional government .",
+        "( cnn ) isis on wednesday released more than 200 yazidis , a minority group whose members were killed , captured and displaced when the islamist terror organization overtook their towns in northern iraq last summer , officials said . most of those released were women and children ; the rest were ill or elderly , said rassol omar , a commander in the peshmerga force that defends northern iraq 's semi-autonomous kurdish region . the freed yazidis were received by peshmerga , who sent them to the kurdish regional capital , irbil , said nuri osman , an official with iraq 's kurdistan regional government .",
+        "( cnn ) isis on wednesday released more than 200 yazidis , a minority group whose members were killed , captured and displaced when the islamist terror organization overtook their towns in northern iraq last summer , officials said . most of those released were women and children ; the rest were ill or elderly , said rassol omar , a commander in the peshmerga force that defends northern iraq 's semi-autonomous kurdish region . the freed yazidis were received by peshmerga , who sent them to the kurdish regional capital , irbil , said nuri osman , an official with iraq 's kurdistan regional government ."
+    ],
+    "aspect": [
+        "1. ISIS released over 200 Yazidis, a minority group, with most being women and children. ",
+        "2. The release was coordinated by Arab tribal leaders, but reasons for the release are uncertain. ",
+        "3. ISIS has previously released scores of other Yazidis since attacking their towns last year, causing a major humanitarian crisis."
+    ],
+    "explain": [
+        "Yazidis, a minority group, were released by ISIS, with most being women and children. This is a significant event as they managed to escape the terror and violence experienced under ISIS last summer. Their release by the Kurdish forces is essential, as it signifies their ongoing effort to preserve these minority groups.",
+        "The release of more than 200 Yazidis was coordinated by Arab tribal leaders, but the reasons for their release remain unknown.",
+        "ISIS has continued releasing Yazidis despite facing major consequences, contributing to a worsening humanitarian crisis due to the destruction of their communities."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.83333333335
+}

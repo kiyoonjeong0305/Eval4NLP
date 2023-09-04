@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy ."
+    ],
+    "aspect": [
+        "1. Italy faces a surge in African and Middle Eastern migrants attempting to reach Europe, with 8,480 rescued in one weekend.",
+        "2. Save the Children fears 400 migrants may be missing after ship capsized off Libyan coast, but Italian coast guard remains unconfirmed.",
+        "3. Migrants continue to die attempting to reach Italy, with at least 480 fatalities reported this year due to bad weather and smuggler-operated vessels."
+    ],
+    "explain": [
+        "Italy faces a significant increase in migrants attempting to reach Europe, as over 8,480 were rescued in one weekend alone.",
+        "Save the Children expresses concern that around 400 migrants may be missing after a ship capsized off the Libyan coast, while the Italian coast guard has not yet confirmed the missing individuals.",
+        "The number of migrants attempting to cross the Mediterranean into Italy has increased, with at least 480 deaths reported this year due to bad weather and smuggler-operated vessels."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.75
+}

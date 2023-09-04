@@ -1,0 +1,10 @@
+{{prompt_placeholder}}
+
+First, generate short summarizations of given source text less than 3 lines in the form of list that should be considered when summarizing a document.
+Remind yourself that you MUST NOT mention any unnecessary or redundant information beyond what you MUST include in your summary.
+And lastly, you should focus on the "WHO" did "WHAT" 
+
+Source text: {{gt}}
+
+{{response_placeholder}}
+Short summarizations: {{gen 'summarization' temperature=0.7}}

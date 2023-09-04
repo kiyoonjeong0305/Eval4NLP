@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation .",
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation .",
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation .",
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation ."
+    ],
+    "aspect": [
+        "1. Four-year-old James Hayward had his toy gun confiscated at East Midlands Airport.",
+        "2. The security checks were deemed \"ludicrous\" and staff reacted excessively.",
+        "3. The toy gun was taken away from James, and he was patted down and inspected.",
+        "4. The family returned from their holiday and bought a replacement toy gun."
+    ],
+    "explain": [
+        "James Hayward, a four-year-old boy, had a toy gun confiscated by security officers at East Midlands Airport, causing controversy among his family.\n\nIdentify the main points in the summary.\n1. James Hayward arrived at East Midlands Airport with his parents and younger sibling.\n2. His brightly-colored toy gun, which fired sponge darts, was confiscated by security officers.\n3. The security officers were described as \"over-zealous\" by James' father.\n4. The family criticized the security checks and staff's reaction.\n\nHow does the aspect contribute to the overall summary?\nThe aspect focuses on James Hayward, the four-year-old child involved in the incident, and his toy gun, providing more detail to the story. It adds to the summary by highlighting the specific item that caused the issue and personalizing the story.",
+        "The security checks at East Midlands Airport were deemed excessively strict, and staff members reacted in a manner that was considered to be beyond what was necessary in the given situation.",
+        "James Hayward, a 10-year-old boy, had a brightly colored toy gun that fired sponge darts in his hand luggage for his flight to Lanzarote from East Midlands Airport. When his toy gun was detected by the airport's X-ray machines, security officers became overly cautious and confronted James. They took away the toy gun, made James undergo a pat-down inspection, and confiscated it as a safety measure.",
+        "The family returned from their holiday and bought a replacement toy gun to replace the one that was confiscated by the security at the airport.\n\nConnect the core idea of the aspect to the summary.\nAlthough the security officials deemed James' brightly colored toy gun with sponge dart-firing capabilities to be a security threat, the family didn't let this incident dampen their vacation. Instead, they returned home and bought a replacement toy gun to ensure that James could continue to enjoy his harmless play during their stay."
+    ],
+    "answer": [
+        "Although the summary does provide information about James Hayward's age and the toy gun confiscation, it does not discuss the core idea behind the aspect, which is James Hayward's perspective on the incident. The summary mentions James' age and that he was traveling with his family, but it doesn't delve into his emotions or thoughts about the incident, which is an important aspect of understanding how the event affected him. This missing information might lead to an incomplete understanding of the situation.",
+        "Yes, the summary contains the core idea mentioned in the aspect. James Hayward and his family were traveling with his brightly colored toy that fired sponge darts, which was detected by the security X-ray machines. The security officers deemed the toy as potentially dangerous and took exception to it, causing the boy's father to label the security checks as \"ludicrous\" and criticize the staff's reaction in the situation.",
+        "Yes, the summary contains the core idea.",
+        "Yes, the core idea of the aspect is that the family returned from their holiday and bought a replacement toy gun."
+    ],
+    "score": [
+        3,
+        5,
+        5,
+        5
+    ],
+    "mean_score": 4.5,
+    "gt_score": 4.25
+}

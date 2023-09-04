@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 .",
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 .",
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 .",
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 .",
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 .",
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 .",
+        "the collector’s paradise in horfield, bristol, has gone untouched for more than 80 years . it boasts the original bathroom, kitchen, stained-glass windows and even oil-fired central heating . the semi-detached property has a guide price of between £200,000 and £250,000 ."
+    ],
+    "aspect": [
+        "1. A collector's paradise with original features from the 1930s is up for sale in Bristol. ",
+        "2. The untouched home has a guide price of £200,000-£250,000 and is a treasure trove of antique features. ",
+        "3. The most eye-catching feature is the mint green and black bathroom. ",
+        "4. The house has a wood-panelled hall lit by stained glass windows and a fetching mint green and black bathroom. ",
+        "5. The house's kitchen and cupboards are dated but original. ",
+        "6. The property has a guide price between £200,000-£250,000 and could make a perfect family home for antique enthusiasts. ",
+        "7. The property has a number of quirky and unusual original features like stained glass windows and coats of arms in the living room."
+    ],
+    "explain": [
+        "The aspect describes a historical property in Bristol that has remained untouched for over 80 years, retaining its original features from the 1930s.",
+        "The aspect states that the untouched home has a guide price of £200,000-£250,000 and is a treasure trove of antique features. This means that the home is a valuable asset due to its age and preservation, as well as its unique features that have not been updated or modified. Additionally, the guide price range provides information on the potential value of the home for potential buyers.",
+        "The aspect states that the most eye-catching feature of the property is the mint green and black bathroom. This suggests that this particular part of the house is visually striking and has been described as such by the text.",
+        "The aspect highlights that the wooden-panelled hall of the house is lit up by stained glass windows and the mint green and black bathroom is fetching.",
+        "The house's kitchen and cupboards are dated but original. This means that while they have not been updated or replaced, they are still in their original condition. This could be seen as both a positive and negative, as on one hand, the originality of the kitchen and cupboards adds character and charm to the property, but on the other hand, they may be outdated and need some updating or modernizing.",
+        "The aspect states that the semi-detached property has a guide price of between £200,000 and £250,000, making it affordable for potential buyers. Additionally, the property has many original features such as the original bathroom, stained-glass windows, and oil-fired central heating, making it a desirable option for antique enthusiasts looking for a family home.",
+        "The aspect highlights that the property has unique and rare features such as stained glass windows and coats of arms in the living room."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. The summary only provides information about the collector's paradise and its features, but it does not mention anything about its original features from the 1930s. The aspect is a separate piece of information that highlights the historical significance of the property.",
+        "The core idea of the aspect is that the home is a treasure trove of antique features and is a valuable asset due to its age and preservation.",
+        "No, the summary does not contain the core idea as it does not mention the mint green and black bathroom.",
+        "Yes, the summary contains the core idea that the house is in a collector's paradise and has remained untouched for 80 years.",
+        "It may not be immediately obvious, but the core idea of the aspect is indeed present in the summary. The aspect mentions that the house has not been touched for more than 80 years and is still in its original condition, which includes the kitchen and cupboards.",
+        "Yes, the summary contains the core idea as it mentions the guide price range of the property, its original features, and its potential as a family home for antique enthusiasts.",
+        "The aspect mentions some of the unique features of the property, such as stained glass windows and coats of arms in the living room. These features are quirky and unusual, which makes the property stand out."
+    ],
+    "score": [
+        0,
+        4,
+        0,
+        4,
+        4,
+        4,
+        4
+    ],
+    "mean_score": 2.857142857142857,
+    "gt_score": 4.333333333325
+}

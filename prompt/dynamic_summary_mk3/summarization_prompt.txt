@@ -1,0 +1,12 @@
+{{prompt_placeholder}}
+
+Generate "short" summarizations of given source text that should be considered when summarizing a document.
+You need to give answer with the form of LIST. Every lines of sentences must be seperated with '\\n'!
+You should focus on "who" did " "what".
+You need to think very pessimistically whether it is really important or not and Delete something redundant or unnecessary.
+
+Source text: {{gt}}
+
+{{response_placeholder}}
+
+Short summarizations: {{gen 'summarization' temperature=1}}

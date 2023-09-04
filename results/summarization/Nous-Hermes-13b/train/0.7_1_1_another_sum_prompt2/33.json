@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "patrick kluivert has made a winning start in world cup qualifying as coach of curacao . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert has helped curacao progress to the next stage of 2018 world cup qualification .",
+        "patrick kluivert has made a winning start in world cup qualifying as coach of curacao . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert has helped curacao progress to the next stage of 2018 world cup qualification .",
+        "patrick kluivert has made a winning start in world cup qualifying as coach of curacao . the caribbean island team advanced to the second qualifying round in concacaf . patrick kluivert has helped curacao progress to the next stage of 2018 world cup qualification ."
+    ],
+    "aspect": [
+        "1. Curacao, coached by Patrick Kluivert, won their World Cup qualifying playoff against Montserrat. ",
+        "2. Kluivert, who played at the 1998 World Cup, is now an assistant coach for Curacao. ",
+        "3. Curacao will face Cuba in the next round of qualifying."
+    ],
+    "explain": [
+        "In the given aspect, one of the core ideas being conveyed is that the Caribbean island nation of Curacao, coached by Patrick Kluivert, was able to advance to the next stage of World Cup qualification by winning their playoff against Montserrat. This indicates that Kluivert has been successful in his role as coach and has helped the team progress towards their goal of qualifying for the 2018 World Cup.",
+        "Curacao football team has progressed to the next round of World Cup qualifications under the guidance of Patrick Kluivert, who played in the tournament himself.",
+        "Curacao will face Cuba in the next round of qualifying."
+    ],
+    "answer": [
+        "Yes, the summary does contain the core idea of the aspect, which is that Patrick Kluivert has made a successful start as coach of Curacao by advancing the team to the next stage of World Cup qualification. The summary mentions that the team progressed to the next stage of qualification in CONCACAF, which is the region that includes North and Central America, and the Caribbean.",
+        "The aspect explains that Patrick Kluivert played in the 1998 World Cup, and now he is an assistant coach for Curacao.",
+        "No, the summary does not contain the core idea of the given aspect as it does not mention Curacao facing Cuba in the next round of qualifying."
+    ],
+    "score": [
+        5,
+        5,
+        0
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 3.916666666675
+}

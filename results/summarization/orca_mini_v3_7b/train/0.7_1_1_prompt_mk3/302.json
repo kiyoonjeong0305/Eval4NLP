@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II .",
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II .",
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II ."
+    ],
+    "aspect": [
+        "1. Serena Williams struggled to beat Sara Errani in Fed Cup, admitting an \"eye-opening\" experience.",
+        "2. Williams eventually won 4-6 7-6(3) 6-3 but lost in doubles rubber with Alison Riske.",
+        "3. American captain Mary Joe Fernandez believes they need to work harder to get back to the elite nations next year."
+    ],
+    "explain": [
+        "Serena Williams faced a challenging match against Sara Errani in Fed Cup, ultimately winning 4-6, 7-6, 6-3 but admitting it was an \"eye-opening\" experience. This indicates that despite her high-level skill, she was unable to dominate in this particular encounter, possibly due to factors like Errani's strong play or Serena having an off-day.",
+        "Serena Williams lost the doubles rubber with Alison Riske, but she still managed to win her singles match with a score of 4-6 7-6(3) 6-3, ultimately contributing to the US team's overall defeat.",
+        "American captain Mary Joe Fernandez believes they need to put more effort into practice and team work in order to get back to the competitive top-tier countries next year."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence mentioned.",
+        "No, the summary does not contain the mentioned context in the given sentence.\n\nHowever, I can point out specific keywords and phrases that may link the summary to the aspect:\n- Serena Williams' singles match win (score 4-6 7-6(3) 6-3)\n- US team's overall defeat\n\nBased on these keywords, one can infer that Serena Williams' win in her singles match might be an important factor that contributed to the overall defeat of the US team, although a direct connection cannot be found in the summary provided.\n\nAltering the summary to better include the aspect context: \"Serena Williams emerged victorious in her singles match against Sara Errani with a score of 4-6 7-6(3) 6-3, but she and Alison Riske were beaten in the doubles rubber, resulting in the US being relegated to World Group II.\"\n\nNow, the summary captures the key information from both the aspect and the given context.",
+        "No, the summary does not contain the context of the sentence."
+    ],
+    "score": [
+        4,
+        3,
+        1
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 5.0
+}

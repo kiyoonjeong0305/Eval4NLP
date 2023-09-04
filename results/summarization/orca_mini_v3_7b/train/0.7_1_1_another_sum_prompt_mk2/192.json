@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "manchester united goalkeeper anders lindegaard made the most of the english weather with misse beqiri . lindegaard tied the knot with the stunning model last year and the couple have a son together . the 31-year-old moved to the premier league in 2010 after signing from norwegian side aalesunds .",
+        "manchester united goalkeeper anders lindegaard made the most of the english weather with misse beqiri . lindegaard tied the knot with the stunning model last year and the couple have a son together . the 31-year-old moved to the premier league in 2010 after signing from norwegian side aalesunds .",
+        "manchester united goalkeeper anders lindegaard made the most of the english weather with misse beqiri . lindegaard tied the knot with the stunning model last year and the couple have a son together . the 31-year-old moved to the premier league in 2010 after signing from norwegian side aalesunds ."
+    ],
+    "aspect": [
+        "1. Anders Lindegaard enjoys personal life with wife Misse Beqiri.",
+        "2. Lindegaard married stunning model Beqiri last year in Mauritius.",
+        "3. Lindegaard has struggled for playing time at Manchester United, but enjoys personal life with Beqiri."
+    ],
+    "explain": [
+        "Anders Lindegaard shares a happy personal life with his wife, Misse Beqiri, and they have a son together after tying the knot last year.",
+        "Anders Lindegaard, Goalkeeper of Manchester United, got married to the stunning model Beqiri last year in Mauritius.",
+        "Lindegaard's experience at Manchester United has been disappointing in terms of game time, but he has a happy personal life with Beqiri."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "No",
+        "No"
+    ],
+    "score": [
+        4,
+        1,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.33333333335
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea ."
+    ],
+    "aspect": [
+        "1. SpaceX launches Falcon 9 rocket carrying cargo spacecraft Dragon to ISS; ",
+        "2. Landing rocket on floating barge was challenging, but company plans to continue attempts;",
+        "3. Reusing rockets could reduce cost of access to space by a factor of a hundred."
+    ],
+    "explain": [
+        "SpaceX successfully launches the Falcon 9 rocket carrying the cargo spacecraft Dragon to the International Space Station (ISS).",
+        "The aspect highlights the challenges associated with the rocket's landing on a floating barge, but SpaceX remains dedicated to attempting further landings, eventually aiming for successful sea-based landings.",
+        "Considering reusing rockets for space travel, it has been estimated that the cost of accessing space could be reduced by a factor of one hundred, significantly reducing the financial burden on space missions."
+    ],
+    "answer": [
+        "No",
+        "Yes",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.499999999975
+}

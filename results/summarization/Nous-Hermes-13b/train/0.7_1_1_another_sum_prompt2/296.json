@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean .",
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean .",
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean .",
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean .",
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean ."
+    ],
+    "aspect": [
+        "1. A North Pacific gray whale named Varvara set a record for the longest mammal migration, swimming 14,000 miles from Russia to Baja, Mexico.",
+        "2. The journey surpassed the previous record held by a humpback whale that swam 10,190 miles.",
+        "3. Varvara visited three major breeding areas and might be an endangered eastern gray whale.",
+        "4. The study suggests that the number of western gray whales might be even lower than previously thought.",
+        "5. A fourth baby orca was born this season."
+    ],
+    "explain": [
+        "According to the given aspect, a North Pacific gray whale named Varvara set a record for the longest mammal migration, swimming 14,000 miles from Russia to Baja, Mexico. The core idea behind this aspect is that this whale achieved a remarkable feat by traveling an incredibly long distance in a single journey, which is unprecedented for any other mammal.",
+        "The aspect highlights that the journey of the North Pacific gray whale, named Varvara, surpassed the previous record held by a humpback whale for the longest migration of a mammal. The record of the humpback whale migration was 10,190 miles, but Varvara's migration surpassed it with a distance of 14,000 miles, crossing the entire Pacific Ocean from Russia's Sakhalin Island to an unknown destination.",
+        "The given aspect highlights that Varvara , a North Pacific gray whale, completed the longest migration of a mammal ever recorded. Varvara had to swim nearly 14,000 miles, which is approximately 22,500 kilometers. She left her primary feeding ground off Russia's Sakhalin Island and crossed the Pacific Ocean to reach three major breeding areas. The aspect also mentions that Varvara might be an endangered eastern gray whale. This means that there is a high risk of extinction for this specific subspecies of gray whales.",
+        "The aspect of the study suggests that the population of western gray whales may be smaller than previously believed, possibly due to the long migration distance and challenges faced during migration.",
+        "The aspect of \"A fourth baby orca was born this season\" refers to a positive event that has taken place within the orca population. Specifically, this indicates that a new orca calf was born, marking the fourth new addition to their community in the current season. This could have important implications for the overall health and sustainability of the orca population, as each new birth represents an opportunity for growth and continuity. The mention of a fourth birth this season specifically highlights the potential for success and growth within this particular group of orcas."
+    ],
+    "answer": [
+        "No, the summary mentioned that the whale completed the longest migration ever recorded but did not mention that it was Varvara who achieved this record or what the record was.",
+        "Aspect: 2. The journey surpassed the previous record held by a humpback whale that swam 10,190 miles.\nExplain: This aspect tells us that the record for the longest migration of a mammal was previously held by a humpback whale that swam 10,190 miles, but Varvara's migration surpassed it with a distance of 14,000 miles. So, the core idea of this aspect is that Varvara's migration was longer than the previous record held by a humpback whale.",
+        "It depends on whether you consider the migration distance and the three breeding areas as core ideas. The summary does not specifically mention Varvara's subspecies or the threat of extinction, which are part of the given aspect.",
+        "\nNo, the summary does not contain the core idea of the aspect. The aspect refers to a possible underestimation of the population of western gray whales, while the summary is about a specific whale named Varvara and her record-breaking migration.",
+        "No, the summary does not contain the core idea of the aspect related to the birth of a fourth baby orca this season. The summary instead focuses on the record-breaking migration of a North Pacific gray whale named Varvara, and does not mention any events related to orca populations."
+    ],
+    "score": [
+        0,
+        5,
+        3,
+        1,
+        0
+    ],
+    "mean_score": 1.8,
+    "gt_score": 4.666666666675
+}

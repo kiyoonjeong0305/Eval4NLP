@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday ."
+    ],
+    "aspect": [
+        "1. A man robbed a Christchurch dairy wearing a distinctive cartoon mask.",
+        "2. The man is very tall, wore a fluoro orange sweatshirt, and had a distinctive mask.",
+        "3. He demanded cash from the dairy owner's daughter and stole the till and $1,500.",
+        "4. The police are appealing to the public for information to identify the offender."
+    ],
+    "explain": [
+        "The central concept or main point of this aspect is that a man robbed a New Zealand dairy (a small convenience store) while wearing a distinctive cartoon mask. The distinctive nature of the mask may have been used to disguise the robber's identity, making it difficult for him to be recognized by either the staff or other customers.\n\nIdentify the context of the aspect.\nContext: The context of this aspect is that a robbery occurred at a Christchurch dairy (convenience store) in New Zealand on Saturday. The man in question is tall, and he stole the store's cash till, estimated to contain approximately $1,500. The New Zealand police are now appealing to the public to help identify the perpetrator and bring him to justice.\n\nProvide further information about given aspect.\nIn addition to wearing a cartoon mask, the man was also seen on security footage wearing a fluoro orange sweatshirt. The specifics of the sweatshirt may provide a potential lead for identifying the suspect, as it may be a distinctive or unique garment. The man's height is also important information, as it could aid in recognizing him in a crowd or narrowing down potential suspects.",
+        "The given aspect highlights that the man is of an excessively tall stature, wore a fluorescent orange sweatshirt, and had a striking mask that distinguished him from others. This information is essential in aiding the public's ability to identify the offender. It helps the public to look for a tall man wearing an eye-catching sweatshirt and mask in the Christchurch area, which could greatly aid in the police investigation. Additionally, the man's height could potentially narrow down the search for the perpetrator and increase the chances of him being identified by witnesses or caught on security footage.",
+        "\nThe given aspect highlights that the masked man involved in the robbery confronted the dairy owner's daughter and demanded cash from her. In addition to that, he stole the till containing around $1,500. This aspect provides more information about the suspect's actions and their extent of criminal intentions during the robbery. It suggests that he wasn't only focused on stealing the till but also targeted the daughter to obtain cash, possibly out of fear or hostility towards her.",
+        "In summary, the aspect highlights the New Zealand Police's request for assistance from the public in identifying the suspect of a robbery that took place at a Christchurch dairy. The police are appealing to the public to provide any information that could help identify the offender, who was wearing a distinctive cartoon mask and stole the dairy's cash till, along with approximately $1500 in cash. The appea"
+    ],
+    "answer": [
+        "After re-inspecting the summary, I apologize for my previous response. The core idea of the given aspect is indeed present in the summary. The summary states that a man robbed a Christchurch dairy while wearing a distinctive cartoon mask, which is the aspect's central concept.",
+        "\nNo, the summary does not contain the core idea that the man is very tall, wore a fluorescent orange sweatshirt, and had a distinctive mask.",
+        "\nNo, the summary does not contain the core idea of the given aspect. Although the summary mentions that the man robbed a Christchurch dairy, it does not explicitly state that he demanded cash from the dairy owner's daughter or stole the till containing $1,500. The given aspect provides important details that are not covered in the summary.",
+        "No, the summary does not contain the core idea. While the summary provides an overview of the incident, it does not directly highlight the police's request for assistance from the public in identifying the suspect."
+    ],
+    "score": [
+        5,
+        3,
+        2,
+        3
+    ],
+    "mean_score": 3.25,
+    "gt_score": 4.583333333325
+}

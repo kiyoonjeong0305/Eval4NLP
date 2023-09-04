@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "joe hart has labelled fellow goalkeeper gianluigi buffon a 'legend of the game' the manchester city stopper won his 147th cap against england on tuesday night . hart is desperate to add to his 50 international caps .",
+        "joe hart has labelled fellow goalkeeper gianluigi buffon a 'legend of the game' the manchester city stopper won his 147th cap against england on tuesday night . hart is desperate to add to his 50 international caps .",
+        "joe hart has labelled fellow goalkeeper gianluigi buffon a 'legend of the game' the manchester city stopper won his 147th cap against england on tuesday night . hart is desperate to add to his 50 international caps ."
+    ],
+    "aspect": [
+        "1. Joe Hart praises Gianluigi Buffon as a 'legend of the game' after the Italy vs England match.",
+        "2. Hart acknowledges Buffon's 147th cap as an inspiration and aspires to achieve similar milestones in his career.",
+        "3. Hart expresses pride in his 50th cap and aims to continue playing well for his club and country."
+    ],
+    "explain": [
+        "Joe Hart admires Gianluigi Buffon, a famous goalkeeper, after their encounter in an Italy vs England match, where Hart earned his 147th cap.",
+        "Hart appreciates Buffon's achievement of 147 caps as an inspiration and aspires to reach similar milestones in his career.",
+        "In this scenario, the core idea is that Joe Hart is deeply proud of achieving his 50th international cap for his country and expresses his desire to continue performing well in both club and international settings."
+    ],
+    "answer": [
+        "No",
+        "Yes, the summary contains the context of the sentence provided.",
+        "Yes, the summary contains the context of the sentence you provided. It mentions that Hart aims to continue playing well for his club and country, which aligns with the idea you presented."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.249999999975
+}

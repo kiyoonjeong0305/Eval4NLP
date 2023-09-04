@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff.",
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff.",
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff."
+    ],
+    "aspect": [
+        "1. Young accountant Jacob Phillips, 23, fell to his death from a 70ft cliff after running to avoid paying a fare.",
+        "2. Phillips ran from his cab in the dark, not realizing the danger he was in.",
+        "3. An inquest found the death an accident, with Phillips becoming disoriented and unaware of the sheer drop-off just yards beyond the fence."
+    ],
+    "explain": [
+        "Jacob Phillips, a young 23-year-old accountant, died after falling from a 70ft cliff while trying to avoid paying a fare, showing a poor decision made due to a financial situation.",
+        "The core idea of the given aspect is the unfortunate incident where Jacob Phillips unknowingly slipped and fell from a 70ft cliff, resulting in his death due to poor situational awareness in the darkness.",
+        "Jacob Phillips tragically fell from a 70ft cliff in Cardiff due to becoming disoriented and not realizing the significant drop-off behind the fence, according to the inquest. The inquest ruled his death as an accident."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary contains the context of the given sentence as it mentions the unfortunate incident of Jacob Phillips falling 70ft to his death due to poor situational awareness when running from his cab in the dark.",
+        "Yes, the summary contains the context of the given sentence, which explains Jacob Phillips' tragic fall from the 70ft cliff in Cardiff, attributing it to his disorientation and unawareness of the significant drop-off close by."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.583333333325
+}

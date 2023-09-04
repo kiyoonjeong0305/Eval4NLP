@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane ."
+    ],
+    "aspect": [
+        "1. A custom-built Boeing 747 has been transformed into a £400 million luxury home for an unknown billionaire, featuring bedrooms, lounges, and an onboard restaurant.",
+        "2. The plane was customized to fit the billionaire's specifications and can accommodate dozens of guests, with a large dining room, lounge, and \"aeroloft\" for sleeping.",
+        "3. The Boeing 747-8 is one of the most luxurious private planes ever built, offering an exclusive and glamorous travel experience."
+    ],
+    "explain": [
+        "The summary describes a custom-built Boeing 747 that is transformed into a luxury home for an ultra-wealthy owner, featuring bedrooms, lounge areas, and a restaurant, at an estimated cost of £400 million.",
+        "The core idea of the given aspect is that a billionaire's custom-built Boeing 747, which can accommodate dozens of guests, was specially designed to match his specific requirements. It includes a large dining room, a lounge, and a sleeping area for passengers' comfort.",
+        "The Boeing 747-8 is a lavish private aircraft, providing an opulent and opulent journey experience for its owner."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the sentence you provided.",
+        "Yes, the summary contains the context of the given sentence, as it mentions the customized airplane and its features, including the dining room, lounge, and sleeping area, which were designed per the billionaire's specifications.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

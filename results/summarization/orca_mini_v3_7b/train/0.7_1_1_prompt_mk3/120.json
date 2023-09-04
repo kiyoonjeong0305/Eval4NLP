@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "The gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the Marriott Springhill Suites . Police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock , and using the momentum from another vehicle . The agent 's gear bag , backpack , and some clothing and tools were also stolen during the March 27 theft .",
+        "The gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the Marriott Springhill Suites . Police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock , and using the momentum from another vehicle . The agent 's gear bag , backpack , and some clothing and tools were also stolen during the March 27 theft .",
+        "The gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the Marriott Springhill Suites . Police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock , and using the momentum from another vehicle . The agent 's gear bag , backpack , and some clothing and tools were also stolen during the March 27 theft ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot, possibly by someone breaking the rear right passenger-side window and using momentum to break the rifle case's handle.",
+        "2. The rifle was secured properly in a hard rifle case and safe with padlocks and chains while parked at Marriott Springhill Suites, and police believe the thief may have targeted the car but do not know if the agent was the specific target.",
+        "3. The rifle's serial number was entered into the National Crime Information Computer, and President Obama's visit to Utah earlier this month did not prompt an increase in security."
+    ],
+    "explain": [
+        "A sniper rifle was stolen from a hotel parking lot, potentially by a person breaking the rear right passenger-side window and using momentum to break the rifle case's handle.",
+        "The rifle was properly secured inside a hard case and safe, however, it was still stolen during a theft at the Marriott Springhill Suites. The agent's gear, clothing, and tools were also stolen, but the target of the theft remains unclear.",
+        "The aspect emphasizes that even though President Obama's visit to Utah heightened security for the area, the serial number of the stolen rifle was still entered into the National Crime Information Computer, which ensured its identification in case of any possession or usage by an unauthorized person."
+    ],
+    "answer": [
+        "No. The summary outlines the details of the theft, which does not include the exact context given.",
+        "Yes, the summary contains the context of the given sentence.",
+        "The aspect suggests that the increased security measures for President Obama's visit to Utah did not negatively impact security measures for the stolen rifle, as the serial number was still entered into the National Crime Information Computer."
+    ],
+    "score": [
+        2,
+        4,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.08333333335
+}

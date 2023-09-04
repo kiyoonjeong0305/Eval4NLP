@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend .",
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend .",
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend ."
+    ],
+    "aspect": [
+        "1. Mesut Ozil posted a picture of him relaxing with his dog on Wednesday after returning home to London. ",
+        "2. Ozil impressed on international duty as Germany beat Gerogia 2-0 in a Euro 2016 qualifier on Sunday. ",
+        "3. The playmaker has been in fine form since returning from injury for Arsenal this year."
+    ],
+    "explain": [
+        "Mesut Ozil, professional football player, returned to his home in London after participating in an international game for the German national team. He took a moment to relax by playing with his dog and shared a picture of the moment on his Twitter account. \n\nRelate back to the summary.\nRelate: The post by Mesut Ozil suggests that he is settling back into his personal life in London as he prepares to face Liverpool in an upcoming football match for his club, Arsenal.",
+        "Mesut Ozil showcased his impressive skills on the football field once again, as he played a vital role in Germany's 2-0 victory over Georgia in a Euro 2016 qualifier on Sunday. Ozil was instrumental in the midfield, creating numerous scoring opportunities for his teammates, and providing the assists for the two goals scored by Thomas Müller and Benedikt Höwedes.",
+        "The given aspect mentions that Ozil has been in fine form since returning from injury for Arsenal this year. This means that he has been playing very well and has had a positive impact on the team since recovering from any injuries he may have sustained. This is likely a result of his hard work and dedication to his training and recovery efforts. Overall, this aspect highlights Ozil's talent and determination on the field."
+    ],
+    "answer": [
+        "Not really, the summary only mentions the picture of Ozil playing with his dog, but not the fact that he had returned to London after an international game and shared it on Twitter.",
+        "Yes, the summary contains the core idea that Mesut Ozil is expected to start against Liverpool at the weekend after impressing on international duty as Germany beat Georgia 2-0 in a Euro 2016 qualifier on Sunday, and that he posted a picture on Twitter of him playing with his dog.",
+        "The summary does not contain the core idea of the given aspect. The summary mentions that Ozil posted a picture of him playing with his dog on Twitter after returning from the international break and that he is expected to start against Liverpool at the weekend. However, it does not mention anything about Ozil's performance or form since returning from injury. The given aspect is therefore not related to the summary."
+    ],
+    "score": [
+        1,
+        4,
+        0
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 4.75
+}

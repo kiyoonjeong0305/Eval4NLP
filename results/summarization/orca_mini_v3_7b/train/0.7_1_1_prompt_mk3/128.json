@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Radamel Falcao joined Manchester United on a season-long loan last summer . The Colombian striker has struggled to hit the heights he achieved before suffering a serious knee injury . United will have to pay £ 46million to make the loan permanent . Louis van Gaal 's side are unlikely to take up that option .",
+        "Radamel Falcao joined Manchester United on a season-long loan last summer . The Colombian striker has struggled to hit the heights he achieved before suffering a serious knee injury . United will have to pay £ 46million to make the loan permanent . Louis van Gaal 's side are unlikely to take up that option .",
+        "Radamel Falcao joined Manchester United on a season-long loan last summer . The Colombian striker has struggled to hit the heights he achieved before suffering a serious knee injury . United will have to pay £ 46million to make the loan permanent . Louis van Gaal 's side are unlikely to take up that option ."
+    ],
+    "aspect": [
+        "1. Former Monaco teammate Nabil Dirar believes Falcao regrets loan move to Manchester United.",
+        "2. Falcao struggled to hit his previous heights due to a severe knee injury.",
+        "3. Falcao was unhappy in France and would have preferred staying in Monaco for participating in the Champions League."
+    ],
+    "explain": [
+        "Former Monaco teammate Nabil Dirar suggests that Radamel Falcao might feel regretful about his loan move to Manchester United, where he has not performed at the level he did prior to his injury.",
+        "Radamel Falcao joined Manchester United on a season-long loan last summer. Unfortunately, his performance dropped due to a serious knee injury he experienced before joining United, making it challenging for him to reach his previous high-level best.",
+        "Radamel Falcao was dissatisfied with his time in France and would have preferably remained in Monaco, which enables participation in the prestigious Champions League."
+    ],
+    "answer": [
+        "No, the summary does not convey the complete context of the given sentence.",
+        "Yes, the summary contains the context of this sentence.",
+        "No"
+    ],
+    "score": [
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.75
+}

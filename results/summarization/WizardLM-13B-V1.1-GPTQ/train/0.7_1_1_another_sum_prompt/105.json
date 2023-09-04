@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "jordan henderson has provided liverpool with a lift after their fa cup heartache by agreeing a new long-term contract . the club 's vice-captain had 14 months remaining on his current contract and his advisors had been in talks with liverpool since the beginning of this season . henderson is expected to put pen-to-paper on improved terms that are likely be worth in the region of # 100,000 .",
+        "jordan henderson has provided liverpool with a lift after their fa cup heartache by agreeing a new long-term contract . the club 's vice-captain had 14 months remaining on his current contract and his advisors had been in talks with liverpool since the beginning of this season . henderson is expected to put pen-to-paper on improved terms that are likely be worth in the region of # 100,000 .",
+        "jordan henderson has provided liverpool with a lift after their fa cup heartache by agreeing a new long-term contract . the club 's vice-captain had 14 months remaining on his current contract and his advisors had been in talks with liverpool since the beginning of this season . henderson is expected to put pen-to-paper on improved terms that are likely be worth in the region of # 100,000 .",
+        "jordan henderson has provided liverpool with a lift after their fa cup heartache by agreeing a new long-term contract . the club 's vice-captain had 14 months remaining on his current contract and his advisors had been in talks with liverpool since the beginning of this season . henderson is expected to put pen-to-paper on improved terms that are likely be worth in the region of # 100,000 .",
+        "jordan henderson has provided liverpool with a lift after their fa cup heartache by agreeing a new long-term contract . the club 's vice-captain had 14 months remaining on his current contract and his advisors had been in talks with liverpool since the beginning of this season . henderson is expected to put pen-to-paper on improved terms that are likely be worth in the region of # 100,000 ."
+    ],
+    "aspect": [
+        "1. Jordan Henderson has agreed to sign a new long-term contract at Liverpool.",
+        "2. Henderson's new deal is worth around £100,000-a-week and will run until 2020.",
+        "3. Henderson is the third player to agree a contract extension in Brendan Rodgers' squad.",
+        "4. His form has been excellent this season, contributing 13 assists and 7 goals.",
+        "5. Henderson could be considered for the role of club captain when Steven Gerrard leaves."
+    ],
+    "explain": [
+        "To make an explanation or give an account of the main point, reasoning, or underlying concept.\n\nGiven aspect: Jordan Henderson has agreed to sign a new long-term contract at Liverpool.\n\nCore idea of the given aspect: Liverpool captain Jordan Henderson has agreed to extend his contract with the club, committing his future to Liverpool for a significant period of time.",
+        "To give an account of, provide information about, or eluculate the key points about.\n\nBased on the given aspect of Henderson's new deal being worth around £100,000-a-week and running until 2020, it indicates that the Liverpool Football Club has extended the contract of their midfielder, Jordan Henderson, for a significant period. This long-term deal comes in response to the FA Cup heartache that the team experienced, and it represents a morale boost for the squad. Moreover, Henderson's increased weekly wage of £100,000 suggests that the club values his contributions and is committed to retaining his services. The new contract's duration until 2020 further emphasizes the club's faith in Henderson's skills, leadership, and potential to continue his impact on the team in the years to come.",
+        "To explain the core idea of the aspect, I will summarize the key points.\n\nBrendan Rodgers' squad has seen three players agree contract extensions, with Jordan Henderson being the third player. This suggests that the Liverpool manager is successfully retaining key players and building a strong team dynamic. The fact that Henderson, who is the vice-captain of the team, has extended his contract shows the stability and trust within the squad. This could have a positive impact on the team's performance and morale, as players are more likely to perform well when they feel committed to the club. Additionally, it indicates that the club is making efforts to avoid a situation where key players leave on a free transfer, which could be detrimental to the squad's cohesion and success. Overall, the contract extensions of Henderson and the other two players indicate that Rodgers is successfully maintaining a positive atmosphere within the team and fostering a sense of loyalty among his key players.",
+        "\nJordan Henderson has had an outstanding performance this season.",
+        "To make the core idea understandable in a simplified and straightforward way.\n\nHenderson, Liverpool's vice-captain, has agreed to a new long-term contract, providing the team with a boost after their FA Cup heartache. He had 14 months left on his current contract and had been in talks with the club since the beginning of the season. Henderson's new contract is expected to be worth around £100,000 and will likely secure his future with the club.\n\nIn terms of the aspect provided, there is a potential opportunity for Henderson to be considered for the role of club captain when Steven Gerrard eventually leaves. With his leadership qualities, experience, and commitment to Liverpool, he could be a strong candidate for the position. However, it ultimately depends on Gerrard's decision to depart and whether Henderson has the necessary qualities to lead the team."
+    ],
+    "answer": [
+        "\n\nNo, the summary does not contain the core idea. The core idea refers to Liverpool captain Jordan Henderson extending his contract, while the summary only mentions that he has agreed to a new long-term deal.",
+        "Yes, I believe the summary contains the core idea. While the summary may not mention the extended duration and weekly wage, it does emphasize that Henderson has agreed to a new long-term contract. This demonstrates the club's commitment to him in light of the FA Cup heartache, and it serves as a boost for the team's morale after a disappointing event.",
+        "No, I do not believe the summary contains the core idea. Although it mentions Jordan Henderson and his contract extension, it does not directly address the relationship between Henderson's contract extension and Brendan Rodgers' squad, nor does it mention that Henderson is the third player to agree an extension. The aspect highlights the context of other players agreeing contract extensions within Rodgers' squad, which is not mentioned in the summary.",
+        "\nNo, the summary does not contain the core idea that Jordan Henderson's contract extension is primarily based on his excellent performance and contributions to the team this season.",
+        "No, the summary does not contain the core idea. While it touches upon important points like Henderson's contract extension and his potential as a future captain, the summary does not provide a comprehensive overview of this aspect."
+    ],
+    "score": [
+        2,
+        4,
+        2,
+        3,
+        3
+    ],
+    "mean_score": 2.8,
+    "gt_score": 4.5
+}

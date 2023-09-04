@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Javier Hernandez has had a tough time on loan at Real Madrid this season . Orlando City have a huge Latin-American fanbase and made enquiries last week about the prospect of a deal . United have made a revised contract offer to 19-year-old Andreas Pereira .",
+        "Javier Hernandez has had a tough time on loan at Real Madrid this season . Orlando City have a huge Latin-American fanbase and made enquiries last week about the prospect of a deal . United have made a revised contract offer to 19-year-old Andreas Pereira .",
+        "Javier Hernandez has had a tough time on loan at Real Madrid this season . Orlando City have a huge Latin-American fanbase and made enquiries last week about the prospect of a deal . United have made a revised contract offer to 19-year-old Andreas Pereira ."
+    ],
+    "aspect": [
+        "1. Orlando City expresses interest in Javier Hernandez, Mexican international.",
+        "2. Hernandez has faced a challenging time on loan at Real Madrid and has interest from other European clubs.",
+        "3. Manchester United is willing to sell Hernandez for around £8 million, with Southampton, Stoke, West Ham, and Everton also expressing interest."
+    ],
+    "explain": [
+        "Orlando City, a club with a large Latin-American fanbase, is interested in acquiring the Mexican international Javier Hernandez after his difficult loan experience at Real Madrid this season.",
+        "Javier Hernandez has struggled on loan at Real Madrid, and there is interest from other clubs.",
+        "Manchester United is open to selling Javier Hernandez for a proposed fee of around £8 million, with potential buyers including Southampton, Stoke, West Ham, and Everton."
+    ],
+    "answer": [
+        "Yes, the context of the given sentence can be found in the summary.",
+        "yes",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.916666666675
+}

@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying .",
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying .",
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying .",
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying .",
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying .",
+        "dawn, who has had seven miscarriages, appeared on jeremy kyle show . accused house-mate jamie, also called jamie, of stealing from her . she burst into tears when lie detector test revealed jamie was lying ."
+    ],
+    "aspect": [
+        "1. A woman had seven miscarriages and was saving money for a grave stone.",
+        "2. A family friend stole the money set aside for the grave stone.",
+        "3. The woman appeared on The Jeremy Kyle Show and accused a long-term friend of theft.",
+        "4. A lie detector test revealed the friend was lying and confessed to stealing the money.",
+        "5. The stolen money was for a £500 grave stone to remember a deceased baby.",
+        "6. The woman was distraught after the theft and felt betrayed by her friend."
+    ],
+    "explain": [
+        "The given aspect is about a woman who has had seven miscarriages and is saving money for a grave stone to commemorate the loss of her babies.\n\nThe core idea of this aspect is the emotional and significant struggle that the woman is going through due to her recurring miscarriages. The act of saving money for a grave stone highlights her deep need to memorialize the unborn babies she has lost. This emotional journey illustrates the toll that recurring pregnancy loss can have on a woman and her family.",
+        "The family friend is the one responsible for stealing the money designated for the grave stone.\n\nAnalyze the given aspect.\n\nThe given aspect highlights the consequences of trusting people without verifying their intentions, even if they are considered trusted family friends. It emphasizes the importance of being vigilant and ensuring that financial transactions are secure, particularly when funds are set aside for sensitive purposes like memorials. It raises the issue of betraying trust and the impact it can have on the affected individuals.",
+        "The core idea of the given aspect is that a woman named Dawn, who has had seven miscarriages, appeared on the UK TV show \"The Jeremy Kyle Show\" and accused a long-term friend, Jamie, of stealing from her. The accusation stemmed from her suspicions that Jamie had been taking money from her while she was pregnant. The program, known for its controversial and confrontational approach, often deals with personal relationships and conflicts.",
+        "The given aspect highlights the crucial role that a lie detector test plays in determining the truth in a situation, particularly when it comes to resolving conflicts or solving crimes involving deception. In this particular case, the lie detector test revealed that Jamie, the accused friend of Dawn, was lying about the theft. This led to a sense of relief and justice for Dawn when she learned the truth, as she could now hold her friend accountable for the stolen money. Lie detector tests, while not completely fail-safe, can act as a valuable tool in determining the truth in various situations, especially when it comes to matters of trust and honesty.",
+        "The core idea behind the aspect given is that Dawn, the guest on \"Jeremy Kyle Show,\" had lost seven babies through miscarriages. Her accused house-mate, Jamie, had allegedly stolen money that Dawn was intending to use to purchase a £500 grave stone to commemorate one of her deceased babies. The lie detector test revealed that Jamie was lying about the theft, causing Dawn to burst into tears upon discovering the truth. This aspect highlights the emotional and personal nature of the situation, as Dawn's grief and attachment to her lost babies were exploited by Jamie's alleged deception.",
+        "The core idea of the given aspect is that the woman (Dawn) in the summary was deeply affected by a theft committed by her friend (Jamie), which intensified her emotions and made her feel betrayed. Her distress was further compounded when she discovered the truth about the theft through a lie detector test during her appearance on the Jeremy Kyle Show."
+    ],
+    "answer": [
+        "\nNo, the summary does not contain the core idea of the aspect. While the summary mentions that the female contestant, Dawn, has had seven miscarriages and appears on the Jeremy Kyle Show to accuse her housemate Jamie of theft, it does not touch upon the crucial aspect of the woman saving money for a grave stone to commemorate the loss of her babies.",
+        "Yes, I believe the summary contains the core idea of the given aspect. The summary talks about Dawn, who has had seven miscarriages, appearing on the Jeremy Kyle Show, and accusing her housemate Jamie of stealing from her. The aspect mentioning a \"family friend\" stealing the money set aside for the grave stone could be related to the situation in the summary. Dawn's trusting relationship with her housemate Jamie could have made her vulnerable to theft, and therefore, the aspect of trust and betrayal could be connected to the summary.",
+        "Yes, I think the summary contains the core idea. The main point is that Dawn, who has experienced miscarriages, appeared on \"The Jeremy Kyle Show\" and accused a long-term friend, Jamie, of stealing from her. The summary also mentions that Dawn suspected Jamie of taking money from her while she was pregnant, which is essentially the reason behind her accusation. Although the summary doesn't provide as much detail as the aspect on the long-term friendship between Dawn and Jamie, it does convey the essence of the story, which is the accusation and the lie detector test that followed.",
+        "Yes, I apologize if my previous response was unclear. Upon a closer examination of the summary, I can see that the aspect about the lie detector test and its role in revealing the truth is indeed a significant part of the story. The lie detector test played a crucial role in providing Dawn with the evidence she needed to prove her friend's lie about the stolen money, which ultimately led to her relief and sense of justice. Therefore, I stand by my previous explanation and believe that the summary does contain the core idea that the lie detector test is an essential factor in determining the truth in certain situations.",
+        "No, the summary does not contain the core idea, which is the emotional and personal nature of the situation, as Dawn's grief and attachment to her lost babies were exploited by Jamie's alleged deception. The summary only mentions that Dawn had lost seven babies through miscarriages and Jamie had stolen money for a £500 grave stone, without delving into the emotional aspects of Dawn's grief.",
+        "\nNo, I do not think the summary contains the core idea. Although the aspect mentions the woman's distress after the theft, the summary does not explicitly mention a theft committed by Jamie. Instead, it mentions that Dawn accused Jamie of stealing from her and burst into tears when a lie detector test revealed Jamie was lying. The core idea"
+    ],
+    "score": [
+        0,
+        4,
+        4,
+        4,
+        2,
+        2
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.666666666675
+}

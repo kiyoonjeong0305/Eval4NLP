@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface .",
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface .",
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface .",
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface .",
+        "a man stands on a clump of land on hokkaido island , japan . geologists believe the emergence is a result of a landslide nearby . the mass has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide . the extra stretch of coastline has risen as high as 50ft from the sea surface ."
+    ],
+    "aspect": [
+        "1. Unexpected emergence of 1,000ft of seabed on Shiretoko Peninsula near Rausu, Hokkaido Island, Japan.",
+        "2. The cause is a landslide, possibly due to melting ice and snow.",
+        "3. The new coastline measures 1,000- 1,640ft long and 100ft wide.",
+        "4. Local residents didn't feel or hear any indications of movement.",
+        "5. Authorities believe the landslide hit the snow-covered coastline, but it won't expand further."
+    ],
+    "explain": [
+        "To make comprehensive statements that outline the main points or essentials of a topic or text.",
+        "To make the core idea intelligible and understandable by interpreting it in one's own words while maintaining the original meaning.\n\nThe given aspect highlights that the emergence of the mass on Hokkaido Island, Japan, is potentially attributed to a landslide caused by melting ice and snow. The geologists believe that the sudden rise in the landmass is a result of the landslide nearby, which has caused the mass to rise about 30 to 50ft above sea level. The emerged landmass measures approximately 1,000-1,640ft in length and 100ft in width, expanding the coastline and creating a new stretch of shore. The extra stretch of coastline has risen up to 50ft above the sea surface, encompassing a significant area.",
+        "To provide an overview or summary of a key point or main idea of a given aspect.\n\nThe core idea of Aspect 3 is that the newly formed coastline due to the emergence of the land on Hokkaido Island, Japan is quite significant in terms of length and width. Specifically, the coastline measures between 1,000-1,640ft long and 100ft wide, making it a substantial stretch of land that has emerged from the sea. This expansion of the coastline has the potential to impact local ecosystems and human behavior in the area.",
+        "\nBased on the provided aspect, it indicates that the local residents within the vicinity of the emergence of the man-made mass on Hokkaido Island, Japan, did not feel or hear any indications of movement before the mass appeared. This suggests that the phenomenon may have occurred suddenly or silently, without any noticeable signs to the people living nearby. The absence of any perceivable indicators suggests that the landslide, which geologists believe to have caused the emergence, may have been relatively sudden and did not release much energy, causing minimal vibrations or noise.",
+        "To provide a clear and concise understanding of the main concept.\n\nIn the given aspect, authorities believe that the landslide hit the snow-covered coastline. This is significant because it helps in understanding the possibility of the landslide being the cause of the emergence of the clump of land on Hokkaido Island, Japan. The snow-covered terrain is likely to be more susceptible to landslides due to the weight of snow and ice. Additionally, if the landslide did occur, it helps in evaluating the size and scope of the impact. The authorities' belief that the landslide won't expand further suggests that it is a relatively contained event, which could mitigate potential concerns about further landslides in the area."
+    ],
+    "answer": [
+        "Yes, I confirm that the given summary already contains the core idea mentioned in the aspect. The summary talks about the emergence of a mass of land on Hokkaido Island in Japan, which is believed to be the result of a landslide. The area has risen 30 to 50 feet above sea level, and it measures approximately 1,000 to 1,640 feet long and 100 feet wide. The newly formed land has risen as high as 50 feet from the sea surface.\n\nThe core idea mentioned in the aspect is \"Unexpected emergence of 1,000ft of seabed on Shiretoko Peninsula near Rausu, Hokkaido Island, Japan.\" Both the summary and the aspect mention the emergence of land on Hokkaido Island, Japan, albeit with slightly different specifications. The summary talks about the mass rising due to a landslide, while the aspect does not provide any additional details on the cause. Nonetheless, both sources describe a substantial extension of land in Hokkaido, which aligns with the core idea.",
+        "\nYes, the summary contains the core idea. Although the wording of the summary is more detailed and descriptive, it does mention that the emergence of the mass is due to a landslide caused by melting ice and snow. This aspect is mentioned towards the end of the summary, but it is present, and the core idea is conveyed.",
+        "No, I do not believe the summary contains the core idea of Aspect 3. Although the summary mentions the dimensions of the new coastline, it does not emphasize the idea that the new coastline is the main focus of Aspect 3. The aspect specifically states that the newly formed coastline measures between 1,000-1,640ft long and 100ft wide, which is not mentioned in the given summary.",
+        "Yes",
+        "No, the summary does not contain the core idea mentioned in the given aspect. While the summary does provide information about the emergence of a clump of land on Hokkaido Island, Japan, and its dimensions, it does not directly mention the landslide hitting a snow-covered coastline or the authorities' belief about it. It is essential to consider the aspect while understanding the event in context."
+    ],
+    "score": [
+        5,
+        4,
+        2,
+        4,
+        3
+    ],
+    "mean_score": 3.6,
+    "gt_score": 4.166666666675
+}

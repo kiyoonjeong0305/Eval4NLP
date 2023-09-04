@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "four-year-old james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote .",
+        "four-year-old james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote .",
+        "four-year-old james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote ."
+    ],
+    "aspect": [
+        "1. Four-year-old James Hayward had his toy gun confiscated at East Midlands Airport.",
+        "2. James Hayward was frisked and forced to hand over his toy gun for a security risk.",
+        "3. The family returned from their holiday and East Midlands Airport apologized for the inconvenience, explaining that safety and security are their first priority."
+    ],
+    "explain": [
+        "In this aspect, a four-year-old boy, James Hayward, had his toy gun taken away from him at East Midlands Airport due to security concerns.",
+        "2. James Hayward was frisked and forced to hand over his toy gun for a security risk, due to the confusion with his brightly-coloured plastic toy, which fires sponge darts, being mistaken for a real weapon.",
+        "The family was unhappy about the incident involving the confiscation of their son's toy gun, as it caused a security concern. The airport realized the mistake and apologized for any inconvenience, ensuring safety and security are their top priorities."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of this sentence.",
+        "Yes, the summary contains the context of the core idea, as it mentions the toy gun incident with James Hayward and the security risk aspect.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.25
+}

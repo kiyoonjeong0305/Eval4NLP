@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis ."
+    ],
+    "aspect": [
+        "1. ISIS released over 200 Yazidis who were captured and displaced when the terror group overtook their towns in northern Iraq last summer.",
+        "2. Kurdish Peshmerga forces received and sent freed Yazidis to the regional capital of Irbil, while an official from Iraq's Kurdistan Regional Government said that 228 Yazidis were released.",
+        "3. The release of the Yazidis came after the ISIS conquest of their towns and the subsequent humanitarian crisis and reports of massacres and enslavement of captives by the terror group."
+    ],
+    "explain": [
+        "The given aspect is about the release of more than 200 Yazidis who were abducted by the ISIS when they overtook their towns in northern Iraq.",
+        "The aspect highlights an occurrence of release of Yazidis who were earlier trapped in Sinjar because of Isis conquest. Kurdish Peshmerga forces played a significant role in this by freeing 228 Yazidis and transferring them to Irbil.",
+        "The release of the Yazidis is attributed to the humanitarian crisis that ensued after the ISIS conquest of their towns, causing massacres and enslavement."
+    ],
+    "answer": [
+        "It depends on the context and the perspective. In general, the aspect is not mentioned in the summary. However, it could be related to the religious practices of Yazidis, which draw from Christianity, Judaism, and Zoroastrianism, or the humanitarian crisis that occurred after the ISIS invasion of Sinjar.",
+        "The summary does not contain the core idea of the aspect. It merely provides information about the Yazidi religion and its origin, as well as the humanitarian crisis provoked by Isis in Sinjar. The aspect, on the other hand, focuses on the release of Yazidis and the role of Kurdish Peshmerga forces in facilitating their transfer to Irbil.",
+        "No, the summary does not contain the core idea of the aspect. The summary only provides general information about the Yazidi people and their religion, and does not mention the ISIS conquest of their towns, the humanitarian crisis that followed, or the reports of massacres and enslavement."
+    ],
+    "score": [
+        3,
+        1,
+        0
+    ],
+    "mean_score": 1.3333333333333333,
+    "gt_score": 3.33333333335
+}

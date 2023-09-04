@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "dzhokhar tsarnaev was found guilty on all 30 charges he faced related to the bombings . the 13th juror : now it gets real . in a front-page opinion piece in the boston globe , bill and denise richard wrote about the toll .",
+        "dzhokhar tsarnaev was found guilty on all 30 charges he faced related to the bombings . the 13th juror : now it gets real . in a front-page opinion piece in the boston globe , bill and denise richard wrote about the toll .",
+        "dzhokhar tsarnaev was found guilty on all 30 charges he faced related to the bombings . the 13th juror : now it gets real . in a front-page opinion piece in the boston globe , bill and denise richard wrote about the toll ."
+    ],
+    "aspect": [
+        "1. Parents of Boston Marathon bombing victim plead for death penalty removal, aiming for defendant to spend life in prison without possibility of release.",
+        "2. Family witnessed graphic evidence, including replicated bombs, during trial, urging for quick end to case.",
+        "3. Victim's parents hope their children won't have to experience years of appeals and reliving the worst day of their lives."
+    ],
+    "explain": [
+        "The aspect is about the parents of Boston Marathon bombing victim, Bill and Denise Richard, who strongly advocate for the death penalty's removal, seeking for the defendant, Dzhokhar Tsarnaev, to spend the rest of his life in prison without any possibility of release.",
+        "The Richards, whose daughter was killed in the bombings, were upset with the slow progress of the trial and witnessing graphic evidence, such as replicated bombs. They argue for a quick resolution to the case.",
+        "Victim's parents are concerned their children won't be subjected to extended court proceedings and having to revisit the traumatic event, hoping the legal process will conclude efficiently."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does contain the context of the given sentence as it mentions the Richards and their concerns about the trial's pace and the graphic evidence.",
+        "No, the summary does not contain the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.000000000025
+}

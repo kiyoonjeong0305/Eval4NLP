@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "roland giroux keeps a blood parrot cichlid in his home in taiwan . the owner places his hand in the tank and stroked the fish with his finger . the fish swims around the man's hand before returning to be massaged .",
+        "roland giroux keeps a blood parrot cichlid in his home in taiwan . the owner places his hand in the tank and stroked the fish with his finger . the fish swims around the man's hand before returning to be massaged .",
+        "roland giroux keeps a blood parrot cichlid in his home in taiwan . the owner places his hand in the tank and stroked the fish with his finger . the fish swims around the man's hand before returning to be massaged .",
+        "roland giroux keeps a blood parrot cichlid in his home in taiwan . the owner places his hand in the tank and stroked the fish with his finger . the fish swims around the man's hand before returning to be massaged .",
+        "roland giroux keeps a blood parrot cichlid in his home in taiwan . the owner places his hand in the tank and stroked the fish with his finger . the fish swims around the man's hand before returning to be massaged ."
+    ],
+    "aspect": [
+        "1. Marine pets cannot interact with humans through touch like cats and dogs.",
+        "2. One man strokes his blood parrot cichlid and captures their remarkable relationship on camera.",
+        "3. The fish remains still when stroked and swims around the man's fingers.",
+        "4. The man interacts with the fish by playing with it daily.",
+        "5. The blood parrot cichlid is a hybrid fish bred in Taiwan."
+    ],
+    "explain": [
+        "The given aspect states that marine pets like blood parrot cichlids are not capable of interacting with humans through physical touch like cats, dogs, and other traditional domesticated pets.",
+        "The given aspect highlights the relationship between the blood parrot cichlid owner and the fish in the tank. The man strokes the fish with his finger, and the fish returns to be massaged, showing a remarkable level of trust and bond between them.",
+        "The core idea of the aspect is that the blood parrot cichlid in the tank remains still when the owner's hand is stroked, and then begins to swim around the man's fingers.",
+        "The aspect states that the man interacts with the fish by playing with it daily. This means that he engages in fun activities with the fish on a regular basis, which helps to build a strong bond and strengthens their relationship. This interaction also helps the fish to be more comfortable and calm in the owner's presence, and it can even help to improve the fish's overall health and well-being. Playing with the fish daily also provides the owner with a sense of enjoyment and satisfaction, as they get to form a unique connection with a beautiful and interesting species of fish. Overall, daily interaction and play is an important aspect of caring for and building a bond with a pet fish like the blood parrot cichlid.",
+        "The aspect suggests that the blood parrot cichlid, a hybrid fish bred in Taiwan, is mentioned in the summary as the type of fish kept by the owner. The hybrid nature of this species highlights the human intervention in creating new species, which is an interesting fact to consider when analyzing the relationship between humans and the natural world."
+    ],
+    "answer": [
+        "The aspect is related to the summary as the summary mentions that the owner keeps a blood parrot cichlid in his home in Taiwan and it interacts with the owner by swimming around his hand when he strokes it. This interaction is considered unusual for marine pets which cannot interact with humans through touch like cats and dogs.",
+        "Yes, the given aspect highlights the relationship between the blood parrot cichlid owner and the fish in the tank. The man strokes the fish with his finger, and the fish returns to be massaged, showing a remarkable level of trust and bond between them. This core idea is present in the summary, too.",
+        "I'm sorry, I'm not sure what you mean. Could you please rephrase your question?",
+        "No, I do not believe that the summary contains the core idea of the aspect. The aspect mentions that the man interacts with the fish by playing with it daily, while the summary does not mention any interaction or play between the man and the fish.",
+        "No, the core idea of the given aspect is not present in the summary. The aspect provides additional information about the type of fish mentioned in the summary, while the summary only provides a description of the interaction between the fish and its owner."
+    ],
+    "score": [
+        4,
+        5,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 1.8,
+    "gt_score": 4.25
+}

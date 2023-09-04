@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident ."
+    ],
+    "aspect": [
+        "1. Luigi Costa, 71, accused of murdering elderly neighbor Terrence Freebody in 2012; suffered from dementia and alcohol abuse.",
+        "2. Forensic psychiatrist Professor Paul Mullen believes Costa's state of mind declined in the lead-up to and during the attack.",
+        "3. Costa's state of mind crucial for verdict; prosecutor suggests Costa feigned memory loss, while defending counsel disagrees."
+    ],
+    "explain": [
+        "Luigi Costa, a 71-year-old man, was accused of murdering his elderly neighbor, Terrence Freebody, in 2012. Costa had dementia and a history of alcohol abuse, which possibly contributed to his state of mind declining leading up to the incident.",
+        "Forensic psychiatrist Paul Mullen suggests that Luigi Costa's mental state deteriorated prior to and during the attack on his elderly neighbor Terrence Freebody, indicating a possible reasons for the violent actions taken.",
+        "The state of Luigi Costa's mind prior to the alleged attack is crucial for determining his culpability, with the prosecutor suggesting he may have feigned memory loss while the defense counsel disagrees."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary contains the context of the aspect's sentence but with minor differences in wording.",
+        "The summary does not contain the context of the given sentence about the importance of Costa's state of mind for the verdict."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.5
+}

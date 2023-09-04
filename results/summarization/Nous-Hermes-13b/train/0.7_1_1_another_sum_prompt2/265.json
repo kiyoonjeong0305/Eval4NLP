@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury .",
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury .",
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury ."
+    ],
+    "aspect": [
+        "1. Serge Gnabry is feeling better after his injury. ",
+        "2. Gnabry played for Arsenal Under 21s against Reading on Monday. ",
+        "3. Gnabry is now over his injury worries."
+    ],
+    "explain": [
+        "The given aspect is about the progress of Serge Gnabry being stunted by a serious knee injury which he suffered. It mentions that after performing well for Arsenal last season, his progress has been halted because of an injury.",
+        "Serge Gnabry, 19-year old midfielder for Arsenal, is regaining his form after a serious knee injury. On Monday, he played for the Arsenal Under 21s against Reading, marking his return to the pitch after a long recovery period. This is an important aspect because it shows Gnabry's progress and improvement, despite being slowed down by the injury. It also highlights his dedication and commitment to returning to his best form, which bodes well for his future with the club.",
+        "The aspect states that Gnabry has overcome his injury worries. It means that the 19-year-old midfielder is now in a better position to focus on his football without having to worry about the limitations that may have been caused by his injury."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. The summary is about Serge Gnabry feeling better and better after his injury and his progress being stunted by a serious knee injury.",
+        "I apologize, but I am not sure what you are asking. Could you please clarify your question?",
+        "yes, i think the aspect is mentioned in the summary. It says that Gnabry is saying he is feeling better and better all the time, which could be an indication of overcoming his injury worries."
+    ],
+    "score": [
+        0,
+        4,
+        4
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.416666666675
+}

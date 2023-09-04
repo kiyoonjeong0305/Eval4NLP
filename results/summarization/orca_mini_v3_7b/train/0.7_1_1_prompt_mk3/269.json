@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity."
+    ],
+    "aspect": [
+        "1. Passenger Jin Pai, 35, was hospitalized with deep cuts after breaking a toilet while squatting in Hefei Xinqiao International Airport, believing it was not clean.",
+        "2. The man initially claimed he was sitting on the toilet but changed his story to the police, possibly to avoid compensation.",
+        "3. Authorities believe the incident was an accident and urge people to use toilets appropriately."
+    ],
+    "explain": [
+        "1. Jin Pai, a passenger at Hefei Xinqiao International Airport, accidently broke a toilet he was squatting on, not realizing it was faulty or dirty. He then faced embarrassment, blaming it on his own stupidity and could not shout for help due to humiliation.",
+        "The man initially lied about the incident, but later changed his story to police, possibly to avoid financial responsibility.",
+        "The aspect suggests that the incident was likely an accident, meaning it was unintentional, and encourages proper usage of toilets to avoid such situations."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence. \n",
+        "No, the summary does not contain the context or the phrase \"The man initially lied about the incident,\" as it starts with, \"A passenger was found to have broken a toilet he was squatting on...\"",
+        "Perhaps not, but the core idea is captured in the aspect—namely, suggesting the incident was unintentional and emphasizing proper use of toilets to prevent accidents."
+    ],
+    "score": [
+        4,
+        1,
+        3
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.75
+}

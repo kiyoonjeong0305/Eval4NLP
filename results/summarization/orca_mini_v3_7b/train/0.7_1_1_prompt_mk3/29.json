@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 ."
+    ],
+    "aspect": [
+        "1. Historic home unchanged since 1930s for sale with original features, price between £200,000-£250,000.",
+        "2. Semi-detached property in Horfield, Bristol includes stained-glass windows, oil-fired heating, and vintage kitchen.",
+        "3. Auction scheduled on April 30th, potential buyers may be those with a passion for antiques or collectibles."
+    ],
+    "explain": [
+        "The historic home in Horfield, Bristol has remained unchanged since the 1930s and is now up for auction on April 30th. This unique property features original stained-glass windows, oil-fired central heating, and retro jars of popular food items. With a guide price range of £200,000-£250,000, this charming home is a significant piece of British heritage that is not to be missed by potential buyers.",
+        "The house for auction in Horfield, Bristol, has original features such as stained-glass windows, oil-fired central heating, and vintage kitchen items like retro jars of popular food. It has a guide price ranging from £200,000 to £250,000.",
+        "\"Auction scheduled on April 30th, potential buyers may be those with a passion for antiques or collectibles.\""
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary does not contain this specific context."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.25
+}

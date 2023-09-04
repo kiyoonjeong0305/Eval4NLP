@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "liverpool vice-captain jordan henderson thinks his side could catch manchester city in the premier league . henderson played his 47th game of season in the 2-0 win over newcastle united on monday night . liverpool goalkeeper simon mignolet both played their 47th game of season in the premier league .",
+        "liverpool vice-captain jordan henderson thinks his side could catch manchester city in the premier league . henderson played his 47th game of season in the 2-0 win over newcastle united on monday night . liverpool goalkeeper simon mignolet both played their 47th game of season in the premier league .",
+        "liverpool vice-captain jordan henderson thinks his side could catch manchester city in the premier league . henderson played his 47th game of season in the 2-0 win over newcastle united on monday night . liverpool goalkeeper simon mignolet both played their 47th game of season in the premier league ."
+    ],
+    "aspect": [
+        "1. Liverpool vice-captain Henderson thinks his team can challenge Manchester City for the Champions League.",
+        "2. Henderson and Mignolet played their 47th game this season, tying a record for appearances in top leagues.",
+        "3. Henderson believes the team's recent victories over Newcastle and Man United can help them catch up to City in the standings."
+    ],
+    "explain": [
+        "Henderson believes Liverpool can compete with Man City, possibly for the Champions League title, as they've individually played 47 games this season.",
+        "The aspect highlights that Liverpool's Jordan Henderson and goalkeeper Simon Mignolet have tied a record by playing their 47th game this season in the Premier League, which is a significant achievement in top-tier competitions.",
+        "Henderson believes the team's wins over Newcastle and Man United suggest they have the potential to overtake Manchester City in the standings."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does not include the sentence's context but rather discusses Henderson's confidence in Liverpool potentially overtaking Manchester City in the Premier League.",
+        "Yes, the summary contains the context of the sentence you provided."
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 3.583333333325
+}

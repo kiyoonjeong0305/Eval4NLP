@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the iowa board of chiropractic released a report wednesday detailing charges against charles manuel , of lamoni . manuel signed an agreement last month admitting his misdeeds and pledging not to apply for reinstatement for at least 10 years . the agreement requires that manuel prove any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state .",
+        "the iowa board of chiropractic released a report wednesday detailing charges against charles manuel , of lamoni . manuel signed an agreement last month admitting his misdeeds and pledging not to apply for reinstatement for at least 10 years . the agreement requires that manuel prove any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state .",
+        "the iowa board of chiropractic released a report wednesday detailing charges against charles manuel , of lamoni . manuel signed an agreement last month admitting his misdeeds and pledging not to apply for reinstatement for at least 10 years . the agreement requires that manuel prove any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state ."
+    ],
+    "aspect": [
+        "1. Southern Iowa chiropractor Charles Manuel surrenders license after admitting to accepting sex as payment and performing exorcisms, with outstanding patient satisfaction ratings on HealthGrades.com.",
+        "2. Manuel agreed to not reapply for license for 10 years, and is required to prove no revocation circumstances exist before resuming practice.",
+        "3. Despite the controversy, Manuel's former patients gave him a perfect 5 out of 5 rating in satisfaction on HealthGrades.com."
+    ],
+    "explain": [
+        "Charles Manuel, a Southern Iowa chiropractor, surrendered his license after admitting to accepting sex as payment and performing exorcisms. Despite having outstanding patient satisfaction ratings on HealthGrades.com, he faces revocation of his license due to his controversial practices.",
+        "In a report, Manuel agreed to not reapply for his license for 10 years and must prove that no revocation circumstances exist before resuming his chiropractic practice in the state of Iowa.",
+        "Charles Manuel's former patients gave him a perfect rating of 5 out of 5 on HealthGrades.com, despite the controversy and revocation of his chiropractic license."
+    ],
+    "answer": [
+        "Yes, the context of the sentence is present in the summary.",
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of this sentence because it mentions the controversy and revocation of Manuel's license, which is related to the given aspect."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.41666666665
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Radamel Falcao joined Manchester United on a season-long loan last summer . The Colombian striker has struggled to hit the heights he achieved before suffering a serious knee injury . United will have to pay £ 46million to make the loan permanent . Louis van Gaal 's side are unlikely to take up that option .",
+        "Radamel Falcao joined Manchester United on a season-long loan last summer . The Colombian striker has struggled to hit the heights he achieved before suffering a serious knee injury . United will have to pay £ 46million to make the loan permanent . Louis van Gaal 's side are unlikely to take up that option .",
+        "Radamel Falcao joined Manchester United on a season-long loan last summer . The Colombian striker has struggled to hit the heights he achieved before suffering a serious knee injury . United will have to pay £ 46million to make the loan permanent . Louis van Gaal 's side are unlikely to take up that option ."
+    ],
+    "aspect": [
+        "1. Nabil Dirar believes Falcao regrets loan move to Man Utd.",
+        "2. Falcao struggled at Man Utd after serious knee injury.",
+        "3. Falcao unhappy in France; would have played in CL at Monaco."
+    ],
+    "explain": [
+        "Nabil Dirar, a footballer from Morocco, has stated that Radamel Falcao, the Colombian striker, may feel disappointed and regretful about his decision to join Manchester United on loan last summer. This assertion suggests that despite initial expectations, Falcao's experience with the club has not met his or possibly even United's expectations, leading to a sense of dissatisfaction and possibly a desire to stay away from the loan agreement upon its expiration.",
+        "Radamel Falcao joined Manchester United on a season-long loan and has not reproduced his former glory after a serious knee injury, making it less likely for the team to make the loan permanent.",
+        "Radamel Falcao struggled to achieve his previous success after suffering a serious knee injury, leading to him being unhappy in his move to England with Manchester United. Falcao would have likely played in the Champions League if he stayed at Monaco."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence, emphasizing Falcao's disappointment with his loan move to Manchester United based on Dirar's statement.",
+        "Yes",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

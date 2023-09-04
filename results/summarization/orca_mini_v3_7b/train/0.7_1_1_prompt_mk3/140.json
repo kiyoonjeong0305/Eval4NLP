@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson .",
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson .",
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson ."
+    ],
+    "aspect": [
+        "1. A young accountant, Jacob Phillips, died after falling 70ft from a cliff when he ran from a taxi to avoid paying the fare.",
+        "2. Phillips, 23, jumped over a fence during a night out in December after catching a cab but did not have enough money to pay the driver.",
+        "3. The coroner ruled the death an accident, stating that Phillips became disoriented and likely did not know the danger he faced at the time."
+    ],
+    "explain": [
+        "A 23-year-old accountant, Jacob Phillips, climbed over a fence and fell 70ft from a cliff during a night out with his friends, after running from a taxi driver who was chasing him for payment.",
+        "Jacob Phillips, 23, had a night out in December and caught a cab after drinking in Cardiff with friends Padraig Crowley and Rory Robinson. However, he did not have enough money to pay the driver and wanted to escape, so he jumped over a fence, plunging into a cliff.",
+        "The coroner found the death of Jacob Phillips to be an accident, as Phillips likely did not understand the risk he was taking due to his disorientation when he jumped over the fence."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of the given sentence, which explains that Jacob Phillips had a night out in December, caught a cab, and jumped over a fence because he wanted to escape without paying the driver, subsequently plunging into a cliff.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.5
+}

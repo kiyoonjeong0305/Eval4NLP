@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "a young accountant fell down a 70ft cliff to his death when he ran from a taxi to avoid paying the fare . graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it .",
+        "a young accountant fell down a 70ft cliff to his death when he ran from a taxi to avoid paying the fare . graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it .",
+        "a young accountant fell down a 70ft cliff to his death when he ran from a taxi to avoid paying the fare . graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it .",
+        "a young accountant fell down a 70ft cliff to his death when he ran from a taxi to avoid paying the fare . graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it .",
+        "a young accountant fell down a 70ft cliff to his death when he ran from a taxi to avoid paying the fare . graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it ."
+    ],
+    "aspect": [
+        "- A young accountant died after falling down a 70ft cliff while running from a taxi to avoid paying the fare. ",
+        "- The taxi driver did not pursue the fare because he did not know where they were going. ",
+        "- The accountant had no money to pay for the taxi and ran away with friends. ",
+        "- The accountant's body was found at the bottom of the cliff the next day. ",
+        "- The coroner ruled the death accidental."
+    ],
+    "explain": [
+        "The given aspect is that a young accountant named Jacob Phillips died after falling down a 70ft cliff while running from a taxi to avoid paying the fare.",
+        "The taxi driver being unsure about where to take the young accountant, Jacob Phillips, did not pursue the fare because he did not know where to go.",
+        "The aspect states that the young accountant, Jacob Phillips, did not have enough cash to pay for a taxi that he had caught after a night out with friends. In order to avoid paying for the ride, he ran away and jumped over a fence in  darkness, ultimately leading to his death when he fell down a 70ft cliff. The aspect highlights the consequences of his actions, which were not only financially costly but also resulted in his tragic death.",
+        "It means that the body of the accountant was located at the bottom of the cliff after a search by authorities.",
+        "The aspect states that the death of the young accountant, Jacob Phillips, was accidental. This means that it was not a result of any intention or purposeful actions that would indicate foul play or misconduct."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. The summary merely provides additional information about the incident such as the victim's age, occupation and the time of the incident. The core idea of the aspect is the unfortunate outcome of the young accountant's attempt to avoid paying the taxi fare by running away.",
+        "What do you think about the aspect of the summary that states \"The taxi driver did not pursue the fare because he did not know where they were going.\"?",
+        "The aspect only provides a brief mention of why the accountant ran away from the taxi without paying. The core idea of the aspect is that he did not have enough cash to pay for the ride and panicked, leading to his tragic death.",
+        "No, the summary does not contain the core idea of the aspect. The aspect states that the accountant's body was found at the bottom of the cliff, while the summary mentions that the accountant fell down the cliff.",
+        "The aspect states that the death of the young accountant, Jacob Phillips, was accidental. This means that it was not a result of any intention or purposeful actions that would indicate foul play or misconduct. The summary suggests that Phillips might have been trying to avoid a fare when he ran from a taxi and fell down a 70ft cliff. However, it does not explicitly state that the death was accidental. Therefore, the aspect mentioned is not directly stated in the summary."
+    ],
+    "score": [
+        0,
+        5,
+        4,
+        0,
+        2
+    ],
+    "mean_score": 2.2,
+    "gt_score": 4.833333333325
+}

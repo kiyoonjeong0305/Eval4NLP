@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful .",
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful .",
+        "-lrb- cnn -rrb- spacex on tuesday launched a two-stage falcon 9 rocket carrying an uncrewed cargo spacecraft called dragon on a flight from cape canaveral , florida , to the international space station . that was the easy part . in a difficult bid to land a rocket stage on a floating barge for the first time , the private space exploration company was unsuccessful ."
+    ],
+    "aspect": [
+        "1. SpaceX launches Falcon 9 rocket carrying Dragon cargo spacecraft from Cape Canaveral to ISS, but fails to land rocket on floating barge.",
+        "2. SpaceX founder Elon Musk aims to reuse rockets to reduce space access costs by a factor of a hundred.",
+        "3. Dragon supplies ISS with research equipment, ISSpresso, and returns with science experiments, trash, and other items."
+    ],
+    "explain": [
+        "In this aspect, SpaceX successfully launched a Falcon 9 rocket carrying the Dragon cargo spacecraft from Cape Canaveral to the International Space Station (ISS). However, during the challenging attempt to land the rocket stage on a floating barge, they were unsuccessful.",
+        "SpaceX founder Elon Musk aims to reuse rockets in order to significantly reduce space access costs by decreasing them by a factor of a hundred.",
+        "- Dragon supplies the International Space Station (ISS) with research equipment, including ISSpresso, a coffee machine, as well as returning with science experiments, garbage, and other items."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence as it mentions the successful Falcon 9 rocket launch to ISS and the unsuccessful attempt at landing the rocket stage on a floating barge.",
+        "Yes",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.6666666667
+}

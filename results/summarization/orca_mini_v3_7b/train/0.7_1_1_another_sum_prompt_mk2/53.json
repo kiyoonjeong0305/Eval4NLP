@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "( cnn ) isis on wednesday released more than 200 yazidis , a minority group whose members were killed , captured and displaced when the islamist terror organization overtook their towns in northern iraq last summer , officials said . most of those released were women and children ; the rest were ill or elderly , said rassol omar , a commander in the peshmerga force that defends northern iraq 's semi-autonomous kurdish region . the freed yazidis were received by peshmerga , who sent them to the kurdish regional capital , irbil , said nuri osman , an official with iraq 's kurdistan regional government .",
+        "( cnn ) isis on wednesday released more than 200 yazidis , a minority group whose members were killed , captured and displaced when the islamist terror organization overtook their towns in northern iraq last summer , officials said . most of those released were women and children ; the rest were ill or elderly , said rassol omar , a commander in the peshmerga force that defends northern iraq 's semi-autonomous kurdish region . the freed yazidis were received by peshmerga , who sent them to the kurdish regional capital , irbil , said nuri osman , an official with iraq 's kurdistan regional government .",
+        "( cnn ) isis on wednesday released more than 200 yazidis , a minority group whose members were killed , captured and displaced when the islamist terror organization overtook their towns in northern iraq last summer , officials said . most of those released were women and children ; the rest were ill or elderly , said rassol omar , a commander in the peshmerga force that defends northern iraq 's semi-autonomous kurdish region . the freed yazidis were received by peshmerga , who sent them to the kurdish regional capital , irbil , said nuri osman , an official with iraq 's kurdistan regional government ."
+    ],
+    "aspect": [
+        "1. ISIS released over 200 Yazidis, a minority group whose members were killed, captured, and displaced last summer.",
+        "2. The release involved coordination by Arab tribal leaders and the Yazidis were received by Peshmerga in Irbil.",
+        "3. The reason for the release is unknown, but ISIS previously released many Yazidis since last year's attacks."
+    ],
+    "explain": [
+        "ISIS released over 200 Yazidis, a religious minority group, who were killed, captured, and forced to flee last summer when they controlled their towns in Northern Iraq. Most of the released were women and children, with the elderly and ill among them. The freed Yazidis were sent to the Kurdish regional capital, Irbil.",
+        "The release involved coordination by Arab tribal leaders who then handed over the freed Yazidis to the Peshmerga forces in Irbil.",
+        "The aspect suggests that the reason for the release of the Yazidis by ISIS is unclear, though there have been several releases since the attacks last year."
+    ],
+    "answer": [
+        "Yes",
+        "No, the summary doesn't contain the context of the sentence.",
+        "No, the summary does not contain the context of the sentence provided."
+    ],
+    "score": [
+        4,
+        1,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.83333333335
+}

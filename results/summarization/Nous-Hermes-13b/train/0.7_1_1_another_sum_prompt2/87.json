@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital .",
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital .",
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital .",
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital .",
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital .",
+        "the toddler 's mother was holding him and another child when he slipped and fell between 10 to 12ft and into the pit on saturday around 3pm . the child was rescued by his parents before firefighters and paramedics arrived on the scene . he suffered from minor bumps and bruises and was listed in stable condition at the hospital ."
+    ],
+    "aspect": [
+        "- A two-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo after his mother dangled him over the edge. ",
+        "- The boy suffered minor bumps and bruises and was listed in stable condition at the hospital. ",
+        "- The boy's leg was injured in the fall but he was not attacked by the animals. ",
+        "- The exhibit was closed after the incident. ",
+        "- Cleveland Metroparks Zoo plans to press child endangering charges against the boy's mother. ",
+        "- The boy was rescued by his parents before firefighters and paramedics arrived on the scene."
+    ],
+    "explain": [
+        "The aspect of the given situation is that a two-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo after his mother dangled him over the edge. This means that the child was able to slip and fall into the exhibit area that was meant for the cheetahs, and his mother was present at the time of the incident.",
+        "The aspect states that the boy suffered minor bumps and bruises and was listed in stable condition at the hospital. This implies that while he was injured, his condition is not considered serious. The use of the word \"stable\" suggests that his condition is not worsening and that he is receiving the necessary medical care. Overall, this aspect provides reassurance that despite his injury, the boy is in good hands and is receiving appropriate treatment.",
+        "The given aspect emphasizes that the toddler's leg was injured but he was not injured by the animals present in the pit.",
+        "The aspect suggests that the injury of the toddler resulted in the closure of the exhibit. It implies that the exhibit was deemed unsafe after the accident occurred, and measures were taken to prevent further accidents.",
+        "The core idea of the given aspect is that Cleveland Metroparks Zoo plans to press charges against the boy's mother for endangering the child's safety. \n\nDo you have any other questions or would you like me to find more information on the given aspect?",
+        "The aspect suggests that the parents of the toddler were the first ones to rescue him after he fell into the pit. It implies that the parents played an essential role in saving their child before professional help arrived. This aspect highlights the quick thinking and action of the parents in a critical situation. Overall, the aspect emphasizes the importance of parents being present and ready to act in emergencies."
+    ],
+    "answer": [
+        "The aspect is not present in the summary.",
+        "It appears that the aspect provided is accurately represented in the summary. The summary mentions that the child suffered minor bumps and bruises, which aligns with the aspect provided. Additionally, both the summary and aspect mention that the child was taken to the hospital and is in stable condition.",
+        "Yes, the summary contains the core idea of the aspect, which is that the toddler sustained minor injuries from falling into the pit, but was not harmed by animals in the pit.",
+        "Yes, the summary contains the core idea of the aspect. The aspect suggests that the injury of the toddler resulted in the closure of the exhibit, while the summary states that the child fell into a pit and was rescued by his parents before paramedics arrived. The aspect explains that the exhibit was closed afterwards due to the incident, which is not directly mentioned in the summary, but it can be inferred from the fact that the exhibit was closed as a result of the accident.",
+        "I don't agree with you. The summary clearly mentions that the child fell into a pit while his mother was holding him and another child. There is no mention of any intention to press charges against the mother. Can you provide any evidence or source to support your claim?",
+        "No, the summary does not contain the core idea of the aspect. The summary only provides information about the incident such as where and when it occurred and the condition of the child. There is no mention of the parents rescuing the child before professional help arrived."
+    ],
+    "score": [
+        0,
+        5,
+        5,
+        4,
+        5,
+        0
+    ],
+    "mean_score": 3.1666666666666665,
+    "gt_score": 4.83333333335
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy . the energy it then creates , using semi-conductors , can be shot back down to earth . if it works , it could mean solar power could even become viable in scotland , or be able to restore power instantly to disaster hit areas .",
+        "dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy . the energy it then creates , using semi-conductors , can be shot back down to earth . if it works , it could mean solar power could even become viable in scotland , or be able to restore power instantly to disaster hit areas .",
+        "dr adrian quarterman , of dundee university , is working on a laser which will convert sun beams into energy . the energy it then creates , using semi-conductors , can be shot back down to earth . if it works , it could mean solar power could even become viable in scotland , or be able to restore power instantly to disaster hit areas ."
+    ],
+    "aspect": [
+        "1. Scottish scientist Dr. Adrian Quarterman suggests space lasers could be used for heating homes in the future. ",
+        "2. Quarterman's laser converts sun beams into energy and can boost solar panels' efficiency. ",
+        "3. Unlike movie lasers, the system is not powerful enough to be weaponized, and the issue of control remains."
+    ],
+    "explain": [
+        "Dr. Adrian Quarterman, a Scottish scientist, proposes that space lasers could potentially be utilized for home heating in the future.",
+        "Quarterman's laser can convert sun beams into energy and boost the efficiency of solar panels, opening up possible solutions for power generation in Scotland and fast restoration of power in disaster-hit areas.",
+        "Although the laser developed by Dr. Adrian Quarterman has the potential to create renewable energy by converting sunbeams and possibly revolutionizing solar power in Scotland, it cannot be weaponized like movie lasers due to its limited power. Additionally, the concept of control and regulating the system remains a significant concern."
+    ],
+    "answer": [
+        "No",
+        "No, the summary does not accurately capture the context, which is more detailed in the explanation.",
+        "As mentioned in the given context, the laser developed by Dr. Adrian Quarterman, aiming to generate sustainable energy, might not be able to be applied as a weapon due to its limited power. Additionally, regulating and controlling the system is still an essential consideration."
+    ],
+    "score": [
+        1,
+        2,
+        4
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.666666666675
+}

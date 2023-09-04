@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened ."
+    ],
+    "aspect": [
+        "1. A two-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo after his parents dangled him over the edge.",
+        "2. He suffered minor bumps and bruises and was in stable condition at the hospital.",
+        "3. The cheetahs did not approach the boy or his parents during the incident, and the zoo plans to press child endangerment charges against the family."
+    ],
+    "explain": [
+        "In this situation, a two-year-old boy fell into a cheetah exhibit after his parents apparently allowed him to dangle over the edge.",
+        "The toddler fell into the cheetah exhibit and suffered minor bumps and bruises, but was in stable condition after being taken to the hospital. The incident took place at the Cleveland Metroparks Zoo, and the toddler wasn't attacked by the cheetahs.",
+        "The cheetahs at the zoo did not harm the child during the incident and the family could face child endangerment charges."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.1666666666750003
+}

@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale .",
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale .",
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale .",
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale .",
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale .",
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale ."
+    ],
+    "aspect": [
+        "- Ten people, including four children, were involved in a multi-vehicle crash in Brisbane's west.",
+        "- Three vehicles collided on the Brisbane Valley Highway, 2 km south of Fernvale, on Wednesday afternoon.",
+        "- A 40-year-old man and a five-year-old boy were flown out by rescue helicopter with chest and shoulder injuries and chest pain respectively.",
+        "- A 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also flown out.",
+        "- The highway has been closed off and diversions are in place south of Fernvale.",
+        "- Emergency crews found one person trapped inside their vehicle and airlifted them to hospital."
+    ],
+    "explain": [
+        "The given aspect states that ten people, including four children, were involved in a multi-vehicle crash in Brisbane's west. \nCore Idea: The aspect highlights the number of people and children who were involved in the accident.",
+        "Three vehicles collided on the Brisbane Valley Highway.",
+        "The given aspect highlights that a 40-year-old man and a five-year-old boy were injured in the car pileup on the Brisbane Valley Highway and were flown out by the rescue helicopter. The two individuals had chest and shoulder injuries and chest pain respectively.",
+        "One core idea of the given aspect is that a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out along with the two other patients from the three-car pileup on the Brisbane Valley Highway near Fernvale.",
+        "One core idea of the given aspect is that the highway has been closed off and diversions are in place south of Fernvale. This means that the Brisbane Valley Highway has been shut down and drivers are being rerouted or diverted to alternative roads to avoid the accident site and to ensure that emergency services can efficiently access the area. The diversion is in place to prevent further accidents and to keep both drivers and emergency personnel safe.",
+        "The given aspect states that emergency crews found one person trapped inside their vehicle and airlifted them to hospital. This core idea highlights the fact that one of the occupants of the vehicles involved in the accident was unable to get out of their vehicle and required immediate medical attention. The emergency services had to use a helicopter to transport the person to the hospital, which further demonstrates the severity of the situation. This core idea sheds light on the urgency and severity of the situation that the rescuers faced and the immediate action that they had to take to protect the life of the individual."
+    ],
+    "answer": [
+        "I don't think the summary contains the core idea. The aspect mentions that ten people were involved in the accident, including four children, while the summary only mentions the number of vehicles that were involved in the crash without providing any information about the number of people involved.",
+        "This is a true statement.",
+        "It depends on how you define the \"core idea.\" The summary briefly mentions that the two individuals were injured and flown out by the rescue helicopter, but it doesn't explicitly state that they had chest and shoulder injuries and chest pain respectively. Therefore, the aspect provides additional information that is not present in the summary.",
+        "No, the summary does not contain the core idea of the given aspect as it only provides information about the three patients who were flown out by the rescue helicopter after the accident. The aspect specifically mentions that a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out.",
+        "No, not really. The summary only provides information about the accident and the patients being flown out by rescue helicopter, but it does not mention the road closure or diversions.",
+        "No, the aspect does not contain the core idea of the summary. The summary talks about three vehicles colliding on the Brisbane Valley Highway, 2km south of Fernvale, on Wednesday afternoon. It mentions that two people with chest injuries and a six-year-old girl with abdominal pain were flown out by a rescue helicopter. The aspect, on the other hand, mentions that one person was trapped inside their vehicle and airlifted to hospital, but does not mention the other patients or the accident itself."
+    ],
+    "score": [
+        0,
+        5,
+        2,
+        0,
+        0,
+        4
+    ],
+    "mean_score": 1.8333333333333333,
+    "gt_score": 4.166666666675
+}

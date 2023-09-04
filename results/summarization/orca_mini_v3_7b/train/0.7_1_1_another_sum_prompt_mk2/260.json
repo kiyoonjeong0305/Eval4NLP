@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights .",
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights .",
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights ."
+    ],
+    "aspect": [
+        "1. Doncaster Rovers struggles this season, with a 0-0 draw against Fleetwood Town.",
+        "2. Challenging task for Doncaster's media team in highlighting the match.",
+        "3. Football fans recommend watching the 27-second video for a glimpse of the action."
+    ],
+    "explain": [
+        "Doncaster Rovers' season has been underwhelming, with a draw (0-0) against Fleetwood Town, reflecting their mid-table mediocrity in League One.",
+        "Doncaster Rovers' media team encountered a challenging job in preparing the match highlights due to the 0-0 draw between Doncaster Rovers and Fleetwood Town at the Keepmoat Stadium.",
+        "Football fans recommend watching the 27-second video for a glimpse of the action, emphasizing the significance of the short video in showcasing the match highlights."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the given sentence.",
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the sentence and the summary content both revolve around the significance of a short video (27 seconds) in showcasing the match highlights."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 5.0
+}

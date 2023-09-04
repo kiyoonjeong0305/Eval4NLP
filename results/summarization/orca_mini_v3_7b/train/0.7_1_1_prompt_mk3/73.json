@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "holland left tampa , florida , on march 29 . two passengers found dead inside their stateroom on the ship . it 's in san juan , puerto rico .",
+        "holland left tampa , florida , on march 29 . two passengers found dead inside their stateroom on the ship . it 's in san juan , puerto rico .",
+        "holland left tampa , florida , on march 29 . two passengers found dead inside their stateroom on the ship . it 's in san juan , puerto rico ."
+    ],
+    "aspect": [
+        "1. Passengers found dead on cruise ship in Puerto Rico may have died in murder-suicide, according to Holland America Line.",
+        "2. Two guests discovered dead in their stateroom on ms Ryndam, with authorities investigating the incident.",
+        "3. Cruise ship was on a 14-day Southern Caribbean cruise from Tampa, Florida, when the incident occurred."
+    ],
+    "explain": [
+        "The core idea is that the cause of the death of the passengers on the Holland cruise ship in Puerto Rico is being investigated, and Holland America Line suggests it may be a murder-suicide.",
+        "Two guests were found dead in their stateroom on MS Ryndam, with an investigation underway.",
+        "The cruise ship was on a 14-day Southern Caribbean cruise from Tampa, Florida, when the incident occurred, which involved two passengers found dead inside their stateroom."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the given sentence, as it focuses on the location of the ship (Holland cruise ship in Puerto Rico), while the sentence focuses on the cause being investigated (murder-suicide) and Holland America Line's suggestion.",
+        "No, the summary does not contain the context of the given sentence.",
+        "Yes, the summary contains the context of the mentioned sentence."
+    ],
+    "score": [
+        2,
+        1,
+        4
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 3.5
+}

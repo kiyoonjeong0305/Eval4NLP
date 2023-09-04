@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "United's win over Liverpool was their first league win since the 3-0 win over Leicester on March 31 City's win over West Ham was their first league win since the 3-0 win over Chelsea on March 31 Manchester City's win over West Ham was their first league win since the 3-0 win over Chelsea on March 31 Manuel Pellegrini's side are top of the Premier League table, four points clear of Chelsea, who have a game",
+        "United's win over Liverpool was their first league win since the 3-0 win over Leicester on March 31 City's win over West Ham was their first league win since the 3-0 win over Chelsea on March 31 Manchester City's win over West Ham was their first league win since the 3-0 win over Chelsea on March 31 Manuel Pellegrini's side are top of the Premier League table, four points clear of Chelsea, who have a game",
+        "United's win over Liverpool was their first league win since the 3-0 win over Leicester on March 31 City's win over West Ham was their first league win since the 3-0 win over Chelsea on March 31 Manchester City's win over West Ham was their first league win since the 3-0 win over Chelsea on March 31 Manuel Pellegrini's side are top of the Premier League table, four points clear of Chelsea, who have a game"
+    ],
+    "aspect": [
+        "1. Referee Mark Clattenburg to officiate Manchester derby, despite sending off players from both United and City this season.",
+        "2. Clattenburg's alleged favouring of United players is noted, but he has also sent off two City players.",
+        "3. Manchester derby's importance in deciding second place behind Chelsea, with United's recent success and Clattenburg's appointment as referee."
+    ],
+    "explain": [
+        "Referee Mark Clattenburg will be in charge of the Manchester derby, although he has shown red cards to players from both United and City throughout the current season.",
+        "Clattenburg has received criticism for allegedly favoring United players, but he has sent off two City players as well.",
+        "Manchester derby's significance in determining the second position behind Chelsea, considering United's latest triumph and Clattenburg's appointment as referee."
+    ],
+    "answer": [
+        "No, the summary doesn't contain the context presented in the aspect.",
+        "No, the summary does not reflect the context of the given sentence.",
+        "No, the summary does not contain the context of the sentence. The context should be: Manchester derby's importance in deciding second place behind Chelsea, with United's recent success and Clattenburg's appointment as referee."
+    ],
+    "score": [
+        1,
+        1,
+        1
+    ],
+    "mean_score": 1.0,
+    "gt_score": 1.3333333333
+}

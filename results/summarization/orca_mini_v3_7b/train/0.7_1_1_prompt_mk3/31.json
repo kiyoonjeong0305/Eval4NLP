@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open .",
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open .",
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open ."
+    ],
+    "aspect": [
+        "1. River Plate aspire to sign Manchester United's Radamel Falcao, but admit the deal is challenging.",
+        "2. Falcao, formerly of River Plate, has struggled on loan at Manchester United this season, scoring only four Premier League goals.",
+        "3. Falcao has had a successful international week, tying Colombia's all-time goalscoring record with 24 goals, but his future with Man Utd remains uncertain."
+    ],
+    "explain": [
+        "River Plate is looking forward to signing Manchester United's star player Radamel Falcao, but they acknowledge that securing a transaction could be a challenging task.",
+        "Falcao, who played for River Plate before moving to Manchester United, has not had a successful season on loan due to limited goals (4 Premier League goals).",
+        "River Plate is interested in signing Manchester United's Radamel Falcao, but they acknowledge the deal could be challenging due to Falcao's earlier time playing for them. Falcao recently had a successful international week, tying Colombia's all-time goalscoring record, but his future with Manchester United remains uncertain."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary does contain the context of your sentence.",
+        "Yes, the summary contains the context of the provided sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.08333333335
+}

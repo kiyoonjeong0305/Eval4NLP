@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "doncaster drew 0-0 with fleetwood at the keepmoat stadium on saturday . doncaster's media team faced a tough task compiling the match highlights . so they made it short and sweet, just 27 seconds in fact with 14 seconds of match action . just enough time for the kick off, a goal kick and the final whistle .",
+        "doncaster drew 0-0 with fleetwood at the keepmoat stadium on saturday . doncaster's media team faced a tough task compiling the match highlights . so they made it short and sweet, just 27 seconds in fact with 14 seconds of match action . just enough time for the kick off, a goal kick and the final whistle .",
+        "doncaster drew 0-0 with fleetwood at the keepmoat stadium on saturday . doncaster's media team faced a tough task compiling the match highlights . so they made it short and sweet, just 27 seconds in fact with 14 seconds of match action . just enough time for the kick off, a goal kick and the final whistle ."
+    ],
+    "aspect": [
+        "1. Doncaster Rovers struggles this season.",
+        "2. Goalless draw between Doncaster Rovers and Fleetwood Town.",
+        "3. Short match highlights posted on YouTube."
+    ],
+    "explain": [
+        "Doncaster Rovers are having a challenging season, as evident in their recent draw against Fleetwood, highlighted by the team's difficulty in putting together comprehensive match highlights. The summary suggests that the media team's efforts were brief but included the starting and ending points of the match, emphasizing the underwhelming nature of this particular fixture.",
+        "A goalless draw took place between Doncaster Rovers and Fleetwood Town, with the media team facing difficulties in presenting the game highlights due to the lack of goals, resulting in a short highlight video lasting only 27 seconds.",
+        "The match highlights for the Doncaster vs. Fleetwood draw were kept brief, lasting only 27 seconds on the video, showcasing the kick off, a goal kick, and the final whistle, effectively conveying the main points of the match."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of that sentence, highlighting Doncaster Rovers' struggles this season.",
+        "Yes",
+        "Yes, the summary does contain the context of the sentence you provided. It mentions the short duration of the match highlights, which lasted 27 seconds and focused on the essential aspects of the match (kick off, goal kick, and final whistle)."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.583333333325
+}

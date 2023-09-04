@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first .",
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first .",
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first ."
+    ],
+    "aspect": [
+        "1. Carlos Tevez wants to leave Juventus for Boca Juniors this summer.",
+        "2. Boca Juniors are close to completing a deal, but Tevez needs to terminate his contract with Juventus first.",
+        "3. Juventus have started identifying potential replacements, with Mauro Icardi, Jeremy Menez, and Tevez's Argentina future."
+    ],
+    "explain": [
+        "Carlos Tevez seeks to transfer from Juventus to Boca Juniors and desires this move to take place in the upcoming summer.",
+        "Boca Juniors are almost done with negotiating the transfer, but Carlos Tevez's contract with Juventus must be officially canceled by the player himself before the transfer can be finalized.",
+        "Juventus is considering possible replacements for Carlos Tevez, including Mauro Icardi, Jeremy Menez, and Tevez's potential future with Argentina's football team."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the sentence you provided. It states that Boca Juniors are close to sealing a deal for Tevez, but he must first terminate his contract with Juventus for the transfer to be finalized.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.75
+}

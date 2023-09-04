@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the collector 's paradise in horfield , bristol , has gone untouched for more than 80 years . original features including stained-glass windows , oil-fired central heating and retro jars of popular food . with features that were once commonplace but are now considered decidedly old-fashioned , the semi-detached property has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , has gone untouched for more than 80 years . original features including stained-glass windows , oil-fired central heating and retro jars of popular food . with features that were once commonplace but are now considered decidedly old-fashioned , the semi-detached property has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , has gone untouched for more than 80 years . original features including stained-glass windows , oil-fired central heating and retro jars of popular food . with features that were once commonplace but are now considered decidedly old-fashioned , the semi-detached property has a guide price of between # 200,000 and # 250,000 ."
+    ],
+    "aspect": [
+        "1. Unchanged 1930s timewarp home up for sale in Bristol, complete with original features, including stained-glass windows, oil-fired central heating, and retro food.",
+        "2. Semi-detached property, guide price between £200,000 and £250,000, remains untouched for over 80 years, ideal for collectors or antique lovers.",
+        "3. Historic house comes with original 1930s cupboards, stained-glass windows, and vintage features, including a dated mint and black bathroom, ideal for families with a passion for antiques."
+    ],
+    "explain": [
+        "A 1930s historic home in Bristol remains untouched and preserved like a 'collector's paradise' even after eight decades, featuring original features such as stained-glass windows, oil-fired central heating, and vintage food items, which are now considered retro and unique. The property is up for sale with a guide price range of £200,000 to £250,000.",
+        "The collector's paradise, a semi-detached property from the 1930s, has remained untouched for over 80 years and is available at an affordable guide price of £200,000 to £250,000. It is a timeless gem with original features like stained glass windows and oil-fired central heating, making it an ideal investment for collectors or antique lovers.",
+        "The historic house is an untouched collector's paradise with original features from the 1930s, such as stained-glass windows, oil-fired central heating, retro jars of food, and vintage bathroom design, perfect for families with a passion for antiques."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the context of this sentence is present in the summary.",
+        "No, the summary does not contain the context of that sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.16666666665
+}

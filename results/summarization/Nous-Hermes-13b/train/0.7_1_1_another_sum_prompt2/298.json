@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise.",
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise.",
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise.",
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise.",
+        "Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide, the cruise line said. UPDATE: Holland America said the two passengers were found dead in their stateroom, but did not provide details. The ship left Tampa, Florida, on March 29 on a 14-day Southern Caribbean cruise."
+    ],
+    "aspect": [
+        "1. Two passengers found dead on a cruise ship in Puerto Rico appear to have died in a murder-suicide. ",
+        "2. The cruise line said two guests were found dead inside their stateroom. ",
+        "3. The cabin was immediately secured and authorities were notified. ",
+        "4. The ship is currently in San Juan, Puerto Rico. ",
+        "5. The cleaning staff discovered the deceased passengers after knocking on their cabin's door."
+    ],
+    "explain": [
+        "One of the core ideas of this aspect is that there was a murder-suicide on a cruise ship. This means that two passengers were found dead and it is believed that one of them killed the other before taking their own life.",
+        "The core idea of this aspect is that two passengers were found dead in their stateroom on the cruise ship in Puerto Rico.",
+        "The aspect states that the cabin where the two deceased passengers were found was immediately secured by Holland America staff and local authorities were notified. This likely refers to the cruise line contacting law enforcement officials in Puerto Rico to investigate the suspicious deaths. Securing the cabin may also have involved preserving evidence and preventing unwanted access while the situation was being addressed. This decision shows that the cruise line took immediate and appropriate action to address the situation and cooperate with authorities.",
+        "The aspect states that the cruise ship is currently in San Juan, Puerto Rico. It does not provide any additional information about the reason for the ship's location in San Juan.",
+        "The aspect highlights that the cleaning staff discovered the deceased passengers after knocking on their cabin's door. This means that the cleaning staff had knocked on the door, waited for a response and when there was no response, they entered the cabin to find the passengers unresponsive."
+    ],
+    "answer": [
+        "No, the core idea of the aspect is not contained within the summary. The summary only states that two passengers were found dead in a murder-suicide, but does not provide any additional details about the incident or who the two passengers were.",
+        "Not much information is given about the aspect in the summary. The summary only mentions that two passengers were found dead in their stateroom but does not provide any details.",
+        "It is impossible for me to determine if the summary contains the core idea based solely on the given aspect. I would need to read the summary to determine if it contains any relevant information related to the aspect.",
+        "The core idea of the given aspect is the current location of the cruise ship, which is San Juan, Puerto Rico.",
+        "No, the summary does not contain the core idea of the given aspect. The aspect provides additional information about how the cleaning staff discovered the deceased passengers, while the summary focuses on the fact that the two passengers died in a murder-suicide."
+    ],
+    "score": [
+        0,
+        0,
+        0,
+        5,
+        0
+    ],
+    "mean_score": 1.0,
+    "gt_score": 3.83333333335
+}

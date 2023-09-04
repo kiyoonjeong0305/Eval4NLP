@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . ` the hour record is a holy grail for cyclists , ' wiggins said .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . ` the hour record is a holy grail for cyclists , ' wiggins said .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . ` the hour record is a holy grail for cyclists , ' wiggins said ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins to attempt cycling's hour record on June 7 at London's Olympic Velodrome.",
+        "2. Four-time Olympic champion and 2012 Tour de France winner, who finished his Team Sky career on April 28.",
+        "3. Wiggins aims to add to his accomplishments by riding the furthest distance in 60 minutes at the Lee Valley VeloPark."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins, a four-time Olympic champion and 2012 Tour de France winner, is set to bid for cycling's hour record on June 7 at London's Olympic Velodrome. This will be a significant achievement in his career, as he aims to add to his accomplishments by breaking the existing distance record in 60 minutes. Cyclists consider the hour record as a holy grail, highlighting its significant achievement within the sport.",
+        "Sir Bradley Wiggins is a well-accomplished cyclist with four Olympic championships and a win in the 2012 Tour de France, retiring from his Team Sky career on April 28.",
+        "Sir Bradley Wiggins targets to achieve a significant achievement in cycling by aiming to ride the farthest distance in an hour at the Lee Valley VeloPark, adding to his previous accomplishments."
+    ],
+    "answer": [
+        "No, the context of the given sentence is not entirely present in the summary. The summary provides an overview of the event but does not explain the context or significance of Sir Bradley Wiggins attempting cycling's hour record in detail.",
+        "Yes, the summary does contain the context of the given sentence because both mention Sir Bradley Wiggins' numerous cycling achievements, including four Olympic championships, a Tour de France victory, and his retirement from Team Sky on April 28.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        2,
+        4,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.75
+}

@@ -1,0 +1,54 @@
+{
+    "summary": [
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half."
+    ],
+    "aspect": [
+        "1. United's Under 18s won 1-0 against City in a 'mini-derby' match.",
+        "2. The match was played at Moss Lane stadium in Altrincham with free entry for spectators.",
+        "3. United's team had an English feel with 13 out of 22 players being English and 10 being Mancunian.",
+        "4. Callum Gribbin scored the only goal with a free-kick.",
+        "5. Kits aside, the match was as far removed from the big match as you could imagine.",
+        "6. City's Joe Hart-a-like goalkeeper Charlie Albinson conceded a goal.",
+        "7. United's Cameron Borthwick-Jackson's shot hit the bar and post.",
+        "8. Both teams have two matches left in the play-off series."
+    ],
+    "explain": [
+        "The aspect states that United's Under 18s won their recent match against Manchester City by a score of 1-0.",
+        "The given aspect highlights that the Moss Lane stadium in Altrincham, where the match between United and Rochdale was played, allowed free entry for spectators.",
+        "This aspect highlights the strong English presence within United's team during the match, with a significant number of players being English and having ties to Manchester.",
+        "The aspect highlights that the Manchester United youth coach, Callum Gribbin, scored the only goal of the game with a free-kick during a friendly match.",
+        "The aspect states that the given match between United and City was a much different experience from a typical big match. There were several factors that contributed to this, including the use of young, inexperienced players, and the difference in level of play when compared to the typical intensity of a big rivalry game.",
+        "The aspect mentions the goalkeeper Charlie Albinson, who is a Joe Hart look-a-like and conceded a goal. This implies that the goalkeeper, who is known for his similarities to another famous goalkeeper, made a mistake and allowed the opposing team to score a goal. This further highlights how United were on top for the majority of the half and their opponents had difficulty keeping them at bay.",
+        "The aspect is highlighting an unfortunate event that occurred during United's game. The shot taken by Cameron Borthwick-Jackson hit the bar and then the post resulting in no goal. It demonstrates that sometimes even when the team played well, things might not go as planned.",
+        "The given aspect states that both teams have two matches left in the play-off series. This means that whoever is playing has not yet won the championship and has two more chances to advance towards it."
+    ],
+    "answer": [
+        "The summary mentions that United's Under 18s are at their best and are on top for the majority of the half. However, it does not contain any specific details about the team's win against City in the mentioned match.",
+        "Yes, the summary does contain the core idea about free entry for spectators at the Moss Lane stadium in Altrincham.",
+        "It's not necessarily clear from the summary alone, but the aspect provides further detail and context to the match by emphasizing the English connection within United's team.",
+        "No",
+        "Well, yes, the summary does mention some of the characteristics that the aspect mentions, such as United going ahead, playing well for the majority of the half, and their young team being at their best. However, it does not fully capture the essence of the aspect, which is that the match was quite different from a typical big match between the two teams.",
+        "Not entirely, while the summary mentions that United went in front after Rashford headed home a free-kick from Gribbin, it does not specifically mention the goalkeeper conceding a goal. However, the aspect provided does mention this and further explains how the goalkeeper's mistake allowed United to take the lead.",
+        "It is not clear from the summary that the aspect refers to Borthwick-Jackson's shot hitting the bar and post. The summary does not mention this event.",
+        "If you have any doubts, please let me know."
+    ],
+    "score": [
+        0,
+        5,
+        3,
+        3,
+        3,
+        3,
+        0,
+        4
+    ],
+    "mean_score": 2.625,
+    "gt_score": 3.5
+}

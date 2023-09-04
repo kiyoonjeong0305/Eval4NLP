@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website .",
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website .",
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website .",
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website .",
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website ."
+    ],
+    "aspect": [
+        "- A North Pacific gray whale named Varvara set a record for the longest migration of a mammal ever recorded, swimming 14,000 miles from Russia to Mexico.",
+        "- The journey surpassed a previous record set by a humpback whale.",
+        "- Varvara's trip might say more about her as a whale than just her ability to swim.",
+        "- Varvara visited three major breeding areas for eastern gray whales, which suggests that some western gray whales might actually be eastern grays.",
+        "- With only 150 western gray whales believed to exist, the new information could mean that the number is even lower."
+    ],
+    "explain": [
+        "The aspect highlights that Varvara, a North Pacific gray whale, set a record for the longest migration of a mammal ever recorded. According to the study conducted by Oregon State University, Varvara swam nearly 14,000 miles from Russia to Mexico. This surpassed the record listed on the Guinness Worlds Records website.",
+        "The given aspect highlights that the journey of the north Pacific gray whale, Varvara, has surpassed the previous record set by a humpback whale. It indicates that the journey of Varvara is the longest mammal migration ever recorded, and it is even more remarkable because it surpasses the previous record set by another species of whale. This aspect adds to the significance of Varvara's achievement and emphasizes how impressive her journey really is.",
+        "The aspect highlights the exceptional ability of Varvara, the gray whale that completed the longest migration of a mammal ever recorded. It suggests that Varvara's feat may be an indicator of her innate abilities, in addition to her physical strength and stamina. The aspect could also imply that Varvara's exceptional journey may reflect positively on her character or species as a whole.",
+        "The aspect states that the whale, called Varvara, visited three major breeding areas for Eastern Gray whales, which suggests that some Western Gray whales might actually be Eastern Grays. This means that Varvara's breeding behavior and migration patterns are closely related to Eastern Gray whales, suggesting that they may be a subspecies of the Eastern Gray whale instead of a separate species.",
+        "With only 150 western gray whales believed to exist, the new information could mean that the number is even lower, suggesting that they might be a rare species."
+    ],
+    "answer": [
+        "Yes, the summary does contain the core idea, which is that Varvara set the record for the longest migration of a mammal ever recorded.",
+        "The aspect of the journey surpassing a previous record set by a humpback whale adds to the significance of Varvara's achievement and emphasizes how impressive her journey really is. It is not the core idea of the summary.",
+        "I would need more context about the situation and the aspect mentioned to provide an accurate response. Could you please clarify what you are asking me to do?",
+        "I'm sorry, I'm not sure what you are asking for. Could you please restate your question or provide me with more context?",
+        "I'm sorry but I'm not sure what you mean. Could you please rephrase your question?"
+    ],
+    "score": [
+        5,
+        4,
+        4,
+        4,
+        0
+    ],
+    "mean_score": 3.4,
+    "gt_score": 4.75
+}

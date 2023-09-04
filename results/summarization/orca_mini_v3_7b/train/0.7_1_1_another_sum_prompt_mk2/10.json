@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour."
+    ],
+    "aspect": [
+        "1. Man accused of 2012 murder allegedly suffering from dementia and alcohol abuse at the time of the incident.",
+        "2. Triple 0 calls during the attack suggest mood fluctuation, and faeces found at the scene indicate compromised mental state.",
+        "3. Prosecution claims Costa feigned memory issues, while defence argues dementia likely influenced his actions."
+    ],
+    "explain": [
+        "The man accused of murder, Luigi Costa, may have been suffering from dementia and alcohol abuse at the time of the incident, which could make him less culpable for the crime.",
+        "In this case, the presence of triple 0 calls (emergency calls) and the discovery of feces at the crime scene suggests that the alleged murderer, Luigi Costa, might have been experiencing changes in his mental state during the attack due to possible mood fluctuations. This could have potentially impacted his decision-making abilities and behavior during the incident.",
+        "The prosecution claims that Costa falsely claimed memory issues, while the defense maintains that dementia likely played a role in Costa's actions."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of this sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.66666666665
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions .",
+        "foxes are currently seven points adrift at the bottom of the premier league . esteban cambiasso says the foxes will be up there with the best . the foxes are also seven points behind leicester city . the argentinian midfielder has won a cup in european competitions ."
+    ],
+    "aspect": [
+        "1. Esteban Cambiasso, a player with many European competitions under his belt, says that keeping Leicester City in the Premier League would be up there with the best achievements.",
+        "2. Cambiasso joined the team in the summer and has quickly established himself as a crucial player.",
+        "3. The former Inter Milan star remains optimistic about saving Leicester and staying in the Premier League despite their current standing at the bottom of the table."
+    ],
+    "explain": [
+        "Esteban Cambiasso, a player with numerous European achievements, suggests that maintaining Leicester City's presence in the Premier League would be considered a significant accomplishment, similar to the best achievements.",
+        "Cambiasso joined the team in the summer and has become an important player since then, contributing significantly to the team's performance.",
+        "Although Leicester City (foxes) is currently at the bottom of the Premier League with a 7-points deficit, ex-Inter Milan star Cambiasso remains optimistic about their chances of saving the team and staying in the league, despite their current standing."
+    ],
+    "answer": [
+        "No",
+        "No, the summary does not contain the context of the provided sentence.",
+        "No"
+    ],
+    "score": [
+        1,
+        1,
+        1
+    ],
+    "mean_score": 1.0,
+    "gt_score": 2.333333333325
+}

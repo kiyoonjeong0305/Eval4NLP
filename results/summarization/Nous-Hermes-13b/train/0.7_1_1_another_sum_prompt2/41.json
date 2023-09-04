@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines .",
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines .",
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines .",
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines ."
+    ],
+    "aspect": [
+        "- Four-year-old James Hayward had his toy gun confiscated at East Midlands Airport.",
+        "- Security officers deemed the plastic nerf gun a security risk and demanded James hand it over. ",
+        "- The boy's father criticized the security checks and staff's reaction. ",
+        "- The family bought James a new toy gun after returning from their holiday in Lanzarote."
+    ],
+    "explain": [
+        "The aspect provides information about a four-year-old boy named James Hayward who had his toy gun confiscated at East Midlands Airport.",
+        "James' harmless toy was deemed security risk by the \"over-zealous\" security officers, which led to them demanding that he hand it over.",
+        "The aspect mentions the father's criticism of the security checks and staff's reaction. \n\nRephrase the core idea: The aspect highlights the father's dissatisfaction with the security measures and the response of the staff.",
+        "The aspect states that the family bought James a new toy gun after returning from their holiday in Lanzarote. This suggests that the original toy gun taken away from him at the airport was of some importance to him and that he missed it while on holiday. The family likely bought a new one to replace the old one and to help James feel more comfortable while playing with toy guns."
+    ],
+    "answer": [
+        "YES / NO (depending on whether or not the summary contains the core idea)",
+        "Yes, the summary contains the core idea that the security officers deemed James' harmless toy a security risk and demanded he hand it over.",
+        "The summary mentions that a four-year-old boy's plastic nerf gun was taken away by security at East Midlands airport because it was considered a security risk. The aspect talks about the father's criticism of the security checks and staff's reaction. So, I would say that these two pieces of information are related but not exactly the same. It seems that the summary doesn't fully contain the core idea of the aspect.",
+        "The summary does not contain any information about the family buying James a new toy gun after returning from their holiday in Lanzarote. Therefore, the aspect is not related to the summary."
+    ],
+    "score": [
+        5,
+        5,
+        3,
+        0
+    ],
+    "mean_score": 3.25,
+    "gt_score": 4.16666666665
+}

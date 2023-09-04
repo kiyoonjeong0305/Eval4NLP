@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy .",
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy .",
+        "leicester city are seven points adrift at the bottom of the table . the foxes are currently seven points adrift at the bottom of the table . esteban cambiasso refuses to give up and admits that keeping leicester up will feel like winning a trophy ."
+    ],
+    "aspect": [
+        "1. Esteban Cambiasso, an Argentinian midfielder, has won multiple European competitions during his career, but helping Leicester City remain in the Premier League would be a significant achievement for him.",
+        "2. Cambiasso joined Leicester City in the summer, committed to a one-year deal, and has quickly established himself as a key player.",
+        "3. Cambiasso is focused on saving Leicester from relegation and believes that avoiding the drop would feel like winning a trophy."
+    ],
+    "explain": [
+        "Esteban Cambiasso's achievement of helping Leicester City stay in the Premier League would be a significant and rewarding endeavor, as it surpasses his previous European competition victories for him.",
+        "Esteban Cambiasso joined Leicester City in the summer, agreeing to a one-year deal. Since then, he has played a crucial role in the team, and being a part of helping Leicester City avoid relegation would mean as much to him as winning a trophy.",
+        "Cambiasso is dedicated to keeping Leicester City from being relegated and believes that achieving this goal would be a substantial achievement, comparable to winning a trophy."
+    ],
+    "answer": [
+        "Yes\n\nSummary should be rewritten (rephrased):\n\"Leicester City, currently seven points adrift at the bottom of the table, has an Argentinian midfielder, Esteban Cambiasso, who refuses to give up and believes keeping the team up would feel like winning a trophy, as he considers it a more substantial achievement compared to his previous European competitions triumphs.\"",
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.91666666665
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the gun was inside a hard rifle case and was 'secured properly' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window, tying a rope around the rifle case's handle or a cable lock, and using the momentum from another vehicle to then break the case's handle free from the lock . the rifle's serial number has been entered into the national crime information computer .",
+        "the gun was inside a hard rifle case and was 'secured properly' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window, tying a rope around the rifle case's handle or a cable lock, and using the momentum from another vehicle to then break the case's handle free from the lock . the rifle's serial number has been entered into the national crime information computer .",
+        "the gun was inside a hard rifle case and was 'secured properly' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window, tying a rope around the rifle case's handle or a cable lock, and using the momentum from another vehicle to then break the case's handle free from the lock . the rifle's serial number has been entered into the national crime information computer ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot.",
+        "2. The rifle was secured properly but was stolen by breaking the window and using a rope to break the handle.",
+        "3. The agent's gear bag, backpack, and some clothing were also stolen."
+    ],
+    "explain": [
+        "An FBI agent's snipers rifle was stolen from a parking lot in Salt Lake City, where the gun was secured properly. The thief allegedly broke the rear window, tied a rope around the rifle's handle or cable lock, and used another vehicle's momentum to break the rifle free from its lock. The serial number has been entered into the national crime information computer for tracking purposes.",
+        "The rifle was properly secured, but the thief managed to break the locked case and window by using a rope to free the rifle's handle from the lock and tap into the momentum of another vehicle to gain momentum.",
+        "The thief stole the agent's gear bag, backpack, and some clothing."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of this sentence, as it mentions the rifle being stolen and the other items taken."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.583333333325
+}

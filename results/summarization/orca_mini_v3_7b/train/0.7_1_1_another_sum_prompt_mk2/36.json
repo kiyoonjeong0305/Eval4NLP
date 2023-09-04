@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "a gang of at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning and set the vehicle on fire . the driver of the car , who has not been identified , said he got into an argument with the suspects while he was pumping gas at a 76 station in south los angeles around 12:15am on saturday . the group covered his white dodge charger in gasoline and lit it ablaze while there were two passengers inside .",
+        "a gang of at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning and set the vehicle on fire . the driver of the car , who has not been identified , said he got into an argument with the suspects while he was pumping gas at a 76 station in south los angeles around 12:15am on saturday . the group covered his white dodge charger in gasoline and lit it ablaze while there were two passengers inside .",
+        "a gang of at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning and set the vehicle on fire . the driver of the car , who has not been identified , said he got into an argument with the suspects while he was pumping gas at a 76 station in south los angeles around 12:15am on saturday . the group covered his white dodge charger in gasoline and lit it ablaze while there were two passengers inside ."
+    ],
+    "aspect": [
+        "1. A group of three people set fire to a car at a gas station in South Los Angeles, resulting in an argument with the driver. ",
+        "2. The driver and two passengers were not hurt, but the car was completely ruined.",
+        "3. The Los Angeles County Fire Department is investigating the incident as an arson, and the suspects remain at large."
+    ],
+    "explain": [
+        "A possible aspect summary could be \"A gang of three individuals ignites a car at a gas station in South Los Angeles following an altercation with the driver, leaving two passengers inside.\"",
+        "The car was completely destroyed in the fire while two passengers were inside the car. However, none of the three people involved - the driver and passengers - were injured due to the incident.",
+        "The Los Angeles County Fire Department investigates the incident as a possible arson committed by at least three people, while the suspects are still on the loose, in an unidentified car in South Los Angeles."
+    ],
+    "answer": [
+        "No, the summary does not accurately represent the context of the given sentence. It primarily focuses on the action of pouring gasoline and setting the vehicle on fire.",
+        "Yes, the summary contains the context of that sentence.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        2,
+        4,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.66666666665
+}

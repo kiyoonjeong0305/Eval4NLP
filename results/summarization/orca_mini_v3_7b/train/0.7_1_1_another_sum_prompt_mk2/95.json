@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on a tourist 's camera .",
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on a tourist 's camera .",
+        "the queen 's guard was left red-faced after he slipped on a manhole cover during the popular changing of the guard . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on a tourist 's camera ."
+    ],
+    "aspect": [
+        "1. A Queen's Guard slipped and fell on a manhole cover during the Changing of the Guard at Buckingham Palace, embarrassing himself in front of hundreds of tourists.",
+        "2. The incident was caught on camera, and the guard quickly regained his composure as his fellow guards marched past.",
+        "3. The guard's slip-up was thought to be caused by the metal protectors nailed to the soles of his boots, and despite being fully operational soldiers, the Changing of the Guard is still a popular attraction for tourists in London."
+    ],
+    "explain": [
+        "The Queen's Guard was humiliated in front of many visitors at Buckingham Palace when he fell on a manhole cover during the well-attended Changing of the Guard ceremony.",
+        "The guard's embarrassing slip-and-fall was captured by a tourist's camera, but he managed to recover his composure as the ceremony continued, while his fellow guards performed their duties normally.",
+        "The guard's slip-up was likely due to the metal protectors on his boots, and the Changing of the Guard in London remains a popular tourist attraction."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence in question.",
+        "No, the summary does not contain the context of the given sentence.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.833333333325
+}

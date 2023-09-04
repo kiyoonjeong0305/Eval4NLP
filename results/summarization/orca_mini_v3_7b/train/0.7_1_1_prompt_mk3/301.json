@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins will hope to race in front of a sell-out crowd at london 's olympic velodrome ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins will attempt cycling's hour record at London's Olympic Velodrome on June 7. 2. Wiggins, a four-time Olympic champion, is known for his significant achievements in cycling and other sports. 3. The world time-trial champion is aiming to break the current record of 52.491km and inspire others to challenge themselves."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins, a world-renowned cyclist, will attempt to break the cycling hour record at London's Olympic Velodrome on June 7. With his impressive track record in cycling and other sports, Wiggins is looking to surpass the current record of 52.491km and inspire others to challenge themselves."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.\n\nDo you REALLY think the aspect should be summarized separately? Yes, the aspect should be summarized separately so we can understand the main points of Sir Bradley Wiggins' attempt at cycling's hour record. In this case, the aspect highlights Wiggins' accomplishments, the nature of his attempt at the cycling hour record, and his goal of inspiring others."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.333333333325
+}

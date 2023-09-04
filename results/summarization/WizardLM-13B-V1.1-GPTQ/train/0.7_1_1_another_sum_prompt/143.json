@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large ."
+    ],
+    "aspect": [
+        "1. A man robbed a Christchurch dairy wearing a distinctive cartoon mask.",
+        "2. The offender is very tall and made off with the dairy's till and $1,500 in cash.",
+        "3. The police are appealing to the public for help identifying the man."
+    ],
+    "explain": [
+        "The core idea of the given aspect is that a man, who robbed a Christchurch dairy, wore a distinctive cartoon mask during the robbery. The wearing of the mask served as a distinguishing feature in the incident, making the robber stand out and easily recognizable.",
+        "\nThe core idea of this aspect is that the offender is very tall and committed the robbery at the Christchurch dairy wearing a distinctive cartoon mask. He stole the till containing cash and cash from the dairy, and the police are appealing to the public to help identify him. Despite the absence of any signs of weapons used in the robbery, the offender remains at large, posing a threat to public safety. The offender's height and the value of the stolen cash underscore the significance of the crime.",
+        "\n\nThe police appealing to the public for help identifying the man is crucial in solving the case of the robbery at the Christchurch dairy. The officials need the assistance of community members to gather any information or leads that could help identify the man wearing the distinctive cartoon mask during the crime. Public cooperation can significantly improve the chances of finding the perpetrator and bringing them to justice."
+    ],
+    "answer": [
+        "\nYes, I believe that the summary does contain the core idea. The first sentence of the summary clearly states that the New Zealand police are appealing to the public to help identify a man who robbed a Christchurch dairy while wearing a distinctive cartoon mask. This detail is the aspect in question, and it provides a unique description of the perpetrator, making it easier for the public to recognize him.",
+        "\nNo, the summary does not contain the core idea. \nWhile the summary mentions the offender's height and the amount of cash stolen, it does not mention the distinctive cartoon mask or emphasize the appeal to the public for help in identifying the offender. This information is crucial to understanding the main points of the aspect. \nIn addition to the offender's height, the aspect relays that the mask he wore was 'distinctive,' which may be an important identifier for potential witnesses. Moreover, the aspect highlights that the police are seeking public assistance in identifying the suspect, which is a vital detail not explicitly stated in the summary.",
+        "No"
+    ],
+    "score": [
+        5,
+        2,
+        3
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.75
+}

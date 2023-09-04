@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff .",
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff .",
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff .",
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff .",
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff .",
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff .",
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff ."
+    ],
+    "aspect": [
+        "- A young accountant died after falling down a 70ft cliff when he ran from a taxi to avoid paying the fare.",
+        "- The taxi driver wouldn't have left the accountant if he knew where they were.",
+        "- The accountant plunged down the cliff when he leapt over a fence in the dark.",
+        "- The accountant's death was an accident due to disorientation and the sheer drop off the cliff.",
+        "- The accountant worked for Pretty Green and grew up in Wales before studying accountancy.",
+        "- The accountant and his friends didn't have enough money to complete their journey, so they tricked the driver.",
+        "- The accountant ran off into the pitch black and fell down a cliff at the end of the disused Northern Promenade."
+    ],
+    "explain": [
+        "The core idea of this aspect is that a young accountant, Jacob Phillips, died after falling down a 70ft cliff when he ran from a taxi to avoid paying the fare.",
+        "The aspect suggests that the taxi driver had left Jacob even though he didn't pay the fare. If he knew where Jacob was, he wouldn't have abandoned him. This shows that Jacob was likely in a dangerous situation, and the taxi driver didn't take the necessary steps to ensure his safety.",
+        "The core idea of this aspect is that Jacob Phillips, the missing person in the summary, tragically fell off a cliff while trying to leap over a fence in the dark.",
+        "The core idea of this aspect is that the accountant's death was an accident caused by disorientation while at the base of the cliff and the sheer drop off that led to his unfortunate fall.",
+        "The aspect gives information about the profession and origin of the deceased person, Jacob Phillips. It states that he worked as an accountant for a company named Pretty Green and had grown up in Wales before studying accountancy. The information about his profession and his roots provides more insight into his background and personal life.",
+        "Jacob Phillips and his friends tried to trick the taxi driver by not paying the full fare, but they ended up having to jump out of the cab and run away. This action could be seen as a desperate measure and it ultimately led to his tragic death.",
+        "The core idea of this aspect is that the accountant, after being unable to pay for a cab ride home after a night out with friends, jumped over a fence in the dark and fell down a cliff at the end of the disused Northern Promenade. This led to his demise. The aspect highlights the unfortunate chain of events that resulted in his death, which started with a seemingly small issue of not having enough money to pay for the cab."
+    ],
+    "answer": [
+        "The summary does not contain the core idea of this aspect.",
+        "Based on the given aspect, it does not seem that the core idea of the summary is related to the taxi driver leaving Jacob. The summary is about Jacob leaping over a fence in the dark and plunging down the cliff when he did so, not about the actions of the taxi driver.",
+        "\nYes, I do agree that the aspect contains the core idea of the summary.",
+        "NO! The summary doesn't contain the core idea of the aspect. The aspect describes the cause of Mr. Phillips' death as an accident due to disorientation and the sheer drop off the cliff, while the summary only mentions that Mr. Phillips plunged down the cliff when he leapt over a fence in the dark.",
+        "No, the aspect provided does not seem to contain the core idea of the summary. The summary is about a man named Jacob Phillips who died after falling off a cliff while trying to jump over a fence in the dark. The aspect, on the other hand, talks about his profession and where he grew up, which provides information about his personal life, but does not directly relate to how he died.",
+        "Yes, I do. The summary mentions that Mr. Phillips jumped over a fence in the dark and fell down the cliff after leaping over a fence in the dark. This can be interpreted as a desperate measure that he took in order to escape from something or someone, which eventually led to his tragic death.",
+        "No, I don't think the summary contains the core idea as it only provides some general information about the incident without explicitly mentioning the reason for the accountant's actions. The aspect, on the other hand, specifically explains that the accountant jumped over a fence in the dark and fell down a cliff because he couldn't pay for a cab ride home."
+    ],
+    "score": [
+        0,
+        3,
+        5,
+        0,
+        0,
+        4,
+        1
+    ],
+    "mean_score": 1.8571428571428572,
+    "gt_score": 4.41666666665
+}

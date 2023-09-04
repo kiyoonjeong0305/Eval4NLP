@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent .",
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent .",
+        "radamel falcao 's former monaco team-mate nabil dirar believes the colombian must be regretting his failed loan move to manchester united even though he was not happy in france . the former atletico madrid striker has struggled to reach the heights he achieved before suffering a serious knee injury . united will have to pay # 46million to make falcao 's transfer permanent ."
+    ],
+    "aspect": [
+        "1. Radamel Falcao moved to Manchester United on a season-long loan last summer.",
+        "2. Falcao has struggled to find his form due to a serious knee injury and has only scored four goals this season.",
+        "3. Nabil Dirar, Falcao's former teammate, thinks Falcao would have been better off staying at Monaco, where he would have played more and participated in the Champions League."
+    ],
+    "explain": [
+        "To give a detailed description or account of something, focusing on the essential features or main points.\n\nBased on the given summary and aspect, the core idea is that Radamel Falcao completed a season-long loan move to Manchester United last summer. This loan move was expected to help Falcao regain his form and confidence after a serious knee injury, but it seems that he has struggled to adapt to the Premier League. Despite this, his loan deal expires this summer, and Manchester United has the option to make his transfer permanent by paying a fee of £46 million.\n\nIt's interesting to note that Falcao wasn't happy playing for his previous club, Monaco, and according to his former team-mate Nabil Dirar, he might be regretting his failed loan move to Manchester United, as he has not been able to live up to his previous success due to his knee injury.",
+        "Falcao's struggle to find his form and scoring four goals this season can be attributed to his serious knee injury. He has not fully recovered from the injury, which has affected his performance and productivity. This injury suffered during his time at Monaco has likely contributed to his dissatisfaction with his experiences at Manchester United, despite not being content in France beforehand. The uncertainty of his future at the club and the potential #46 million fee to make his transfer permanent adds to the complexity of his situation.",
+        "To make clear or evident; to set forth in detail.\n\nSummary: Radamel Falcao, a former striker for Monaco, had a failed loan move to Manchester United. Although Falcao was not happy in France, Nabil Dirar, Falcao's former teammate, believes he may be regretting this decision. Falcao struggled to reach the heights he achieved before his serious knee injury in his time at United. The club would need to pay £46 million to make Falcao's transfer permanent.\n\nAspect: 3. Nabil Dirar, Falcao's former teammate, thinks Falcao would have been better off staying at Monaco, where he would have played more and participated in the Champions League.\n\nIn a nutshell, the given aspect highlights Nabil Dirar's opinion that Falcao could have better benefited from staying at Monaco, where he could have enjoyed more playing time and participated in the Champions League. This suggestion implies that Falcao might have had better opportunities for success if he had stayed at his former club. However, it's important to note that Falcao had a serious knee injury prior to his time at United, which may have limited his performance regardless of his club choice."
+    ],
+    "answer": [
+        "\nAspect 1. Radamel Falcao moved to Manchester United on a season-long loan last summer.\n\nNo, the summary does not contain the core idea. While the aspect mentions that Falcao moved to Manchester United on a loan last summer, the summary also provides additional information about his struggles and the possibility of a permanent transfer for £46 million.",
+        "\nNo, the summary does not contain the core idea. The core idea is that Falcao's struggle to find his form and scoring four goals this season can be attributed to his serious knee injury, which has likely contributed to his dissatisfaction with his experiences at Manchester United. The summary only mentions that Falcao has struggled to reach the heights he achieved before his serious knee injury but does not directly link this struggle to his current situation at Manchester United.",
+        "Yes, the summary does contain the core idea. The summary provides a brief overview of the situation, mentioning Falcao's failed loan move to Manchester United, his struggles to reach his previous form, and the £46 million price tag for a permanent transfer. Although the aspect itself does not directly state this, the idea that Falcao might have benefited from staying at Monaco is implied in the context of the summary. The aspect is an additional detail that adds value to the understanding of the situation, but it is not crucial to the core idea of the summary, which is that Falcao's time at Manchester United might not have been beneficial for him."
+    ],
+    "score": [
+        3,
+        2,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.25
+}

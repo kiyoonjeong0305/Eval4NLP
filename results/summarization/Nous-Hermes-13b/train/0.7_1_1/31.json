@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open .",
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open .",
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open ."
+    ],
+    "aspect": [
+        "1. River Plate want to sign Radamel Falcao from Manchester United but acknowledge that it may be a complicated deal.",
+        "2. River Plate are open to bringing back Radamel Falcao, who spent eight years at the club before leaving for Porto in 2009.",
+        "3. River Plate vice president Matias Patanian has revealed that the club \"dream of Falcao\" and that \"the doors are open\" for the Colombian striker to return."
+    ],
+    "explain": [
+        "River Plate's desire to sign Radamel Falcao from Manchester United is strong, but they know it may be a difficult process to make it happen.",
+        "The given aspect mentions that River Plate, the Argentine sports club, have expressed their interest in bringing back Radamel Falcao, who originally played for them between 2005 and 2009, after having left for Porto in 2009.",
+        "The aspect states that River Plate vice president Matias Patanian has revealed that the club \"dream of Falcao\" and that \"the doors are open\" for the Colombian striker to return. This means that River Plate, an Argentine football club, would like to sign Manchester United forward Radamel Falcao but acknowledge that it may be a difficult transaction given the player's current team and his past history with the club."
+    ],
+    "answer": [
+        "After doing a careful examination of the summary, I think that the aspect mentioned is NOT covered in the summary. The summary is about River Plate's interest in signing Falcao, but there's no mention of any obstacles or complications in making the deal happen.",
+        "Yes, the summary does contain the core idea that River Plate are open to signing Radamel Falcao but acknowledge that it is a complicated deal.",
+        "The summary does not contain the core idea of the aspect, as it briefly mentions River Plate's interest in Falcao but does not address the complexity of the potential signing or their vice president's comments."
+    ],
+    "score": [
+        0,
+        4,
+        0
+    ],
+    "mean_score": 1.3333333333333333,
+    "gt_score": 4.08333333335
+}

@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person."
+    ],
+    "aspect": [
+        "1. A Missouri mom's car was stolen and returned with modifications.",
+        "2. The stolen car was found and returned with new red rims and detailing.",
+        "3. The owner took to social media to express her gratitude for the modifications. ",
+        "4. The car had a strong smell of cigarettes and marijuana.",
+        "5. The owner created a smoothie at her restaurant to honor the person who located her car.",
+        "6. The owner is vibrant and loves making people laugh."
+    ],
+    "explain": [
+        "The core idea of this aspect is that a car was stolen from a Missouri mom and later returned with modified rims and steering wheel.",
+        "The core idea of this aspect is that the stolen car was found and returned with red rims and detailing on it.",
+        "The aspect highlights the owner's appreciation for the modifications that were made to her car after it got stolen. She expresses her gratitude for the changes made to the car through social media.",
+        "The aspect suggests that cigarettes and marijuana were used in the car, leaving a strong smell.",
+        "The core idea of the given aspect is that the owner of the car created a special smoothie at her restaurant to honor the person who helped locate her car.",
+        "The aspect mentions that the owner of the car is vibrant, fun-loving, and enjoys making people laugh."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. The summary is about a car being stolen and returned with modifications, while the aspect only mentions that the car was stolen and later returned.",
+        "No, the summary does not contain the core idea of the aspect.",
+        "Yes, I think the summary contains the core idea of the given aspect. The summary discusses the theft of the car, its discovery the following day with the rims painted red and the steering wheel painted orange, and the owner's gratitude towards the people who made the modifications.",
+        "No, the aspect does not contain the core idea of the summary.",
+        "I'm not sure what you mean by this question. Can you please clarify?",
+        "No, the aspect does not appear to be present in the summary. The summary only mentions that the car was stolen on Monday night, April 1, and was found on April 2, but the rims were painted red and the steering wheel was painted orange."
+    ],
+    "score": [
+        0,
+        0,
+        4,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 0.6666666666666666,
+    "gt_score": 2.666666666675
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury .",
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury .",
+        "serge gnabry says he is feeling ' better and better ' all the time . the 19-year-old midfielder impressed for the gunners last season . but his progress has been stunted by a serious knee injury ."
+    ],
+    "aspect": [
+        "1. Serge Gnabry is feeling \"better and better\" as he prepares to return after more than a year due to a serious knee injury.",
+        "2. The 19-year-old midfielder impressed for Arsenal last season but has not featured since March 2014.",
+        "3. Gnabry played 90 minutes for Arsenal's development squad against Reading on Monday and seems to have overcome his injury concerns."
+    ],
+    "explain": [
+        "Serge Gnabry is improving in his recovery from a severe knee injury, and as a result, his performance is expected to surge back, having made an impressive impact for the Gunners last season.",
+        "Serge Gnabry, a 19-year-old midfielder for Arsenal, managed to impress last season but was hindered by a severe knee injury. He has not played since March 2014.",
+        "Serge Gnabry played a full match against Reading, showing that he has overcome his previous injury concerns, and feels better and better every time."
+    ],
+    "answer": [
+        "Yes, the given summary contains the context of your sentence. It mentions that Serge Gnabry is improving in his recovery and highlights his impressive impact for the Gunners last season.",
+        "Yes",
+        "No, the summary does not contain the provided context as the context was mentioned in the aspect. The summary only talks about his knee injury progress."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.416666666675
+}

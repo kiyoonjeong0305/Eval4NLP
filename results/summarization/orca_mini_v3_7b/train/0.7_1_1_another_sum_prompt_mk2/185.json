@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend .",
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend .",
+        "mesut ozil posted a picture on twitter of him playing with his dog . the arsenal midfielder has returned to london after the international break . he was in fine form as germany beat georgia 2-0 on sunday . ozil is expected to start against liverpool at the weekend ."
+    ],
+    "aspect": [
+        "1. Mesut Ozil back in London after international break; ",
+        "2. German star helped Germany beat Georgia 2-0; ",
+        "3. Ozil enjoys downtime with dog at home in London"
+    ],
+    "explain": [
+        "Mesut Ozil, an Arsenal midfielder, has returned to London after the international break, where he was in great form during Germany's 2-0 victory over Georgia.",
+        "German star Mesut Ozil contributed significantly to Germany's victory over Georgia in a football match, securing a 2-0 score.",
+        "Mesut Ozil takes a break from playing football, spending quality time with his dog, returning home in London after the international break."
+    ],
+    "answer": [
+        "Yes",
+        "Yes",
+        "Yes, the summary does contain the context of this sentence, as it mentions Ozil spending time with his dog after the international break when he returned to London."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

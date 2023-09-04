@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent.",
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent.",
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent."
+    ],
+    "aspect": [
+        "1. Radamel Falcao's loan move to Manchester United has been unsuccessful.",
+        "2. Falcao struggled due to a serious knee injury and was not happy in France.",
+        "3. His former teammate Nabil Dirar thinks Falcao would have been better off staying at Monaco."
+    ],
+    "explain": [
+        "Radamel Falcao's loan move to Manchester United has been unsuccessful.\n\nThe core idea of this aspect is that Radamel Falcao's temporary transfer to Manchester United, during the 2014-15 season, did not yield the desired outcomes for the team or the player. Falcao's performance during the loan spell was subpar, with limited goals scored and injuries hampering his overall contribution. This unsuccessful stint at Manchester United might have been influenced by factors such as adjusting to a new club, playing style, and a strong competition in the Premier League, which may have hindered Falcao's performance.",
+        "Explain the core idea of the given aspect",
+        "To make the core idea clear or to provide an explanation of a concept.\n\nIn this context, the aspect states that Nabil Dirar thinks that Falcao, a former teammate of his, would have been better off staying at Monaco rather than joining a Premier League team. This aspect highlights the opinion of Nabil Dirar, emphasizing that the Premier League may not be the best platform for Falcao to showcase his skills. The underlying idea is that Falcao may struggle in the Premier League due to the intense competition and physical demands of the league, which may compromise his ability to maintain consistency in his performance."
+    ],
+    "answer": [
+        "\nNo, the summary does not contain the core idea.\n\nIn the summary, it is mentioned that Falcao should have stayed at Monaco, and his performance in the Premier League has not been up to the mark. However, it does not explicitly state that his loan move to Manchester United was unsuccessful. While the summary provides relevant information, it does not capture the essence of the given aspect, which is that Falcao's temporary transfer to Manchester United was not successful.",
+        "Yes, the summary contains the core idea of the given aspect, which is that staying at Monaco could have been better for Falcao due to the Premier League being less suitable for him. The aspect mentions that Falcao struggled after a serious knee injury and was not happy in France. While these details are not directly relevant to the core idea, they provide more context on why staying at Monaco could have been a better option for Falcao.",
+        "No, the summary does not contain the core idea as it only provides brief information about Falcao's abilities and the Premier League. The aspect, on the other hand, focuses on Nabil Dirar's opinion that Falcao would have been better off staying at Monaco, not necessarily discussing Falcao's abilities or the Premier League."
+    ],
+    "score": [
+        2,
+        4,
+        2
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 3.083333333325
+}

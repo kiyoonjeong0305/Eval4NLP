@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the frenchman believes arsenal need a goalkeeper , centre back , defensive midfielder and striker if they are to have any chance of winning the barclays premier league title . sky sports pundit thierry henry questioned whether arsenal can win the title with olivier giroud in attack . arsenal are third in the premier league , level on points with manchester city but with a game in hand .",
+        "the frenchman believes arsenal need a goalkeeper , centre back , defensive midfielder and striker if they are to have any chance of winning the barclays premier league title . sky sports pundit thierry henry questioned whether arsenal can win the title with olivier giroud in attack . arsenal are third in the premier league , level on points with manchester city but with a game in hand .",
+        "the frenchman believes arsenal need a goalkeeper , centre back , defensive midfielder and striker if they are to have any chance of winning the barclays premier league title . sky sports pundit thierry henry questioned whether arsenal can win the title with olivier giroud in attack . arsenal are third in the premier league , level on points with manchester city but with a game in hand ."
+    ],
+    "aspect": [
+        "1. Thierry Henry criticized Arsenal's recent dealings and urged the team to sign a goalkeeper, centre back, defensive midfielder, and striker.",
+        "2. Henry believes Arsenal needs a top quality striker to win the league, questioning Olivier Giroud's ability to lead the team to the title.",
+        "3. Arsenal must sign players of a similar caliber to those who led Chelsea to win the league, according to Henry."
+    ],
+    "explain": [
+        "Thierry Henry suggests that Arsenal needs to strengthen their team in key positions (goalkeeper, centre back, defensive midfielder, and striker) to have a chance at winning the Barclays Premier League title.",
+        "Thierry Henry suggests that Arsenal requires a top-quality striker to have a chance of winning the Barclays Premier League, expressing doubt about the ability of Olivier Giroud in this role.",
+        "Arsenal needs to sign players of similar quality as those of Chelsea to win the league, as stated by Thierry Henry."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "No, the summary does not contain the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.5
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Filipe Luis wants to stay at Chelsea until the end of his contract, despite Atletico Madrid considering bringing him back in the summer Luis has made just four appearances in all competitions this season, with the Brazilian's future at Stamford Bridge uncertain. The former Porto man has been linked with a move to Atletico Madrid, but believes he has the right to stay. 'I don't think I'm a player for Atletico Madrid,' he said.",
+        "Filipe Luis wants to stay at Chelsea until the end of his contract, despite Atletico Madrid considering bringing him back in the summer Luis has made just four appearances in all competitions this season, with the Brazilian's future at Stamford Bridge uncertain. The former Porto man has been linked with a move to Atletico Madrid, but believes he has the right to stay. 'I don't think I'm a player for Atletico Madrid,' he said.",
+        "Filipe Luis wants to stay at Chelsea until the end of his contract, despite Atletico Madrid considering bringing him back in the summer Luis has made just four appearances in all competitions this season, with the Brazilian's future at Stamford Bridge uncertain. The former Porto man has been linked with a move to Atletico Madrid, but believes he has the right to stay. 'I don't think I'm a player for Atletico Madrid,' he said."
+    ],
+    "aspect": [
+        "1. Filipe Luis insists on staying at Chelsea until the end of his contract despite Atletico Madrid's interest. ",
+        "2. Luis played in friendly games against France and Chile during the international break. ",
+        "3. Chelsea manager Jose Mourinho urges the team to be focused and win every game remaining in the title run-in."
+    ],
+    "explain": [
+        "Filipe Luis wants to fulfill his contract commitments with Chelsea, opposing Atletico Madrid's potential interest in bringing him back in the summer.",
+        "- In the international break, Filipe Luis played in friendly games against France and Chile.",
+        "Chelsea manager Jose Mourinho demands the team to stay focused and secure every game left in the championship race."
+    ],
+    "answer": [
+        "\"Filipe Luis wants to stay at Chelsea until the end of his contract, despite Atletico Madrid considering bringing him back in the summer Luis has made just four appearances in all competitions this season, with the Brazilian's future at Stamford Bridge uncertain. The former Porto man has been linked with a move to Atletico Madrid, but believes he has the right to stay. 'I don't think I'm a player for Atletico Madrid,' he said.\"\nThis sentence does not match the aspect provided about the context of the information.\nThe aspect does not refer to the issue regarding Atletico Madrid potentially bringing Filipe Luis back in the summer. It focuses on whether Filipe Luis thinks he is a player for Atletico Madrid.",
+        "Yes, the summary contains the context of the aspect.",
+        "No, the summary does not contain the context of the provided sentence."
+    ],
+    "score": [
+        2,
+        4,
+        1
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 3.58333333335
+}

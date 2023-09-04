@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says .",
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says .",
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says ."
+    ],
+    "aspect": [
+        "1. Russian jet intercepts U.S. reconnaissance plane ",
+        "2. Incident occurred in international airspace north of Poland ",
+        "3. U.S. complains to Moscow about unsafe and unprofessional maneuvers"
+    ],
+    "explain": [
+        "The aspect is about a Russian fighter jet intercepting a U.S. reconnaissance plane in an unsafe and unprofessional manner, where the U.S. crew believes the Russian pilot's actions were aggressive and at a high rate of speed, according to Pentagon spokesman.",
+        "The incident occurred in international airspace north of Poland, where the Russian fighter jet intercepted the U.S. reconnaissance plane.",
+        "In this scenario, the U.S. accuses the Russian pilot of performing unsafe and unprofessional maneuvers during an intercept in the Baltic Sea, leading to an unprofessional encounter between the aircraft."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.41666666665
+}

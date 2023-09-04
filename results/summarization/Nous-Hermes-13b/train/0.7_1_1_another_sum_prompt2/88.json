@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week .",
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week .",
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week ."
+    ],
+    "aspect": [
+        "1. Outspoken MP Bob Katter has accused the Queensland Government of believing Billy Gordon is a \"little black puppet on a string\". ",
+        "2. Federal MP Bob Katter released a statement saying the Government assumed Billy Gordon would quit after being accused of domestic violence. ",
+        "3. Mr Katter said the Government believes Billy Gordon was a \"puppet\" and that he will not make that mistake."
+    ],
+    "explain": [
+        "Bob Katter has accused the Queensland Government of believing Billy Gordon is a \"little black puppet on a string\".",
+        "Bob Katter said the government assumed Billy Gordon would resign after being accused of domestic violence. \n\nExplain another core idea of the given aspect.\nExplain: Federal MP Bob Katter released a statement saying he had been personally subjected to racist attitudes by both major parties. \n\nExplain how the given aspect relates to the summary.\nExplain: Both aspects relate to the scenario involving the Queensland government's stance on Billy Gordon and the accusations of domestic violence against him. The first aspect talks about how the government assumed Gordon would resign, while the second aspect talks about Bob Katter's experiences with racism from both major parties. Both aspects provide additional information about the situation in Queensland.",
+        "Mr Katter said that the Queensland government believes Billy Gordon will quit after being accused of domestic violence because he views him as a \"puppet\" who can be manipulated."
+    ],
+    "answer": [
+        "\nThe core idea of the given aspect is that Bob Katter has accused the Queensland Government of believing Billy Gordon is a \"little black puppet on a string\".",
+        "It is not a computer generated text, this is the original text.",
+        "No, the summary does not contain the core idea of the aspect."
+    ],
+    "score": [
+        5,
+        4,
+        0
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "gregory van der wiel is happy at paris saint-germain and wants to stay . the full back had a spat with manager laurent blanc after he was dropped . the dutchman is being linked with a move to barcelona's dani alves .",
+        "gregory van der wiel is happy at paris saint-germain and wants to stay . the full back had a spat with manager laurent blanc after he was dropped . the dutchman is being linked with a move to barcelona's dani alves .",
+        "gregory van der wiel is happy at paris saint-germain and wants to stay . the full back had a spat with manager laurent blanc after he was dropped . the dutchman is being linked with a move to barcelona's dani alves ."
+    ],
+    "aspect": [
+        "1. Gregory van der Wiel denies leaving PSG in summer, reiterates love for club.",
+        "2. Dutchman had a falling out with manager Blanc but insists he's happy in Paris.",
+        "3. Parisians linked with Dani Alves, Van der Wiel's future uncertain."
+    ],
+    "explain": [
+        "Gregory van der Wiel expresses his commitment to Paris Saint-Germain and negates the possibility of leaving in the summer, emphasizing his affection for the club.",
+        "The aspect highlights that Gregory Van Der Wiel had a disagreement with manager Laurent Blanc following his benching, but he assures everyone that he is content with his current situation at Paris Saint-Germain.",
+        "Paris Saint-Germain is linked with Dani Alves, while Gregory van der Wiel's future at the club is uncertain due to potential disagreements with manager Laurent Blanc."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does contain the context of the sentence provided. It discusses Gregory Van Der Wiel's fallout with manager Laurent Blanc and his commitment to remaining at Paris Saint-Germain.",
+        "No."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.0
+}

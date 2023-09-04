@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "roma beat napoli beat napoli in serie a on saturday . miralem pjanic scored the only goal of the game in the 25th minute . the roma beat the four-month winless streak at home with a victory over inter milan . napoli beat roma 4-2 in the first half of the season .",
+        "roma beat napoli beat napoli in serie a on saturday . miralem pjanic scored the only goal of the game in the 25th minute . the roma beat the four-month winless streak at home with a victory over inter milan . napoli beat roma 4-2 in the first half of the season .",
+        "roma beat napoli beat napoli in serie a on saturday . miralem pjanic scored the only goal of the game in the 25th minute . the roma beat the four-month winless streak at home with a victory over inter milan . napoli beat roma 4-2 in the first half of the season ."
+    ],
+    "aspect": [
+        "1. Roma ends four-month winless streak at home, defeating Napoli.",
+        "2. Miralem Pjanic scores in 25th minute, Morgan de Sanctis saves shots, Roma gains confidence.",
+        "3. Second-place Roma moves four points ahead of city rivals Lazio, Napoli's winless streak extended to five matches."
+    ],
+    "explain": [
+        "Roma defeated Napoli, ending their four-month winless streak at home. This victory marked an important turning point for the team, as they had previously lost to Napoli earlier in the season.",
+        "Roma beat Napoli in Serie A, with Miralem Pjanic scoring the only goal in the 25th minute. This victory broke Roma's four-month winless streak at home and gives them confidence, as demonstrated by Morgan de Sanctis' saves and the team's overall performance.",
+        "Roma secured their second-place position in Serie A by gaining four points ahead of Lazio. Furthermore, Napoli's winless streak was extended to five matches, with their last victory taking place in September."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the given sentence.",
+        "Yes, the summary captures the context of your sentence, which mentions Roma's victory against Napoli and how it ended their four-month winless streak while showcasing Rome's improved performance.",
+        "Yes, the summary conveys the idea that Roma maintains their second-place position by gaining four points ahead of Lazio, and Napoli's winless streak is extended to five matches, with their last victory in September."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 2.250000000025
+}

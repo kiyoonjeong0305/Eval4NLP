@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "holland left tampa , florida , on march 29 . two passengers found dead inside their stateroom on the ship . it 's in san juan , puerto rico .",
+        "holland left tampa , florida , on march 29 . two passengers found dead inside their stateroom on the ship . it 's in san juan , puerto rico .",
+        "holland left tampa , florida , on march 29 . two passengers found dead inside their stateroom on the ship . it 's in san juan , puerto rico ."
+    ],
+    "aspect": [
+        "1. Two passengers found dead in Puerto Rico cruise ship; possible murder-suicide.",
+        "2. Holland America Line confirms incident, cooperating with authorities for official determination.",
+        "3. ms Ryndam left Tampa on March 29 on a 14-day Southern Caribbean cruise."
+    ],
+    "explain": [
+        "Two passengers found dead in the cruise ship Holland, possibly due to a murder-suicide incident that occurred on March 29, when the cruise left Tampa, Florida, and reached San Juan, Puerto Rico.",
+        "Holland America Line is cooperating with authorities to investigate the incident on the ship, where two passengers were found dead in their stateroom, for an official determination.",
+        "Ms Ryndam left Tampa on a 14-day Southern Caribbean cruise on March 29, as mentioned in the aspect."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of this sentence.",
+        "The summary seems to mention that Ms Ryndam left Tampa on March 29 for a 14-day Southern Caribbean cruise, closely matching the aspect provided."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.5
+}

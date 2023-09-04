@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "christopher lawler said he was pinned to a chair and groped by a male member of staff on his first day working at clarence house . the ordeal left him in tears and he left the job the same day . he finally decided to contact palace officials again last year after inquiries began into alleged cover-ups of child sex abuse by a vip paedophile ring in the 1970s and 80s .",
+        "christopher lawler said he was pinned to a chair and groped by a male member of staff on his first day working at clarence house . the ordeal left him in tears and he left the job the same day . he finally decided to contact palace officials again last year after inquiries began into alleged cover-ups of child sex abuse by a vip paedophile ring in the 1970s and 80s .",
+        "christopher lawler said he was pinned to a chair and groped by a male member of staff on his first day working at clarence house . the ordeal left him in tears and he left the job the same day . he finally decided to contact palace officials again last year after inquiries began into alleged cover-ups of child sex abuse by a vip paedophile ring in the 1970s and 80s ."
+    ],
+    "aspect": [
+        "1. Christopher Lawler claims that Clarence House aides tried to force him into an orgy in 1978.",
+        "2. Lawler left his job the same day after the alleged incident, which he says left him in tears.",
+        "3. Lawler contacted palace officials last year after inquiries began into alleged child sex abuse cover-ups by a VIP paedophile ring in the 1970s and 80s."
+    ],
+    "explain": [
+        "According to the given aspect, Christopher Lawler alleges that Clarence House staff attempted to coerce him into taking part in an orgy in 1978.",
+        "In the given aspect, Christopher Lawler experienced a traumatic incident involving groping and pins on his first day at Clarence House. This horrifying experience caused him to cry, and he decided to leave his job on the same day. \n\nHow it relates to the summary:\nThe summary provides more context about the incident that took place at Clarence House on Lawler's first day. It states that Lawler was pinned to a chair and groped by a male staff member, which was the reason for his emotional reaction.",
+        "Christopher Lawler's ordeal took place on his first day working at Clarence House and left him humiliated. In recent years, there have been inquiries into alleged cover-ups of child sex abuse by a VIP paedophile ring from the '70s and '80s, so last year he decided to contact palace officials, who may be connected to these inquiries."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence related to the allegation of the orgy in 1978 by Clarence House staff.",
+        "The given aspect mentions that Lawler experienced an incident involving groping and pins on his first day at Clarence House, which led him to cry and leave his job the same day. This closely resembles the content in the given summary.",
+        "The summary and aspect contain a similar context, focusing on the alleged child sex abuse cover-ups and Lawler's decision to contact the palace officials. However, the aspect clearly mentions that these inquiries happened in recent years, while the summary does not provide that context."
+    ],
+    "score": [
+        4,
+        4,
+        3
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 4.66666666665
+}

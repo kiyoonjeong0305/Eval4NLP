@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday ."
+    ],
+    "aspect": [
+        "1. Arsenal manager Arsene Wenger does not know why Alexis Sanchez chose Arsenal over Liverpool. ",
+        "2. Wenger is happy that Sanchez joined Arsenal as he has made an instant impact in English football and scored 19 goals this season. ",
+        "3. Wenger praises Sanchez's adaptability and skills, suggesting he is one of the best players around."
+    ],
+    "explain": [
+        "Arsenal manager Arsene Wenger is puzzled that Alexis Sanchez, who had transfer options with both Arsenal and Liverpool, chose Arsenal as his destination.",
+        "Alexis Sanchez's impact on Arsenal's performance has been significantly positive since his transfer last summer. His strong scoring record of 19 goals this season reflects the best attributes of his playmaking skills. Arsenal fans are also proud of their star player joining their team, which has led Wenger and the club to appreciate Sanchez even more.",
+        "Wenger praises Sanchez's adaptability and skills, implying he is one of the best players globally due to his ability to adjust rapidly to new environments and excel in his performance."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the given sentence. It focuses on Alexis Sanchez's transfer to Arsenal from Barcelona and his previous links with Liverpool and Manchester City.",
+        "Yes, the summary contains the context of that sentence as it describes Alexis Sanchez's impact on Arsenal, his scoring record, and positive fan appreciation.",
+        "No, the summary doesn't solely contain the context of that sentence, as it mentions Arsene Wenger's belief in Sanchez's abilities but doesn't specifically mention his adaptability and skills as the reasons for considering him one of the best players globally."
+    ],
+    "score": [
+        1,
+        4,
+        2
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.75
+}

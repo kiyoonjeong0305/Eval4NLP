@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the",
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the",
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the"
+    ],
+    "aspect": [
+        "1. 1,000ft of seabed emerged in Japan's Hokkaido, surprising residents.",
+        "2. A landslide caused the underwater area to rise and form new coastline, exposing ocean floor.",
+        "3. Geologists believe the landslide is related to melting ice and snow, causing land movement and lifting the underwater area into the air."
+    ],
+    "explain": [
+        "In Rausu, Japan, a 1,000ft seabed emerged, which surprised the locals as there were no indications of it before.",
+        "\"A landslide in Rausu area caused the underwater area to rise and form a new coastline, exposing ocean floor.\"",
+        "Geologists believe the landslide is related to changes in ice and snow melting, causing the land to move and lift the underwater area into the air."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary does not contain the context mentioned in the aspect."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.75
+}

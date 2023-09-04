@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control ."
+    ],
+    "aspect": [
+        "1. Fiery sunsets in Washington caught the eye of a Seattle native who captured and shared them on CNN iReport.",
+        "2. The sunsets were caused by raging wildfires in Siberia that resulted in dozens of villages being destroyed.",
+        "3. The fires were started by farmers burning grass in their fields, but grew out of control due to strong winds.",
+        "4. Rescue crews were able to put out the flames, but the lingering smoke was carried to the Pacific Northwest by atmospheric winds and resulted in intense red sunsets.",
+        "5. The reason for the fiery sunsets is due to smoke particles filtering out shorter wavelength colors from the sunlight."
+    ],
+    "explain": [
+        "\nThe given aspect of the fires in Southeastern Siberia started on April 14th, destroyed dozens of villages, and caused the smoke to grow out of control is not related to the fiery sunsets in Washington caught the eye of a Seattle native who captured and shared them on CNN iReport. \nThese two pieces of information are not connected and do not share a common topic or idea.",
+        "This core idea of this aspect is that the raging wildfires in Siberia resulted in the destruction of dozens of villages, causing them to be engulfed in flames. This has caused the skies in the region to have very colorful and vivid sunsets due to the smoke produced by the fires making its way into the atmosphere, tinting the sky with reds, oranges, and yellows.",
+        "The aspect states that the fires that started in Southeastern Siberia on April 14 were caused by farmers burning grass in their fields, but grew out of control because of strong winds. This core idea highlights the human intervention in starting the fires, and then the natural occurrence of strong winds exacerbating the situation, resulting in widespread damage.",
+        "The aspect states that although the fires were under control, the lingering smoke created intense red sunsets in the Pacific Northwest region.",
+        "The aspect explains that the reason for the fiery sunsets is due to smoke particles filtering out shorter wavelength colors from the sunlight.\n\nWhat is the core idea of the aspect about the fires in Siberia?\nCore idea: The aspect explains the reason behind the fiery sunsets that were caused due to the fires in Siberia.\n\nHow are the fires in Siberia linked to the color of sunsets in nearby areas?\nLink: The smoke from the fires in Siberia caused by the explosion of natural gas deposits filtered out shorter wavelength colors from the sunlight, resulting in the fiery sunsets in nearby areas."
+    ],
+    "answer": [
+        "YES, the summary does contain the core idea of the given aspect.",
+        "From reading the summary, it is hard to determine if the core idea of this aspect is present. However, by analyzing the given aspect more closely, it can be determined that the destruction of villages and the resulting smoke causing colorful sunsets is the core idea being conveyed.",
+        "Yes, the summary does contain the core idea of the aspect. It mentions that the fires were started in southeastern Siberia on April 14, and also that the fires have destroyed dozens of villages in the region, and that the smoke from Siberia grew out of control. All of these details point to the same outcome that the fires were started by farmers and grew out of control due to strong winds.",
+        "No, the core idea of the aspect is not contained in the summary.",
+        "It depends on what you mean by the core idea. The summary mentions that the fires were started in Southeastern Siberia on April 14 and have destroyed dozens of villages in the region. It also mentions about the smoke from Siberia grew out of control. So, the core idea of the summary is the impact of the fires in Southeastern Siberia."
+    ],
+    "score": [
+        5,
+        2,
+        5,
+        0,
+        4
+    ],
+    "mean_score": 3.2,
+    "gt_score": 3.1666666666750003
+}

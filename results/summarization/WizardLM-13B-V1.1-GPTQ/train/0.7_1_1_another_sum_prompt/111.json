@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "nigel pearson has urged leicester to keep their cool and ignore their relegation rivals . the foxes host swansea on saturday just three points from safety in the barclays premier league after back-to-back wins . last week 's 3-2 win at west brom handed them a survival lifeline .",
+        "nigel pearson has urged leicester to keep their cool and ignore their relegation rivals . the foxes host swansea on saturday just three points from safety in the barclays premier league after back-to-back wins . last week 's 3-2 win at west brom handed them a survival lifeline .",
+        "nigel pearson has urged leicester to keep their cool and ignore their relegation rivals . the foxes host swansea on saturday just three points from safety in the barclays premier league after back-to-back wins . last week 's 3-2 win at west brom handed them a survival lifeline .",
+        "nigel pearson has urged leicester to keep their cool and ignore their relegation rivals . the foxes host swansea on saturday just three points from safety in the barclays premier league after back-to-back wins . last week 's 3-2 win at west brom handed them a survival lifeline ."
+    ],
+    "aspect": [
+        "1. Leicester's manager, Nigel Pearson, has urged the team to focus on their own performance and ignore relegation rivals.",
+        "2. Leicester host Swansea on Saturday with a chance to move further from relegation after back-to-back wins.",
+        "3. Jamie Vardy scored an injury-time winner against West Brom, improving Leicester's slim chance of survival.",
+        "4. Pearson wants Leicester to stay calm and maintain their focus on their own job, avoiding distractions from other teams' results."
+    ],
+    "explain": [
+        "Nigel Pearson, the manager of Leicester City, has emphasized the importance of his team focusing on their own performance and not paying attention to their relegation-threatened rivals. He has encouraged the players to maintain their composure and not get distracted by the pressure of the situation. This approach will help Leicester remain focused on taking the necessary steps to preserve their Premier League status.",
+        "To emphasize or summarize an important point or concept. In this case, the core idea is that Leicester City will host Swansea City in a pivotal Premier League match on Saturday, with the chance to move further from relegation. Leicester has won their last two matches, providing them with a survival lifeline, and they must capitalize on this momentum to secure their Premier League status.",
+        "The given aspect is that Jamie Vardy scored an injury-time winner against West Brom, which improved Leicester's slim chance of survival. This means that Vardy's goal had an essential impact on Leicester's fight against relegation from the Barclays Premier League. The late goal not only secured a much-needed three points but also provided a significant morale boost for the team. Furthermore, Vardy's heroics highlighted his crucial contribution to the team's efforts in avoiding relegation. Leicester's slim chance of survival was dramatically enhanced by this crucial victory, as it moved them closer to the safety zone with just three points separating them from the 17th-placed team.",
+        "To paraphrase, Pearson desires for Leicester City to remain composed and centered on their own performance, refraining from paying attention to the outcomes of other teams in the league.\n\nFurthermore, it is important for Leicester to maintain their focus on their own job and not be influenced by external factors, such as the results or performances of other teams, in order to stay on track towards their goal of Premier League survival. By focusing on their own game, Leicester can better execute their game plan and increase their chances of securing wins, which is crucial for their relegation battle."
+    ],
+    "answer": [
+        "The summary does not contain the core idea of the aspect. While it does mention Nigel Pearson urging Leicester to focus on their own performance, there is no explicit mention of the manager encouraging the team to ignore their relegation rivals or to not get distracted by the pressure of the situation. The summary only mentions that Leicester host Swansea on Saturday and that they are three points from safety after back-to-back wins.",
+        "\nYes, the summary contains the core idea. The mention of Leicester's upcoming match against Swansea, where they can move further from relegation, indicates the importance of this game in their battle for survival. The summary also highlights Leicester's recent back-to-back wins, which have given them a survival lifeline, further emphasizing the significance of the game against Swansea.",
+        "No, the summary does not contain the core idea about Jamie Vardy's injury-time winner against West Brom, which significantly improved Leicester's slim chance of survival in the Barclays Premier League. Although the summary mentions Leicester's 3-2 win against West Brom and their victory lifeline, it does not emphasize Vardy's decisive role in securing the victory, which proved to be critical for the team's survival efforts.",
+        "\n\nNo, the summary does not contain the core idea as specified in the given aspect. The aspect suggests that Pearson wants Leicester to maintain their focus on their own job and avoid being influenced by other teams' results, while the summary mentions that Pearson has urged Leicester to keep their cool and ignore their relegation rivals ahead of their match against Swansea. The summary does not explicitly emphasize the importance of Leicester focusing on their own game and staying away from external factors. The aspect highlights the significance of maintaining a calm and focused attitude towards the team's objective, which is not addressed in the summary."
+    ],
+    "score": [
+        2,
+        5,
+        2,
+        2
+    ],
+    "mean_score": 2.75,
+    "gt_score": 4.25
+}

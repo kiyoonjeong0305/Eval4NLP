@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "orlando city are the latest club to have expressed interest in manchester united misfit javier hernandez . the mexico international would be a huge commercial draw for the florida-based franchise who are coached by former everton and manchester city striker adrian heath . orlando have a huge latin-american fanbase and made enquiries last week about the prospect of a deal .",
+        "orlando city are the latest club to have expressed interest in manchester united misfit javier hernandez . the mexico international would be a huge commercial draw for the florida-based franchise who are coached by former everton and manchester city striker adrian heath . orlando have a huge latin-american fanbase and made enquiries last week about the prospect of a deal .",
+        "orlando city are the latest club to have expressed interest in manchester united misfit javier hernandez . the mexico international would be a huge commercial draw for the florida-based franchise who are coached by former everton and manchester city striker adrian heath . orlando have a huge latin-american fanbase and made enquiries last week about the prospect of a deal ."
+    ],
+    "aspect": [
+        "1. Orlando City expresses interest in Manchester United's Javier Hernandez.",
+        "2. Hernandez has had a tough time at Real Madrid but has many suitors.",
+        "3. Manchester United makes revised contract offer to teenager Andreas Pereira."
+    ],
+    "explain": [
+        "Orlando City, a Florida-based franchise, expresses interest in Manchester United's Javier Hernandez due to his commercial potential and a large Latin-American fanbase. The team's coach, Adrian Heath, also comes from a notable background.",
+        "Javier Hernandez is not having an easy time at Real Madrid but still has many possible suitors, including Orlando City, which would benefit from his commercial draw and Latin-American fanbase.",
+        "Manchester United has offered Andreas Pereira a revised contract, highlighting the club's interest in retaining the young talent."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does contain the context of the given aspect, focusing on Hernandez's potential move to Orlando City and the benefits they would receive from his commercial draw and Latin-American fanbase, while acknowledging that he has had a tough time at Real Madrid.",
+        "No, the sentence does not fit well into the context of the summary provided. The content mentions Orlando City and Javier Hernández rather than Andreas Pereira and Manchester United."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.333333333325
+}

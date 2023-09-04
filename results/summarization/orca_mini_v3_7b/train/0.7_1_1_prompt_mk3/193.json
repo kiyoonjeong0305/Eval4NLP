@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "roma beat napoli 4-2 on saturday in a key match for champions league places . miralem pjanic finished off a swift counter-attack for roma in the 25th minute . miralem pjanic slots home to put roma ahead in the 25th minute ."
+    ],
+    "aspect": [
+        "1. Roma ended their four-month winless streak at home with a victory over Napoli in Serie A. 2. Miralem Pjanic scored the first goal, while Morgan de Sanctis saved multiple shots in the second half. 3. Roma's win moves them four points ahead of city rivals Lazio, while Napoli's winless streak extends to five games."
+    ],
+    "explain": [
+        "Roma ended their four-month winless streak at home with a victory over Napoli, moved four points ahead of city rivals Lazio and improved their league position. Miralem Pjanic scored the first goal, while Morgan de Sanctis saved multiple shots in the second half."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence. The summary mentions Roma's win, Roma's win at home, the move to four points ahead of Lazio, and Miralem Pjanic scoring the first goal."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 2.58333333335
+}

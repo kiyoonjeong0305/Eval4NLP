@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 ."
+    ],
+    "aspect": [
+        "1. A collector's or antique lover's paradise, a timewarp home in Bristol from the 1930s is up for sale with original features, including stained-glass windows, oil-fired central heating, and retro jars of popular food. ",
+        "2. A nondescript semi-detached home from the outside, but inside it's a treasure trove with features such as beautiful stained glass windows, an original bathroom, and a wood-panelled hall lit by quirky stained-glass windows. ",
+        "3. A historic house with a guide price of between £200,000 and £250,000, the property boasts original features such as the kitchen's cupboards, a brick open-face fire, and a rather dated kitchen sink. Despite some upgrades, auctioneers worry the cost of renovations could deter developers."
+    ],
+    "explain": [
+        "\n\nThe aspect is highlighting that the house for sale in Bristol, known as a collector's paradise, has a lot of original features from the 1930s, including stained-glass windows, oil-fired central heating, and retro jars of popular food.",
+        "The aspect describes the house as a treasure trove and emphasizes its unique and vintage features such as stained-glass windows, original bathroom, and wood-panelled hall. The use of words like \"nondescript\" and \"treasure trove\" conveys the contrast between the outside and inside of the house, suggesting that it has something special to offer for those who appreciate unique architecture and design.",
+        "The aspect states that the house is a historic property with original features such as stained-glass windows, oil-fired central heating, and retro jars of popular food. It has a guide price of between £200,000 and £250,000 and is located in Horfield, Bristol."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea. The core idea of the given aspect is the highlighting of original features of the house for sale, which include stained-glass windows, oil-fired central heating, and retro jars of popular food. The aspect describes these features in detail and also mentions that the house is a collector's paradise. This information is not present in the summary.",
+        "I hope this summary and aspect will help me in my task. Let's get started!",
+        "Yes, the core idea of the aspect is that the house has original features such as stained-glass windows, oil-fired central heating, and retro jars of popular food, and a guide price of between £200,000 and £250,000."
+    ],
+    "score": [
+        0,
+        5,
+        5
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.25
+}

@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object .",
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object .",
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object .",
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object .",
+        "the classic video game `` space invaders '' was developed in japan back in the late 1970 . luckily , japanese can sleep soundly in their beds tonight as the government 's top military official revealed that the country 's air self defense force had never encountered an extraterrestrial unidentified flying object ."
+    ],
+    "aspect": [
+        "1) Japanese government's top military official revealed that ASDF has never encountered a UFO from outer space.",
+        "2) In response to a query, Defense Minister Nakatani said that jets have never found any extraterrestrial UFOs.",
+        "3) Former wrestler-turned-lawmaker Inoki asked about aircraft scrambles to meet alien threats, prompting Nakatani's response.",
+        "4) Inoki claims to have seen a UFO but admits he doesn't know if aliens exist.",
+        "5) The exchange isn't the first time Japanese politicians have discussed the implications of an invasion from outer space."
+    ],
+    "explain": [
+        "The given aspect states that the Japan Air Self-Defense Force (ASDF) has never encountered an unidentified flying object from outer space, according to the country's top military official.",
+        "In response to a query, Japan's defense minister stated that their jets have never discovered any extraterrestrial UFOs.",
+        "Given aspect discusses about a former wrestler-turned-lawmaker named Inoki who asked a question about aircraft scrambles to meet alien threats to the government's top military official named Nakatani in Japan. It happened because of the confusion in the public due to the game 'Space Invaders' which originated from Japan. People thought about the real possibilities of the extraterrestrial invasion because the game was very popular during that time.",
+        " This aspect reports that Inoki saw a UFO, but he did not reveal any information about the existence of aliens.",
+        "In light of the fact that Space Invaders was developed in Japan back in the late 1970s, it is interesting to note that the country's air defense force has never encountered an extraterrestrial unidentified flying object, according to a top military official."
+    ],
+    "answer": [
+        "Yes, I believe the summary contains the core idea.",
+        "Yes, the aspect is related to the summary as it highlights Japan's ability to defend their borders from any extraterrestrial threats.",
+        "The aspect discusses about a former wrestler-turned-lawmaker named Inoki who asked a question about aircraft scrambles to meet alien threats to the government's top military official named Nakatani in Japan. It happened because of the confusion in the public due to the game 'Space Invaders' which originated from Japan. People thought about the real possibilities of the extraterrestrial invasion because the game was very popular during that time.",
+        " No, the summary does not seem to contain the core idea mentioned in the aspect.",
+        "No, the core idea of the aspect is not present in the summary. \n\nReiterate:\nIn summary, the core idea of the aspect that the exchange isn't the first time Japanese politicians have discussed the implications of an invasion from outer space, not present in the summary."
+    ],
+    "score": [
+        5,
+        4,
+        5,
+        0,
+        0
+    ],
+    "mean_score": 2.8,
+    "gt_score": 4.1666666667
+}

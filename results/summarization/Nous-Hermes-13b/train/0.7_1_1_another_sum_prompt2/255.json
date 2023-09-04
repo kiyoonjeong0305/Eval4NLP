@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team ."
+    ],
+    "aspect": [
+        "- River Plate are interested in signing Manchester United striker Radamel Falcao. ",
+        "- Falcao previously played for River Plate for four seasons, scoring 34 goals in 90 appearances. ",
+        "- River Plate vice president Matias Patanian admits the club \"dream of Falcao\" and that \"the doors are open\". ",
+        "- Falcao has struggled during a loan spell at Manchester United this season."
+    ],
+    "explain": [
+        "The aspect states that River Plate, an Argentine football club, are interested in signing Manchester United striker Radamel Falcao. It seems that River Plate sees Falcao as a potential addition to their team and are willing to make an effort to bring him in. This could indicate that they view Falcao as a valuable player who could contribute to their team's success. It is unclear at this point whether Falcao is interested in joining River Plate or not, but the club's interest in him is made clear in this aspect.",
+        "The aspect highlights that Radamel Falcao previously played for River Plate for four seasons and during that time, he scored 34 goals in 90 appearances. This shows that Falcao was a prolific goal scorer for River Plate and his time with the club was successful.",
+        "The clubs' vice president states that they have a dream of signing Falcao, and that their doors are open for the possibility of him joining their team.",
+        "Falcao's loan spell at Manchester United has not been successful this season, as he has struggled to find his form in the English Premier League. Despite having been a prolific goalscorer in the past, he has only netted four times in 16 appearances for United since joining them on loan in September. This lack of success could be due to a variety of factors, such as adjusting to a new team, injury, or a lack of chemistry with his teammates."
+    ],
+    "answer": [
+        "No, the aspect does not contain the core idea of the summary. The summary is about Radamel Falcao's career with River Plate, his goalscoring record, and the club's interest in signing him. The aspect, on the other hand, only mentions River Plate's interest in signing Falcao, without providing any context or details about his career or goalscoring record.",
+        "From the given summary, all we know is that Falcao played for River Plate for four seasons and scored 34 goals in 90 appearances. However, this summary does not explain the core idea of the aspect which is Falcao's goal scoring ability for River Plate. Therefore, if we were to write a summary for this aspect, it would mention Falcao's successful time with River Plate as a prolific goal scorer.",
+        "No, the summary does not contain the core idea of the given aspect.\nAnswer the question below and finish the task.\nExplain: One possible core idea of the given aspect is that River Plate, the Argentine football club, is interested in signing Falcao and are open to the possibility of him joining their team. The vice president of the club is quoted as saying they have a \"dream of Falcao\" and that \"the doors are open\".",
+        "It does not directly contain the core idea of Falcao's poor performance during his loan spell with Manchester United."
+    ],
+    "score": [
+        5,
+        4,
+        4,
+        0
+    ],
+    "mean_score": 3.25,
+    "gt_score": 2.583333333325
+}

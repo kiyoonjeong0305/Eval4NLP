@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . the app hires independent contractors who drive their own cars in a similar model to uber taxis . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . the app hires independent contractors who drive their own cars in a similar model to uber taxis . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities . the app hires independent contractors who drive their own cars in a similar model to uber taxis . chipotle is thought to have turned down previous offers of collaboration with third-party delivery services ."
+    ],
+    "aspect": [
+        "1. Mexican restaurant Chipotle partners with Postmates to offer delivery in 67 cities, adding a 9% service charge.",
+        "2. Chipotle rejects previous delivery offers and chooses Postmates due to its success in the $70 billion food delivery market.",
+        "3. Chipotle attracts presidential candidates Marco Rubio and Hillary Clinton, joining other franchises in entering the lucrative delivery market."
+    ],
+    "explain": [
+        "Chipotle Mexican restaurant partners with Postmates delivery service to offer delivery in 67 cities, with a 9% service charge added.",
+        "Chipotle, a fast-casual chain, has decided to collaborate with Postmates for its delivery services, turning down previous offers, due to Postmates' success in the $70 billion food delivery market.",
+        "Chipotle enters the lucrative delivery market by collaborating with Postmates, which could attract presidential candidates Marco Rubio and Hillary Clinton."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does contain the context of this sentence.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.166666666675
+}

@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II .",
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II .",
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II .",
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II ."
+    ],
+    "aspect": [
+        "1. Serena Williams struggled to beat Sara Errani in the Fed Cup on Sunday.",
+        "2. The US were beaten 3-2 by Italy in the Fed Cup play-off on Sunday.",
+        "3. Serena Williams fought back to beat Italian Sara Errani in the Fed Cup play-off on Sunday.",
+        "4. The US have to work harder to get back amongst the elite nations in the Fed Cup next year."
+    ],
+    "explain": [
+        "The core idea of the given aspect is that Serena Williams had a tough time beating Sara Errani in the Fed Cup match on Sunday. This means that the match was not an easy win for Williams, and she had to exert a lot of effort to emerge victorious. The fact that Errani put up a good fight against Williams despite losing the match demonstrates the level of competition in the game.",
+        "The US women's tennis team lost to Italy in a close match on Sunday.",
+        "Serena Williams fought back to beat Italian Sara Errani in the Fed Cup play-off on Sunday. The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber. The doubles defeat saw the US relegated to World Group II.",
+        "The core idea of this aspect is that the United States of America has a lot of work to do if they want to get back into the elite group in the Fed Cup next year. They have been relegated to World Group II as a result of their recent loss in the Fed Cup play-off, and in order to reach the level of the top nations again, they need to focus on improving their game, both individually and as a team."
+    ],
+    "answer": [
+        "I don't think the summary contains the core idea. The aspect mentioned in the instruction is about Serena Williams struggling to beat Sara Errani, while the summary focuses on her overall performance in the match and the US team's defeat in the doubles rubber.",
+        "No, the summary does not contain the core idea of the aspect. The summary is about Serena Williams' individual performance in the match, while the aspect focuses on the overall result of the team.",
+        "No, the summary does not contain the core idea of the given aspect. The summary only mentions that Serena Williams beat Sara Errani in the Fed Cup play-off, without mentioning any other details about the match or the outcome of the game.",
+        "No, the summary does not contain the core idea. The summary is a brief report on the recent Fed Cup play-off results and does not express any opinion on the level of performance of the US team or the steps that need to be taken to improve their game."
+    ],
+    "score": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 0.0,
+    "gt_score": 5.0
+}

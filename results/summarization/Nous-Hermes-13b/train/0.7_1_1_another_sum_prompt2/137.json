@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened ."
+    ],
+    "aspect": [
+        "- A two-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo after his parents dangled him over the edge.",
+        "- The boy was rescued by his parents before firefighters and paramedics arrived on the scene.",
+        "- The boy suffered minor bumps and bruises and was listed in stable condition at the hospital.",
+        "- The boy was not attacked by the animals.",
+        "- The boy's leg was injured in the fall.",
+        "- Zoo officials believe the boy was not approached by the cheetahs because they were frightened.",
+        "- The zoo plans to press child endangering charges against the child's mother."
+    ],
+    "explain": [
+        "A core idea of the aspect is that a two-year-old boy at the Cleveland Metroparks Zoo fell into a cheetah exhibit after his parents dangled him over the edge.",
+        "The aspect states that the boy was rescued by his parents before the firefighters and paramedics arrived on the scene. This shows that the parents were quick to act and did not wait for emergency services to come to their aid. They took the initiative to rescue their child themselves and get him medical attention.",
+        "One core idea of the given aspect is that the boy who fell into the cheetah exhibit at the Cleveland Metroparks Zoo suffered minor injuries such as bumps and bruises.",
+        "The aspect states that the boy was not attacked by the animals, meaning he did not suffer any physical harm or injury from the cheetahs.",
+        "The aspect states that the boy's leg was injured in the fall. This means that there was physical damage to one of his limbs as a result of the slip and fall incident at the zoo. It indicates that the boy sustained some form of harm or damage to his leg that was caused by the fall. The extent of the injury is not specified, but it is clear that the boy was harmed in some way.",
+        "Zoo officials believe that one of the reasons the cheetahs did not approach the fallen toddler is because they were frightened by the incident, causing them to retreat.",
+        "The zoo intends to press charges against the child's mother under the suspicion of endangering or placing the child in harm's way."
+    ],
+    "answer": [
+        "Yes, I think the core idea is that a two-year-old boy fell into a cheetah exhibit at the Cleveland Metroparks Zoo.",
+        "No, the summary does not contain the core idea of the aspect. The aspect states that the boy's parents rescued him from the cheetah exhibit before emergency services arrived, which is not mentioned in the summary.",
+        "No, the summary does not contain the core idea of the given aspect. The core idea of the aspect is that although the boy sustained minor injuries, he was not attacked by the animals.",
+        "Yes, the summary does contain the core idea of the given aspect.",
+        "The aspect states that the boy's leg was injured in the fall. However, the summary does not explicitly mention this.",
+        "No, the core idea of the aspect is not present in the summary.",
+        "It appears that you have been given the incorrect response. The aspect does not seem to be related to the summary in any way."
+    ],
+    "score": [
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 1.4285714285714286,
+    "gt_score": 3.1666666666750003
+}

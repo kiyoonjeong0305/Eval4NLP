@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "babies given antibiotics in the first six months of life are more likely to be fat as toddlers . just as antibiotics are used to make farm animals put on weight , the may also be fattening our children . a third of 10-11 year olds in england are overweight or obese . finnish researchers compared the weight and height of more than 12,000 healthy two year old with records on antibiotic prescription .",
+        "babies given antibiotics in the first six months of life are more likely to be fat as toddlers . just as antibiotics are used to make farm animals put on weight , the may also be fattening our children . a third of 10-11 year olds in england are overweight or obese . finnish researchers compared the weight and height of more than 12,000 healthy two year old with records on antibiotic prescription .",
+        "babies given antibiotics in the first six months of life are more likely to be fat as toddlers . just as antibiotics are used to make farm animals put on weight , the may also be fattening our children . a third of 10-11 year olds in england are overweight or obese . finnish researchers compared the weight and height of more than 12,000 healthy two year old with records on antibiotic prescription ."
+    ],
+    "aspect": [
+        "1. Babies who received antibiotics in early life are more likely to be overweight as toddlers, as per a large-scale study.",
+        "2. The study compared weights and heights of 12,000 two-year-olds with antibiotic prescription records.",
+        "3. Children who took antibiotics as infants were particularly prone to obesity, with boys showing higher risks."
+    ],
+    "explain": [
+        "Babies who took antibiotics during the first six months of life have a higher chance of being overweight as toddlers, according to a large-scale study, with similarities to the effect on farm animals. Around a third of 10-11 year olds in England are overweight or obese.",
+        "The study compared the weight, height, and antibiotic prescription records of 12,000 two-year-old children to analyze the potential link between antibiotics usage in infancy and the children's weight and obesity rates.",
+        "Children, especially boys, who took antibiotics as infants have a higher risk of obesity, as they are more likely to face issues with weight gain and fattening while growing up."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.666666666675
+}

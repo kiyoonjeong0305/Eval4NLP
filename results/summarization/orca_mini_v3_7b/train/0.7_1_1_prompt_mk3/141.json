@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident ."
+    ],
+    "aspect": [
+        "1. Alleged killer Luigi Costa was believed to have dementia and alcohol abuse issues at the time of the 2012 murder.",
+        "2. Professor Paul Mullen believes Costa's state of mind was deteriorating before and during the incident.",
+        "3. Costa's state of mind is crucial in determining the verdict, as a not guilty verdict can be issued if his unstable mindset is proven."
+    ],
+    "explain": [
+        "Luigi Costa, 71, allegedly killed his elderly neighbour Terence Freebody in 2012. Costa was believed to have dementia and alcohol abuse issues at the time of the incident.",
+        "Professor Paul Mullen suggests that Luigi Costa's mental state was worsening before and during the incident, as stomping on his elderly neighbor's head, slashing his throat, and stabbing him several times in the dining room of his home.",
+        "Costa's state of mind is crucial for determining the judgment, as a non-guilty verdict can be given if his unstable mindset is proven."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.5
+}

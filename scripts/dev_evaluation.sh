@@ -1,0 +1,1 @@
+python3 dev_evaluation.py metric_scores.txt golden_scores.txt output.txt

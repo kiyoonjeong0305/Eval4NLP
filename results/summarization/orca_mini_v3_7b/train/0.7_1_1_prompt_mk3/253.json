@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Jamaican sprinter Usain Bolt has confirmed he will be part of the Jamaican team at the IAAF/BTC World Relays in the Bahamas.",
+        "Jamaican sprinter Usain Bolt has confirmed he will be part of the Jamaican team at the IAAF/BTC World Relays in the Bahamas.",
+        "Jamaican sprinter Usain Bolt has confirmed he will be part of the Jamaican team at the IAAF/BTC World Relays in the Bahamas."
+    ],
+    "aspect": [
+        "1. Usain Bolt to compete in IAAF/BTC World Relays in Bahamas (April 30 - May 1) as part of the Jamaican team.",
+        "2. Bolt aims to make Jamaica proud at Bahamas relay championship.",
+        "3. Jamaica has a strong tradition in relays, and Bolt is eager to contribute to the team's success."
+    ],
+    "explain": [
+        "Usain Bolt will participate in IAAF/BTC World Relays in Bahamas from April 30th to May 1st, representing Jamaica.",
+        "Bolt targets success in showcasing Jamaica at Bahamas world relay competition.",
+        "Jamaica has an established history in relays, and Bolt is eager to make a significant impact on the team's performance."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "No, the summary does not convey the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.75
+}

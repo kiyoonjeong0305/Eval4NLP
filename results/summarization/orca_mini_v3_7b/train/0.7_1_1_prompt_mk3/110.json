@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation .",
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation .",
+        "steve bruce is adamant he can keep hull city in the barclays premier league after a 2-0 defeat by southampton left them battling to stay up . they now have six games to save their season including nightmare fixtures against liverpool , arsenal , tottenham and manchester united . steve bruce is confident he can keep hull city in the premier league this season and avoid relegation ."
+    ],
+    "aspect": [
+        "1. Steve Bruce confident in keeping Hull City in Premier League.",
+        "2. Hull City struggles due to long-term injuries to key players.",
+        "3. Hull City's next six matches crucial for their season."
+    ],
+    "explain": [
+        "Steve Bruce is confident in his ability to keep Hull City in the Premier League despite their recent 2-0 defeat to Southampton, with six crucial matches remaining in the season, including challenging match-ups against Liverpool, Arsenal, Tottenham, and Manchester United.",
+        "Hull City's struggles are mainly caused by long-term injuries to crucial players, which significantly impacts their performance and ability to secure crucial wins in Premier League matches.",
+        "Hull City's upcoming matches play a crucial role in determining their fate and whether they will stay in the Barclays Premier League or get relegated."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of that sentence.",
+        "no, the context is not accurately represented in the summary.",
+        "Yes, the summary contains the context of the sentence as it mentions Hull City's next six matches being crucial for their season, which directly points to their fate and relegation."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.333333333325
+}

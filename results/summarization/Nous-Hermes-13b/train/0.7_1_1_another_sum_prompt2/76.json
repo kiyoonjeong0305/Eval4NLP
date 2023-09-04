@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent.",
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent.",
+        "Nabil Dirar believes Falcao would have been better off staying at Monaco 'The Premier League is not the best for Falcao. Falcao has to work harder. He's a player who needs to be more consistent."
+    ],
+    "aspect": [
+        "1. Falcao's former teammate Dirar believes he regrets failed move to United.",
+        "2. Falcao struggled at United and would have been better off staying at Monaco.",
+        "3. Falcao's move to United was a loan and he has not scored many goals."
+    ],
+    "explain": [
+        "Nabil Dirar, Falcao's former teammate, thinks that Falcao might have regretted his move to Manchester United. According to Dirar, the Premier League may not be the best league for Falcao's playing style and he needs to work harder to be more consistent.",
+        "The core idea of the given aspect is that Falcao struggled at Manchester United and would have been better off staying at Monaco.",
+        "Falcao's move to United may not have been the best decision as he did not score many goals during his loan spell and needed to work harder to become more consistent."
+    ],
+    "answer": [
+        "The summary states that Nabil Dirar believes that Falcao would have been better off staying at Monaco, as the Premier League may not be the best league for him. Dirar also points out that Falcao needs to work harder to be more consistent.",
+        "\nNo, the given aspect is not present in the summary.",
+        "NO! The aspect explains that Falcao's move to United was not successful because he did not score many goals and needed to work harder to become more consistent. It does not directly relate to Nabil Dirar's belief that Falcao would have been better off staying at Monaco."
+    ],
+    "score": [
+        5,
+        0,
+        0
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 3.083333333325
+}

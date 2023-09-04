@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half.",
+        "United went in front after a quick break, with Rashford heading home a free-kick from Gribbin. The young Reds coach's team were at their best. And they were on top for the majority of the half."
+    ],
+    "aspect": [
+        "1. Manchester United's Under 18s defeated Manchester City 1-0 in a 'mini-derby' with 13 English players on each side, including Callum Gribbin, who scored the winning goal.",
+        "2. The match took place at Altrincham's Moss Lane, where the young Reds coach wanted to expose his players to a more senior-like experience.",
+        "3. Manchester United claimed victory, two points behind leaders Middlesbrough with a game in hand, while injury-ravaged City have lost both matches in the Under 18s Premier League end-of-season play-off series."
+    ],
+    "explain": [
+        "Manchester United's Under 18s defeated Manchester City 1-0 in a youth derby match between two English teams. Callum Gribbin scored the winning goal, with 13 English players each.",
+        "The match between United and their opponents took place at Altrincham's Moss Lane, which provided the young Reds coach's players with a more senior-like experience.",
+        "United claimed a victory and is now two points behind the leaders with a game in hand, while City has lost both play-off matches."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the given sentence.",
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.5
+}

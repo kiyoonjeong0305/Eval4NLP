@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person."
+    ],
+    "aspect": [
+        "1. Becky Schoenig's car stolen, returned with red rims and detailing.",
+        "2. Schoenig uses Facebook to express gratitude and thanks to car thieves.",
+        "3. Schoenig honors Mick Sexton, the man who located her car, with a new smoothie at her restaurant."
+    ],
+    "explain": [
+        "Becky Schoenig's car was stolen, but when it was returned, it had been modified with red rims and detailing, demonstrating the kindness and importance she holds in the hearts of those around her.",
+        "In a unique turn of events, Becky Schoenig uses Facebook to express her gratitude and thanks to the car thieves for returning her stolen vehicle with painted rims and orange steering wheel, showcasing her positive attitude and willingness to see the good in all situations.",
+        "Becky Schoenig, after recovering her stolen car, honors Mick Sexton by creating a new smoothie named after him at her restaurant."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the mentioned sentence.",
+        "No, the summary does not contain the context of the given sentence. The summary focuses more on describing the altered condition of Becky Schoenig's stolen car and how she is regarded by others, with no mention of her use of Facebook to express gratitude and thanks. The context provided in the sentence showcases a unique and positive response from Schoenig in response to this situation.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 2.666666666675
+}

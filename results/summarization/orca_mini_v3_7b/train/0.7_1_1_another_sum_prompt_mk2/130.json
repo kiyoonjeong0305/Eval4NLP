@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "roland giroux keeps a blood parrot cichlid in his home in taiwan . the owner places his hand in the tank and stroked the fish with his finger . the fish swims around the man's hand before returning to be massaged .",
+        "roland giroux keeps a blood parrot cichlid in his home in taiwan . the owner places his hand in the tank and stroked the fish with his finger . the fish swims around the man's hand before returning to be massaged .",
+        "roland giroux keeps a blood parrot cichlid in his home in taiwan . the owner places his hand in the tank and stroked the fish with his finger . the fish swims around the man's hand before returning to be massaged ."
+    ],
+    "aspect": [
+        "1. Man and cichlid bond through touch, treating fish to massage.",
+        "2. Owner, Roland Giroux, captures unique relationship and daily interactions.",
+        "3. Blood parrot cichlid is a hybrid pet, first bred in Taiwan."
+    ],
+    "explain": [
+        "The man and the cichlid form a special bond, connecting through tactile interaction, as the man gently massages the cichlid during their intimate moments together in the tank.",
+        "Roland Giroux, the owner, creates a distinct bond with his pet, a Blood Parrot cichlid, sharing their daily interactions in a unique way.",
+        "Blood parrot cichlid is a hybrid pet, which originated from Taiwan, where it was first bred."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence, as it mentions the bond between the man and the cichlid, the tactile interaction during the massage, and their intimate moments together in the tank.",
+        "Yes, the summary captures the context of the given aspect, as it highlights the close relationship between Roland Giroux and his Blood Parrot cichlid.",
+        "Yes, the summary contains some context of the aspect by mentioning Taiwan as the place where the blood parrot cichlid is first bred."
+    ],
+    "score": [
+        4,
+        4,
+        3
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 4.25
+}

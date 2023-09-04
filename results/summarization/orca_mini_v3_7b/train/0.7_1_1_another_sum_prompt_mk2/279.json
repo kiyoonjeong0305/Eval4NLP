@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff.",
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff.",
+        "Jacob Phillips fell down a 70ft cliff to his death in Cardiff."
+    ],
+    "aspect": [
+        "1. Young accountant Jacob Phillips died after plunging 70ft down a cliff when he ran from a cab, not wanting to pay the fare.",
+        "2. Phillips had been out drinking in Cardiff before catching a taxi, leaving him and his friends without enough money for the fare.",
+        "3. Inquest hears Phillips became disoriented and did not know the danger he was in, ultimately leading to his accidental death."
+    ],
+    "explain": [
+        "Jacob Phillips, a young accountant, died in a tragic incident where he fell 70ft down a cliff after running away from a cab in Cardiff due to non-payment of fare.",
+        "Jacob Phillips had been out drinking excessively in Cardiff, after which he was not able to afford the taxi fare with his friends, ultimately resulting in a 70ft cliff fall incident, which led to his untimely death.",
+        "Phillips, who was lost and unaware of the risks, inadvertently fell from a cliff, resulting in his tragic death."
+    ],
+    "answer": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.583333333325
+}

@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "Terry's strong challenge on Falcao was a foul and should not have been punished. The full story can be read here.",
+        "Terry's strong challenge on Falcao was a foul and should not have been punished. The full story can be read here.",
+        "Terry's strong challenge on Falcao was a foul and should not have been punished. The full story can be read here.",
+        "Terry's strong challenge on Falcao was a foul and should not have been punished. The full story can be read here."
+    ],
+    "aspect": [
+        "1. Chelsea defender John Terry comes in with a strong challenge on Radamel Falcao during the build-up to Eden Hazard's opening goal.",
+        "2. Sky Sports pundits agree that Terry's rough tackle on Falcao was a foul.",
+        "3. Falcao struggles to hold his ground and loses the ball to Terry near the half-way line.",
+        "4. Terry's strong challenge leads to a loose ball that is picked up by Cesc Fabregas to start of the scoring move."
+    ],
+    "explain": [
+        "This aspect talks about John Terry's strong challenge on Radamel Falcao during the build-up of Eden Hazard's opening goal. \nCore Idea: The challenge by Terry was perceived as over aggressive and unnecessary which could have caused harm to Falcao.",
+        "Some Sky Sports pundits have agreed that Chelsea defender John Terry's strong challenge on Manchester United striker Radamel Falcao was a foul during their recent English Premier League match. The incident occurred in the 65th minute of the game, when Terry tackled Falcao from behind resulting in a physical altercation between the two players. The pundits' consensus is that Terry's tackle was not only aggressive, but also dangerous and should not have been punished with just a yellow card.",
+        "Terry's foul on Falcao was a challenge for the ball and not a malicious or reckless tackle.",
+        "The given aspect states that Terry's strong challenge on Falcao was a foul and should not have been punished. \nCore Idea: The strong challenge made by Terry on Falcao was not fair and was a foul. \n \nEvaluate the effectiveness of the argument in the given aspect. \nEvaluate: The argument presented in the aspect that Terry's strong challenge leads to a loose ball that is picked up by Cesc Fabregas to start of the scoring move suggests that the challenge might have had some impact on the game but is not sufficient to be considered a foul. \nEffectiveness: The effectiveness of the argument is limited as it does not provide enough information to conclude that the challenge was a foul."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the given aspect. The summary only mentions Terry's challenge on Falcao but does not mention the reason why it was perceived as over aggressive.",
+        "Yes\nDo you REALLY think the aspect contains the core idea? answer my question shortly.\nAnswer: No\nWhat is the core idea of the aspect then? answer my question shortly.\nAnswer: Some Sky Sports pundits have agreed that Chelsea defender John Terry's strong challenge on Manchester United striker Radamel Falcao was a foul during their recent English Premier League match.",
+        "I was only able to find one aspect in the summary. Could you please provide more information about the summary so that I can help you better?",
+        "After inspection, I can confirm that the summary does not contain the core idea."
+    ],
+    "score": [
+        0,
+        4,
+        0,
+        0
+    ],
+    "mean_score": 1.0,
+    "gt_score": 3.75
+}

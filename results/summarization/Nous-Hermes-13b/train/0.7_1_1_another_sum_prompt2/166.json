@@ -1,0 +1,24 @@
+{
+    "summary": [
+        "the woman , named only as gemma , has two children under five by two different fathers and handed both infants over to her 52-year-old mother debbie when they were four months old . a 23-year-old mother-of-two is at risk of being banned from seeing her own children - because she refuses to stop drinking and partying . now debbie is threatening to ban gemma from seeing the children at all , after discovering her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "the woman , named only as gemma , has two children under five by two different fathers and handed both infants over to her 52-year-old mother debbie when they were four months old . a 23-year-old mother-of-two is at risk of being banned from seeing her own children - because she refuses to stop drinking and partying . now debbie is threatening to ban gemma from seeing the children at all , after discovering her daughter 's penchant for legal high , mkat , and because she suspects her of stealing ."
+    ],
+    "aspect": [
+        "1. Gemma, a 23-year-old mother of two, is at risk of being banned from seeing her children by her own mother Debbie due to her unfit parenting.",
+        "2. Debbie, who stepped in to care for Gemma's children, is threatening to ban her from seeing them because of her constant drinking and partying, stealing, and lack of care for her children."
+    ],
+    "explain": [
+        "The given aspect highlights the situation of a 23-year-old mother of two, named as Gemma, who is at risk of being banned from seeing her children by her own mother Debbie due to her unfit parenting.",
+        "The aspect emphasizes on Debbie taking the responsibility of taking care of Gemma's two children when they were four months old. However, due to Gemma's constant drinking and partying, stealing, and lack of care for her children, Debbie is now threatening to ban her from seeing them."
+    ],
+    "answer": [
+        "The aspect does not contain the core idea of the summary. The summary describes a woman named Gemma, who is a mother of two, and has handed over her four-month-old children to her 52-year-old mother Debbie. The aspect talks about Gemma's situation as a 23-year-old mother of two, who is at risk of being banned from seeing her children by her mother Debbie due to her unfit parenting.",
+        "\nNo, the summary does not contain the core idea."
+    ],
+    "score": [
+        5,
+        0
+    ],
+    "mean_score": 2.5,
+    "gt_score": 4.25
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the queen's guard was left red-faced after he slipped on a manhole cover . he lost his footing and slid sideways, knocking his bearskin on the side . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past as if nothing had happened . tourist david meadwell recorded the unscheduled manouevre outside buckingham palace on thursday afternoon .",
+        "the queen's guard was left red-faced after he slipped on a manhole cover . he lost his footing and slid sideways, knocking his bearskin on the side . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past as if nothing had happened . tourist david meadwell recorded the unscheduled manouevre outside buckingham palace on thursday afternoon .",
+        "the queen's guard was left red-faced after he slipped on a manhole cover . he lost his footing and slid sideways, knocking his bearskin on the side . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past as if nothing had happened . tourist david meadwell recorded the unscheduled manouevre outside buckingham palace on thursday afternoon ."
+    ],
+    "aspect": [
+        "1. Buckingham Palace guard slips on manhole cover during Changing of the Guard.",
+        "2. Queen's Guard embarrassed after falling, dropping rifle.",
+        "3. Incident caught on camera, unscheduled maneuver outside Buckingham Palace."
+    ],
+    "explain": [
+        "A Buckingham Palace guard slipping on a manhole cover during the Changing of the Guard highlights a moment of mishap in the otherwise formal and impressive event.",
+        "The Queen's Guard experiences humiliation due to a fall where he dropped his rifle, causing a ruckus in the area as people watched on surprised.",
+        "The soldier's embarrassing incident, where he slipped on a manhole cover outside Buckingham Palace and fell, was captured on camera."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the given sentence. It only mentions the incident involving the guard slipping on a manhole cover and the subsequent response of the colleagues marching past.",
+        "Yes, the summary contains the context from the given sentence.",
+        "Yes"
+    ],
+    "score": [
+        2,
+        4,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 5.0
+}

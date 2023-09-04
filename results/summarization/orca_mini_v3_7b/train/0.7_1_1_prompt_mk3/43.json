@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday .",
+        "alexis sanchez joined arsenal for £32million from barcelona last summer . the chile forward was also linked with liverpool and manchester city . arsene wenger believes sanchez is one of the best in the world . arsenal host liverpool at the emirates stadium on saturday ."
+    ],
+    "aspect": [
+        "1. Wenger uncertain about Alexis Sanchez's choice; grateful for his side's advantage.",
+        "2. Sanchez's impressive performance in English football, scoring 19 goals this season.",
+        "3. Wenger dismisses potential Sterling transfer, lauds Rodgers' development of Liverpool."
+    ],
+    "explain": [
+        "Arsene Wenger shows uncertainty in Alexis Sanchez's choice, but is grateful for his side's advantage.",
+        "Alexis Sanchez transferred to Arsenal last summer for £32 million from Barcelona and since then has been one of the best players with an impressive goal count of 19 in this season.",
+        "In this regard, Arsene Wenger dismissed the potential transfer of Raheem Sterling to Arsenal while praising Brendan Rodgers' role in Liverpool's development."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of this sentence.",
+        "Yes, the summary contains the mentioned context.",
+        "No, the summary does not explicitly mention the context of the given sentence."
+    ],
+    "score": [
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.75
+}

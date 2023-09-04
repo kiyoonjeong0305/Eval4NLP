@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale .",
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale .",
+        "three vehicles collided on the brisbane valley highway , 2km south of fernvale , on wednesday afternoon . a 40-year-old man with chest and shoulder injuries and a five-year-old boy with chest pain were the first patients flown out by rescue helicopter . they 've been taken to the princess alexandra hospital in brisbane . shortly after , a 27-year-old woman with arm injuries and a six-year-old girl suffering from abdominal pain were also being flown out . the three car pileup happened at on the brisbane valley highway , near fernvale ."
+    ],
+    "aspect": [
+        "1. Ten people, including four children, involved in Brisbane crash; ",
+        "2. Multi-vehicle accident on Brisbane Valley Highway near Fernvale; ",
+        "3. Ten patients injured, four flown to hospital by rescue helicopter."
+    ],
+    "explain": [
+        "The Brisbane crash in the summary involved three vehicles and 10 people, including four children, who suffered various injuries.",
+        "There was a multi-vehicle accident on Brisbane Valley Highway near Fernvale, resulting in injury and emergency evacuation for several individuals.",
+        "In the crash on Brisbane Valley Highway, 3 patients were taken to a hospital by a rescue helicopter, and a total of 10 people were injured."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary does contain the context of the sentence, which explains the multi-vehicle accident and injuries resulting from it.",
+        "no"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region ."
+    ],
+    "aspect": [
+        "1. Fiery sunsets in Washington result from Siberian wildfires, causing amber-colored haze that Seattle locals wondered about.",
+        "2. Fires started by farmers burning grass in southeastern Siberia quickly grew out of control due to strong winds, destroying dozens of villages.",
+        "3. Pacific Northwest sees the impact of smoke, wind, and sunlight as sunsets become intense due to smoke particles filtering sunlight and leaving red and orange colors unfiltered."
+    ],
+    "explain": [
+        "Siberian wildfires caused by farmers burning grass in their fields result in fiery sunsets in Washington, leaving locals in Seattle wondering about the amber-colored haze.",
+        "Fires started by farmers intentionally burning grass in southeastern Siberia became catastrophic due to high winds, resulting in the destruction of numerous villages in the region.",
+        "The Pacific Northwest experiences intense sunsets due to smoke particles filtering sunlight, letting red and orange colors shine through."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of that sentence.",
+        "No, the summary does not contain the context of this sentence as the context is about the farmers burning grass and strong winds causing widespread fires and village destruction, while the summary mentions that Tim Durkan photographed the sunset's warming effect on the city's skyline and shared it on CNN iReport.",
+        "Yes, the summary contains the context of the given aspect."
+    ],
+    "score": [
+        1,
+        1,
+        4
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.33333333335
+}

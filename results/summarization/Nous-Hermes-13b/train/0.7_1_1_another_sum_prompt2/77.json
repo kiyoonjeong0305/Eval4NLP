@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "wales' euro 2016 qualifier with belgium this summer has been declared a 33,000 sell-out . the top two sides in group b meet at the cardiff city stadium on june 12 . belgium and wales both have 11 points from five games .",
+        "wales' euro 2016 qualifier with belgium this summer has been declared a 33,000 sell-out . the top two sides in group b meet at the cardiff city stadium on june 12 . belgium and wales both have 11 points from five games .",
+        "wales' euro 2016 qualifier with belgium this summer has been declared a 33,000 sell-out . the top two sides in group b meet at the cardiff city stadium on june 12 . belgium and wales both have 11 points from five games ."
+    ],
+    "aspect": [
+        "1. Wales' Euro 2016 qualifier with Belgium has sold out with 33,000 tickets.",
+        "2. Wales' comprehensive 3-0 victory in Israel has increased expectations of qualifying for the 2016 finals in France.",
+        "3. The match will be played at the Cardiff City Stadium due to UEFA rules."
+    ],
+    "explain": [
+        "The core idea of this aspect is that the Euro 2016 qualifier between Wales and Belgium has been declared a sell-out with a total of 33,000 tickets sold.",
+        "The aspect states that Wales' impressive 3-0 win over Israel in their Euro 2016 qualifier has raised expectations that the team would be able to qualify for the finals in France. The comprehensive victory was seen as a significant step towards achieving that goal, boosting the confidence of the players and the fans.",
+        "One of the core ideas in the aspect is that due to UEFA (Union of European Football Associations) rules, the Wales' Euro 2016 qualifier with Belgium will be played at the Cardiff City Stadium. The stadium meets the specific criteria set by UEFA for hosting international matches."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the given aspect.",
+        "Aspect: 2. Wales' comprehensive 3-0 victory in Israel has increased expectations of qualifying for the 2016 finals in France.\nSummary: wales' euro 2016 qualifier with belgium this summer has been declared a 33,000 sell-out . the top two sides in group b meet at the cardiff city stadium on june 12 . belgium and wales both have 11 points from five games .",
+        "I disagree. The summary does not contain the core idea of the aspect. The summary only mentions that the match between Wales and Belgium has been declared a sell-out with 33,000 tickets and the match is a must-win for both teams. The aspect, on the other hand, explains that due to UEFA rules, the match will be played at the Cardiff City Stadium."
+    ],
+    "score": [
+        0,
+        0,
+        0
+    ],
+    "mean_score": 0.0,
+    "gt_score": 4.75
+}

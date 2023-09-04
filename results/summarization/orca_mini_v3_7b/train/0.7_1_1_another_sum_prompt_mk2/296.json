@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean .",
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean .",
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean ."
+    ],
+    "aspect": [
+        "1. North Pacific gray whale, named Varvara, travels 14,000 miles (22,500 km) in the longest recorded mammal migration.",
+        "2. Varvara's journey surpasses the previous Guinness World Record, proving her potential as an eastern gray whale.",
+        "3. Marine Mammal Institute director Bruce Mate suggests that the migration may indicate some western gray whales are actually eastern grays."
+    ],
+    "explain": [
+        "Varvara, a North Pacific gray whale, accomplished the longest mammal migration ever recorded by covering a whopping 14,000 miles (22,500 km), starting off from Sakhalin Island in Russia.",
+        "Varvara's long journey proves her to be an extraordinary eastern gray whale, surpassing the previous Guinness World Record.",
+        "The Marine Mammal Institute director, Bruce Mate, raises the possibility that some western gray whales may actually be eastern gray whales based on the long migration of Varvara."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the mentioned sentence.",
+        "Yes, the summary contains context.\n",
+        "Yes, based on the information provided in the summary, the context is about Bruce Mate suggesting a potential connection between Varvara's long migration and the possibility of some western gray whales being eastern gray whales."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.666666666675
+}

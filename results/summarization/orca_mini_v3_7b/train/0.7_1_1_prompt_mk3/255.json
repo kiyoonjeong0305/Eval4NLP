@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team ."
+    ],
+    "aspect": [
+        "1. River Plate seek to sign Manchester United's Radamel Falcao, who had successful stint with the team earlier.",
+        "2. Falcao has struggled during his loan spell at United, scoring only four Premier League goals.",
+        "3. Falcao's international goalscoring record has remained strong, with 24 goals for Colombia."
+    ],
+    "explain": [
+        "River Plate wants Radamel Falcao, who had a successful spell with Man Utd before, hoping for another successful stint with the Argentine club.",
+        "Radamel Falcao's impressive goalscoring record with River Plate prior to joining Porto and his history at United, where despite being loaned, he struggled to find his form, only scoring four Premier League goals.",
+        "Falcao's international goalscoring record is impressive, with 24 goals for Colombia, despite spending eight years with another team."
+    ],
+    "answer": [
+        "Yes, the summary contains some related context to the given sentence but it does not convey the idea completely accurately as it provides incomplete information about the time periods in which Falcao was with Man Utd and River Plate.",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        3,
+        4,
+        1
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 2.583333333325
+}

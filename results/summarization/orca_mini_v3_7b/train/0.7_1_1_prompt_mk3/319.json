@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "eden hazard scored a 1-0 lead against manchester united at stamford bridge on saturday . the chelsea forward eden hazard has scored his side a 1-0 win over manchester united . john terry has scored a goals for manchester united in the build-up to eden hazard . the sky sports punditry team were convinced there had been a foul form .",
+        "eden hazard scored a 1-0 lead against manchester united at stamford bridge on saturday . the chelsea forward eden hazard has scored his side a 1-0 win over manchester united . john terry has scored a goals for manchester united in the build-up to eden hazard . the sky sports punditry team were convinced there had been a foul form .",
+        "eden hazard scored a 1-0 lead against manchester united at stamford bridge on saturday . the chelsea forward eden hazard has scored his side a 1-0 win over manchester united . john terry has scored a goals for manchester united in the build-up to eden hazard . the sky sports punditry team were convinced there had been a foul form ."
+    ],
+    "aspect": [
+        "1. Chelsea forward Eden Hazard scored a goal in a match against Manchester United, with Sky pundits believing a foul should have been called on Chelsea's John Terry's challenge on United's Radamel Falcao.",
+        "2. Terry's challenge during the build-up to Hazard's goal was considered a foul by pundits, who called for play to be stopped due to the rough tackle on Falcao.",
+        "3. Pundits Thierry Henry, Jamie Redknapp, and Souness agreed that the foul should have been called, considering the potential impact on Falcao's positioning, with Redknapp admitting that Falcao could have done better but the challenge still constituted a foul."
+    ],
+    "explain": [
+        "In a match between Chelsea and Manchester United, Eden Hazard scored a 1-0 goal for Chelsea. Sky pundits believe that John Terry of Chelsea committed a foul on Manchester United's Radamel Falcao, which should have resulted in a penalty.",
+        "John Terry's challenge before Hazard's goal was deemed a foul by pundits, who believed the rough tackle on Falcao merited a stop in play.",
+        "Pundits Thierry Henry, Jamie Redknapp, and Souness believe that a foul should have been called in a situation involving Falcao due to its potential impact on his positioning, although they acknowledge that Falcao could have performed better but the challenge was still a foul."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "No",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.583333333325
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years .",
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years .",
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years ."
+    ],
+    "aspect": [
+        "1. House owners, beware of speed camera pointing at front door in Birmingham.",
+        "2. Speed camera not working for two years, replaced with smaller mobile units.",
+        "3. Birmingham City Council aware of re-pointed camera and may remove it."
+    ],
+    "explain": [
+        "Speed camera not working in Handsworth, Birmingham, for over 2 years; house owners should be aware of potential risk of speeding motorists as the camera was previously used to enforce the 30mph limit.",
+        "The bright yellow Gatso speed camera, which previously enforced the 30mph speed limit in Handsworth, Birmingham, has not been functioning for over two years due to all its fixed devices being turned off in the West Midlands. Consequently, smaller mobile units have been introduced to replace it.",
+        "The council might remove the non-functional speed camera in Birmingham, as they are aware of its re-pointing, but the situation is unclear at the moment."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence provided.",
+        "Yes",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.08333333335
+}

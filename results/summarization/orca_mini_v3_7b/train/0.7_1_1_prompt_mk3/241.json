@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests ."
+    ],
+    "aspect": [
+        "1. An extravagant mystery billionaire's custom-built Boeing 747 has been transformed into a £400 million private home featuring a dining room, multiple lounges, an onboard restaurant, and a luxury interior.",
+        "2. The converted jumbo jet has a main suite, office, guest bedrooms, and a conference room.",
+        "3. The luxury space includes a dining area, lounge, state room, aeroloft, and amenities like a private chef, hotel-like ambiance, and exquisite decor."
+    ],
+    "explain": [
+        "Ultra-wealthy owner's custom-built Boeing 747 cost £400 million and turned into a private home equipped with a dining room, lounges, restaurant, and luxury interior, specifically tailored to his specifications.",
+        "The custom-built Boeing 747 has undergone extensive modifications, transforming it into a luxurious private jet featuring a main suite, office, guest bedrooms, and a conference room, catering to the specific needs and preferences of its single, ultra-wealthy owner.",
+        "The customized Boeing 747 aircraft has a luxurious interior, featuring a dining area, lounge, state room, an aeroloft, and provides amenities like a private chef, hotel-like ambiance, and exquisite decor."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence, but it has some minor differences (like £400 million vs. # 400million).",
+        "Yes, the summary contains the context of the given sentence as it discusses the modifications made to the Boeing 747 and the features included for the owner's specific needs and preferences.",
+        "Yes, the summary does contain the context of this sentence. It mentions the aircraft's luxurious interior, featuring amenities like a dining area, lounge, and an aeroloft, and the owner's ability to fit dozens of guests. This information aligns with the sentence's context about the aircraft's luxury space and amenities."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

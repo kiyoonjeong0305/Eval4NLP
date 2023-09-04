@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "The collector 's paradise in Horfield , Bristol , has gone untouched for more than 80 years . It comes complete with the original bathroom , kitchen , stained-glass windows and even oil-fired central heating . The semi-detached property has a guide price of between £ 200,000 and £ 250,000 .",
+        "The collector 's paradise in Horfield , Bristol , has gone untouched for more than 80 years . It comes complete with the original bathroom , kitchen , stained-glass windows and even oil-fired central heating . The semi-detached property has a guide price of between £ 200,000 and £ 250,000 .",
+        "The collector 's paradise in Horfield , Bristol , has gone untouched for more than 80 years . It comes complete with the original bathroom , kitchen , stained-glass windows and even oil-fired central heating . The semi-detached property has a guide price of between £ 200,000 and £ 250,000 .",
+        "The collector 's paradise in Horfield , Bristol , has gone untouched for more than 80 years . It comes complete with the original bathroom , kitchen , stained-glass windows and even oil-fired central heating . The semi-detached property has a guide price of between £ 200,000 and £ 250,000 .",
+        "The collector 's paradise in Horfield , Bristol , has gone untouched for more than 80 years . It comes complete with the original bathroom , kitchen , stained-glass windows and even oil-fired central heating . The semi-detached property has a guide price of between £ 200,000 and £ 250,000 .",
+        "The collector 's paradise in Horfield , Bristol , has gone untouched for more than 80 years . It comes complete with the original bathroom , kitchen , stained-glass windows and even oil-fired central heating . The semi-detached property has a guide price of between £ 200,000 and £ 250,000 .",
+        "The collector 's paradise in Horfield , Bristol , has gone untouched for more than 80 years . It comes complete with the original bathroom , kitchen , stained-glass windows and even oil-fired central heating . The semi-detached property has a guide price of between £ 200,000 and £ 250,000 ."
+    ],
+    "aspect": [
+        "1. A timewarp home from the 1930s is up for sale in Bristol, complete with stained-glass windows, oil-fired central heating, and retro jars of popular food.",
+        "2. The collector's paradise has an original bathroom, kitchen, stained-glass windows, and oil-fired central heating, making it a treasure trove for collectors or antique lovers.",
+        "3. The nondescript semi-detached home has a treasure trove of features, including beautiful stained glass windows and a wood-panelled hall lit by quirky stained-glass windows.",
+        "4. The most eye-catching room is the dated bathroom with its mint and black color scheme and original tiles, wooden floor, yellow wallpaper, and green sink.",
+        "5. The house also boasts original cupboards in the kitchen, a brick open-face fire, and a rather dated kitchen sink.",
+        "6. A potential drawback for developers is the cost of renovations, but the house could make a perfect family home for those with a passion for antiques.",
+        "7. The historic house will be auctioned on April 30 at the County Ground in Bristol."
+    ],
+    "explain": [
+        "The core idea of this aspect is that a unique and untouched semi-detached property from the 1930s is up for sale with original features such as stained-glass windows, oil-fired central heating, and retro jars of popular food.",
+        "The aspect states that the collector's paradise in Horfield, Bristol is a treasure trove for collectors or antique lovers due to its original features such as the bathroom, kitchen, stained-glass windows, and oil-fired central heating. These features make the property highly desirable for anyone interested in preserving and appreciating historical artifacts. The aspect highlights the unique value of the property, and its appeal to a specific group of potential buyers.",
+        "The aspect highlights the existence of beautiful stained glass windows in the given property. The windows are installed in the hallway and are made of wood. The light that enters through these windows gives a unique and quirky feel to the place.",
+        "The most eye-catching room in the house is the bathroom, which has an outdated mint and black color scheme, original tiles, wooden floor, yellow wallpaper, and a green sink.",
+        "The aspect highlights that the house has an original kitchen sink that is outdated or obsolete.",
+        "The aspect highlights that while the potential drawback for developers is the cost of renovations, the house could make a perfect family home for those with a passion for antiques.",
+        "The core idea of this aspect is that a historic house that has remained untouched for over 80 years is going to be auctioned on April 30, 2021, at the County Ground in Bristol."
+    ],
+    "answer": [
+        "You should carefully inspect the summary word by word!",
+        "The aspect highlights a unique feature of the property that makes it appealing to a specific group of potential buyers. This feature is the original bathroom, kitchen, stained-glass windows, and oil-fired central heating. The aspect emphasizes the historical value of these features, and their appeal to collectors or antique lovers. It provides additional information about the property that is not mentioned in the summary, and helps potential buyers understand its unique selling points.",
+        "Yes, the aspect is mentioned in the summary. The nondescript semi-detached home has a treasure trove of features, including beautiful stained glass windows and a wood-panelled hall lit by quirky stained-glass windows, which is mentioned in the aspect.",
+        "Yes, the summary does contain the core idea of the aspect, which is that the most eye-catching room in the house is the bathroom with its outdated mint and black color scheme, original tiles, wooden floor, yellow wallpaper, and green sink.",
+        "NO. The idea of the aspect is not present in the summary. The summary focuses on the characteristics of the house and its features, while the aspect highlights one specific aspect of the kitchen.",
+        "It cannot be determined from the given aspects whether or not the summary contains the core idea. More information is needed to determine this.",
+        "No, the summary does not contain the core idea of the aspect. The summary only provides information about the historic house, its features, and the estimated price range, while the aspect provides information about the auction date of the house."
+    ],
+    "score": [
+        5,
+        4,
+        5,
+        4,
+        0,
+        3,
+        1
+    ],
+    "mean_score": 3.142857142857143,
+    "gt_score": 4.5
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis ."
+    ],
+    "aspect": [
+        "1. ISIS released over 200 Yazidis, a minority group whose members were killed, captured and displaced last summer. ",
+        "2. Arab tribal leaders helped coordinate the release without specifying the reason. ",
+        "3. The freed Yazidis were sent to Irbil, the Kurdish regional capital, and the number released was not clear."
+    ],
+    "explain": [
+        "ISIS released over 200 Yazidis, a minority group whose members were killed, captured and displaced last summer, which highlights their significant impact on Yazidi community members. Despite facing adversities, these individuals were released by ISIS, showcasing their efforts for survival.",
+        "In the context of the Yazidi crisis, Arab tribal leaders played a role in coordinating the release of some Yazidi individuals without explicitly mentioning the reason for the release.",
+        "The Yazidi community, with Kurdish descent and pre-Islamic religious beliefs, faced a major humanitarian crisis due to ISIS' conquest of Sinjar. Some Yazidis were freed and sent to Irbil, the Kurdish regional capital, but the precise number of those released is unclear."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "No, the given summary does not convey the intended context of the information in the sentence provided.",
+        "Yes, the context of the sentence is included in the summary."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.33333333335
+}

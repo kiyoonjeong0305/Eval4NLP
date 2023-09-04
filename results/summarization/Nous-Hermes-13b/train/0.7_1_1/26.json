@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday ."
+    ],
+    "aspect": [
+        "1. New Zealand police are seeking public help in identifying a tall man wearing a distinctive cartoon mask who robbed a Christchurch dairy on Saturday, 29 February 2020. ",
+        "2. Christchurch police are appealing to the public to assist in identifying a masked man who robbed a dairy on Union Street, making off with cash and a cash register on Saturday. ",
+        "3. The New Zealand police are requesting information about a tall man wearing a fluorescent orange sweatshirt and a cartoon mask who robbed a dairy in Christchurch on 29 February 2020, making off with cash and a cash register."
+    ],
+    "explain": [
+        "The core idea of Aspect 1 is that New Zealand police are seeking public help in identifying a tall man wearing a distinctive cartoon mask who robbed a Christchurch dairy on Saturday, 29 February 2020.",
+        "The core idea of this aspect is that the police in Christchurch, New Zealand are appealing to the public for help in identifying a masked man who robbed a dairy on Union Street by making off with cash and a cash register on Saturday.",
+        "The idea conveyed by the aspect is that the New Zealand police are requesting information about a tall man who robbed a dairy in Christchurch on 29 February 2020 by wearing a fluorescent orange sweatshirt and a cartoon mask. They ask for any details that could help identify the man and prevent such crimes from happening in the future."
+    ],
+    "answer": [
+        "no, the summary does not contain the core idea of Aspect 1.",
+        "In your opinion, does the summary contain the core idea? Please explain your answer briefly.",
+        "Yes, the summary does contain the core idea. It informs us about a robbery that occurred in a dairy in Christchurch on February 29, 2020 by a tall man wearing a fluorescent orange sweatshirt and a cartoon mask. The police are seeking information to identify the perpetrator and prevent similar incidents."
+    ],
+    "score": [
+        0,
+        4,
+        5
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.583333333325
+}

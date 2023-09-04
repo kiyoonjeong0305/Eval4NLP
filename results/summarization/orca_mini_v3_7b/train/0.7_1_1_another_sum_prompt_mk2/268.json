@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea ."
+    ],
+    "aspect": [
+        "1. SpaceX launches Falcon 9 rocket carrying Dragon cargo spacecraft to ISS.",
+        "2. SpaceX's difficult bid to land rocket stage on a barge unsuccessful but they will keep trying.",
+        "3. The mission aims to reduce space access costs by reusing rockets like airplanes."
+    ],
+    "explain": [
+        "SpaceX successfully launched the Falcon 9 rocket carrying the Dragon cargo spacecraft to the International Space Station (ISS).",
+        "SpaceX's initial attempt to land a rocket on a barge was unsuccessful, but they are determined to keep attempting until they achieve success.",
+        "Reusing rockets like airplanes can significantly reduce space access costs, making space travel more accessible and efficient."
+    ],
+    "answer": [
+        "Yes",
+        "No, the summary doesn't contain the context of the sentence, as it mentions a successful landing and recovery, not an unsuccessful attempt as mentioned in the sentence.",
+        "Yes, the summary contains the context of the sentence explaining the purpose of reusing rockets to reduce costs and make space travel more accessible and efficient."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.499999999975
+}

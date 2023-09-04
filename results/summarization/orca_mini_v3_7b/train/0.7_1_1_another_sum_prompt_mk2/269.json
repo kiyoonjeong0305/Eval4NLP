@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity."
+    ],
+    "aspect": [
+        "1. Passenger injured in airport after breaking toilet.",
+        "2. Jin Pai, 35, broke toilet after not wanting to touch seat.",
+        "3. Male hospitalized for deep cuts on leg and buttocks."
+    ],
+    "explain": [
+        "A passenger accidentally broke a toilet in an airport and felt too embarrassed to seek help, choosing instead to blame himself for the mishap.",
+        "A 35-year-old passenger, Jin Pai, was squatting on a toilet when it broke. Being too embarrassed to seek help, he attributed the incident to his own stupidity, rather than touching the toilet seat.",
+        "A man was hospitalized with deep cuts on his leg and buttocks after likely injuring himself in a toilet-related accident, possibly related to the broken toilet mentioned in the summary."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of that sentence.",
+        "Yes",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.75
+}

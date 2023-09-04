@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II .",
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II .",
+        "Serena Williams beat Sara Errani 4-6 7-6 -LRB- 3 -RRB- 6-3 in the Fed Cup play-off . The US were beaten 3-2 as Williams and Alison Riske were thrashed in the doubles rubber . The doubles defeat saw the US relegated to World Group II ."
+    ],
+    "aspect": [
+        "1. Serena Williams overcomes Sara Errani in the Fed Cup, improving her career record to 8-0.",
+        "2. The US is relegated to World Group II due to Williams and Alison Riske's doubles loss.",
+        "3. Williams reflects on the eye-opening experience, acknowledging her need to prepare better for the claycourt season."
+    ],
+    "explain": [
+        "Serena Williams wins her 8th consecutive Fed Cup match against Sara Errani, maintaining an impressive record in the competition.",
+        "The US is forced to relocate to World Group II after Serena Williams and Alison Riske encountered defeat in the doubles game.",
+        "Williams acknowledges the need to better prepare for the claycourt season after her recent experiences in the Fed Cup play-off and doubles rubber."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does contain the context of that sentence, as it highlights the singles and doubles results leading to the US being relegated to World Group II.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 5.0
+}

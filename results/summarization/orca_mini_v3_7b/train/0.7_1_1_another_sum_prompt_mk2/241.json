@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests ."
+    ],
+    "aspect": [
+        "1. Luxury jet converted into a £400m home for mystery billionaire, featuring bedrooms, lounges, and an onboard restaurant.",
+        "2. Ultra-wealthy owner commissioned a custom-built Boeing 747 with unique specifications, including sleeping space, dining room, and conference room.",
+        "3. The plane's luxurious interior reflects a hotel-like ambience and is designed for the owner's exclusive use, with space for guests."
+    ],
+    "explain": [
+        "The core idea of the given aspect is about a luxury jet that has been converted into a £400m home for a mysterious billionaire, featuring opulent amenities including bedrooms, lounges, and an onboard restaurant, which cater to the preferences and requirements of the owner.",
+        "The ultra-wealthy owner requested a custom-designed Boeing 747 with personalized features like sleeping quarters, dining room, and conference room, leading to a cost of around $400 million in the final build.",
+        "The custom-built Boeing 747 has an extravagant interior intended for its billionaire owner's individual use, offering accommodation for numerous guests."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence, as the custom-built Boeing 747 is discussed as a £400m home with luxury amenities catering to the preferences and requirements of the ultra-wealthy owner.",
+        "Yes, the summary contains the context of the given sentence mentioning the custom-built Boeing 747 for the ultra-wealthy owner's specifications with personalized features like sleeping quarters, dining room, and conference room, alluding to the $400 million cost in the construction.",
+        "Yes, the summary contains the context of this sentence, emphasizing the lavish interior and guest accommodation in the custom-built 747."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

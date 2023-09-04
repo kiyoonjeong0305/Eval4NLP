@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday .",
+        "sir bradley wiggins will attempt to break cycling's hour record in june . wiggins will race in front of a sell-out crowd at london's olympic velodrome . the briton finished his team sky career at paris-roubaix last sunday ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins will attempt to break the hour record at the Olympic Velodrome in London on June 7.",
+        "2. Wiggins is a four-time Olympic champion and former Tour de France winner.",
+        "3. He aims to set a new distance record in 60 minutes.",
+        "4. The event will be broadcast live on Sky Sports and feature a capacity crowd.",
+        "5. Wiggins will return to the track after ending his Team Sky career at Paris-Roubaix.",
+        "6. His target is the eighth Olympic medal, competing in the four-man, four-kilometre team pursuit in Rio."
+    ],
+    "explain": [
+        "The given aspect states that Sir Bradley Wiggins will attempt to break the hour record at the Olympic Velodrome in London on June 7. The hour record is a prestigious cycling achievement that involves riding as far as possible in a single hour on an indoor velodrome. Wiggins aims to break the existing record, which is currently held by Alex Dowsett with a distance of 52.937 kilometers (32.89 miles).",
+        "Describe the main concept or theme in a concise and clear way.\n\nCore idea of the given aspect: Sir Bradley Wiggins is a distinguished and accomplished cyclist with a prestigious career in the sport, having won several notable titles. He is a four-time Olympic champion, a former Tour de France winner, and a household name in the world of cycling.",
+        "To set a new distance record in 60 minutes while attempting to break the Cycling's Hour Record.",
+        "The given aspect highlights the live broadcast of the event on Sky Sports and the presence of a capacity crowd at the London's Olympic Velodrome. The event is anticipated to be highly watched, as it will feature Sir Bradley Wiggins attempting to break the prestigious hour record. The massive turnout of people will add to the excitement and energy of the atmosphere, making it a memorable experience for both the riders and the spectators.\nCategorize the aspect as a factor in the success or significance of the event.",
+        "\"Sir Bradley Wiggins will attempt to break the cycling's hour record in June. He will ride in front of a packed crowd at London's Olympic Velodrome. The British cyclist completed his Team Sky career at the Paris-Roubaix race last Sunday.\"\n\nSummary:\nSir Bradley Wiggins, a renowned British cyclist, is planning to break the hour record in cycling. On June 7th, he will ride at the London's Olympic Velodrome, one of the world's most iconic indoor cycling tracks. Hosting a sell-out crowd, this event is anticipated to be an exciting day for cycling fans who will witness Wiggins attempt to break the prestigious record.\n\nAspect:\n",
+        "The core idea of this aspect is that Sir Bradley Wiggins, a famous British cyclist, is competing in the four-man, four-kilometer team pursuit competition (also known as the Team Pursuit) at the Rio Olympics. The Team Pursuit is a popular event in track cycling and requires coordination, endurance, and teamwork among four cyclists. Wiggins' target in this event is to win his eighth Olympic medal, which would make him the most successful British cyclist in the history of the Olympics. Achieving this milestone would further solidify his legacy as one of the greatest cyclists of all time."
+    ],
+    "answer": [
+        "\nNo, the summary does not contain the core idea of the given aspect. While the summary briefly mentions Sir Bradley Wiggins' upcoming attempt at the hour record, it does not provide the specific date, location, or goal of breaking the existing record.",
+        "Yes, I apologize for the confusion in my earlier response. Upon a closer inspection of the summary, I see that the core idea is not directly mentioned, but it provides the context for the upcoming event, which is Sir Bradley Wiggins attempting to break the hour record at the Olympic Velodrome in London. The summary does not explicitly state the aspect you provided, but it does provide context to the athlete's achievements, which may contribute to the anticipation and excitement surrounding the event.",
+        "No, the summary does not contain the core idea. The aspect specifically mentions setting a new distance record in 60 minutes, which is not explicitly mentioned in the summary.",
+        "\nI apologize for the confusion in my previous response. After reevaluating the summary, I realize that I may have missed the focus on the live broadcast and capacity crowd aspect the first time. The summary does mention that the event will be broadcast live on Sky Sports and feature a capacity crowd, which is an essential aspect of the event.\n\nI apologize for my previous response, and I hope this corrected version addresses your question adequately.",
+        "\n\nNo, the summary does not contain the core idea as mentioned in the aspect. Although the summary briefly mentions Wiggins attempting the hour record, it does not specify the exact date or venue. Moreover, the aspect mentions his Team Sky career ending at Paris-Roubaix, which is not mentioned in the summary. The aspect also mentions his return to the track after completing his Team Sky career, something that is not mentioned in the summary.",
+        "\nNo"
+    ],
+    "score": [
+        3,
+        3,
+        3,
+        4,
+        2,
+        2
+    ],
+    "mean_score": 2.8333333333333335,
+    "gt_score": 4.916666666675
+}

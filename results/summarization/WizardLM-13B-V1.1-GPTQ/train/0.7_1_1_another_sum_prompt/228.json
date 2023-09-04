@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 ."
+    ],
+    "aspect": [
+        "[Wales, Belgium, 33,000 sell-out, Cardiff City Stadium, top spot, best position, major tournament, Euro 2016, qualifier, Gareth Bale, free-kick, victory, Israel, top table, goal difference, comprehensive, Chris Coleman, FAW, tickets, general admission, general admission tickets, sold out, UEFA rules, Cardiff City Stadium, Millennium Stadium, intimate, Gareth Bale, England, Euro 2012, qualifier]"
+    ],
+    "explain": [
+        "To express a main concept or theme\nCore idea: Wales and Belgium will face each other in a Euro 2016 qualifier match at the Cardiff City Stadium on June 12, 2016, with a capacity of 33,000 people. The match is crucial for both teams, as the winner will secure one of the top spots and improve their position in the Euro 2016 qualifying table. Chris Coleman's Wales team aims to claim the top spot and have a significant advantage over the other teams in the group. This match has a major impact on both teams, as it could help either team to qualify or be eliminated from the competition. The match also has a personal significance for Gareth Bale, who is expected to play a key role in the game, following his success in the Euro 2012 qualifier match against England at the Cardiff City Stadium. However, securing enough tickets might be difficult for some fans, as general admission tickets are sold out due to UEFA rules, while only a limited number of seats are available for purchase."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea, although it does mention some key aspects of the match such as the home ground, the teams involved, and the importance of the game. The core idea, as mentioned in the aspect, involves the competition for the top spot in the Euro 2016 qualifying table and the significance of the match for both Wales and Belgium, which are not highlighted in the summary."
+    ],
+    "score": [
+        3
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.16666666665
+}

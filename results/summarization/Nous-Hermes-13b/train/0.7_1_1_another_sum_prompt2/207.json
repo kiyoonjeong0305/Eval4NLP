@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . luis said : ` i want to stay at the club until the end of my contract ' .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . luis said : ` i want to stay at the club until the end of my contract ' .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . luis said : ` i want to stay at the club until the end of my contract ' .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . luis said : ` i want to stay at the club until the end of my contract ' .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . luis said : ` i want to stay at the club until the end of my contract ' .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . luis said : ` i want to stay at the club until the end of my contract ' ."
+    ],
+    "aspect": [
+        "1. Filipe Luis wants to stay at Chelsea until his contract ends.",
+        "2. Atletico Madrid are considering re-signing him.",
+        "3. Luis played for Brazil during the international break.",
+        "4. Chelsea's focus is on the league title run-in.",
+        "5. Mourinho is not allowing the team to rest.",
+        "6. Luis insists the team is prepared for a difficult situation."
+    ],
+    "explain": [
+        "Filipe Luis, the Brazilian defender, has expressed his desire to remain at Chelsea until the end of his current contract. He signed a three-year contract with the club in 2020 and he wants to fulfill his commitment to Chelsea.",
+        "\nThe aspect states that Atletico Madrid are considering re-signing Filipe Luis. This means that the Spanish club is considering bringing the defender back to the team he initially played for, before he joined Chelsea. This idea is consistent with the summary, where it is mentioned that Atletico Madrid is considering returning for him in the summer. This suggests that even though Filipe Luis says he wants to stay at Chelsea until the end of his contract, his current club's willingness to sell him may lead to a move back to Atletico Madrid.",
+        "Filipe Luis played for Brazil during the international break and the news of teams considering him for a potential transfer in the summer has been making rounds.",
+        "This aspect of Chelsea's focus on the league title run-in implies that the team is prioritizing their pursuit of the league championship and, in turn, their efforts in other competitions are likely to be affected. Consequently, the likelihood of Chelsea making a significant transfer during the January window or bringing back players like Filipe Luis from loan, may be reduced as they concentrate on securing their position at the top of the table.",
+        "One of the core ideas of the aspect is that the Chelsea manager, Jose Mourinho, is being criticized for not allowing the team to rest and giving his players enough time to recover between matches. This can lead to fatigue and injury which could negatively impact the team's performance. Additionally, this aspect implies that Mourinho is being insensitive to his players' well-being and may not be considering the long-term effects of overworking them.",
+        "The given aspect states that Filipe Luis insists that Chelsea wants to stay at the club until the end of his contract and that Atletico Madrid is considering bringing him back in the summer. It highlights his commitment to the team and his willingness to see out his current contract, despite interest from other clubs. This aspect also implies that the team is prepared for a difficult situation, as they are ready to face the possibility of losing Luis in the future."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea. The aspect given is \"Filipe Luis wants to stay at Chelsea until his contract ends.\" The core idea behind the aspect is that the footballer is committed to finishing his contract with Chelsea and does not want to leave the club before its expiry.",
+        "Yes, the summary does contain the core idea of the aspect, which is that Atletico Madrid is considering re-signing Filipe Luis.",
+        "No, the summary does not contain the core idea of the aspect mentioned.",
+        "The summary does not explicitly state Chelsea's focus on the league title run-in, but it does imply that the club is prioritizing their pursuit of the championship, which could affect their transfer decisions during the January window and their decision to bring back players on loan.",
+        "No, the summary does not contain the core idea of the aspect.",
+        "No, the summary does not contain the core idea of the aspect. The aspect discusses Filipe Luis's commitment to Chelsea and Atletico Madrid's potential interest in him, while the summary only mentions his desire to stay at Chelsea until the end of his contract."
+    ],
+    "score": [
+        0,
+        5,
+        0,
+        4,
+        0,
+        1
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 4.083333333325
+}

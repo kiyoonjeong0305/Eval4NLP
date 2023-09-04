@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 .",
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 .",
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 .",
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 .",
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 .",
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 .",
+        "curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate . patrick kluivert has helped curacao progress to the next stage . kluivert 's mother is from curacao , was a world cup losing semi-finalist in 1998 ."
+    ],
+    "aspect": [
+        "1. Patrick Kluivert has helped Curacao progress to the next stage of 2018 World Cup qualification. ",
+        "2. Kluivert was a World Cup losing semi-finalist as a player in 1998. ",
+        "3. Kluivert worked as assistant coach to Louis van Gaal at the 2014 World Cup. ",
+        "4. Curacao won 2-1 at home on Saturday in their first-leg match against Montserrat. ",
+        "5. Curacao advanced to the next round of World Cup qualification by winning 4-3 on aggregate against Montserrat. ",
+        "6. Charlton Vicento scored in the 87th minute to secure Curacao's progression to the next round. ",
+        "7. Curacao will face Cuba in the next round of World Cup qualification."
+    ],
+    "explain": [
+        "The given aspect states that Patrick Kluivert has helped Curacao progress to the next stage of 2018 World Cup qualification. This means that the famous Dutch football player, Kluivert, who is of Curacao descent, played a crucial role in his national team's advancement to the next round of qualifiers.",
+        "The given aspect states that former Dutch soccer player Patrick Kluivert not only helped Curacao progress to the next stage of the World Cup qualifiers, but he also has personal experience in being a World Cup losing semi-finalist.",
+        "The aspect highlights that Patrick Kluivert had previously worked with Louis van Gaal, who was the head coach of the Netherlands national team during the 2014 FIFA World Cup.",
+        "The aspect states that the first-leg match between Curacao and Montserrat happened at home for Curacao with a score of 2-1, which means that Curacao had a lead before they went to Montserrat for the second-leg match.",
+        "The core idea of this aspect is that Curacao won 4-3 on aggregate against Montserrat in a second-leg match, and as a result, they have advanced to the next round of World Cup qualification. However, this wasn't the only reason that led to their advancement. Patrick Kluivert, the head coach of the Curacao national team, also played a significant role in their success. His mother is from Curacao, and he himself was a part of the World Cup losing semi-final team in 1998.",
+        "The aspect highlights an important moment in the match where Charlton Vicento scored a crucial goal in the 87th minute. This goal not only secured Curacao's progression to the next round, but also helped to win the match against Montserrat with a final score of 2-2 on aggregate.",
+        "Curacao will face Cuba in the next round of World Cup qualification. This aspect of the summary is important because it highlights the next challenge and opponent for Curacao in their journey towards qualifying for the World Cup."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the given aspect. The summary is about Curacao drawing 2-2 in a second-leg match at Montserrat to win 4-3 on aggregate, while the aspect pertains to Patrick Kluivert's contribution to Curacao's qualification for the next round of the 2018 World Cup.",
+        "No, the summary does not contain the core idea of the given aspect.",
+        "No, the summary does not contain the core idea of the aspect. The aspect provides information about Kluivert's past experience with Van Gaal, which may have contributed to his success with the Curacao national team.",
+        "No, the given aspect is not present in the summary.",
+        "No, the summary does not contain the core idea, as it only mentions that Curacao won 4-3 on aggregate against Montserrat and advanced to the next round of World Cup qualification. It does not mention anything about Patrick Kluivert's role or his mother's connection to Curacao.",
+        "No, the summary does not contain the core idea of the given aspect. While it mentions that Curacao won 4-3 on aggregate and advanced to the next stage, it does not mention Charlton Vicento's goal or its significance.",
+        "No, the aspect provided does not contain the core idea of the summary. The core idea of the summary is that Curacao drew 2-2 in a second-leg match at Montserrat to win 4-3 on aggregate, and Patrick Kluivert helped them progress to the next stage."
+    ],
+    "score": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+    ],
+    "mean_score": 0.7142857142857143,
+    "gt_score": 3.58333333335
+}

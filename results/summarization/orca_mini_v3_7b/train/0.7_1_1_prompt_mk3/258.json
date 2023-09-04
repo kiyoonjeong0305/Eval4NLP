@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Pearson has urged his players to stay focused on their own job and not worry about their relegation rivals during run-in 'We need to take our game to the next level and try and win the game.' Pearson has also urged his players to stay focused on their own job and not worry about their relegation rivals during run-in. 'We've got to take the focus off the other teams,' he said.",
+        "Pearson has urged his players to stay focused on their own job and not worry about their relegation rivals during run-in 'We need to take our game to the next level and try and win the game.' Pearson has also urged his players to stay focused on their own job and not worry about their relegation rivals during run-in. 'We've got to take the focus off the other teams,' he said.",
+        "Pearson has urged his players to stay focused on their own job and not worry about their relegation rivals during run-in 'We need to take our game to the next level and try and win the game.' Pearson has also urged his players to stay focused on their own job and not worry about their relegation rivals during run-in. 'We've got to take the focus off the other teams,' he said."
+    ],
+    "aspect": [
+        "1. Leicester boss Pearson urges team to ignore rivals and focus on their own game.",
+        "2. Leicester is three points from safety in the Premier League after their back-to-back wins.",
+        "3. Pearson advises his side to prioritize their run-in and concentrate on their own performance."
+    ],
+    "explain": [
+        "Leicester's manager, Pearson, emphasizes the importance of the team focusing on their own performance and strategy rather than being influenced by other relegation contenders during the crucial run-in.",
+        "Leicester is in a precarious situation, as they are only three points away from relegation, despite their recent back-to-back wins.",
+        "Pearson urges his side to concentrate on their performance during the run-in, rather than worrying about their relegation rivals, in order to improve their chances of success."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence, emphasizing Pearson urging the team to focus on their own game.",
+        "No, the summary does not contain the context of the given aspect, as it focuses on Pearson's message to his players rather than Leicester's relegation position.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 3.2499999999750004
+}

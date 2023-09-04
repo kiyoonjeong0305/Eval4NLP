@@ -1,0 +1,30 @@
+{{prompt_placeholder}}
+You will be given a summary and a aspect.
+Read the summary and the aspect carefully.
+
+Summary: {{summary}}
+Aspect: {{aspects}}
+
+{{response_placeholder}}
+
+Generate a more concise version of Source text as breif as possible in one sentence.
+You should focus on "who" did " "what" and delete unnecessary words.
+Delete something that too detailed or redundant.
+Refine the language used in the sentence with more general words.
+Concise version must not be longer than original text.
+
+
+Concise version of Aspect: {{gen 'explain' temperature=1}}
+
+
+Do you think the summary has any similar context of "{{explain}},{{aspects}}", even roughly?
+Generate your Answer carefully.
+
+Answer: {{gen "answer" temperature=1}}
+
+
+Based on your answer "{{answer}}", score the summary from 1 to 5. 
+If the summary doesn't have similar meaning, score 1.
+If the summary has similar meaning, score 5.
+
+Score: {{gen 'score' pattern='[1-5]' temperature=0}}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour.",
+        "Luigi Costa, 71, is accused of murdering his elderly neighbour Terrence Freebody in the dining room of his home on Mugga Way, Red Hill, Canberra in July 2012. The accused is on trial for the murder of his neighbour."
+    ],
+    "aspect": [
+        "1. A man is accused of murdering his neighbor in 2012 and is said to have been suffering from dementia and alcohol abuse at the time. ",
+        "2. The suspect allegedly killed his elderly neighbor, and a forensic psychiatrist testified that there was evidence of the suspect's declining mental state. ",
+        "3. The defendant's mental state is critical to the case, as the jury can return a not guilty verdict if his unstable mindset at the time of the attack can be proven."
+    ],
+    "explain": [
+        "The aspect highlights that the accused, Luigi Costa, was suffering from dementia and alcohol abuse at the time of committing the murder.",
+        "The given aspect states that there is evidence of the suspect's declining mental state. This suggests that the suspect may not have been in full control of his actions or may have been experiencing some form of mental instability at the time of the murder. This could potentially be used as a defense in the murder trial.",
+        "One of the core ideas of the second aspect is that the mental state of the defendant is critical to the case. This means that the jury can return a not guilty verdict if his unstable mindset at the time of the attack can be proven. In other words, if the defendant was not in his right mind at the time of the murder, he may not be held fully responsible for his actions. The mental stability of the defendant is an important factor for the jury to consider when determining his guilt or innocence."
+    ],
+    "answer": [
+        "Yes, the aspect provides additional information about the accused and his mental and medical state at the time of the alleged crime, which could be relevant in determining his guilt or innocence.",
+        "No, the aspect does not contain the core idea of the summary. The summary is about Luigi Costa being accused of murdering Terrence Freebody and being on trial for the murder, while the aspect is about the declining mental state of the suspect.",
+        "No, the summary does not contain the core idea of the aspect. The aspect provides additional information about how the defendant's mental state is critical to the case, while the summary simpl"
+    ],
+    "score": [
+        5,
+        4,
+        0
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.66666666665
+}

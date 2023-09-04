@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years .",
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years .",
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years .",
+        "the bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands . the speed camera has not been working for more than two years ."
+    ],
+    "aspect": [
+        "1. Speed camera has been pointed at a house in Birmingham for more than two years.",
+        "2. Speed cameras have been turned off across the region since 2013.",
+        "3. The camera could be removed completely.",
+        "4. The owners of the house were not available for comment."
+    ],
+    "explain": [
+        "The given aspect states that a speed camera located in Birmingham has been non-functional for more than two years, and during this time, it has been pointing at a single house. This indicates that the camera was aimed directly at this particular house and was not utilized for capturing speeding incidents or enforcing speed limits in the surrounding area. This reinforces the notion that the camera was not providing any useful purpose during this time.",
+        "The aspect states that speed cameras have been turned off across the region of Birmingham since 2013. This means that there are no working speed cameras in the region, which has been the case for more than two years.",
+        "The core idea of Aspect 3 is that the speed camera, which had been enforcing the 30mph speed limit along the residential road in Handsworth, Birmingham, has not been working for more than two years. As a result, it could be removed permanently.",
+        "The owners of the house were not available for comment, which means they did not give any statement or opinion about the situation when contacted by the media or other sources."
+    ],
+    "answer": [
+        "The summary does not contain the core idea of the aspect.",
+        "I'm sorry, I'm not sure what you mean. Could you please clarify your question?",
+        "Aspect 3 mentions that the speed camera, which was previously enforcing the 30mph speed limit for motorists along the residential road in Handsworth, Birmingham, has not been working for more than two years. Therefore, it could be removed completely.",
+        "explain."
+    ],
+    "score": [
+        0,
+        0,
+        4,
+        4
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.08333333335
+}

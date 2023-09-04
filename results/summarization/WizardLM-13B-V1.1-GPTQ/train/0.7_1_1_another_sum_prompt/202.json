@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old .",
+        "javier hernandez is linked with a move to orlando city . the mls side are coached by former everton and adrian heath . wolfsburg , ac milan , lazio and inter milan are keen on the 26-year-old ."
+    ],
+    "aspect": [
+        "1. Orlando City is interested in Javier Hernandez.",
+        "2. Hernandez would be a popular arrival with Orlando supporters but eight European sides are also interested.",
+        "3. Manchester United has made a revised contract offer to Andreas Pereira."
+    ],
+    "explain": [
+        "The core idea of the given aspect is that Orlando City, a Major League Soccer (MLS) club, is interested in acquiring the services of Javier \"Chicharito\" Hernandez, a highly-regarded professional footballer. The club's interest in Hernandez has been fueled by his successful career in various European leagues, including the Bundesliga, Serie A, and the Primeira Liga. This potential transfer could significantly strengthen Orlando City's squad and boost their chances of success in the MLS.",
+        "To give an explanation, rendering a description, or providing an account of a particular topic or concept.",
+        "To make clear or elaborate on the main point, to clarify, to clarify the main point, to elaborate on"
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the given aspect. While the summary does mention that Javier Hernandez is linked with a move to Orlando City, it does not specify which club is interested in the player. The aspect highlights that Orlando City is among the clubs keen on signing Hernandez.",
+        "No, the summary does not contain the core idea as explained in the aspect provided. The summary is focused mainly on Javier Hernandez's potential move to Orlando City and the clubs interested in signing him, while the aspect highlights that Hernandez would be a popular arrival with Orlando supporters, but eight European sides are also interested. The summary does not explicitly mention the popularity of Hernandez among Orlando supporters.",
+        "\nManchester United has made a revised contract offer to Andreas Pereira."
+    ],
+    "score": [
+        3,
+        2,
+        5
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 3.833333333325
+}

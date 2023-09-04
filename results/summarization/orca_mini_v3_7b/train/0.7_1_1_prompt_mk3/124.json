@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "at the same time , managers at the passport agency , which made a # 42 million profit during the chaos , received up to # 3,500 in bonuses . ministers refused to give a blanket refund to the desperate families who had to pay extra to get their travel documents rushed through , and even to some who missed out on trips .",
+        "at the same time , managers at the passport agency , which made a # 42 million profit during the chaos , received up to # 3,500 in bonuses . ministers refused to give a blanket refund to the desperate families who had to pay extra to get their travel documents rushed through , and even to some who missed out on trips .",
+        "at the same time , managers at the passport agency , which made a # 42 million profit during the chaos , received up to # 3,500 in bonuses . ministers refused to give a blanket refund to the desperate families who had to pay extra to get their travel documents rushed through , and even to some who missed out on trips ."
+    ],
+    "aspect": [
+        "1. Thousands of holidaymakers affected by last summer's passport delay have not received compensation, despite the £42 million profit made by the passport agency.",
+        "2. Ministers refused to give a blanket refund to families who paid extra for rushed travel documents, even though managers received up to £3,500 in bonuses.",
+        "3. Only 2,191 compensation applications were approved since April 2014, with the total paid out at £203,066, with an average payout of £92.68."
+    ],
+    "explain": [
+        "Thousands of holidaymakers were impacted by the passport delay last summer and have not received compensation, despite the passport agency making a £42 million profit.",
+        "Although managers at the passport agency received large bonuses while causing major profit, ministers refused to provide blanket refunds to families who paid extra for rushed travel documents, highlighting the disparity in decision-making.",
+        "The government received 2,191 compensation applications for the rushed passport fees since April 2014, approving only 2,191 and paid out £203,066 with an average payout of £92.68."
+    ],
+    "answer": [
+        "Yes, the summary contains a context similar to this sentence but it is not an exact duplicate.",
+        "Yes, the summary contains the context of the provided sentence.",
+        "Nope"
+    ],
+    "score": [
+        3,
+        4,
+        1
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.0
+}

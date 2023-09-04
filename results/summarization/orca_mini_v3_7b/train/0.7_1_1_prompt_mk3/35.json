@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "world no 1 williams beat sara errani in the fed cup play-off on sunday . the us were beaten 6-0 6-3 in the doubles rubber by errani and flavia pennetta . serena williams won her 19th singles grand slam at the australian open .",
+        "world no 1 williams beat sara errani in the fed cup play-off on sunday . the us were beaten 6-0 6-3 in the doubles rubber by errani and flavia pennetta . serena williams won her 19th singles grand slam at the australian open .",
+        "world no 1 williams beat sara errani in the fed cup play-off on sunday . the us were beaten 6-0 6-3 in the doubles rubber by errani and flavia pennetta . serena williams won her 19th singles grand slam at the australian open ."
+    ],
+    "aspect": [
+        "1. Serena Williams faced a \"real eye-opener\" in her struggle to beat Sara Errani in the Fed Cup, losing the doubles rubber 6-0 6-3 but ultimately prevailing 4-6 7-6(3) 6-3.",
+        "2. Errani gave Williams a real scare, and Williams admitted she wasn't as ready for the clay court season as she thought, vowing to play and be ready for \"a thousand shots if necessary.\"",
+        "3. US captain Mary Joe Fernandez said they need to work harder, pointing out they have many players in the top 100 and hope to get back into the World Group next year with two wins."
+    ],
+    "explain": [
+        "Serena Williams faced a tough challenge in the Fed Cup facing Sara Errani, losing the doubles rubber 6-0 6-3 but still managing to win her singles game 4-6 7-6(3) 6-3. This experience provided her with a valuable lesson in perseverance and determination.",
+        "2. Errani demonstrated intense competition against Williams, putting her under pressure, and Williams admitted her lack of preparation for the clay court season, stating her determination to practice even more extensively to improve her play on this surface in the future.",
+        "The US women's Fed Cup team needs improvement as they were defeated by Italy. In their quest to return to the World Group next year, team captain Fernandez emphasized the need for hard work and a mindset of \"never giving up\" even if they have many players in the top 100."
+    ],
+    "answer": [
+        "Yes, the context is present in the summary.\n\nWhat's your current understanding about this aspect/context? You understand that Serena Williams encountered a challenging contest in the Fed Cup against Sara Errani, resulting in a loss in the doubles rubber but a victory in her singles game due to her perseverance and determination.",
+        "No, the summary does not fully encapsulate the context provided by Aspect 2.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.41666666665
+}

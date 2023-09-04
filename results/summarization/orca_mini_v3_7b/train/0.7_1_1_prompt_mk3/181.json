@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "neymar and dani alves proved their dedication to barcelona . neymar and alves headed to watch el clasico on thursday night . neymar helped brazil beat chile 1-0 at the emirates stadium on sunday . real madrid remain top of their euro league division over their rivals .",
+        "neymar and dani alves proved their dedication to barcelona . neymar and alves headed to watch el clasico on thursday night . neymar helped brazil beat chile 1-0 at the emirates stadium on sunday . real madrid remain top of their euro league division over their rivals .",
+        "neymar and dani alves proved their dedication to barcelona . neymar and alves headed to watch el clasico on thursday night . neymar helped brazil beat chile 1-0 at the emirates stadium on sunday . real madrid remain top of their euro league division over their rivals ."
+    ],
+    "aspect": [
+        "1. Neymar and Alves show support for Barcelona basketball team;",
+        "2. Brazil wins 1-0 against Chile;",
+        "3. Barcelona aims for a treble of trophies."
+    ],
+    "explain": [
+        "Neymar and Alves demonstrate their loyalty to Barcelona by attending an important game and cheering on the basketball team, adding to their already established support to the club.",
+        "Brazil wins 1-0 against Chile; Neymar contributes towards their victory.",
+        "Barcelona is aiming for a three-trophy haul, which includes domestic cups, La Liga, and the Champions League."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary does contain the context of this sentence as it mentions: \"neymar helped brazil beat chile 1-0 at the emirates stadium on sunday.\"",
+        "Yes, the summary contains the context of this sentence. It mentions Barcelona competing for three trophies: domestic cups, La Liga, and the Champions League."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.75
+}

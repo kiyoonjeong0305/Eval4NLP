@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a 'distinctive' cartoon mask . the offender, snapped on security footage in a fluoro orange sweatshirt and oversized mask, is described as being 'very tall' he made off with the dairy's till and about $1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a 'distinctive' cartoon mask . the offender, snapped on security footage in a fluoro orange sweatshirt and oversized mask, is described as being 'very tall' he made off with the dairy's till and about $1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a 'distinctive' cartoon mask . the offender, snapped on security footage in a fluoro orange sweatshirt and oversized mask, is described as being 'very tall' he made off with the dairy's till and about $1500 in cash on saturday .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a 'distinctive' cartoon mask . the offender, snapped on security footage in a fluoro orange sweatshirt and oversized mask, is described as being 'very tall' he made off with the dairy's till and about $1500 in cash on saturday ."
+    ],
+    "aspect": [
+        "- New Zealand police are appealing to the public to help identify a man who robbed a Christchurch dairy.",
+        "- The offender is described as being very tall and wore a fluoro orange sweatshirt and a distinctive cartoon mask.",
+        "- The man demanded cash from the dairy owner's daughter and made off with the till drawer and up to $1,500.",
+        "- Police are asking for anyone with information to call Crimestoppers or message them online."
+    ],
+    "explain": [
+        "The given aspect states that \"New Zealand police are appealing to the public to help identify a man who robbed a Christchurch dairy.\" This indicates that the police are seeking assistance from the public in identifying the person who committed the robbery. According to the summary, the man robbed a dairy in Christchurch while wearing a distinctive cartoon mask and stole the cash from the till.",
+        "The given aspect states that the offender is described as being very tall and wore a fluoro orange sweatshirt and a distinctive cartoon mask. The main idea conveyed by this aspect is that the police are seeking the public's assistance in identifying an individual who robbed a dairy in Christchurch, New Zealand on July 4, 2020. The individual is depicted as having a tall stature and dressed in an attention-grabbing outfit consisting of an oversized cartoon mask, orange sweatshirt, and a till from the dairy establishment. The suspect also made away with an estimated amount of $1,500 in cash during the incident. Thus, the police are requesting anyone with information about the crime or the individual's identity to come forward and provide details to aid in the investigation.",
+        "The man was described as very tall and demanded cash from the dairy owner's daughter. He obtained the till and up to $1,500.",
+        "Police are asking for the public's help to identify the man who robbed the dairy in Christchurch by providing any information that could lead to his identification. They are encouraging people to call Crimestoppers or message them online if they have any leads.\nCore idea: Police are relying on the public's assistance to solve the case and catch the culprit."
+    ],
+    "answer": [
+        "Do you REALLY think the summary contains the core idea? No, it does not. The summary does not inform us that it is the cartoon mask that the police are appealing to identify. It only tells us what the man stole and not the distinctive feature that the police are focusing on. The aspect provided by the user mentions the mask as the distinctive feature.",
+        "The summary does not contain the core idea.\nTherefore, the aspect is not relevant to the summary. Is there any other aspect or summary that is relevant to this particular scenario?",
+        "No, I was merely answering the aspect given. The summary is essential for understanding the context of the incident, but it does not contain the core idea of this aspect.",
+        "No, the summary does not contain the core idea. The core idea is that the Police are asking for the public's help to identify and capture the culprit."
+    ],
+    "score": [
+        0,
+        0,
+        4,
+        0
+    ],
+    "mean_score": 1.0,
+    "gt_score": 4.666666666675
+}

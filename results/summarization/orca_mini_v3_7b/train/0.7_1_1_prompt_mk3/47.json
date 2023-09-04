@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "kaitlyn granado , 24 , a teacher at macarthur high school in irving , texas , was first arrested on march 19 for having an inappropriate relationship with a 15-year-old student , and was released on bail . now she has been arrested again after another pupil , also accused granado of having sex with him on two consecutive nights in january this year . the teen claims the sexual relationship took place in her car late at night on january 18 and 19 .",
+        "kaitlyn granado , 24 , a teacher at macarthur high school in irving , texas , was first arrested on march 19 for having an inappropriate relationship with a 15-year-old student , and was released on bail . now she has been arrested again after another pupil , also accused granado of having sex with him on two consecutive nights in january this year . the teen claims the sexual relationship took place in her car late at night on january 18 and 19 .",
+        "kaitlyn granado , 24 , a teacher at macarthur high school in irving , texas , was first arrested on march 19 for having an inappropriate relationship with a 15-year-old student , and was released on bail . now she has been arrested again after another pupil , also accused granado of having sex with him on two consecutive nights in january this year . the teen claims the sexual relationship took place in her car late at night on january 18 and 19 ."
+    ],
+    "aspect": [
+        "1. Kaitlyn Granado, 24, arrested for alleged sexual relationship with 15-year-old student in January.",
+        "2. Second accusation made against Granado for alleged relationship with another 15-year-old student in January.",
+        "3. Granado suspended from teaching and placed on administrative leave following investigation into possible relationships with students."
+    ],
+    "explain": [
+        "Kaitlyn Granado, a 24-year-old high school teacher, has been arrested for the second time for allegedly having a sexual relationship with a 15-year-old student in January, as claimed by a second student who accused her of a similar relationship during two consecutive nights in the same month.",
+        "Kaitlyn Granado, a teacher, was initially arrested for allegedly having a relationship with a 15-year-old student in March. Now she has been arrested again after a second student accuses her of having sexual relations with them on two consecutive nights in January.",
+        "Kaitlyn Granado, a 24-year-old teacher at MacArthur High School in Irving, Texas, has been arrested twice for alleged inappropriate relationships with students. She first faced arrest in March for having a relationship with a 15-year-old student and was released on bail. Now, she has been arrested again after a 16-year-old pupil claimed that she had sex with him on two consecutive nights in January. Granado has been suspended from her teaching duties and placed on administrative leave as the school investigates these possible relationships."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary does contain the context of the given sentence.",
+        "Yes, the summary contains the context of this sentence. It mentions Granado's arrest for alleged relationships, which has led to her suspension from teaching duties."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.66666666665
+}

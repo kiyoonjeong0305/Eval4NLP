@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bayern munich manager pep guardiola ripped a hole during the champions league match in germany . guardiola 's underwear were on show after the bayern boss managed to rip a small hole in his trousers . bayern munich celebrate at the final whistle after booking a place in the semi-finals of the champions league .",
+        "bayern munich manager pep guardiola ripped a hole during the champions league match in germany . guardiola 's underwear were on show after the bayern boss managed to rip a small hole in his trousers . bayern munich celebrate at the final whistle after booking a place in the semi-finals of the champions league .",
+        "bayern munich manager pep guardiola ripped a hole during the champions league match in germany . guardiola 's underwear were on show after the bayern boss managed to rip a small hole in his trousers . bayern munich celebrate at the final whistle after booking a place in the semi-finals of the champions league ."
+    ],
+    "aspect": [
+        "1. Bayern Munich defeated Porto 6-1 in the Champions League quarter-finals. ",
+        "2. Pep Guardiola's trousers were ripped during the match. ",
+        "3. Bayern will face their European rivals in the semi-finals."
+    ],
+    "explain": [
+        "Bayern Munich defeated Porto 6-1 in the Champions League quarter-finals, securing a spot in the semi-finals of the tournament.",
+        "Pep Guardiola's trousers were ripped during the match and he was seen with a small hole in his trousers.",
+        "The given aspect highlights that Bayern Munich has qualified for the semi-finals of the Champions League and will face its European rivals in the upcoming round."
+    ],
+    "answer": [
+        "Incorrect. The core idea of the aspect is that Bayern Munich defeated Porto 6-1 in the Champions League quarter-finals, securing a spot in the semi-finals of the tournament.",
+        "Yes, Pep Guardiola's trousers were ripped during the match and he was seen with a small hole in his trousers.",
+        "The summary doesn't contain the core idea of the given aspect."
+    ],
+    "score": [
+        0,
+        5,
+        0
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 4.41666666665
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "outspoken mp bob katter has risked being drawn into a race row after accusing the queensland government of believing embattled mp billy gordon was ' a little black puppet on a string ' . in a bizarre statement on his party 's website , mr katter said the government believes mr gordon would quit after he was recently accused of domestic violence - and later admitted to his criminal past . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position .",
+        "outspoken mp bob katter has risked being drawn into a race row after accusing the queensland government of believing embattled mp billy gordon was ' a little black puppet on a string ' . in a bizarre statement on his party 's website , mr katter said the government believes mr gordon would quit after he was recently accused of domestic violence - and later admitted to his criminal past . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position .",
+        "outspoken mp bob katter has risked being drawn into a race row after accusing the queensland government of believing embattled mp billy gordon was ' a little black puppet on a string ' . in a bizarre statement on his party 's website , mr katter said the government believes mr gordon would quit after he was recently accused of domestic violence - and later admitted to his criminal past . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position ."
+    ],
+    "aspect": [
+        "1. Bob Katter accuses Queensland Government of assuming Billy Gordon would quit.",
+        "2. Katter believes racist attitudes from major parties.",
+        "3. Katter defends his term \"black puppet\" as relating to his own experiences."
+    ],
+    "explain": [
+        "Bob Katter suggests that the Queensland Government assumes Billy Gordon would step down, despite recent claims of domestic violence and his criminal background.",
+        "Bob Katter, an outspoken MP, suggests that he has experienced racist attitudes from both major parties, which he believes may have negatively affected Billy Gordon.",
+        "Bob Katter defends the term \"black puppet\" as reflecting his personal experiences with racism."
+    ],
+    "answer": [
+        "No",
+        "Yes, the summary does contain the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.75
+}

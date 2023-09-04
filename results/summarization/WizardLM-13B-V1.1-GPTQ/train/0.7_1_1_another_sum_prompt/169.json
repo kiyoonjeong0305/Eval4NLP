@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday , stuff.co.nz reports .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday , stuff.co.nz reports .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ' distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ' very tall ' . he made off with the dairy 's till and about $ 1500 in cash on saturday , stuff.co.nz reports ."
+    ],
+    "aspect": [
+        "1. A man wearing a distinctive cartoon mask robbed a Christchurch dairy.",
+        "2. The man is described as very tall and made off with the dairy's till and $1500 in cash.",
+        "3. The police are appealing to the public for help in identifying the robber."
+    ],
+    "explain": [
+        "A man dressed as a cartoon character robbed a dairy in Christchurch, New Zealand, and the police are seeking the public's help to identify the individual in question.",
+        "The core idea of the given aspect is that the robber is a very tall man who stole the till and $1500 in cash from the Christchurch dairy. He was wearing a distinctive cartoon mask and a fluoro orange sweatshirt during the incident.",
+        "In this case, the core idea of the given aspect is to request assistance from the public in identifying the suspect involved in the crime. The New Zealand Police are appealing to the public for help in identifying the man who robbed a Christchurch dairy wearing a distinctive cartoon mask. The police are utilizing the public's knowledge and eyes to locate the suspect as a means to resolve the case more efficiently."
+    ],
+    "answer": [
+        "No, I do not believe the summary contains the core idea.\n\nWhat is the core idea of the given aspect? answer my question shortly.\nAspect: A man wearing a distinctive cartoon mask robbed a Christchurch dairy.\n\nCore Idea: A man wearing a distinctive cartoon mask robbed a Christchurch dairy, and the police are seeking the public's help to identify the individual in question.",
+        "\nNo, the summary does not contain the core idea. Although it mentions the theft of the till and $1500 in cash, it does not explicitly state that the man is very tall. The aspect explicitly mentions the man's height.",
+        "No, I do not think the summary contains the core idea. Although the summary mentions that the police are appealing to the public for help in identifying the suspect, it does not highlight this as the primary focus of the text. The summary primarily describes the details of the robbery, including the description of the offender, the stolen items, and the date. The aspect, however, emphasizes the public appeal for assistance as a crucial aspect of the story."
+    ],
+    "score": [
+        4,
+        3,
+        3
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Serge Gnabry played 90 minutes for Arsenal Under 21s against Reading . The 19-year-old has not featured for the first team since March last year . The Germany Under-21 international played for Arsenal 's development squad as they lost 1-0 to Reading .",
+        "Serge Gnabry played 90 minutes for Arsenal Under 21s against Reading . The 19-year-old has not featured for the first team since March last year . The Germany Under-21 international played for Arsenal 's development squad as they lost 1-0 to Reading .",
+        "Serge Gnabry played 90 minutes for Arsenal Under 21s against Reading . The 19-year-old has not featured for the first team since March last year . The Germany Under-21 international played for Arsenal 's development squad as they lost 1-0 to Reading ."
+    ],
+    "aspect": [
+        "1. Serge Gnabry is set to return after more than a year due to injury, feeling \"better and better\" all the time.",
+        "2. The 19-year-old midfielder last impressed in the Champions League last-16 second leg against Bayern Munich in March 2014.",
+        "3. Gnabry played 90 minutes for Arsenal Under 21s against Reading on Monday, and his progress is now over his injury concerns."
+    ],
+    "explain": [
+        "Serge Gnabry has been recovering from injury for over a year and is now making a return to the team, feeling better and better as time goes on.",
+        "Serge Gnabry last significantly performed in the Champions League last-16 second leg against Bayern Munich in March 2014, as he was 19 years old at that time.",
+        "In the given aspect, it is mentioned that Serge Gnabry has finally made a significant comeback to the field after his injury worries by playing 90 minutes for his team, Arsenal Under 21s, against Reading on Monday. His successful performance and participation in this game indicate his progress is moving forward successfully."
+    ],
+    "answer": [
+        "Yes, the context in the summary indicates that Serge Gnabry is making a return to the team after recovering from injury for over a year and feeling better as time progresses.",
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, I believe the context of the sentence is present in the summary. It mentions that Serge Gnabry played 90 minutes for Arsenal Under 21s against Reading and that his progress is moving forward successfully due to overcoming his injury concerns."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.333333333325
+}

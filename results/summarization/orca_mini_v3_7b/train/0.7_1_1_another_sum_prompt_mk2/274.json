@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Barca have no plans to replace Luis Enrique",
+        "Barca have no plans to replace Luis Enrique",
+        "Barca have no plans to replace Luis Enrique"
+    ],
+    "aspect": [
+        "1. Barcelona club president Josep Maria Bartomeu insists La Liga leaders have no plans to replace Luis Enrique, who they're 'very happy' with, despite speculation this season.",
+        "2. Luis Enrique only took charge at the club last summer and has impressed during his tenure.",
+        "3. Barcelona has won three trophies and is still capable of winning more, including the Champions League."
+    ],
+    "explain": [
+        "Barcelona's club president states that they are happy with Luis Enrique and do not plan to replace him, despite rumors suggesting otherwise during the current season.",
+        "Luis Enrique made a strong impression in his first football season and Barca, therefore, does not plan to replace him.",
+        "In spite of Luis Enrique's departure, Barcelona is still a strong team, having won multiple prestigious trophies and has a chance to add the Champions League to their collection."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence, as it mentions Barcelona's president's stance on not replacing Luis Enrique and the rumors surrounding the topic.",
+        "Yes",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.416666666675
+}

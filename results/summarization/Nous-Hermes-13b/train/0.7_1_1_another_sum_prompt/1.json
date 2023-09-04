@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person."
+    ],
+    "aspect": [
+        "- A Missouri mom's car was stolen and returned with modifications. ",
+        "- The car was found and returned with red rims and detailing. ",
+        "- The car was modified with red paint, orange accents, and new wheels. ",
+        "- The car owner took to Facebook to express her appreciation for the modifications."
+    ],
+    "explain": [
+        "The core idea of this aspect is that a Missouri mother's car was stolen and eventually returned with modifications such as painted red rims and an orange steering wheel.",
+        "The aspect highlights that Becky's car was found and returned with red rims and detailing after it was stolen on Monday night, April 1.",
+        "The core idea of the aspect being given is that the car, which was found after being stolen, had been modified with red paint, orange accents and new wheels.",
+        "The aspect highlights that the car owner is grateful for the modifications made to her car after it was found."
+    ],
+    "answer": [
+        "Yes, I think the core idea is that the mother's car was stolen and returned with modifications.",
+        "Unfortunately, there is no clear core idea in the summary as it is a jumbled piece of information that doesn't relate to the aspect given.",
+        "It depends on how you interpret the summary. Some people may interpret it as indicating that the person is caring and special, while others may interpret it as referring to the car being found after being stolen with modifications.",
+        "It depends on what the core idea of the aspect is. Can you please clarify?"
+    ],
+    "score": [
+        5,
+        0,
+        2,
+        0
+    ],
+    "mean_score": 1.75,
+    "gt_score": 2.666666666675
+}

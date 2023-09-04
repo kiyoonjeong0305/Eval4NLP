@@ -1,0 +1,49 @@
+{
+    "summary": [
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea .",
+        "spacex founder elon musk tweeted : `` ascent successful . dragon dragon enroute . rocket landed on droneship , but too hard for survival '' spacex has said it will keep trying and , after it masters landing at sea ."
+    ],
+    "aspect": [
+        "1. SpaceX successfully launched an uncrewed cargo spacecraft, Dragon, on a flight to the International Space Station. ",
+        "2. SpaceX tried to land a Falcon 9 rocket stage on a floating barge for the first time but was unsuccessful. ",
+        "3. SpaceX founder Elon Musk tweeted that the rocket landed, but tipped over. ",
+        "4. SpaceX hopes to someday land rockets on the ground after mastering landing at sea. ",
+        "5. The Dragon will deliver supplies, including an espresso maker, to the ISS crew. ",
+        "6. The Dragon will return to Earth with over 3,000 pounds of science experiments and trash. ",
+        "7. This is the sixth SpaceX mission to the ISS and the second attempt for this mission due to weather."
+    ],
+    "explain": [
+        "\nThe core idea of the aspect is that SpaceX successfully launched an uncrewed cargo spacecraft, Dragon, on a flight to the International Space Station. This shows that SpaceX was able to send a spacecraft into space that has the capability to transport cargo to the International Space Station.",
+        "The given aspect highlights the unsuccessful attempt by SpaceX to land a Falcon 9 rocket stage on a floating barge for the first time.",
+        "The aspect states that SpaceX founder Elon Musk tweeted that the rocket tipped over after landing at sea during a recent launch. The idea conveyed by this aspect is that, despite the successful landing of the rocket, there was an issue that caused it to tip over, and SpaceX will continue working on perfecting their landing techniques.",
+        "SpaceX hopes to one day land rockets on Earth's surface, instead of just on droneships at sea, after they have mastered the art of seaborne touchdowns.",
+        "The aspect mentions that the Dragon spacecraft will deliver various supplies to the International Space Station (ISS) including an espresso maker. The espresso maker is likely a recreational item for the astronauts on the ISS to enjoy a cup of coffee-like beverage called espresso.",
+        "The SpaceX's Dragon spacecraft, after completing its mission in space, will return to Earth carrying over 3,000 pounds of science experiments and trash. \nCore idea: The Dragon spacecraft will come back to Earth with a heavy load of scientific experiments as well as waste material. \n",
+        "The given aspect states that the current mission by SpaceX to the International Space Station (ISS) is the sixth one and it marks the second attempt for this specific mission which was postponed previously due to bad weather conditions. This shows the dedication and persistence of SpaceX in achieving their goal of delivering supplies to the ISS despite the challenges they face."
+    ],
+    "answer": [
+        "The answer is no, the summary does not contain the core idea. The aspect gives more detailed information about the success of SpaceX in launching an uncrewed cargo spacecraft, while the summary only mentions the successful ascent and landing of a SpaceX rocket.",
+        "The summary does not contain the core idea of the aspect.",
+        "\nTo determine whether the core idea of the aspect is present in the summary, we need to examine the information provided in the summary and see if it matches up with the idea conveyed by the aspect. Based on the summary given, it appears that the core idea of the aspect is not present in the summary. The summary mentions that the rocket landed on a droneship but was too hard for survival, and SpaceX will continue trying to master landing at sea. There is no mention of the rocket tipping over after landing, which is the key idea conveyed by the aspect. Therefore, the core idea of the aspect is not present in the summary.",
+        "Yes, the aspect mentioned the idea of SpaceX trying to someday land rockets on Earth's surface after mastering landing at sea, which is a core idea in the summary as well.",
+        "Yes, the summary contains the core idea of the given aspect. It states that SpaceX's Dragon spacecraft has successfully taken off, is on its way to the ISS, and that the rocket has landed on a droneship, but too hard for survival. It also mentions that SpaceX plans to continue trying to master landing at sea. While the summary mentions supplies being delivered to the ISS, it does not specifically mention an espresso maker as one of the items.",
+        "No, the summary does not contain the core idea of the aspect. The summary is about the successful ascent and landing of the Dragon spacecraft while the aspect is about the payload it will bring back to Earth. However, you may use other sources of information or listen care fully to understand the core idea.",
+        "I disagree. Although the summary mentions some key points about the mission, it does not contain the core idea mentioned in the aspect. The core idea is related to the number of missions completed by SpaceX to the ISS and the number of attempts made for this specific mission due to weather conditions."
+    ],
+    "score": [
+        0,
+        0,
+        0,
+        4,
+        4,
+        1,
+        1
+    ],
+    "mean_score": 1.4285714285714286,
+    "gt_score": 3.499999999975
+}

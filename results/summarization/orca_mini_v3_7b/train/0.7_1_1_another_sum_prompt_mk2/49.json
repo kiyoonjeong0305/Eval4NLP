@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao . the colombia forward spent four premier league goals and it remains to be seen whether united will exercise the option to keep the frontman or whether he will return to monaco .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao . the colombia forward spent four premier league goals and it remains to be seen whether united will exercise the option to keep the frontman or whether he will return to monaco .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao . the colombia forward spent four premier league goals and it remains to be seen whether united will exercise the option to keep the frontman or whether he will return to monaco ."
+    ],
+    "aspect": [
+        "1. River Plate targets Manchester United's Falcao.",
+        "2. Falcao's return would please River Plate, who dream of him.",
+        "3. Falcao's future uncertain as he struggles at Manchester United."
+    ],
+    "explain": [
+        "River Plate has expressed interest in signing Manchester United's forward, Falcao, who spent eight years with Argentine side before moving to Porto in 2009.",
+        "Falcao's return would greatly satisfy and delight River Plate, as they hold a fond aspiration for his comeback.",
+        "Radamel Falcao's time at Manchester United has been difficult, leading his future to be uncertain, particularly considering Falcao's uncertain future at Monaco."
+    ],
+    "answer": [
+        "Yes, the sentence in the summary contains the context of the given aspect.",
+        "No.",
+        "Yes, the summary does contain the context of the sentence as it mentions Falcao's struggles at Manchester United and his uncertain future."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.6666666666750003
+}

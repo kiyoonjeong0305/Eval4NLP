@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "esteban cambiasso says that helping keep leicester in the premier league will feel like winning a trophy . ' the argentinian midfielder poses with the trophy after his team won the 2010 fifa club world cup . argentine primera division .",
+        "esteban cambiasso says that helping keep leicester in the premier league will feel like winning a trophy . ' the argentinian midfielder poses with the trophy after his team won the 2010 fifa club world cup . argentine primera division .",
+        "esteban cambiasso says that helping keep leicester in the premier league will feel like winning a trophy . ' the argentinian midfielder poses with the trophy after his team won the 2010 fifa club world cup . argentine primera division .",
+        "esteban cambiasso says that helping keep leicester in the premier league will feel like winning a trophy . ' the argentinian midfielder poses with the trophy after his team won the 2010 fifa club world cup . argentine primera division .",
+        "esteban cambiasso says that helping keep leicester in the premier league will feel like winning a trophy . ' the argentinian midfielder poses with the trophy after his team won the 2010 fifa club world cup . argentine primera division .",
+        "esteban cambiasso says that helping keep leicester in the premier league will feel like winning a trophy . ' the argentinian midfielder poses with the trophy after his team won the 2010 fifa club world cup . argentine primera division ."
+    ],
+    "aspect": [
+        "1. Esteban Cambiasso wants to keep Leicester City in the Premier League.",
+        "2. Leicester City are currently in a relegation battle.",
+        "3. Esteban Cambiasso won many trophies in his career.",
+        "4. Esteban Cambiasso believes helping Leicester City stay up will feel like winning a trophy.",
+        "5. Esteban Cambiasso joined Leicester City in the summer.",
+        "6. Esteban Cambiasso wants more points to help Leicester City stay up."
+    ],
+    "explain": [
+        "Esteban Cambiasso, the Argentine midfielder, wants to help keep Leicester City in the Premier League. Staying in the league would feel like winning a trophy for him.",
+        "While Esteban Cambiasso has expressed his joy in helping Leicester City avoid relegation, the club is currently in a tough battle for survival in the Premier League. This highlights the challenges they are facing and the need for immediate improvements on the field.",
+        "The aspect highlights that Esteban Cambiasso has enjoyed a successful career in football, as he has won numerous trophies throughout his playing days. His accolades include winning the FIFA Club World Cup in 2010 with Inter Milan, and securing multiple domestic titles in Argentina with clubs such as San Lorenzo and Independiente. The aspect emphasizes the notion that Cambiasso's contributions to the game go beyond just helping Leicester City stay in the Premier League, as he has a proven track record of being a consistently outstanding performer.",
+        "Esteban Cambiasso believes that the effort of helping Leicester City stay up in the Premier League would feel like winning a trophy, and he is likely referring to the sense of satisfaction and accomplishment that comes with overcoming adversity and achieving a goal through hard work.",
+        "Esteban Cambiasso, a Leicester City midfielder, joined the team in the summer after a long career in football.",
+        "Esteban Cambiasso an Argentine professional football player who currently plays in the Indian Super League for the club ATK has expressed his desire to secure more points for Leicester City for them to avoid relegation this season. He believes that getting more points will give him a sense of achievement like winning a trophy considering the team's previous accomplishments like winning the 2010 FIFA Club World Cup. Cambiasso wants to contribute to keeping the team in the premier League for next season and help them recover from their current slump."
+    ],
+    "answer": [
+        "It depends on the context in which it is being used. It could be understood that the aspect is referring to the idea of winning a trophy by keeping Leicester City in the Premier League. However, the summary provides no context or indication that the aspect is indeed referring to this idea.",
+        "No, the summary does not contain the core idea of the given aspect. The core idea of the aspect is about Leicester City's struggles in the Premier League and their battle against relegation.",
+        "Not really, the summary only mentions that helping Leicester City stay in the Premier League will feel like winning a trophy for Cambiasso, but it does not touch upon his overall successful career, which is the core idea of the aspect.",
+        "Yes, the summary contains the core idea of the aspect - that Esteban Cambiasso believes helping Leicester City stay up will feel like winning a trophy.",
+        "yes/no?",
+        "No, the aspect is not present in the summary."
+    ],
+    "score": [
+        0,
+        0,
+        0,
+        5,
+        5,
+        0
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 2.750000000025
+}

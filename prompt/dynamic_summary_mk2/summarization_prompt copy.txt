@@ -1,0 +1,7 @@
+{{prompt_placeholder}}
+
+First, generate three short summarizations ot given source text that should be considered when summarizing a document.
+Source text: {{gt}}
+
+{{response_placeholder}}
+Three short summarizations: {{gen 'summarization' temperature=summarization_temperature}}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc .",
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc .",
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc ."
+    ],
+    "aspect": [
+        "1. Gregory van der Wiel denies leaving Paris Saint-Germain in summer, reiterating love for the club.",
+        "2. Dutch full back had a falling out with manager Laurent Blanc after being dropped for Champions League match against Chelsea.",
+        "3. Van der Wiel expresses his joy in PSG, wanting to sign a new contract and ready for any call-up."
+    ],
+    "explain": [
+        "Gregory van der Wiel expresses his love for Paris Saint-Germain and confirms he is not leaving the club in the summer.",
+        "Dutch full-back Gregory van der Wiel had a falling out with his manager, Laurent Blanc, after being dropped for a crucial Champions League match against Chelsea.",
+        "Van der Wiel is content in Paris Saint-Germain and desires to extend his agreement. He is additionally prepared for any international call-up."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary contains this context.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.08333333335
+}

@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity.",
+        "A passenger was found to have broken a toilet he was squatting on, and he was too embarrassed to shout for help and instead blamed it on his own stupidity."
+    ],
+    "aspect": [
+        "- Passenger Jin Pai was hospitalized with deep cuts on his leg and buttocks after breaking a toilet he was squatting on.",
+        "- The passenger was standing on the rim of a toilet when it collapsed, leaving him hospitalized.",
+        "- Passenger Jin Pai was caught out when the porcelain toilet then tipped over and shattered on the floor.",
+        "- The injured man was found bleeding on the toilet floor and had hoped his traveling companions would assist but was too badly hurt for anything other than immediate trip to hospital.",
+        "- The passenger reportedly confessed to his friends that he was squatting on the toilet but later changed his story to the police.",
+        "- Authorities believe the incident was an accident and remind people that toilets are for sitting on, not for standing on."
+    ],
+    "explain": [
+        "The aspect says that a passenger, named Jin Pai, was squatting on a toilet and broke it. Consequently, he was too embarrassed to shout for help and instead blamed himself. However, his injury was more severe than he initially thought, as he sustained deep cuts on his leg and buttocks.",
+        "The aspect states that the passenger, who was standing on the rim of a toilet when it collapsed while using it, was hospitalized as a result.",
+        "The aspect tells us that the passenger, Jin Pai, was caught off guard when the toilet he was squatting on broke and tipped over, shattering into pieces on the floor. He was too embarrassed to call for help and blamed his incident on his own stupidity.",
+        "The aspect suggests that the man who broke the toilet was too embarrassed to call for help, so he stayed quiet and eventually ended up getting injured on his own.",
+        "The core idea of the aspect is that the passenger tried to cover up his mistake by lying to different people about what happened.",
+        "The aspect highlights the message conveyed by the authorities emphasizing that toilets are designed for sitting and not for standing."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. It only mentions that Jin Pai was too embarrassed to shout for help and blamed his own stupidity, but it does not specify how he injured himself or the extent of his injuries.",
+        "The summary does not contain the core idea of the aspect. While the aspect mentions that the passenger was standing on the rim of a toilet when it collapsed, leaving him hospitalized, the summary only mentions that the passenger was too embarrassed to shout for help after he broke the toilet and blamed it on his own stupidity.",
+        "The core idea is that Jin Pai was caught off guard when the toilet broke and he was too embarrassed to call for help.",
+        "The summary does not contain the core idea of the aspect. The core idea of the aspect is that the man who broke the toilet was too embarrassed to call for help and ended up getting injured on his own, while the summary is about a different situation where a passenger broke a toilet and blamed it on his own stupidity.",
+        "No, the aspect is not contained in the summary. It is a separate piece of information that sheds light on what happened after the incident.",
+        "\nDo you REALLY think the summary contains the core idea?\nNo, the summary is not a factual representation of the core idea mentioned in the aspect. However, there may be some relevance in the context of the incident described in the summary."
+    ],
+    "score": [
+        0,
+        0,
+        5,
+        0,
+        0,
+        1
+    ],
+    "mean_score": 1.0,
+    "gt_score": 4.75
+}

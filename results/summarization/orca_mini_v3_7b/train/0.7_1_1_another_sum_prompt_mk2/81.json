@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands .",
+        "bright yellow gatso had previously enforced the 30mph speed limit for motorists along the residential road in handsworth , birmingham . however , it has not been working for two years after every single fixed device was switched off in the west midlands ."
+    ],
+    "aspect": [
+        "1. Speed camera pointed at house in Birmingham, not working for 2+ years.",
+        "2. 300 fixed cameras turned off in 2013, replaced by mobile units & officers.",
+        "3. Issue with mysterious repointed camera, no plans for pilot in Wellington Road."
+    ],
+    "explain": [
+        "A bright yellow gatso speed camera used to enforce the 30 mph speed limit in a residential road in Handsworth, Birmingham, but it has not been operational for more than two years since every fixed device was switched off in the West Midlands.",
+        "In 2013, 300 fixed cameras were turned off, and they were replaced by mobile units and officers to enforce the 30mph speed limit in Handsworth, Birmingham.",
+        "There is an issue with a mysteriously repointed camera in Wellington Road, and there are currently no plans for a pilot program in the area related to speed limit enforcement."
+    ],
+    "answer": [
+        "No, the above summary does not contain the context of the question.",
+        "Yes, the summary contains the context of this sentence.",
+        "Yes"
+    ],
+    "score": [
+        1,
+        4,
+        3
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.25
+}

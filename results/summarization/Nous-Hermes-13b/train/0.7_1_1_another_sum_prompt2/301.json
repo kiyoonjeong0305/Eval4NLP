@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins will hope to race in front of a sell-out crowd at london 's olympic velodrome .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins will hope to race in front of a sell-out crowd at london 's olympic velodrome .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins will hope to race in front of a sell-out crowd at london 's olympic velodrome .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins will hope to race in front of a sell-out crowd at london 's olympic velodrome ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins will attempt to break cycling's hour record in June. ",
+        "2. Wiggins is expected to set a mark which will last for some time. ",
+        "3. Tickets to watch Wiggins' attempt will go on sale on April 19. ",
+        "4. Wiggins is targeting a British record eighth Olympic medal."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins will attempt to break cycling's hour record in June.\n\nA core idea of this aspect is that Sir Bradley Wiggins is going to attempt to break cycling's hour record in June at London's Olympic Velodrome. The hour record is the longest distance that can be cycled in 60 minutes, and Wiggins will try to beat the current record set by Matthias Brändle. This attempt will be Wiggins' first since retiring from professional cycling in 2016.",
+        "Wiggins is expected to set a mark which will last for some time, according to the aspect provided. This suggests that his attempt at breaking the hour record is believed to be very significant and that his achievement is expected to stand for an extended period. The expectation is that Wiggins will be able to perform at a high level and set a mark that will be difficult for others to surpass.",
+        "The aspect states that tickets for watching Sir Bradley Wiggins' attempt at the hour record will go on sale on April 19.",
+        "The aspect states that Sir Bradley Wiggins is targeting a British record eighth Olympic medal at the 2020 Tokyo Olympics."
+    ],
+    "answer": [
+        "No, the aspect does not contain the same core idea as the summary.",
+        "Yes I do, the summary does contain the core idea. It states that Sir Bradley Wiggins will attempt to break the hour record on June 7 at the London's Olympic Velodrome, and that he will ride for the furthest distance in 60 minutes at the Lee Valley VeloPark. It also mentions that he will hope to race in front of a sell-out crowd.",
+        "The core idea of the aspect is that tickets sales for watching Sir Bradley Wiggins' attempt at the hour record will begin on April 19.",
+        "No, the summary does not contain the core idea of the aspect."
+    ],
+    "score": [
+        4,
+        5,
+        5,
+        0
+    ],
+    "mean_score": 3.5,
+    "gt_score": 4.333333333325
+}

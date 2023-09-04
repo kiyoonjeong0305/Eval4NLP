@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "a gang of at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning and set the vehicle on fire . the driver of the car , who has not been identified , said he got into an argument with the suspects while he was pumping gas at a 76 station in south los angeles around 12:15am on saturday . the group covered his white dodge charger in gasoline and lit it ablaze while there were two passengers inside .",
+        "a gang of at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning and set the vehicle on fire . the driver of the car , who has not been identified , said he got into an argument with the suspects while he was pumping gas at a 76 station in south los angeles around 12:15am on saturday . the group covered his white dodge charger in gasoline and lit it ablaze while there were two passengers inside .",
+        "a gang of at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning and set the vehicle on fire . the driver of the car , who has not been identified , said he got into an argument with the suspects while he was pumping gas at a 76 station in south los angeles around 12:15am on saturday . the group covered his white dodge charger in gasoline and lit it ablaze while there were two passengers inside ."
+    ],
+    "aspect": [
+        "1. A gang set fire to a car at a California gas station, with the driver reporting an argument before the incident. ",
+        "2. The car's passengers and driver escaped unharmed, but the car was destroyed. ",
+        "3. The Los Angeles County Fire Department is investigating the incident as arson, and suspects remain at large."
+    ],
+    "explain": [
+        "A gang of at least three people in California set fire to a car during a late-night gas station incident, where the driver alleged an argument with the suspects prior to the attack. Two passengers were inside the vehicle at the time of the incident.",
+        "The gang's attempt to cause harm to the driver and passengers was unsuccessful, as the group escaped unharmed, despite the car being destroyed after the fire.",
+        "The Los Angeles County Fire Department is investigating the incident as arson, and the suspects are still at large."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence you provided with no errors or omissions.",
+        "Yes, the summary contains the context of the given aspect.",
+        "No, the summary does not include the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.66666666665
+}

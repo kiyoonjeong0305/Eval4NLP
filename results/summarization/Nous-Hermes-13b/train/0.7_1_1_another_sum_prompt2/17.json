@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 ."
+    ],
+    "aspect": [
+        "1. United's Under 18s won the \"mini-derby\" against City with a 1-0 score.",
+        "2. The match was played at Moss Lane with free entry.",
+        "3. It was a competitive game with Callum Gribbin scoring the winning goal with a free kick.",
+        "4. United's youngsters played in a 3-5-2 formation, while City's team had a tall centre-forward and a talented goalkeeper.",
+        "5. United lead the play-off series with two games in hand.",
+        "6. The game showcased local talents who deserve a chance at the first team in the coming years."
+    ],
+    "explain": [
+        "The core idea of the given aspect is that Manchester United's Under 18 team won a match against their arch-rivals Manchester City with a close score of 1-0. This seems to be the main focus of the information provided, as it is the first piece of information shared in the aspect.",
+        "Core idea of this aspect  is that the match between Manchester United's Under 18s and Manchester City's Under 18s, which was played at Moss Lane with free entry, attracted a large crowd of approximately 1,000 people.",
+        "Callum Gribbin scored the winning goal for Manchester United with a free-kick during a competitive game against Manchester City in a pre-season friendly.",
+        "The given aspect of United's youngsters playing in a 3-5-2 formation and City's team having a tall centre-forward and a talented goalkeeper, highlights the differing tactics and strengths used by each team during the match. United's 3-5-2 formation allowed for a more balanced attack and defense, while City's taller centre-forward offered a target for set-pieces and crosses. Additionally, City's goalkeeper demonstrates the importance of having skilled players in key positions.",
+        "One core idea of the given aspect is that Manchester United is currently leading a play-off series with two games in advantage over their opponents. This means that regardless of the outcome of the remaining games in the series, United will hold a strong position in the standings due to their two games in hand. This advantage could potentially see them advance to the next round or even win the entire play-off series.",
+        "The aspect highlights the importance of providing opportunities for local talents to showcase their skills and believes that local players deserve a chance to play for the first team in the coming years. \n\nHow does this idea related to the summary?\nThis idea is related to the summary as it emphasizes the importance of giving young and local players the opportunity to play and showcase their skills. The summary mentions that at least 13 out of 22 players on show were English and highlights the impact that Callum Gribbin had in the game by being the matchwinner for Manchester United. The aspect suggests that if these young and local players continue to perform well, they should be given a chance to play for the first team in the future."
+    ],
+    "answer": [
+        "To determine if the summary contains the core idea of the aspect, we need to analyze the given summary:\n\n[ ] \"no less than 13 out of the 22 players on show at kick-off were english\".\n[ ] \"callum gribbin was the matchwinner for manchester united\".\n[ ] \"entry was free and close to 1,000 gathered on the seats and terraces\".\n[ ] \"altrincham 's compact 6,000-capacity home may not be old trafford\".\n[ ] \"first blood to united after their under 18s saw off city 1-0\".\n\nComparing the summary and the aspect, we can see that the aspect is not mentioned in the summary. Therefore, the summary does not contain the core idea of the aspect.",
+        "No, the summary does not contain the core idea of the aspect. The aspect states that the match between Manchester United's Under 18s and Manchester City's Under 18s was played at Moss Lane with free entry and attracted a large crowd of approximately 1,000 people, while the summary only mentions that the match was played at Moss Lane with free entry and close to 1,000 gathered on the seats and terraces.",
+        "\n\nAspect: 3. It was a competitive game with Callum Gribbin scoring the winning goal with a free kick. \nExplain a core idea of given aspect.\nExplain: Callum Gribbin scored the winning goal for Manchester United with a free-kick during a competitive game against Manchester City in a pre-season friendly.\n\nDo you REALLY think the summary contains the core idea? answer my question shortly.\nYou should carefully inspect the summary word by word!\nAnswer: \n\nAspect: 3. It was a competitive game with Callum Gribbin scoring the winning goal with a free kick. \nExplain a core idea of given aspect.\nExplain: Callum Gribbin scored the winning goal for Manchester United with a free-kick during a competitive game against Manchester City in a pre-season friendly.",
+        "I can't answer that without the full summary. Can you provide me with the complete summary?",
+        "\nNo, the summary does not contain the core idea of the given aspect. The aspect itself states that United is leading a play-off series with two games in hand, while the summary does not mention anything about a play-off series or games in hand.",
+        "Yes, the summary does contain the core idea of the aspect. The summary highlights that the game showcased local talents, who deserve a chance at the first team in the coming years. This idea is further emphasized in the aspect, which suggests that if young and local players like Callum Gribbin continue to perform well, they should be given a chance to play for the first team in the future."
+    ],
+    "score": [
+        0,
+        0,
+        5,
+        4,
+        0,
+        5
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 3.75
+}

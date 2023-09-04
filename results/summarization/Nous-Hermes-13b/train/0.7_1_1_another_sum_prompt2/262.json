@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first .",
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first .",
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first .",
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first .",
+        "juventus striker carlos tevez has told the club he wants to leave this summer . boca juniors have confirmed they are close to sealing a deal for the striker . but club president daniel angelici has stressed tevez must terminate his contract with juventus first ."
+    ],
+    "aspect": [
+        "1. Carlos Tevez wants to leave Juventus.",
+        "2. Juventus must terminate his contract for him to return to Boca Juniors.",
+        "3. Tevez is their top scorer but they have accepted his decision to leave.",
+        "4. They are looking for potential replacements.",
+        "5. Tata Martino is not concerned about Tevez's future in Argentina."
+    ],
+    "explain": [
+        "Carlos Tevez, the striker for Juventus, has expressed his desire to leave the club this summer.",
+        "According to the aspect given, Carlos Tevez is eager to leave Juventus and return to Boca Juniors. However, in order for this to happen, Juventus must terminate his contract first.",
+        "The aspect states that while Carlos Tevez is Juventus' top scorer and they have accepted his decision to leave, Boca Juniors are close to sealing a deal to acquire him from Juventus. However, there is an additional condition that Tevez must first terminate his contract with Juventus before the transfer can be completed.",
+        "One of the core ideas of this aspect is that the club is actively searching for potential replacements for Carlos Tevez in case he does not renew his contract with Juventus or decides to leave the club.",
+        "Tata Martino, the current coach of the Argentinian national team, has stated that he is not concerned about Carlos Tevez's future at Boca Juniors, even though there is talk of the striker's potential return to his home country."
+    ],
+    "answer": [
+        "Yes/No",
+        "No. There is no mention of Carlos Tevez wanting to leave Juventus and return to Boca Juniors in the summary.",
+        "No, I don't think the summary contains the core idea. The aspect states that despite being their top scorer, Juventus has accepted Tevez's decision to leave, and Boca Juniors are close to securing his services from Juventus, but there is a condition that Tevez must terminate his contract with Juventus before the transfer can be completed.",
+        "I am not sure what you are asking. Could you please restate your question or provide more information?",
+        "No, the summary does not contain the core idea of the aspect."
+    ],
+    "score": [
+        5,
+        0,
+        4,
+        0,
+        0
+    ],
+    "mean_score": 1.8,
+    "gt_score": 4.75
+}

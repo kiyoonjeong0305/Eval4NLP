@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open .",
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open .",
+        "river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . the doors are open ."
+    ],
+    "aspect": [
+        "1. River Plate seeks to sign Manchester United's Radamel Falcao, who previously played in the Argentine side.",
+        "2. Falcao struggled during his season-long loan at Manchester United, scoring only four Premier League goals.",
+        "3. Falcao has recently been in good goalscoring form for Colombia, tying the national team's all-time goalscoring record."
+    ],
+    "explain": [
+        "River Plate has a desire to bring back their former player Radamel Falcao, who previously played for their team.",
+        "Falcao had a difficult time during his loan at Manchester United, with only four Premier League goals scored.",
+        "Falcao has been performing well for Colombia in recent games, breaking the national team's goalscoring record."
+    ],
+    "answer": [
+        "Yes",
+        "No, the summary does not contain the context of the given sentence, as the sentence discusses Falcao's performance at Manchester United, while the summary primarily focuses on River Plate's interest in signing him.",
+        "Yes, the context of the given sentence can be found in the summary's first sentence: \"River Plate are keen to sign Manchester United striker Radamel Falcao...\""
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.08333333335
+}

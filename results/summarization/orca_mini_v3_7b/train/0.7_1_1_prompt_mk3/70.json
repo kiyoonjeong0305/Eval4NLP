@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock .",
+        "an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock .",
+        "an fbi agent 's sniper rifle was ripped out of his car 's window and stolen from a salt lake city hotel parking lot . the gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the marriott springhill suites . police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot.",
+        "2. The rifle was secured properly with locking devices and a hard case.",
+        "3. The theft occurred despite the secure measures, and the rifle has not been recovered."
+    ],
+    "explain": [
+        "A person stole an FBI agent's sniper rifle from a parking lot in Salt Lake City by breaking the window and tying a rope around the rifle case's handle or a cable lock.",
+        "The rifle was secured with padlocks, chains, and a hard case, which prevented easy access but did not entirely prevent theft.",
+        "The security measures in place to protect the FBI agent's sniper rifle failed as the rifle was stolen, even though it was located in a secure case with padlocks and chains and properly secured to a truck safe. The rifle has not been recovered since the theft."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence mentioned.",
+        "Yes",
+        "Yes, the context of the sentence is found in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.416666666675
+}

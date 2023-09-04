@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Manchester United Under 18s beat City 1-0 in the ` mini-derby ' Callum Gribbin scored the winner with a delightful free-kick . The result leaves United two points behind Middlesbrough with a game in hand . City have now lost both matches in the Barclays U18s Premier League .",
+        "Manchester United Under 18s beat City 1-0 in the ` mini-derby ' Callum Gribbin scored the winner with a delightful free-kick . The result leaves United two points behind Middlesbrough with a game in hand . City have now lost both matches in the Barclays U18s Premier League .",
+        "Manchester United Under 18s beat City 1-0 in the ` mini-derby ' Callum Gribbin scored the winner with a delightful free-kick . The result leaves United two points behind Middlesbrough with a game in hand . City have now lost both matches in the Barclays U18s Premier League ."
+    ],
+    "aspect": [
+        "1. Manchester United's Under 18s defeated Manchester City 1-0 in a \"mini-derby,\" showcasing the skills of players like Callum Gribbin and Marcus Rashford.",
+        "2. The match was played at Altrincham's 6,000-capacity Moss Lane, featuring 13 English players, with ticket prices at no entry fee and seating.",
+        "3. The victory leaves United two points behind leaders Middlesbrough with a game in hand, while City loses both matches in the Under 18s Premier League play-off series."
+    ],
+    "explain": [
+        "Manchester United's Under 18s defeated Manchester City in a competitive match with notable performances from players Callum Gribbin and Marcus Rashford. The 1-0 win puts United in a better position with a game in hand compared to Middlesbrough.",
+        "The match took place at a 6,000-capacity stadium with free seating, and featured 13 English players.",
+        "The Manchester United Under 18s won a mini-derby against City 1-0, scoring a free-kick goal by Callum Gribbin. The victory keeps United two points behind leaders Middlesbrough with a game in hand, and it is City's second consecutive loss in the Barclays U18s Premier League play-off series."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of this sentence.",
+        "Yes, the summary contains the context of the sentence, which is that the match took place at a 6,000-capacity stadium with free seating and featured 13 English players.",
+        "Yes, the summary does contain the context of that sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.666666666675
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "serge gnabry played 90 minutes for arsenal under 21s against reading . the 19-year-old has not featured for the first team since march 2014 . gnabry has been hampered by a serious knee injury .",
+        "serge gnabry played 90 minutes for arsenal under 21s against reading . the 19-year-old has not featured for the first team since march 2014 . gnabry has been hampered by a serious knee injury .",
+        "serge gnabry played 90 minutes for arsenal under 21s against reading . the 19-year-old has not featured for the first team since march 2014 . gnabry has been hampered by a serious knee injury ."
+    ],
+    "aspect": [
+        "1. Serge Gnabry is feeling better and better, having recovered from a serious knee injury.",
+        "2. The 19-year-old midfielder impressed for Arsenal last season but has not featured since March due to injury.",
+        "3. Gnabry played 90 minutes for Arsenal's under-21 squad in their recent match against Reading and is now over his injury."
+    ],
+    "explain": [
+        "Serge Gnabry's recovery from a serious knee injury has progressed favorably, with the 19-year-old showcasing his improved form by playing a full 90 minutes in a match for the Arsenal under 21s against Reading.",
+        "Serge Gnabry had an impressive last season but has been sidelined since March 2014 due to a serious knee injury.",
+        "Serge Gnabry played 90 minutes for Arsenal's under-21 team in their recent match against Reading, indicating his full recovery from a serious knee injury since last featuring in a first-team match in March 2014."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the sentence given its focus on Gnabry's recovery from a knee injury and his playing time in the Arsenal under 21s match.",
+        "No, the summary does not contain the context of this sentence.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.583333333325
+}

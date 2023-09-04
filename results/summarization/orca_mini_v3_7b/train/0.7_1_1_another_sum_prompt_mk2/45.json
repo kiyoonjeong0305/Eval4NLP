@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "lady antebellum singer hillary scott 's tour bus caught fire on texas freeway . barnett said he did n't know what to expect . `` it was shocking , '' barnett said .",
+        "lady antebellum singer hillary scott 's tour bus caught fire on texas freeway . barnett said he did n't know what to expect . `` it was shocking , '' barnett said .",
+        "lady antebellum singer hillary scott 's tour bus caught fire on texas freeway . barnett said he did n't know what to expect . `` it was shocking , '' barnett said ."
+    ],
+    "aspect": [
+        "1. Hillary Scott's tour bus caught fire on a Texas freeway, and everyone on board safely evacuated.",
+        "2. Michael Barnett captured a video of the fire, which was later posted by Scott.",
+        "3. The tour manager stated that the bus stopped after a rear tire blew out, which then burst into flames."
+    ],
+    "explain": [
+        "On a Texas freeway, Hillary Scott's tour bus caught fire, and everyone on board safely evacuated.",
+        "Core idea: Michael Barnett captured a video of the fire on Lady Antebellum singer Hillary Scott's tour bus, which was later shared by Scott.",
+        "The tour bus caught fire due to a rear tire blowout, which ultimately caused the fire."
+    ],
+    "answer": [
+        "No.",
+        "Yes, the summary contains the context of the given sentence. The summary refers to Lady Antebellum singer Hillary Scott's tour bus fire and mentions that Michael Barnett captured a video of the incident, which was later shared by Scott.",
+        "No, the given summary does not contain the context of the sentence I provided."
+    ],
+    "score": [
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 3.666666666675
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season ."
+    ],
+    "aspect": [
+        "1. Steve Bruce confident in keeping Hull City in Premier League after 2-0 defeat.",
+        "2. Hull City aiming for nine or eight wins to avoid relegation.",
+        "3. Long-term injuries to key players cited as reason for struggles."
+    ],
+    "explain": [
+        "Steve Bruce is confident about keeping Hull City in the Premier League despite their recent 2-0 defeat, showing his optimism for the team's performance in the upcoming games.",
+        "Hull City's primary goal is to secure nine or eight wins during the season in order to prevent relegation.",
+        "\nLong-term injuries to key players have significantly impacted Steve Bruce's squad, resulting in challenges and struggles throughout the current season."
+    ],
+    "answer": [
+        "Yes, the summary context is represented in the given sentence.",
+        "Yes, the summary does contain the context of the sentence.",
+        "Yes, the summary does contain the context of the sentence mentioned."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.5
+}

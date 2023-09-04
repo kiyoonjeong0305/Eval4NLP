@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the",
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the",
+        "A landslide in the area of Rausu caused an extra stretch of coastline to rise, and residents are not sure why it's happening 'It's a bit like the tsunami from the 2011 Tohoku earthquake,' said Tanaka. 'The ground is soft and the sea is not quite as deep as before, so we can't say exactly when the landslide happened.' The new stretch of coastline came as a complete surprise to the locals, as there was no indication of the"
+    ],
+    "aspect": [
+        "1. A landslide near Rausu, Hokkaido Island, Japan, caused 1,000ft of seabed to rise, exposing the ocean floor as a new stretch of coastline.",
+        "2. The landslide occurred as a result of melting ice and snow, which caused the land to drop, pivoting the underwater area into the air.",
+        "3. Local residents were unaware of the land movement, and authorities have not determined an exact date for the landslide, but expect no further expansions."
+    ],
+    "explain": [
+        "A massive landslide near Rausu in Hokkaido Island, Japan, resulted in 1,000ft of seabed rising and forming a new stretch of coastline. The sudden event occurred due to the weakened soil and shallower sea depth in the area, leading to its hidden nature and surprise discovery.",
+        "The landslide happened due to the melting of ice and snow, causing the land to drop and change the underwater area into a new stretch of coastline.",
+        "There was no indication of land movement, making the formation of a new stretch of coastline a surprise for the residents. However, authorities have not determined an exact date for the landslide, and expect no further expansions in the area."
+    ],
+    "answer": [
+        "The provided context contains a detailed explanation of the landslide event, including its cause (weakened soil and shallow sea depth) and the resulting rise of the seabed, which then formed a new stretch of coastline.",
+        "The summary does contain the context of the given sentence.",
+        "\"There was no indication of land movement, making the formation of a new stretch of coastline a surprise for the residents. However, authorities have not determined an exact date for the landslide, and expect no further expansions in the area.\""
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 2.75
+}

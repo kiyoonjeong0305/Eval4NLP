@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 .",
+        "no less than 13 out of the 22 players on show at kick-off were english . callum gribbin was the matchwinner for manchester united . entry was free and close to 1,000 gathered on the seats and terraces . altrincham 's compact 6,000-capacity home may not be old trafford . first blood to united after their under 18s saw off city 1-0 ."
+    ],
+    "aspect": [
+        "1. United's Under 18s won the \"mini-derby\" against City with a 1-0 margin after Callum Gribbin's free-kick goal in the 60th minute. ",
+        "2. The match was played at Moss Lane, a smaller venue than Old Trafford, with 1,000 spectators, and featured local lads like Rashford and Wood. ",
+        "3. United's Paul McGuinness lined up his team in a 3-5-2 formation to simulate first team experience, while City's Marcus Rashford missed two chances before Gribbin's winner."
+    ],
+    "explain": [
+        "The aspect highlights that United's Under 18s won the \"mini-derby\" against City with a 1-0 margin through Callum Gribbin's free-kick goal in the 60th minute.",
+        "The given aspect states that the match was played at Moss Lane, a smaller venue than Old Trafford, with 1,000 spectators, and featured local lads like Rashford and Wood. This suggests that the match had a more intimate and localized feel compared to what one might expect at Old Trafford. The smaller venue and limited spectatorship likely allowed for a more closely-knit atmosphere, with fans being able to get up close and personal with their favorite players. In addition, the presence of local heroes like Rashford and Wood added an extra level of excitement and connection for the local fans. Overall, this aspect highlights how the unique setting and local flavor of the match allowed for a refreshing and memorable experience for all involved.",
+        "The aspect highlights that Manchester United's Paul McGuinness lined up his team in a 3-5-2 formation to simulate first team experience in their match against Manchester City's under 18s. It gives insight into United's tactics and their approach to developing their young players."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. The aspect is a separate piece of information that highlights the result of the match between United's Under 18s and City, with United winning 1-0 through Gribbin's free-kick goal. The summary provides other details about the match, but it does not focus on the result or Gribbin's goal.",
+        "Yes, the summary does contain the core idea of the given aspect. The summary mentions that \nthe match took place at Moss Lane, which is a smaller venue than Old Trafford, and had 1,000 spectators. It also mentions that local lads like Rashford and Wood were part of the match. All of these details suggest that the match had a more intimate and localized feel compared to what one might expect at Old Trafford.",
+        "The summary does not contain the core idea of the given aspect as it focuses on the match's outcome, the number of English players, and the crowd. The aspect, on the other hand, provides more detail about United's tactics and their approach to developing their young players."
+    ],
+    "score": [
+        0,
+        5,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 3.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , will be auctioned on april 30 . original features include stained-glass windows , oil-fired central heating and retro jars of popular food . the house has a guide price of between # 200,000 and # 250,000 ."
+    ],
+    "aspect": [
+        "1. Unchanged 1930s home for sale with original features, guide price £200,000-£250,000.",
+        "2. Collector's paradise in Horfield, Bristol, features vintage stained glass, kitchen, bathroom, and oil-fired central heating.",
+        "3. Historic property could make a perfect family home for those with a passion for antiques, with potential for renovation costs to deter developers."
+    ],
+    "explain": [
+        "The 1930s home in Horfield, Bristol is available for sale and holds numerous original features such as stained-glass windows, central heating, and retro jars of popular food items. The house has a guide price ranging from £200,000 to £250,000.",
+        "The collector's paradise in Horfield, Bristol, includes vintage stained glass windows, oil-fired central heating, retro jars of popular food, and various original features like kitchen, bathroom, among others. The house offers an appealing mix of old and modern features and is set for an auction on 30th April, with a guide price ranging from £200,000 to £250,000.",
+        "The historic property has interesting original features and could be a perfect family home for people with a passion for antiques. While it could need some renovations, this may also discourage developers from acquiring the property."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the sentence, which explains the 1930s home in Horfield, Bristol with its original features and guide price.",
+        "Yes",
+        "Yes, the summary does contain the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.25
+}

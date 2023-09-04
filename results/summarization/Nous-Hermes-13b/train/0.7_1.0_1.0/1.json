@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person.",
+        "Becky Schoenig's car was stolen on Monday night, April 1, and her car was found on April 2, but the rims were painted red and the steering wheel was painted orange 'She's a very special person. She's a very caring person. She's a caring person."
+    ],
+    "aspect": [
+        "1. A Missouri mom's stolen car is returned with modifications, including red rims and detailing, which she considers a funny prank by thieves. ",
+        "2. A woman's brand new car is stolen and later found with changes made to it, including red rims and detailing. She considers it a funny prank by thieves and creates a smoothie in honor of the man who found her car. ",
+        "3. A Missouri woman gets her stolen car back, but it has been modified with red rims and detailing. She considers it a funny prank by thieves and creates a smoothie in honor of the man who found her car."
+    ],
+    "explain": [
+        "The core idea of this aspect is that a Missouri mom's stolen car was returned with modifications such as red rims and orange steering wheel, which she considers a funny prank by thieves.",
+        "The aspect describes a woman, presumably Becky Schoenig, whose car was stolen and later found with alterations such as red rims and an orange steering wheel. Instead of being upset, she considers it a funny prank by the thieves and makes a smoothie in honor of the man who found her car.",
+        "This aspect describes Becky Schoenig's car being stolen and later found with red rims and an orange steering wheel. The thieves appear to have modified the car in a humorous way and the woman finds it amusing and creates a smoothie as a gesture of gratitude to the person who found her car."
+    ],
+    "answer": [
+        "No, the summary did not contain the core idea. The aspect mentions specific modifications made to the stolen car, which the mom considers a prank by thieves, while the summary only mentions that the car was found and the colorful modifications made to it.",
+        "No, the summary does not contain the core idea.",
+        "It depends on what you mean by \"core idea\". If you mean the main point or the most essential information, then no, the summary does not contain the core idea as it only provides limited context without any detail about the theft or the modifications made to the car. The aspect, however, provides more information about the theft, the car's condition when it was found, and the woman's reaction to it."
+    ],
+    "score": [
+        0,
+        0,
+        2
+    ],
+    "mean_score": 0.6666666666666666,
+    "gt_score": 2.666666666675
+}

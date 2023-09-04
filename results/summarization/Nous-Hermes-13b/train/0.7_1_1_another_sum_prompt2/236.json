@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc .",
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc .",
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc .",
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc ."
+    ],
+    "aspect": [
+        "1. Gregory van der Wiel denies plans to leave Paris Saint-Germain in the summer. ",
+        "2. He reiterates his love for the club and plans to sign a new contract. ",
+        "3. The Dutchman recently had a falling out with his boss Laurent Blanc after being dropped for a Champions League match against Chelsea but says he is ready whenever he is called upon. ",
+        "4. PSG are linked with Barcelona star Dani Alves, so Van der Wiel's future remains uncertain."
+    ],
+    "explain": [
+        "Gregory van der Wiel, a Dutch footballer who plays for Paris Saint-Germain (PSG), has recently denied reports that he plans to leave the French football club during the summer transfer window. In fact, the right-back had a fallout with his manager Laurent Blanc and reiterated that he is quite content with his current situation in Paris, and would like to sign a new contract with the club.",
+        "Gregory van der Wiel reiterated his love for Paris Saint-Germain and expressed his desire to sign a new contract, indicating that although he was recently at odds with the club's manager Laurent Blanc, he remains dedicated to the team and is committed to staying in Paris.",
+        "The given aspect talks about Gregory van der Wiel and his relationship with his coach Laurent Blanc. It mentions that van der Wiel recently had a falling out with his boss after being dropped for the Champions League match against Chelsea. However, the Dutchman has stated that he is ready whenever he is called upon. This implies that van der Wiel is trying to maintain a positive attitude despite the conflict with his coach and is willing to work hard to regain his place in the team. The aspect also highlights van der Wiel's loyalty and commitment to Paris Saint-Germain as he has expressed his desire to sign a new contract and stay with the club.",
+        "The aspect is mentioning a rumor that Paris Saint-Germain (PSG) is interested in signing Barcelona star Dani Alves, which makes Gregory Van der Wiel's future with the club uncertain. Despite Van der Wiel expressing his desire to sign a new contract with PSG, the potential signing of Alves could impact his role with the team and his future in Paris."
+    ],
+    "answer": [
+        "Yes, the summary contains the core idea that Gregory van der Wiel has denied plans to leave Paris Saint-Germain in the summer.",
+        "\n\nNo, the summary does not contain the core idea of the aspect. The aspect states that Gregory van der Wiel is happy with Paris Saint-Germain and wants to sign a new contract, whereas the summary mentions that he is not interested in leaving the club but recently had a falling out with the manager. While the aspect and summary are related, they do not convey the same idea.",
+        "After analyzing the summary, I do not believe that it contains the core idea of the given aspect. The summary only mentions that van der Wiel is not interested in leaving Paris Saint-Germain, is happy in the club, and wants to sign a new contract. It does not mention any falling out with his coach or his recent conflict with Laurent Blanc.",
+        "I would have to carefully inspect the summary word by word to determine if the core idea is present."
+    ],
+    "score": [
+        5,
+        1,
+        0,
+        3
+    ],
+    "mean_score": 2.25,
+    "gt_score": 4.08333333335
+}

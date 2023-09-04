@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "leicester city host swansea city in the premier league on saturday . the foxes are just three points from safety after back-to-back wins . nigel pearson has urged his players to ignore their relegation rivals .",
+        "leicester city host swansea city in the premier league on saturday . the foxes are just three points from safety after back-to-back wins . nigel pearson has urged his players to ignore their relegation rivals .",
+        "leicester city host swansea city in the premier league on saturday . the foxes are just three points from safety after back-to-back wins . nigel pearson has urged his players to ignore their relegation rivals ."
+    ],
+    "aspect": [
+        "1. Boss Nigel Pearson urges Leicester to ignore relegation rivals.",
+        "2. Leicester hosts Swansea, three points from safety in the Premier League.",
+        "3. Pearson wants team to focus on their own job, not relying on rivals."
+    ],
+    "explain": [
+        "Boss Nigel Pearson urges Leicester to focus on their own performance and not worry about other teams' standings as they aim for safety in the Premier League.",
+        "Leicester City, with only three points saved, is hosting Swansea City in the Premier League, and their manager Nigel Pearson encourages his players to overlook their competitors for relegation.",
+        "The manager, Nigel Pearson, believes that the team's priority should be on their own performance, rather than depending on their rivals' results, as Leicester City is currently only three points away from safety in the Premier League."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the given sentence.",
+        "Yes, the context of the given sentence is in the summary.",
+        "yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance .",
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance .",
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance .",
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance .",
+        "arsenal boss arsene wenger does not know the exact reason alexis sanchez chose the emirates stadium over anfield . but he is glad the chile forward will be lining up for his side on saturday . sanchez had his selection of clubs once barcelona had decided to let him leave , and following the world cup , the 26-year-old was convinced to continue his career under wenger 's expert guidance ."
+    ],
+    "aspect": [
+        "1. Alexis Sanchez chose Arsenal over Liverpool due to his preference for Wenger's guidance.",
+        "2. Sanchez has made an impact in English football and scored 19 goals this season.",
+        "3. Wenger is happy that Sanchez chose Arsenal and believes he is one of the best around.",
+        "4. Liverpool's interest in Sanchez could have been used as leverage in negotiations for Suarez.",
+        "5. Wenger admires Brendan Rodgers' work in developing Liverpool despite injuries and Suarez's departure."
+    ],
+    "explain": [
+        "Alexis Sanchez was undecided between Arsenal and Liverpool until after the FIFA World Cup, where he played under Arsene Wenger's guidance. Wenger's expertise in guiding the Arsenal team to success swayed Sanchez's decision to move to the Emirates Stadium.",
+        "Alexis Sanchez is a prolific goal-scorer and has proved his worth by scoring 19 goals this season for Arsenal.",
+        "The given aspect states that Arsenal manager Arsene Wenger does not know the exact reason why Alexis Sanchez chose to play for the Emirates Stadium over Anfield. However, Wenger is happy that Sanchez has decided to continue his career under the guidance of Wenger, who believes that Sanchez is one of the best players around. This suggests that Wenger is pleased with Sanchez's decision to join Arsenal and thinks he will be an asset to the team.",
+        "Liverpool's interest in Sanchez could have been used as leverage in negotiations for Suarez, as it would have put pressure on Arsenal to offer better terms to keep their star player.",
+        "Wenger admires Brendan Rodgers' work in developing Liverpool despite injuries and Suarez's departure.\nCore Idea: Wenger appreciates Rodgers' ability to maintain Liverpool's performance and progress despite various setbacks such as injuries to key players and the departure of their top scorer."
+    ],
+    "answer": [
+        "The aspect states that Sanchez chose Arsenal over Liverpool due to his preference for Wenger's guidance. However, there is no mention of this specific reason in the given summary. Thus, the aspect does not seem to be related to the summary.",
+        "No, the aspect does not appear in the summary.",
+        "Yes, the summary does contain the core idea of the given aspect. The aspect states that Wenger is happy to have Sanchez on his team and believes that he is one of the best players around. The summary confirms that Sanchez had his selection of clubs once Barcelona decided to let him leave and following the World Cup, he was convinced to continue his career under Wenger's guidance. This suggests that Wenger is pleased with Sanchez's decision to join Arsenal and believes he will be an asset to the team.",
+        "No, the core idea of the given aspect is not present in the summary.",
+        "No. The aspect is not present in the summary."
+    ],
+    "score": [
+        0,
+        0,
+        5,
+        0,
+        0
+    ],
+    "mean_score": 1.0,
+    "gt_score": 4.833333333325
+}

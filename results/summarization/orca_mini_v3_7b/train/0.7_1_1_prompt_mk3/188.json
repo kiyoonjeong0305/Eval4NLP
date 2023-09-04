@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "a 23-year-old mother-of-two is at risk of being banned from seeing her own children - because she refuses to stop drinking and partying . the woman , named only as gemma , has two children under five by two different fathers and handed both infants over to her 52-year-old mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all , after discovering her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "a 23-year-old mother-of-two is at risk of being banned from seeing her own children - because she refuses to stop drinking and partying . the woman , named only as gemma , has two children under five by two different fathers and handed both infants over to her 52-year-old mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all , after discovering her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "a 23-year-old mother-of-two is at risk of being banned from seeing her own children - because she refuses to stop drinking and partying . the woman , named only as gemma , has two children under five by two different fathers and handed both infants over to her 52-year-old mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all , after discovering her daughter 's penchant for legal high , mkat , and because she suspects her of stealing ."
+    ],
+    "aspect": [
+        "1. A 23-year-old mother-of-two, Gemma, risks being banned from seeing her children after refusing to stop drinking and partying.",
+        "2. Her mother, Debbie, threatens to ban her from the house and seeing the children due to suspicions of stealing and her constant partying.",
+        "3. Debbie took care of both children after social services threatened to take them away, indicating Gemma's lifestyle has been problematic since her teens."
+    ],
+    "explain": [
+        "A young mother in the UK faces potential ban from seeing her children due to her alcohol and partying habits.",
+        "Debbie, Gemma's mother, threatens to ban her from the house and seeing her grandchildren due to suspicions of stealing and Gemma's ongoing party lifestyle.",
+        "Debbie took care of both children after social services threatened to take them away, indicating Gemma's lifestyle has been problematic since her teens."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes",
+        "Yes, the sentence accurately represents that Gemma's lifestyle has been problematic since her teens based on Debbie taking care of the children after social services threatened them."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 5.0
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control ."
+    ],
+    "aspect": [
+        "1. Fiery sunsets in Washington were caused by wildfires in Siberia.",
+        "2. The sunsets were a result of smoke particles filtering out other colors.",
+        "3. Seattle native Tim Durkan shared photos of the amber-colored sunsets."
+    ],
+    "explain": [
+        "The aspect states that the fiery sunsets in Washington were caused by wildfires in Siberia. This suggests that the wildfires in Siberia, which started on April 14, are influencing sunsets in Washington due to the smoke they are producing, contributing to the more vibrant and dramatic hues in the sky.",
+        "The fires in Southeastern Siberia, which started on April 14, have led to vast destruction of villages in the area. The smoke from the fires heavily impacted the region, causing the sunsets to appear with the blended colors due to the smoke particles filtering out other colors.",
+        "Seattle native Tim Durkan shared photos of the amber-colored sunsets, which most likely resulted from the massive wildfires in Southeastern Siberia that were caused on April 14 and rapidly grew out of control, eventually leading to destroyed dozens of villages in the region. The amber-colored sunsets are a visual indication of the impacts of these devastating fires."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the given sentence and describes the significance of the Siberian wildfires on the fiery sunsets in Washington.",
+        "Yes, the summary contains the context of this sentence, highlighting the fires in Southeastern Siberia, the vast destruction of villages, the smoke heavily impacting the region, and the sunsets' blended colors due to smoke particles filtering out other colors.",
+        "Yes, the summary contains the context of the given aspect. It mentions the wildfires in Southeastern Siberia and their impact on the region's sunsets, which Seattle native Tim Durkan shared in photographic form."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.1666666666750003
+}

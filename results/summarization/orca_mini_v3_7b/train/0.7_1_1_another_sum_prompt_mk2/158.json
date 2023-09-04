@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "roma beat napoli beat napoli in serie a on saturday . miralem pjanic scored the only goal of the game in the 25th minute . the roma beat the four-month winless streak at home with a victory over inter milan . napoli beat roma 4-2 in the first half of the season .",
+        "roma beat napoli beat napoli in serie a on saturday . miralem pjanic scored the only goal of the game in the 25th minute . the roma beat the four-month winless streak at home with a victory over inter milan . napoli beat roma 4-2 in the first half of the season .",
+        "roma beat napoli beat napoli in serie a on saturday . miralem pjanic scored the only goal of the game in the 25th minute . the roma beat the four-month winless streak at home with a victory over inter milan . napoli beat roma 4-2 in the first half of the season ."
+    ],
+    "aspect": [
+        "1. Roma ended their four-month winless streak at home, defeating Napoli in a key match for Champions League places. ",
+        "2. Miralem Pjanic scored the winning goal in the 25th minute, and goalkeeper Morgan de Sanctis made several crucial saves in the second half.",
+        "3. Second-place Roma moved four points ahead of city rivals Lazio, while Napoli's winless streak was extended to five matches."
+    ],
+    "explain": [
+        "Roma ended their four-month home winless streak by defeating Napoli in a crucial game for the Champions League places. This is significant because it marks a recent victory for Roma and may positively impact their chances at securing a top position in the league.",
+        "Miralem Pjanic scored the winning goal in the 25th minute, and goalkeeper Morgan de Sanctis made several crucial saves in the second half. These key events contributed to Roma's victory over Napoli in Serie A, bringing an end to their four-month winless streak at home. ",
+        "In the Serie A match on Saturday, Roma defeated Napoli with Miralem Pjanic scoring the only goal of the game in the 25th minute. This win helped Roma break their four-month winless streak at home against Inter Milan. Napoli also won the first half of the season against Roma with a 4-2 score, but Roma's victory now puts them four points ahead of city rivals, Lazio, while Napoli's winless streak extended to five matches."
+    ],
+    "answer": [
+        "Yes, the summary does contain the core idea of this sentence, although it's not explicitly written as such a sentence. The information about Roma's winless streak and their victory over Napoli in a crucial game for Champions League places is mentioned in the summary. These details together contribute to the significance of Roma's win over Napoli as per the context provided in the sentence you mentioned.",
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary contains the context of the sentence. It mentions Roma defeating Napoli, with Pjanic scoring the only goal, which led to Roma breaking their winless streak against Inter Milan. It also mentions that Roma's victory now puts them four points ahead of Lazio, and Napoli's winless streak has extended to five matches."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 2.250000000025
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "esteban cambiasso has won all the major european competitions a player can during his illustrious career but revealed that keeping leicester city in the premier league would be up there with the best . the foxes are currently seven points adrift at the bottom of the table , with only eight games remaining . cambiasso refuses to give up and admits keeping leicester up will feel like winning a trophy .",
+        "esteban cambiasso has won all the major european competitions a player can during his illustrious career but revealed that keeping leicester city in the premier league would be up there with the best . the foxes are currently seven points adrift at the bottom of the table , with only eight games remaining . cambiasso refuses to give up and admits keeping leicester up will feel like winning a trophy .",
+        "esteban cambiasso has won all the major european competitions a player can during his illustrious career but revealed that keeping leicester city in the premier league would be up there with the best . the foxes are currently seven points adrift at the bottom of the table , with only eight games remaining . cambiasso refuses to give up and admits keeping leicester up will feel like winning a trophy ."
+    ],
+    "aspect": [
+        "1. Esteban Cambiasso, a retired footballer, claims keeping Leicester City in the Premier League would be as important as winning a trophy.",
+        "2. Cambiasso, who has won numerous European competitions, joined Leicester City last summer and is determined to help the team avoid relegation.",
+        "3. The former Argentine midfielder, who has enjoyed success at Inter Milan and Real Madrid, believes he has contributed to Leicester's cause and hopes to extend his stay in England."
+    ],
+    "explain": [
+        "Esteban Cambiasso, a retired footballer, considers achieving a major goal (keeping Leicester City in the Premier League) as significant as winning a tournament.",
+        "Esteban Cambiasso, a South American footballer who has already won numerous European competitions throughout his career, joined Leicester City last summer. The 35-year-old is strongly committed to the team and is determined to help them avoid relegation (being demoted to a lower league), given that they are currently at the bottom of the table with only eight games remaining.",
+        "Esteban Cambiasso, a former Argentine midfielder, believes keeping Leicester City in the Premier League will be as fulfilling as winning a major European competition due to his positive impact on the team, despite their current position at the bottom of the table. He hopes to extend his stay in England."
+    ],
+    "answer": [
+        "No.",
+        "\"Esteban Cambiasso, a South American footballer who has already won numerous European competitions throughout his career, joined Leicester City last summer. The 35-year-old is strongly committed to the team and is determined to help them avoid relegation (being demoted to a lower league), given that they are currently at the bottom of the table with only eight games remaining.\" Yes, this sentence contains the context of my sentence, which was: \"Esteban Cambiazzo, a South American footballer who has already won numerous European competitions throughout his career, joined Leicester City last summer. The 35-year-old is strongly committed to the team and is determined to help them avoid relegation (being demoted to a lower league), given that they are currently at the bottom of the table with only eight games remaining.\"",
+        "Yes"
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.833333333325
+}

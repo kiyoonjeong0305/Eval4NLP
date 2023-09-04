@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation .",
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation .",
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation ."
+    ],
+    "aspect": [
+        "1. Four-year-old James Hayward's plastic nerf gun confiscated at East Midlands Airport due to security risk concerns, despite it being a harmless toy, prompting criticism from his father, Phil.",
+        "2. Security officers at the airport deemed the toy gun a security risk, and demanded that James hand it over for inspection.",
+        "3. East Midlands Airport apologized for inconvenience but stated that safety and security of passengers is their first priority, following government-set regulations on security."
+    ],
+    "explain": [
+        "Four-year-old James Hayward's harmless plastic nerf gun was confiscated at East Midlands Airport due to security risk concerns, sparking criticism from his father, Phil, who called the security checks \"ludicrous.\"",
+        "In the given aspect, the main issue is that the security officers at the airport perceived James' harmless toy- which fires sponge darts - as a security risk. As a result, they demanded the toy to be handed over for inspection, causing inconvenience and unnecessary concern for James and his parents.",
+        "Although East Midlands Airport apologized for any inconvenience, they stated that their primary concern is the safety and security of passengers, which follows government-set security regulations."
+    ],
+    "answer": [
+        "No, I do not think the sentence from the aspect accurately summarizes the context of the given summary, as the summary mentions that James Hayward's 'brightly coloured toy' was the one confiscated, not his plastic nerf gun.",
+        "Yes, the summary contains the context of the sentence given.",
+        "No"
+    ],
+    "score": [
+        2,
+        4,
+        1
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.25
+}

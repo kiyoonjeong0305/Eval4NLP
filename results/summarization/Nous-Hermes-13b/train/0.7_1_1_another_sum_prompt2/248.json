@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "former holland forward and assistant coach patrick kluivert has made a winning start in world cup qualifying as coach of curacao . the caribbean island team advanced to the second qualifying round in concacaf for the 2018 tournament late tuesday . curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate .",
+        "former holland forward and assistant coach patrick kluivert has made a winning start in world cup qualifying as coach of curacao . the caribbean island team advanced to the second qualifying round in concacaf for the 2018 tournament late tuesday . curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate .",
+        "former holland forward and assistant coach patrick kluivert has made a winning start in world cup qualifying as coach of curacao . the caribbean island team advanced to the second qualifying round in concacaf for the 2018 tournament late tuesday . curacao drew 2-2 in a second-leg match at montserrat to win 4-3 on aggregate ."
+    ],
+    "aspect": [
+        "1. Curacao, coached by Patrick Kluivert, advanced to the next stage of 2018 World Cup qualification. ",
+        "2. Kluivert helped Curacao beat Montserrat 4-3 on aggregate in the first round. ",
+        "3. Kluivert, who played in the 1998 World Cup, also worked as an assistant coach for Holland in the 2014 tournament."
+    ],
+    "explain": [
+        "Caribbean island team Curacao, coached by Patrick Kluivert, successfully advanced to the next stage of 2018 World Cup qualification by winning their play-off aggregate against Montserrat.",
+        "The core idea of the aspect \"Kluivert helped Curacao beat Montserrat 4-3 on aggregate in the first round\" is that the former Dutch footballer Patrick Kluivert, who is currently the coach of Curacao, led the team to a win against Montserrat in the first qualifying round of the 2018 World Cup. The team advanced to the second qualifying round in CONCACAF by drawing 2-2 in a second-leg match and winning 4-3 on aggregate. This achievement was a successful start for Kluivert as a coach.",
+        "\nPatrick Kluivert, who played in the 1998 World Cup, has experience working as an assistant coach for the Netherlands in the 2014 tournament. This aspect highlights Kluivert's qualifications and experience as a coach, specifically in the World Cup, which may have helped him make a successful start as coach of Curacao in the 2018 World Cup qualifying tournament."
+    ],
+    "answer": [
+        "No, the core idea of the aspect is not present in the summary.",
+        "No, the summary does not contain the core idea of the aspect.",
+        "No, the aspect does not contain the core idea of the summary. The summary states that Kluivert made a winning start in World Cup qualifying as coach of Curacao, while the aspect mentions his experience as an assistant coach for the Netherlands in the 2014 tournament. These two ideas are not directly related to each other, and the aspect does not provide information about Kluivert's success as coach of Curacao."
+    ],
+    "score": [
+        0,
+        0,
+        1
+    ],
+    "mean_score": 0.3333333333333333,
+    "gt_score": 4.75
+}

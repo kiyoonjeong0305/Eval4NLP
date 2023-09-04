@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the queen 's guard slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on camera .",
+        "the queen 's guard slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on camera .",
+        "the queen 's guard slipped on a manhole cover during the popular changing of the guard at buckingham palace last week . he lost his footing and slid sideways , knocking his bearskin on the side of the box and dropping his rifle . the entire incident was caught on camera ."
+    ],
+    "aspect": [
+        "1. Queen's Guard slips and falls on manhole cover during the Changing of the Guard, caught on camera.",
+        "2. The incident occurred in front of hundreds of tourists watching the event.",
+        "3. The unnamed guard is believed to have slipped due to metal protectors on his boots."
+    ],
+    "explain": [
+        "\"Queen's Guard slips and falls on manhole cover during the Changing of the Guard, caught on camera\" highlights a security incident where one of the Queen's Guards, during the ceremonial event at Buckingham Palace, tripped and fell due to a manhole cover, with the entire event being filmed by a viewer's camera.",
+        "The event where the Queen's guard slipped on a manhole cover was witnessed by many tourists.",
+        "The unnamed guard, who slipped due to the metal protectors on his boots during the popular changing of the guard at Buckingham Palace last week, was most likely affected by the friction caused by the protectors interacting with the manhole cover."
+    ],
+    "answer": [
+        "Yes, the summary does include the context of the given sentence, which describes the security incident involving the Queen's Guard slipping and falling on a manhole cover during the Changing of the Guard at Buckingham Palace and the event being captured on camera.",
+        "No",
+        "No, the summary does not contain the context of the given sentence, as it includes a different cause for the slip (i.e., slipping on a manhole cover) and does not provide enough information on how the metal protectors could have caused friction with the manhole cover."
+    ],
+    "score": [
+        4,
+        1,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.83333333335
+}

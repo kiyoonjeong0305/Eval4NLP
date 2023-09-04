@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Filipe Luis wants to stay at Chelsea until the end of his contract, despite Atletico Madrid considering bringing him back in the summer Luis has made just four appearances in all competitions this season, with the Brazilian's future at Stamford Bridge uncertain. The former Porto man has been linked with a move to Atletico Madrid, but believes he has the right to stay. 'I don't think I'm a player for Atletico Madrid,' he said.",
+        "Filipe Luis wants to stay at Chelsea until the end of his contract, despite Atletico Madrid considering bringing him back in the summer Luis has made just four appearances in all competitions this season, with the Brazilian's future at Stamford Bridge uncertain. The former Porto man has been linked with a move to Atletico Madrid, but believes he has the right to stay. 'I don't think I'm a player for Atletico Madrid,' he said.",
+        "Filipe Luis wants to stay at Chelsea until the end of his contract, despite Atletico Madrid considering bringing him back in the summer Luis has made just four appearances in all competitions this season, with the Brazilian's future at Stamford Bridge uncertain. The former Porto man has been linked with a move to Atletico Madrid, but believes he has the right to stay. 'I don't think I'm a player for Atletico Madrid,' he said."
+    ],
+    "aspect": [
+        "1. Filipe Luis wants to stay at Chelsea until the end of his contract, despite Atletico Madrid's potential interest.",
+        "2. Filipe Luis expressed his happiness at Chelsea and hopes to stay until his contract ends.",
+        "3. Chelsea manager Jose Mourinho encourages the team to focus on the upcoming matches and aim to win every game."
+    ],
+    "explain": [
+        "Filipe Luis, a Brazilian football player, aims to complete his current contract with Chelsea, disregarding any potential interest from his former team Atletico Madrid. He believes he should be considered a Chelsea player.",
+        "Filipe Luis is enjoying his time at Chelsea and desires to complete his contract, despite possible interest from his previous club Atletico Madrid.",
+        "Chelsea manager, Jose Mourinho urges the team to concentrate on upcoming games and aims to win every match to maintain strong competition."
+    ],
+    "answer": [
+        "Yes, the given summary does contain the core context of this sentence.",
+        "Yes, the summary contains the context of this sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.58333333335
+}

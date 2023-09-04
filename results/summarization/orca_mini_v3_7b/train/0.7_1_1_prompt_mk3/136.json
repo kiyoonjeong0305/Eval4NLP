@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "yoshinori muto has been linked with a £4million move to chelsea . fc tokyo president naoki ogane claims blues have made an offer . muto would join chelsea's dutch partner club vitesse arnhem on loan . the 22-year-old only graduated from keio university two weeks ago .",
+        "yoshinori muto has been linked with a £4million move to chelsea . fc tokyo president naoki ogane claims blues have made an offer . muto would join chelsea's dutch partner club vitesse arnhem on loan . the 22-year-old only graduated from keio university two weeks ago .",
+        "yoshinori muto has been linked with a £4million move to chelsea . fc tokyo president naoki ogane claims blues have made an offer . muto would join chelsea's dutch partner club vitesse arnhem on loan . the 22-year-old only graduated from keio university two weeks ago ."
+    ],
+    "aspect": [
+        "1. Chelsea offers FC Tokyo's forward Yoshinori Muto, 22, on loan to Dutch partner club Vitesse Arnhem. ",
+        "2. Muto graduated from Keio University with an economics degree two weeks ago. ",
+        "3. Muto is pleased with Chelsea's offer but has not decided yet."
+    ],
+    "explain": [
+        "Chelsea makes an offer to sign FC Tokyo's forward Yoshinori Muto on loan to their Dutch partner club, Vitesse Arnhem for £4 million.",
+        "Yoshinori Muto, a striker with a potential £4 million move to Chelsea FC, recently completed his studies at Keio University with an economics degree, graduating just two weeks ago.",
+        "Summary: Yoshinori Muto has been linked with a £4million move to Chelsea. FC Tokyo President Naoki Ogan claims Blues have made an offer. Muto would join Chelsea's Dutch partner club Vitesse Arnhem on loan. The 22-year-old only graduated from Keio University two weeks ago.Aspect:3. Muto is pleased with Chelsea's offer but has not decided yet.\n\nMuto's stance on the proposed move is not fully determined, as he is considering Chelsea's offer but has not yet made a final decision."
+    ],
+    "answer": [
+        "No, the sentence does not have the necessary context taken from the summary.",
+        "Yes, the summary contains the context of this sentence.",
+        "No, the summary does not contain the context of the given sentence. It needs to be rewritten or provided with more information."
+    ],
+    "score": [
+        2,
+        4,
+        1
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 4.33333333335
+}

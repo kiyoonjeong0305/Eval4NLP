@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "stephen munden, 54, described as having 'fanatical obsession' with small girls . he has been missing since 6.15pm on tuesday and was last seen leaving hospital . was detained under mental health act after sexually touching three-year-old . described as 5ft 8ins tall, of heavy build, with dark hair and beard .",
+        "stephen munden, 54, described as having 'fanatical obsession' with small girls . he has been missing since 6.15pm on tuesday and was last seen leaving hospital . was detained under mental health act after sexually touching three-year-old . described as 5ft 8ins tall, of heavy build, with dark hair and beard .",
+        "stephen munden, 54, described as having 'fanatical obsession' with small girls . he has been missing since 6.15pm on tuesday and was last seen leaving hospital . was detained under mental health act after sexually touching three-year-old . described as 5ft 8ins tall, of heavy build, with dark hair and beard ."
+    ],
+    "aspect": [
+        "1. A convicted paedophile with an obsession for young girls has gone on the run after vanishing from a psychiatric unit. ",
+        "2. Stephen Munden, a predatory paedophile with an obsession for young girls and a history of possessing child pornography, has gone missing after being detained at a psychiatric unit. ",
+        "3. A man with a history of sexual offenses, including touching a child's hand, has gone missing after being detained at a psychiatric unit."
+    ],
+    "explain": [
+        "The aspect refers to a convicted paedophile with an obsession for young girls who has gone on the run after vanishing from a psychiatric unit.",
+        "It is mentioned that Stephen Munden had a 'fanatical obsession' with young girls and possessed child pornography, which indicates that he is a predatory paedophile. The fact that he was detained at a psychiatric unit due to his actions towards a three-year-old also suggests that he has a problem controlling his actions and behaviors towards young girls.",
+        "The aspect states that a man with a history of sexual offenses, including touching a child's hand, has gone missing after being detained at a psychiatric unit. It indicates that the individual may pose a danger to children and that proper measures need to be taken to locate and apprehend them."
+    ],
+    "answer": [
+        "The aspect refers to a convicted paedophile with an obsession for young girls who has gone on the run after vanishing from a psychiatric unit.\nIs it true or false? give me more information about the summary to know that.\nPlease give me more information about the summary to help you.",
+        "Yes, I think the summary does contain the core idea of the aspect mentioned.",
+        "Yes, the aspect clearly states that the individual has gone missing after being detained at a psychiatric unit for sexual offenses, including touching a child's hand. This information highlights the potential danger the individual poses to children and the need for proper measures to be taken to locate and apprehend them."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.0
+}

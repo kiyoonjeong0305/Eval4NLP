@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large .",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . he made off with the dairy 's till and about $ 1500 in cash on saturday . police say there were no signs of any weapons used but the robber remained at large ."
+    ],
+    "aspect": [
+        "1. New Zealand police appeal for help in identifying a masked man who robbed a Christchurch dairy. ",
+        "2. The offender, wearing an orange sweatshirt and distinctive mask, demands cash from the dairy owner's daughter and flees with cash register and cash. ",
+        "3. Police report that the masked man is very tall and at large."
+    ],
+    "explain": [
+        "A core idea of this aspect is that New Zealand police are seeking public assistance to identify a person who robbed a Christchurch dairy while wearing a distinctive cartoon mask, and escaped with the cash register and approximately $1,500 in cash.",
+        "The core idea of this given aspect is that a man wearing an orange sweatshirt and a distinctive mask robbed a New Zealand dairy by demanding cash from the dairy owner's daughter, fleeing with the cash register and cash.",
+        "This aspect of the police report provides information about the height of the masked man who robbed a Christchurch dairy. It indicates that the man is very tall and that he remains at large. This information may be important for identifying and apprehending the suspect, as his height may be a distinguishing feature."
+    ],
+    "answer": [
+        "I beg to differ. While the summary mentions that a dairy was robbed and cash was stolen, it does not include information about the distinctive cartoon mask that the perpetrator wore. The aspect provided, however, focuses specifically on this detail and asks for public assistance to identify the person responsible.",
+        "I do not agree with your statement. While the summary mentions that the offender robbed the dairy and fled with cash register and cash, it does not mention that the offender demanded cash from the dairy owner's daughter. Therefore, the core idea of the given aspect is not present in the summary.",
+        "No, I do not think that the summary contains the core idea. Although the summary mentions that the suspect is very tall, it does not explicitly state that he is at large. The aspect provided specifically addresses this fact, making it more focused and informative."
+    ],
+    "score": [
+        1,
+        0,
+        2
+    ],
+    "mean_score": 1.0,
+    "gt_score": 4.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "-lrb- cnn -rrb- lady antebellum singer hillary scott 's tour bus caught fire on a texas freeway thursday morning , but everyone on board was safely evacuated . michael barnett captured dramatic video of the fire , on interstate 30 just northeast of dallas , and uploaded it to cnn ireport . `` it was shocking , '' he said .",
+        "-lrb- cnn -rrb- lady antebellum singer hillary scott 's tour bus caught fire on a texas freeway thursday morning , but everyone on board was safely evacuated . michael barnett captured dramatic video of the fire , on interstate 30 just northeast of dallas , and uploaded it to cnn ireport . `` it was shocking , '' he said .",
+        "-lrb- cnn -rrb- lady antebellum singer hillary scott 's tour bus caught fire on a texas freeway thursday morning , but everyone on board was safely evacuated . michael barnett captured dramatic video of the fire , on interstate 30 just northeast of dallas , and uploaded it to cnn ireport . `` it was shocking , '' he said ."
+    ],
+    "aspect": [
+        "- Country band Lady Antebellum's tour bus caught fire on a Texas freeway.",
+        "- Everyone on board was safely evacuated.",
+        "- The fire destroyed everything in the bus's back lounge except the singer's Bible."
+    ],
+    "explain": [
+        "The aspect states that the tour bus of the country band Lady Antebellum caught fire on a Texas freeway, causing shock to the witnesses.",
+        "The core idea of this aspect is that everyone on board the tour bus was evacuated safely during the fire incident. It is a reassuring and important detail that highlights the positive outcome of the situation. This aspect emphasizes the importance of emergency preparedness and safety measures, and it shows that even in extreme situations, quick thinking and timely action can prevent injuries and fatalities.",
+        "This aspect of the bus fire highlights the significance of the singer's Bible to her, as the only item that survived the devastation."
+    ],
+    "answer": [
+        "It is not mentioned in the aspect. \nWhat do you think? Was it helpful in understanding the aspect?\nPlease answer the question, thank you. (No core idea is mentioned in the aspect).",
+        "-1 (100%)\nAnswer: -2 (83.33%)\nAnswer: -3 (66.67%)\nAnswer: -4 (50%)\nAnswer: -5 (33.33%)\nAnswer: -6 (25%)\nAnswer: -7 (16.67%)\nAnswer: -8 (12.5%)\nAnswer: -9 (7.14%)",
+        "Based upon my analysis, I do not think that the summary contains the core idea of the given aspect. The two pieces of information provided are separate and do not directly relate to each other. The summary only mentions that the bus's back lounge was destroyed, but does not specifically mention the survival of the singer's Bible."
+    ],
+    "score": [
+        0,
+        5,
+        0
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 4.5
+}

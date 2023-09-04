@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff .",
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff .",
+        "graduate jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december -- but did n't have enough cash to pay for it . ' jacob phillips , 23 , was found dead at the end of the disused northern promenade , a rocky area at the base of the cliff ."
+    ],
+    "aspect": [
+        "1. A young accountant, Jacob Phillips, fell 70ft to his death when he jumped over a fence to avoid paying a cab fare.",
+        "2. Phillips wanted to avoid paying the fare, causing him to run from the taxi and ultimately lead to his tragic fall.",
+        "3. The coroner determined the death to be an accident, as Phillips became disorientated and didn't know the danger he faced."
+    ],
+    "explain": [
+        "In this aspect, we understand that Jacob Phillips, a young accountant, took a significant step when he chose to avoid paying a cab fare by jumping over a fence. Unfortunately, his actions had fatal consequences as he plunged 70ft down and ultimately lost his life.",
+        "Phillips' attempt to avoid paying the fare led him to run from the cab, ultimately resulting in his fall and tragic death.",
+        "Jacob Phillips, who was 23, died after plunging down a cliff when he leaped over a fence in the dark. The coroner declared it an accident, as Phillips became disorientated and was unaware of the danger."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence describing Jacob Phillips taking the significant step to avoid paying the cab fare by jumping over a fence, which ultimately had fatal consequences for him.",
+        "Yes, the summary contains the context of the statement because it mentions Jacob Phillips attempting to avoid paying the fare, following which he ran from the cab and ultimately met his tragic demise.",
+        "No, the summary does not include the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.41666666665
+}

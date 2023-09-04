@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "the woman , named only as gemma , has two children under five by two fathers and handed both infants over to her mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all . says her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "the woman , named only as gemma , has two children under five by two fathers and handed both infants over to her mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all . says her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "the woman , named only as gemma , has two children under five by two fathers and handed both infants over to her mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all . says her daughter 's penchant for legal high , mkat , and because she suspects her of stealing .",
+        "the woman , named only as gemma , has two children under five by two fathers and handed both infants over to her mother debbie when they were four months old . now debbie is threatening to ban gemma from seeing the children at all . says her daughter 's penchant for legal high , mkat , and because she suspects her of stealing ."
+    ],
+    "aspect": [
+        "1. A 23-year-old mother-of-two faces being banned from seeing her children by her own mother. ",
+        "2. The woman's mother is looking after the children, but is upset with her daughter's partying and stealing. ",
+        "3. The mother suspects her daughter of stealing from the children and selling items to fund her party lifestyle. ",
+        "4. The mother is preparing to ban her daughter from her home and the children because she can't trust her."
+    ],
+    "explain": [
+        "Gemma, a 23-year-old mother of two, faces being banned from seeing her children by her own mother, Debbie, due to her using legal high, MKat, and stealing. Additionally, Debbie is worried about the children's safety.",
+        "The woman's mother is so angry with her daughter's behavior and decisions that she is seeking to ban her from seeing her children at all.",
+        "The mother suspects her daughter of stealing from the children and selling items to fund her party lifestyle.",
+        "The given aspect states that the mother is preparing to ban her daughter from her home and the children because she can't trust her. \n\nThe summary mentions that the woman, named as Gemma, has two children under five years of age by two different fathers. It further states that when the children were four months old, she handed them over to her mother, Debbie. Now, Debbie is threatening to ban Gemma from seeing the children at all due to her daughter's penchant for legal high, MKat, and because she suspects her of stealing.\n\nThe given aspect talks about the mother, Debbie, who is taking steps to ban her daughter, Gemma, from her home and the children because she cannot trust her. It seems that Debbie has reasons to believe that Gemma is not fit to be around the children and that her presence might pose a risk to them. Whether her reasons are valid or not, it is clear that the mother is taking protective measures to ensure the safety of her grandchildren."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect.",
+        "No, the summary does not contain the core idea of the aspect. The aspect states that the woman's mother is looking after the children and is upset with her daughter's partying and stealing, while the summary only mentions that the children were handed over to the mother when they were four months old due to their father's suspicions of legal high and theft.",
+        "Yes, the summary does contain the core idea.",
+        "\nNo, the summary does not contain the core idea of the given aspect. The summary is related to the situation of the woman and her mother whereas the aspect only talks about the mother preparing to ban her daughter from her home and the children because she can't trust her."
+    ],
+    "score": [
+        0,
+        0,
+        5,
+        0
+    ],
+    "mean_score": 1.25,
+    "gt_score": 4.833333333325
+}

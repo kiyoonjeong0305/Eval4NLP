@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "gregory van der wiel has denied claims he is set to leave paris saint-germain in the summer . the dutchman recently had a falling out with his boss laurent blanc . but van der wiel insists he 's happy in paris and is making no plans to leave the ligue 1 side .",
+        "gregory van der wiel has denied claims he is set to leave paris saint-germain in the summer . the dutchman recently had a falling out with his boss laurent blanc . but van der wiel insists he 's happy in paris and is making no plans to leave the ligue 1 side .",
+        "gregory van der wiel has denied claims he is set to leave paris saint-germain in the summer . the dutchman recently had a falling out with his boss laurent blanc . but van der wiel insists he 's happy in paris and is making no plans to leave the ligue 1 side ."
+    ],
+    "aspect": [
+        "1. Gregory van der Wiel denies leaving PSG in summer, loves the club.",
+        "2. Recent falling out with Laurent Blanc after CL match, but Van der Wiel happy in Paris.",
+        "3. PSG linked to Barcelona's Dani Alves, Van der Wiel's future uncertain."
+    ],
+    "explain": [
+        "Gregory van der Wiel denies leaving Paris Saint-Germain in the summer. He claims to love the club and is happy with his current situation.",
+        "The core idea of the given aspect is about Gregory Van der Wiel having a recent dispute with his boss, Laurent Blanc, following a Champions League match. Despite this issue, Van der Wiel expresses his contentment with his team in Paris and has no intention of leaving the Ligue 1 side.",
+        "Paris Saint-Germain (PSG) is rumored to be interested in Barcelona's Dani Alves, which may make the future of Gregory van der Wiel uncertain."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of this sentence.",
+        "Yes, the summary contains the context of the sentence provided.",
+        "No, the summary does not contain the context of this sentence. However, it mentions Gregory van der Wiel's denial of leaving PSG and his falling out with Laurent Blanc."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.916666666675
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . river plate are keen to sign former forward radamel falcao who has struggled on loan at manchester united .",
+        "the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . river plate are keen to sign former forward radamel falcao who has struggled on loan at manchester united .",
+        "the colombia forward spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to falcao returning . river plate are keen to sign manchester united striker radamel falcao but admit a deal is complicated . river plate are keen to sign former forward radamel falcao who has struggled on loan at manchester united ."
+    ],
+    "aspect": [
+        "1. River Plate desire to sign Manchester United's Radamel Falcao, a Colombia forward with a complicated deal.",
+        "2. Falcao spent eight years with River Plate before leaving for Porto in 2009.",
+        "3. Falcao has struggled on loan at Manchester United but had a successful national team performance."
+    ],
+    "explain": [
+        "River Plate expresses their interest in signing Manchester United's Radamel Falcao, a Colombia forward previously with River Plate but struggled on loan. The acquisition is expected to be challenging due to various complexities.",
+        "Radamel Falcao played with River Plate for eight years before joining Porto in 2009, but now River Plate would like to bring him back.",
+        "Falcao's struggles at Manchester United do not reflect his strong performance in international games."
+    ],
+    "answer": [
+        "No",
+        "Yes",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.91666666665
+}

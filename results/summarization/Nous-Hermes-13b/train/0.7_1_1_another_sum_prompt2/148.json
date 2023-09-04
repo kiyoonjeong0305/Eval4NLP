@@ -1,0 +1,54 @@
+{
+    "summary": [
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy .",
+        "8,480 migrants were rescued from friday to monday, the italian coast guard says . save the children fears 400 migrants could be missing . there has been a recent upsurge in migrant boats crossing the mediterranean into italy ."
+    ],
+    "aspect": [
+        "1. Italy is dealing with a rising number of desperate migrants from Africa and Middle East who are hoping to reach Europe. ",
+        "2. Over the weekend, a total of 8,480 migrants were rescued by the Italian coast guard. ",
+        "3. On Tuesday, Save the Children reported that 400 migrants might be missing after a ship carrying 550 people capsized in the Mediterranean Sea. The Italian coast guard, however, has not found any evidence of such an incident. ",
+        "4. There has been an increase in migrant boats crossing the Mediterranean into Italy and an increase in rescues performed by the Italian Coast Guard. ",
+        "5. Most migrants come from West Africa, Somalia, and Syria and use Libya as a transit country. ",
+        "6. 480 migrants have died while crossing the Mediterranean since the beginning of the year. ",
+        "7. Sometimes the captains and crews abandon the ships, leaving passengers to fend for themselves. ",
+        "8. 978 migrants were rescued in one day last week in the Mediterranean Sea."
+    ],
+    "explain": [
+        "With the rise in the number of people attempting to illegally migrate to Europe, Italy is facing a significant challenge of dealing with the increased number of migrants.",
+        "The given aspect highlights a significant development in the number of migrants rescued by the Italian coast guard over the weekend.",
+        "The provided aspect discusses the recent upsurge in migrant boats crossing the Mediterranean into Italy, which resulted in the rescue of 8,480 people from Friday to Monday. However, an organization called Save the Children reported that 400 migrants might be missing after a ship carrying 550 people capsized in the Mediterranean Sea on Tuesday. The Italian coast guard has not found any evidence of such an incident.",
+        "The aspect states that there has been an increase in migrant boats crossing the Mediterranean into Italy and an increase in rescues performed by the Italian Coast Guard. This indicates that there is an increase in migration activity in the Mediterranean region and the Italian Coast Guard is working harder to save lives through rescue efforts.",
+        "One of the core ideas of the aspect is that migrants from various regions, including West Africa, Somalia, and Syria, pass through Libya as a transit country en route to their final destination in Europe.",
+        "Some of the migrants have lost their lives while attempting to cross the Mediterranean, trying to reach Italy from North Africa, due to the upsurge in boat crossings.",
+        "Sometimes the captains and crews abandon the ships, leaving passengers to fend for themselves.",
+        "According to the given aspect, 8,978 migrants were rescued in one day in the Mediterranean Sea. This is a significant number and highlights the need for increased efforts to address the ongoing refugee crisis."
+    ],
+    "answer": [
+        "It is difficult to determine if the summary contains the complete core idea of the aspect as it only mentions the rise in the number of migrants and the challenge posed to Italy in dealing with them but does not delve into the reasons behind this phenomenon or any other related details. The aspect, on the other hand, provides more context and details by mentioning the source of these migrants and the challenges they face in their journey.",
+        "There is no question to answer. Please provide the text that you believe contains the core idea of the given aspect.",
+        "No, the summary does not contain the core idea of the given aspect. The core idea is about the recent upsurge in migrant boats crossing the Mediterranean into Italy, which was briefly mentioned in the summary, but the aspect discusses the report of missing migrants and the coast guard's lack of evidence for the incident.",
+        "Yes, the summary does contain the core idea.",
+        "No, the summary does not contain the core idea of the aspect. The summary is about the rescue of migrants and the fear of missing ones, and does not mention the transit of migrants through Libya.",
+        "The aspect of the increased number of migrants crossing the Mediterranean since the beginning of the year, and the resulting deaths or missing persons, is mentioned in the summary but indirectly. It is not the core idea of the summary which focuses on the numbers of migrants rescued, and fears of missing persons due to the recent upsurge in boat crossings.",
+        "No, the summary does not contain the core idea of the given aspect.",
+        "I would need more information about the summary to accurately determine if the given aspect is a core idea present in the summary."
+    ],
+    "score": [
+        2,
+        5,
+        2,
+        5,
+        0,
+        3,
+        0,
+        3
+    ],
+    "mean_score": 2.5,
+    "gt_score": 4.75
+}

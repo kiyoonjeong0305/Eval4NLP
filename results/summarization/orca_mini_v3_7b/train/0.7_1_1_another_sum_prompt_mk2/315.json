@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '",
+        "new zealand police are appealing to the public to help identify a man who robbed a christchurch dairy wearing a ` distinctive ' cartoon mask . the offender , snapped on security footage in a fluoro orange sweatshirt and oversized mask , is described as being ` very tall '"
+    ],
+    "aspect": [
+        "1. A man robbed a Christchurch dairy while wearing a distinctive cartoon mask.",
+        "2. He stole the till and around $1,500 from the shop.",
+        "3. Police are seeking public help to identify the suspect."
+    ],
+    "explain": [
+        "The aspect highlights a unique incident where a man dressed in a fluoro orange sweatshirt and a distinctive cartoon mask robbed a Christchurch dairy, seeking to involve the public in identifying the offender who is described as being 'very tall.'",
+        "The man, who robbed the Christchurch dairy, stole the till containing around $1,500 from the shop.",
+        "The police in New Zealand are asking the public for their assistance in identifying a man who robbed a dairy in Christchurch, as he was wearing a distinctive cartoon mask. The person in question is described as being very tall and was seen wearing a fluoro orange sweatshirt and an oversized mask."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the context of the sentence is mentioned in the summary.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.916666666675
+}

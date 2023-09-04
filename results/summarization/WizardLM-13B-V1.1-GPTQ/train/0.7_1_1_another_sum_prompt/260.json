@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights .",
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights .",
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights .",
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights .",
+        "doncaster rovers drew 0-0 with fleetwood town at the keepmoat stadium . the yorkshire side are mid-table mediocrity in league one . doncaster's media team faced a tough challenge compling the match highlights ."
+    ],
+    "aspect": [
+        "1. Doncaster Rovers' uninspired campaign leads to a mediocre mid-table position in League One.",
+        "2. Fleetwood Town's play-off hopes evaporated before their visit to Doncaster for a League One encounter.",
+        "3. The match between Doncaster and Fleetwood resulted in a goalless draw at the Keepmoat Stadium.",
+        "4. The Doncaster media team faced a challenge compiling match highlights of the 0-0 draw.",
+        "5. The highlights video, uploaded to the club's YouTube channel, was 27 seconds long, featuring only the kick-off, a goal kick, and the final whistle."
+    ],
+    "explain": [
+        "Doncaster Rovers have had a lackluster season, causing them to settle for a mediocre mid-table position in the League",
+        "To make comprehensible or explain the essential nature or meaning of something.\n\nThe given aspect highlights the impact of Fleetwood Town's play-off hopes evaporating before their visit to Doncaster for a League One encounter. This core idea suggests that Fleetwood Town's potential for play-off qualification significantly influenced the outcome of the match.\n\nAs the match took place after Fleetwood Town's play-off hopes had vanished, it is possible that the team may have been less motivated or focused on the game. Doncaster Rovers, on the other hand, being mid-table mediocrity in League One, may have been more motivated to secure a positive result against a team with fading play-off aspirations.\n\nThe aspect additionally implies that the match highlights compiled by Doncaster Rovers' media team might be more interesting to watch due to the contrasting situations of the two teams. The supporters and viewers may find the match more engaging, as they might expect a more aggressive and tactical approach from Doncaster Rovers, who are aiming to climb the league table, and a more cautious one from Fleetwood Town, who no longer have play-off hopes.",
+        "To make understood or clear by giving a detailed account.\n\nThe core idea of the given aspect is that the match between Doncaster Rovers and Fleetwood Town at the Keepmoat Stadium did not produce any goals, resulting in a goalless draw. Specifically, it was a 0-0 draw.",
+        "The core idea of the given aspect is to emphasize the challenges that the media team of Doncaster Rovers faced when compiling the match highlights of the 0-0 draw against Fleetwood Town, despite the game not being particularly noteworthy or exciting. The media team had to find interesting moments and develop an engaging narrative from a match that lacked goals, action, or any particular standout moments, making their task more difficult.",
+        "In the context of the provided summary and aspect, the core idea is that the Doncaster Rovers' media team faced a significant challenge in creating a highlights video for the 0-0 draw against Fleetwood Town, despite the match being relatively uneventful.\n\nAspect: \nDoncaster Rovers drew 0-0 with Fleetwood Town, a result that may not have been captivating enough to create an extensive highlights video. Thus, the club's media team faced a challenge in producing an engaging and comprehensive video that showcased the key moments of the match. In response to this challenge, they decided to focus on the most critical moments of the game, such as the kick-off, a goal kick, and the final whistle, and compiled a 27-second video that conveyed the essence of the match. However, the brevity of the video left out valuable information, like substitutions, saves, or moments that had a significant impact on the game's outcome.\n\nKeywords: Doncaster Rovers, Fleetwood Town, 0-0 draw, media team, highlights video, kick-off, goal kick, final whistle, challenge, crucial moments, concise."
+    ],
+    "answer": [
+        "No",
+        "\nNo, the summary does not contain the core idea directly. While the summary mentions the draw between Doncaster Rovers and Fleetwood Town in a League One match, it does not provide any explicit information about the impact of Fleetwood Town's play-off hopes on the game's outcome. The aspect, however, explains how Fleetwood Town's play-off aspirations, which were no longer valid by the time of the match, might have affected the game's dynamics and the resulting match highlights.",
+        "Yes, the summary does contain the core idea.\n\nIn the summary, it mentions that \"Doncaster Rovers drew 0-0 with Fleetwood Town at the Keepmoat Stadium\" which clearly indicates that the match between the two teams ended as a goalless draw. Although the summary does not explicitly state that it was a 0-0 draw, it conveys the same information in a more concise manner.",
+        "\nYes, I believe the summary contains the core idea. The summary does mention that the media team faced a challenge compiling the match highlights. By saying, \"The Doncaster media team faced a challenge compiling match highlights of the 0-0 draw,\" it hints at the difficulties the team faced in producing an engaging and interesting piece despite the game's lack of excitement.",
+        "\nYes, the summary contains the core idea, describing how the Doncaster Rovers' media team faced a tough challenge creating a match highlights video for the 0-0 draw against Fleetwood Town, which had a less-than-exciting outcome."
+    ],
+    "score": [
+        2,
+        3,
+        5,
+        4,
+        4
+    ],
+    "mean_score": 3.6,
+    "gt_score": 5.0
+}

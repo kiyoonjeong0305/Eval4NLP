@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . the full back signed a three-year contract when he moved from the spanish champions last july , but has struggled to make the left back position his own at stamford bridge .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . the full back signed a three-year contract when he moved from the spanish champions last july , but has struggled to make the left back position his own at stamford bridge .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . the full back signed a three-year contract when he moved from the spanish champions last july , but has struggled to make the left back position his own at stamford bridge .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . the full back signed a three-year contract when he moved from the spanish champions last july , but has struggled to make the left back position his own at stamford bridge .",
+        "filipe luis insists he wants to stay at chelsea until the end of his contract . atletico madrid considering bringing him back in the summer . the full back signed a three-year contract when he moved from the spanish champions last july , but has struggled to make the left back position his own at stamford bridge ."
+    ],
+    "aspect": [
+        "1. Filipe Luis wants to stay at Chelsea until his contract ends. ",
+        "2. Atletico Madrid is considering re-signing him. ",
+        "3. Luis played for Brazil during the international break. ",
+        "4. Chelsea's manager wants them to focus on the remaining games. ",
+        "5. Chelsea has nine difficult games remaining in the league."
+    ],
+    "explain": [
+        "The aspect explains that the player Filipe Luis wants to stay at Chelsea until his contract ends. He signed a three-year contract when he moved from Atletico Madrid last July but has struggled to make the left-back position his own at Stamford Bridge.",
+        "The aspect states that Atletico Madrid is considering re-signing Filipe Luis from Chelsea. This means that the Spanish club is interested in bringing back the full back from his stint at Stamford Bridge.",
+        "The aspect states that Filipe Luis played for Brazil during the recent international break.",
+        "The aspect highlights Chelsea's manager's desire for the team to remain focused on the upcoming games despite any distractions.",
+        "One of the core ideas of the aspect \"Chelsea has nine difficult games remaining in the league.\" is that the team faces a challenging task in the remaining matches of the Premier League season. These nine games may be difficult to win, and the team may have to work hard to secure victory in each of them. Additionally, the competition in the league is intense, with several teams vying for the top position, making each game all the more challenging. This aspect of the given summary highlights the tough road ahead for Chelsea in terms of games and the need for the team to rise to the occasion and perform consistently well to stay in contention for the league title."
+    ],
+    "answer": [
+        "Yes, the summary explicitly states that Filipe Luis wants to stay at Chelsea until his contract ends, which is the core idea of the aspect you mentioned.",
+        "Yes, the aspect states that Atletico Madrid is considering re-signing Filipe Luis, which is a core idea of the aspect.",
+        "Yes, the aspect states that Filipe Luis played for Brazil during the recent international break. It is not directly related to the summary but provides additional information about the player.",
+        "Explaining the core idea of the given aspect is beyond the task of summarization, so no, the summary does not contain the core idea of the aspect.",
+        "No, the aspect \"Chelsea has nine difficult games remaining in the league\" does not appear to be present in the summary."
+    ],
+    "score": [
+        5,
+        5,
+        0,
+        0,
+        0
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.166666666675
+}

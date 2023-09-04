@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bob katter said the government believes mr gordon would quit after he was recently accused of domestic violence . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position .",
+        "bob katter said the government believes mr gordon would quit after he was recently accused of domestic violence . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position .",
+        "bob katter said the government believes mr gordon would quit after he was recently accused of domestic violence . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position ."
+    ],
+    "aspect": [
+        "1. Outspoken MP Bob Katter accused the Queensland Government of assuming Billy Gordon would quit, despite no similar situation in the past.",
+        "2. Katter, of Lebanese descent, has experienced racism himself and sympathizes with Gordon's position.",
+        "3. Social media criticized Katter's term \"black puppet,\" but he defended the statement as a way to call out racial overtones."
+    ],
+    "explain": [
+        "Outspoken MP Bob Katter criticized the Queensland Government for assuming Billy Gordon would resign due to recent accusations of domestic violence, when there was no such precedent in the past.",
+        "Bob Katter, who has experienced racism, understands Gordon's issue and supports him.",
+        "In the aspect, Bob Katter is accused of using a term \"black puppet\" which led to social media backlash. Katter defends his statement by connecting it to racial overtones, implying a need to address racial issues."
+    ],
+    "answer": [
+        "Yes",
+        "No, the summary does not contain the full context of the given sentence.",
+        "Yes, the summary contains the context of the mentioned sentence."
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.583333333325
+}

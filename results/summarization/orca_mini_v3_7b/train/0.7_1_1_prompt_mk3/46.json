@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "james hayward had his toy gun confiscated at east midlands airport . but security officers , who were described as ` over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . also performed a patting patting down and inspection of the primary school child .",
+        "james hayward had his toy gun confiscated at east midlands airport . but security officers , who were described as ` over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . also performed a patting patting down and inspection of the primary school child .",
+        "james hayward had his toy gun confiscated at east midlands airport . but security officers , who were described as ` over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . also performed a patting patting down and inspection of the primary school child ."
+    ],
+    "aspect": [
+        "1. Four-year-old James Hayward had his toy gun confiscated at East Midlands Airport.",
+        "2. James's plastic nerf gun was deemed a security risk and he was frisked by airport security.",
+        "3. James Hayward was bought a new toy gun when the family returned from their holiday."
+    ],
+    "explain": [
+        "Four-year-old James Hayward had his toy gun, which the father believed was harmless, confiscated at East Midlands Airport due to the security officers' strict screening procedures.",
+        "In the given aspect, a young boy named James Hayward had his toy (NERF gun) deemed as a security risk by airport security personnel, who then frisked him and conducted a pat-down inspection. The father found the security officers to be overly cautious and excessive in their actions, especially given that the toy gun was harmless.",
+        "When James Hayward's harmless toy gun was confiscated at the airport, his family bought him a new one when they returned from their holiday."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "There is no context missing from the given sentence, which communicates the aspect in its entirety.",
+        "No."
+    ],
+    "score": [
+        4,
+        5,
+        1
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.333333333325
+}

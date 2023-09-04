@@ -1,0 +1,54 @@
+{
+    "summary": [
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year"
+    ],
+    "aspect": [
+        "1. Chipotle has decided to tap into the $70 billion food delivery market by teaming up with Postmates app to bring burritos straight to customers' doors.",
+        "2. The fast-casual chain will work with the Postmates app to begin offering delivery for online and mobile orders in 67 cities.",
+        "3. Chipotle has gone from strength to strength in recent years and has now given Postmates the green light.",
+        "4. Chipotle is thought to have turned down previous offers of collaboration with third-party delivery services but has now joined hands with Postmates.",
+        "5. The app hires independent contractors who drive their own cars in a similar model to Uber taxis.",
+        "6. Chipotle is not the only franchise hoping to cash in on the lucrative delivery market.",
+        "7. Starbucks, Taco Bell, McDonald's, Burger King are also planning to start delivery services.",
+        "8. Celebrities like Hillary Clinton and Marco Rubio are Chipotle's customers."
+    ],
+    "explain": [
+        "The aspect of the Chipotle delivery service for online and mobile orders is that they are teaming up with Postmates app to bring burritos straight to customers' doors, in order to tap into the $70 billion food delivery market. The goal is to expand their delivery service to 67 cities by the end of the year, giving customers the convenience of enjoying their delicious food without having to leave their homes.",
+        "One core idea of the aspect is that Chipotle is collaborating with Postmates to start delivering food to customers in 67 cities through online and mobile orders.",
+        "Chipotle has been experiencing steady growth and success for several years now. \n\nPlease provide more information about the aspect you mentioned for me to explain. \nAspect: 3. Chipotle has gone from strength to strength in recent years and has now given Postmates the green light.",
+        "\nChipotle had previously rejected offers from third-party delivery services but has now agreed to partner with Postmates for their delivery service.",
+        "The aspect is highlighting the business model of Chipotle's delivery service, which involves hiring independent contractors who drive their own cars to deliver the orders. It is similar to the model used by Uber. The contractors are not employees of Chipotle but rather work on a contract basis.",
+        "\nThe aspect states that Chipotle is not the only franchise hoping to cash in on the lucrative delivery market. This highlights the fact that there are other franchises, besides Chipotle, who are also trying to tap into this market. This further shows the increasing demand for delivery services and the potential it has in the food industry.",
+        "The aspect states that several well-known fast-food chains including Starbucks, Taco Bell, McDonald's, Burger King are planning to start delivery services. This indicates a growing trend in the fast food industry towards offering delivery services to customers, in order to cater to their increasing demand for convenience and toexpand their market.",
+        "The given aspect mentions that celebrities like Hillary Clinton and Marco Rubio are customers of Chipotle. This highlights that even prominent and famous people enjoy the food offerings of Chipotle, which adds to its credibility and popularity. It could also imply that having famous customers can lead to increased attention and publicity for the company."
+    ],
+    "answer": [
+        "\n\nSummary: Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year\nAspect: 1. Chipotle has decided to tap into the $70 billion food delivery market by teaming up with Postmates app to bring burritos straight to customers' doors.\nExplain a core idea of given aspect.\nExplain: The aspect of the Chipotle delivery service for online and mobile orders is that they are teaming up with Postmates app to bring burritos straight to customers' doors, in order to tap into the $70 billion food delivery market. The goal is to expand their delivery service to 67 cities by the end of the year, giving customers the convenience of enjoying their delicious food without having to leave their homes.\nDoes the summary contain the core idea?\nYou should carefully inspect the summary word by word!",
+        "1. I didn’t understand your question. Could you please rephrase it? \n\nNo, the summary does not contain the core idea as it only provides information about Chipotle's plan to launch a delivery service by the end of the year in 67 cities. It does not mention anything about the collaboration with Postmates or the use of online or mobile orders.",
+        "\"Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year\" does not exactly correlate with the given aspect \"Chipotle has gone from strength to strength in recent years and has now given Postmates the green light.\" The aspect talks about the achievements and success of the company in recent years while the summary mentions a future plan of the company to introduce a delivery service.",
+        "No, the aspect does not contain the core idea of the summary. The core idea of the summary is that Chipotle plans to launch a delivery service for online and mobile orders in 67 cities by the end of the year.",
+        "Not Really. The summary only provides information about Chipotle's plan to launch a delivery service, but does not mention anything about the business model or hiring of independent contractors.",
+        "No, in my opinion, the summary does not contain the core idea of the aspect given. The summary only talks about Chipotle's plans to launch a delivery service, while the aspect mentions that other franchises are also trying to cash in on the delivery market.",
+        "No, the aspect provided does not necessarily contain the core idea of the summary, as it is focused on the plans of other fast-food chains to start delivery services, rather than Chipotle's specific plans to launch a delivery service. However, both the summary and aspect are related in that they both deal with the topic of fast-food delivery services.",
+        "No, the summary does not contain the core idea of the aspect. The aspect provides additional information about the popularity and credibility of Chipotle, while the summary focuses on the company's plans to expand its delivery services."
+    ],
+    "score": [
+        4,
+        0,
+        1,
+        5,
+        0,
+        1,
+        4,
+        0
+    ],
+    "mean_score": 1.875,
+    "gt_score": 4.75
+}

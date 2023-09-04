@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "United's win over Liverpool was their first league win since the 3-0 win over Leicester on March 31 City's win over West Ham was their first league win since the 3-0 win over Chelsea on March 31 Manchester City's win over West Ham was their first league win since the 3-0 win over Chelsea on March 31 Manuel Pellegrini's side are top of the Premier League table, four points clear of Chelsea, who have a game"
+    ],
+    "aspect": [
+        "1. Mark Clattenburg referees Manchester derby, 2. Clattenburg sent off three players from United and City, 3. Manchester United and City face off in a crucial match."
+    ],
+    "explain": [
+        "In the given match, referee Mark Clattenburg officiated the derby between Manchester United and Manchester City. He showed three red cards, including one to each team, United and City. The match was crucial for both sides, especially City who were looking to snap their winless streak."
+    ],
+    "answer": [
+        "No, the sentence does not contain the context of the summary, as it focuses on the referee's actions instead of the win streaks of both teams."
+    ],
+    "score": [
+        1
+    ],
+    "mean_score": 1.0,
+    "gt_score": 1.3333333333
+}

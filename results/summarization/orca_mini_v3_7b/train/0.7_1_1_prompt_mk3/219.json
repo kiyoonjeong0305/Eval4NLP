@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "most of those released were women and children; the rest were ill or elderly, official says . isis previously released scores of other yazidis since attacking the group's towns last year . yazidis are of kurdish descent, and their religion is considered a pre-islamic sect ."
+    ],
+    "aspect": [
+        "ISIS released over 200 Yazidis, a minority group whose members were previously captured and displaced last summer in northern Iraq; Arab tribal leaders helped coordinate the release, but the reason for it remains unclear; ISIS has previously released scores of other Yazidis since their attack last year."
+    ],
+    "explain": [
+        "ISIS released over 200 Yazidis, mainly women and children, though some elderly and sick; the reason for these releases remains unclear; Yazidis are a Kurdish minority with a pre-Islamic sect background that was previously displaced last summer in northern Iraq."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.916666666675
+}

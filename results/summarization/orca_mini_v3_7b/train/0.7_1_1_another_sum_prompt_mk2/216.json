@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "north pacific gray whale has earned a spot in the record books . the whale , named varvara , swam nearly 14,000 miles -lrb- 22,500 kilometers -rrb- . varvara 's journey surpassed a record listed on the guinness worlds records website . varvara visited `` three major breeding areas for eastern gray whales ''",
+        "north pacific gray whale has earned a spot in the record books . the whale , named varvara , swam nearly 14,000 miles -lrb- 22,500 kilometers -rrb- . varvara 's journey surpassed a record listed on the guinness worlds records website . varvara visited `` three major breeding areas for eastern gray whales ''",
+        "north pacific gray whale has earned a spot in the record books . the whale , named varvara , swam nearly 14,000 miles -lrb- 22,500 kilometers -rrb- . varvara 's journey surpassed a record listed on the guinness worlds records website . varvara visited `` three major breeding areas for eastern gray whales ''"
+    ],
+    "aspect": [
+        "1. North Pacific gray whale named Varvara sets record for longest migration of a mammal, swimming nearly 14,000 miles.",
+        "2. Varvara's journey surpasses previous record held by a humpback whale, which swam only 10,190 miles.",
+        "3. Scientists think Varvara's long journey might indicate she is actually from an eastern gray whale population, not a western one."
+    ],
+    "explain": [
+        "The North Pacific gray whale named Varvara has set a new record for the longest migration of any mammal, covering nearly 14,000 miles, surpassing the previously listed Guinness World Records. This significant journey demonstrates Varvara's extensive travels to three major breeding areas for eastern gray whales.",
+        "In summary, North Pacific gray whale named Varvara accomplished an extraordinary feat by swimming nearly 14,000 miles, which surpasses the previous record held by a humpback whale that only swam 10,190 miles.",
+        "Scientists believe Varvara's extensive travel may suggest that she is a member of the eastern gray whale population, rather than the western one, as her journey surpassed the previous record for the eastern population."
+    ],
+    "answer": [
+        "(1) Yes",
+        "Yes, the sentence clearly states that Varvara's journey surpasses the previous record held by the humpback whale.",
+        "Yes, the context of the sentence is present in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.5
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "harry kane 's 20th premier league goal of the season . the video is entitled ` harry kane - pfa player of the year ? ' kane is up against the likes of chelsea 's eden hazard and alexis sanchez .",
+        "harry kane 's 20th premier league goal of the season . the video is entitled ` harry kane - pfa player of the year ? ' kane is up against the likes of chelsea 's eden hazard and alexis sanchez .",
+        "harry kane 's 20th premier league goal of the season . the video is entitled ` harry kane - pfa player of the year ? ' kane is up against the likes of chelsea 's eden hazard and alexis sanchez ."
+    ],
+    "aspect": [
+        "1. Harry Kane nominated for PFA Player and Young Player of the Season.",
+        "2. Animation features his best goals and celebrations from the season.",
+        "3. Video released ahead of the awards ceremony, where he competes with other top players for the top prize."
+    ],
+    "explain": [
+        "Harry Kane, a soccer player, has been nominated for both PFA Player and Young Player of the Season awards, competing against other noteworthy players such as Eden Hazard and Alexis Sanchez.",
+        "The animation showcases some of the best moments in Harry Kane's Premier League season, featuring his goal and celebrations.",
+        "A video discussing Harry Kane as a candidate for the PFA Player of the Year award has been released, with the player going head-to-head with top competitors like Eden Hazard and Alexis Sanchez at the awards ceremony."
+    ],
+    "answer": [
+        "Yes, the summary contains the context from the given aspect.",
+        "No, the summary does not contain the context of the given aspect. It is about Harry Kane's 20th Premier League goal and his nomination for PFA Player of the Year, not the animation that showcases his goals and celebrations.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.4166666666500003
+}

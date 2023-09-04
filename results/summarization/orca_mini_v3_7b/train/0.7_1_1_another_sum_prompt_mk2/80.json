@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . the 44-year-old took charge of the club last summer , signing a two-year-deal , and is only six games away from winning the title . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . the 44-year-old took charge of the club last summer , signing a two-year-deal , and is only six games away from winning the title . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . the 44-year-old took charge of the club last summer , signing a two-year-deal , and is only six games away from winning the title . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance ."
+    ],
+    "aspect": [
+        "1. Barcelona club president Josep Maria Bartomeu insists that the La Liga leaders have no plans to replace Luis Enrique, who has won them six games away from winning the title.",
+        "2. Bartomeu is impressed with how the manager has performed and says he's concentrating on La Liga.",
+        "3. Enrique's side comfortably defeated Valencia, and Barca are still capable of winning three trophies."
+    ],
+    "explain": [
+        "Barcelona president Josep Maria Bartomeu reiterates that the club has no plans to replace head coach Luis Enrique, who is currently leading them towards winning the title with six remaining matches.",
+        "Bartomeu is pleased with how Luis Enrique has performed and is focusing on winning the La Liga championship.",
+        "Luis Enrique has been doing an excellent job as Barcelona's coach, as the team comfortably defeated Valencia. Moreover, they still have a chance to win three trophies."
+    ],
+    "answer": [
+        "Yes",
+        "NO, the summary does not contain the context of the given sentence as it is too vague and does not mention Bartomeu's satisfaction and the club's priorities.",
+        "Yes."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

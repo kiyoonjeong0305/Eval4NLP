@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 .",
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 .",
+        "john peacock has named his england squad for next month's european under-17 championship in bulgaria . the young lions are the defending champions, having beaten holland on penalties in the final last year . they have been placed in group d alongside holland, italy and the republic of ireland this time around and will open their campaign against italy on may 7 ."
+    ],
+    "aspect": [
+        "1. England coach John Peacock selects his squad for the upcoming UEFA European Under-17 Championship in Bulgaria, including young players from Premier League clubs like Jay Dasilva and Ike Ugbo.",
+        "2. The Young Lions, defending champions, will face Italy, Holland, and the Republic of Ireland in Group D.",
+        "3. The squad includes notable players from clubs like Chelsea, Tottenham Hotspur, and Arsenal, as well as returning players Trent Arnold and Herbie Kane."
+    ],
+    "explain": [
+        "John Peacock, the England coach, announces their squad for the upcoming UEFA European Under-17 Championship in Bulgaria. The team, known as the \"Young Lions\", includes young talented players, such as Jay Dasilva and Ike Ugbo, from Premier League clubs. They are the defending champions, having defeated Holland on penalties in the final last year and will start their campaign against Italy on May 7th in the group stage.",
+        "The England U-17 team, defending champions, will compete in the upcoming European championship in Bulgaria, with their challenging group consisting of Italy, Holland, and the Republic of Ireland. Their opening match will be against Italy on May 7th.",
+        "The England Under-17 squad includes notable players from prestigious clubs like Chelsea, Tottenham Hotspur, and Arsenal, with standout players Trent Arnold and Herbie Kane returning for the competition."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the context of the sentence can be found in the provided summary.",
+        "No, the summary context doesn't specifically mention that the England Under-17 squad includes notable players from prestigious clubs like Chelsea, Tottenham Hotspur, and Arsenal and includes standout players Trent Arnold and Herbie Kane. However, the aspect provides this detail."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 5.0
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 .",
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 .",
+        "the top two sides in group b meet at cardiff city stadium on june 12 . wales ' crunch euro 2016 qualifier with belgium this summer . wales play belgium at the 1958 world cup on june 1958 . chris coleman 's charges can claim one of the two automatic qualifiers spots . belgium and wales have 11 points from five games in 1958 ."
+    ],
+    "aspect": [
+        "1. Wales' Euro 2016 qualifier with Belgium declared a 33,000 sell-out.",
+        "2. Wales aiming for best position since 1958 World Cup finals.",
+        "3. Wales prefer Cardiff City Stadium for Belgium game."
+    ],
+    "explain": [
+        "The Wales vs Belgium Euro 2016 qualifier has been sold out, with 33,000 fans in attendance at the match held at Cardiff City Stadium on June 12.",
+        "Wales is looking to secure one of the two automatic qualifier spots in the Euro 2016 tournament against Belgium, aiming to achieve their best position since the 1958 World Cup finals.",
+        "Wales would rather play their crucial Euro 2016 qualifier against Belgium at Cardiff City Stadium. This indicates that the team and its fans prefer playing at a location with more support from the home crowd."
+    ],
+    "answer": [
+        "Yes, the context of the sentence has been mentioned in the summary.",
+        "Yes",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 2.16666666665
+}

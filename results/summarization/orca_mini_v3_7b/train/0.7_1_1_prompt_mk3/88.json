@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week .",
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week .",
+        "queensland government believes mr gordon would quit after he was recently accused of domestic violence . federal mp bob katter said he 's been personally subjected to racist attitudes from both major parties . mr gordon was forced to quit the queensland labor party last week ."
+    ],
+    "aspect": [
+        "1. Bob Katter accuses Queensland Government of assuming Billy Gordon would quit, citing his criminal history and domestic violence claims.",
+        "2. Katter criticized the use of the term \"black puppet,\" but defended it as a result of personal experiences and wanting to call out racial overtones.",
+        "3. Gordon remains an independent in the Queensland parliament, causing chaos for the government."
+    ],
+    "explain": [
+        "Bob Katter criticizes the Queensland Government, stating that they incorrectly assumed Billy Gordon would quit, pointing out his criminal past and domestic violence allegations.",
+        "Mr. Katter defended using the term \"black puppet,\" reasoning it as a result of personal experiences and exposing racial undertones.",
+        "Gordon is still an independent parliamentarian, and his absence from the Labor Party causes difficulties for the government."
+    ],
+    "answer": [
+        "The summary contains the context of the given aspect.",
+        "No, the summary does not contain the context of the given sentence.",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

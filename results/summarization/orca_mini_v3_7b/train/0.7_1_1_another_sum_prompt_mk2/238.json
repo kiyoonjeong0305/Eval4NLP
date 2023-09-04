@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the iowa board of chiropractic released a report wednesday detailing charges against charles manuel , of lamoni . manuel signed an agreement last month admitting his misdeeds and pledging not to apply for reinstatement for at least 10 years . the agreement requires that manuel prove any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state .",
+        "the iowa board of chiropractic released a report wednesday detailing charges against charles manuel , of lamoni . manuel signed an agreement last month admitting his misdeeds and pledging not to apply for reinstatement for at least 10 years . the agreement requires that manuel prove any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state .",
+        "the iowa board of chiropractic released a report wednesday detailing charges against charles manuel , of lamoni . manuel signed an agreement last month admitting his misdeeds and pledging not to apply for reinstatement for at least 10 years . the agreement requires that manuel prove any circumstances surrounding the revocation of his license no longer exist before he can resume practicing chiropractic in the state ."
+    ],
+    "aspect": [
+        "1. Southern Iowa chiropractor Charles Manuel surrenders license, admits misdeeds involving sex and exorcisms.",
+        "2. Despite patient satisfaction issues, Manuel has received perfect scores on HealthGrades.com.",
+        "3. Manuel must prove no more license circumstances exist before pursuing practice in Iowa again."
+    ],
+    "explain": [
+        "Southern Iowa chiropractor Charles Manuel has surrendered his license after admitting to sexual and exorcism-related misdeeds, and agreed to not apply for reinstatement for at least 10 years, provided that any reasons for license revocation are no longer applicable.",
+        "Dr. Charles Manuel, despite facing disciplinary actions for misdeeds, has been highly rated by patients on HealthGrades.com, indicating strong patient satisfaction despite the legal issues.",
+        "This aspect states that Manuel needs to show that all circumstances leading to the removal of his license have been resolved before he can try to re-practice chiropractic in Iowa."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of the sentence.",
+        "The summary word by word explanation would be: Yes, the summary contains the context of this sentence, stating that Dr. Charles Manuel has received perfect scores on HealthGrades.com even after facing disciplinary actions for misdeeds, indicating strong patient satisfaction despite the legal issues.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        1,
+        4,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.41666666665
+}

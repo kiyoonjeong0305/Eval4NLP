@@ -1,0 +1,54 @@
+{
+    "summary": [
+        "Ministers refused blanket refund to families who had to pay extra to get documents . Just 2,191 compensation applications were approved between April last year and January this year , scarcely changed from 2,077 for the previous year . Home Affairs Committee chairman Keith Vaz led the calls for compensation .",
+        "Ministers refused blanket refund to families who had to pay extra to get documents . Just 2,191 compensation applications were approved between April last year and January this year , scarcely changed from 2,077 for the previous year . Home Affairs Committee chairman Keith Vaz led the calls for compensation .",
+        "Ministers refused blanket refund to families who had to pay extra to get documents . Just 2,191 compensation applications were approved between April last year and January this year , scarcely changed from 2,077 for the previous year . Home Affairs Committee chairman Keith Vaz led the calls for compensation .",
+        "Ministers refused blanket refund to families who had to pay extra to get documents . Just 2,191 compensation applications were approved between April last year and January this year , scarcely changed from 2,077 for the previous year . Home Affairs Committee chairman Keith Vaz led the calls for compensation .",
+        "Ministers refused blanket refund to families who had to pay extra to get documents . Just 2,191 compensation applications were approved between April last year and January this year , scarcely changed from 2,077 for the previous year . Home Affairs Committee chairman Keith Vaz led the calls for compensation .",
+        "Ministers refused blanket refund to families who had to pay extra to get documents . Just 2,191 compensation applications were approved between April last year and January this year , scarcely changed from 2,077 for the previous year . Home Affairs Committee chairman Keith Vaz led the calls for compensation .",
+        "Ministers refused blanket refund to families who had to pay extra to get documents . Just 2,191 compensation applications were approved between April last year and January this year , scarcely changed from 2,077 for the previous year . Home Affairs Committee chairman Keith Vaz led the calls for compensation .",
+        "Ministers refused blanket refund to families who had to pay extra to get documents . Just 2,191 compensation applications were approved between April last year and January this year , scarcely changed from 2,077 for the previous year . Home Affairs Committee chairman Keith Vaz led the calls for compensation ."
+    ],
+    "aspect": [
+        "1. HM Passport Office made a profit of £42 million during the passport fiasco last summer.",
+        "2. Managers received up to £3,500 in bonuses.",
+        "3. Thousands of holidaymakers caught up in the chaos did not receive any compensation.",
+        "4. Keith Vaz called for compensation but ministers rejected the demand.",
+        "5. Only 2,191 compensation applications were approved and only £203,066 was paid out. ",
+        "6. The Passport Office refused to give refunds to desperate families who missed trips.",
+        "7. The Passport Office rejected demands for compensation due to a 'system failure' and said it would create a precedent. ",
+        "8. A holidaymaker who missed a trip to Morocco where he planned to propose lost close to £1,500."
+    ],
+    "explain": [
+        "During the passport fiasco last summer, the HM Passport Office made a profit of £42 million by charging extra fees to process urgent applications in a shorter time frame. \n\nAnswer the following questions based on aspect:\n\nWhat does the given aspect suggest? The aspect suggests that the HM Passport Office took advantage of the situation and charged extra fees to make a profit during the passport fiasco. \n\nHow does the aspect relate to the summary? The aspect sheds light on the financial motivation behind the ministers' refusal to give a blanket refund to families who had to pay extra fees. \n\nWhat is the significance of this aspect? This aspect highlights the callous and profit-driven approach of the HM Passport Office towards affected families during the passport fiasco. \n\nWhat inferences can be made about the overall situation? This aspect confirms the belief that the government could have done more to mitigate the impact of the passport fiasco on affected families and instead, used the situation to generate revenue.",
+        "Managers at the UK Visas and Immigration (UKVI) department received performance-related bonuses of up to £3,500 while refusing to give blanket refunds to families who had to pay extra to get their documents in order. This has sparked outrage among politicians and members of the public.",
+        "The aspect states that thousands of holidaymakers who were affected by the passport chaos did not receive any compensation. This means that even though the issue caused problems for many individuals, they were not granted any financial compensation for the inconvenience and difficulties they faced.",
+        "The given aspect states that Keith Vaz, the chairman of Home Affairs Committee, demanded compensation but the demand was rejected by the ministers.",
+        "This aspect highlights that there was a limited number of compensation applications approved and a small amount of money was paid out.",
+        "The given aspect says that despite the Passport Office not granting many refunds, some families who missed trips because they could not get their passports or other documents on time still had hopes of getting compensation. In order to get a refund, they had to make a compensation application, but as few as 2,191 were approved between April last year and January this year. This number was almost the same as the 2,077 approved in the previous year.",
+        "The Passport Office rejected demands for compensation due to a 'system failure' and said it would create a precedent.",
+        "The core idea of the given aspect is about a holidaymaker who lost close to £1,500 due to missing a trip to Morocco where he planned to propose."
+    ],
+    "answer": [
+        "The summary does not contain the core idea of the aspect.",
+        "I would definitely say that the summary does NOT contain the core idea of the aspect. The aspect talks about bonuses received by managers, while the summary is focused on the refusal of blanket refunds to families and the number of compensation applications approved.",
+        "The aspect does not appear to be explicitly stated in the summary, but it can be inferred from the information provided. The summary mentions that compensation applications were approved for only a small number of families and that Keith Vaz called for compensation. The aspect adds additional information on the extent of the impact on holidaymakers and the lack of compensation received by them, which is not explicitly mentioned in the summary.",
+        "\nNO, the given aspect does not contain the core idea of the summary. The summary talks about the refusal of blanket refund to families who had to pay extra to get documents, and the approval of just 2,191 compensation applications between April last year and January this year, which is hardly any change from the previous year. On the other hand, the aspect only mentions Keith Vaz's demand for compensation and the ministers' rejection of the demand, without any reference to the summary's main points.",
+        "The aspect you have provided is mentioned in the summary. It is stated that only 2,191 compensation applications were approved and only £203,066 was paid out.",
+        "Yes. The summary mentions that the Passport Office refused to give refunds to families who missed trips. This core idea is also repeated in the aspect.",
+        "It depends on what the core idea is that you want me to explain. Can you please clarify?",
+        "No, the summary does not contain the core idea of the given aspect as it rather talks about the refusal of blanket refund to families who had to pay extra for documents and the low number of approved compensation applications."
+    ],
+    "score": [
+        0,
+        0,
+        3,
+        2,
+        5,
+        5,
+        0,
+        0
+    ],
+    "mean_score": 1.875,
+    "gt_score": 4.33333333335
+}

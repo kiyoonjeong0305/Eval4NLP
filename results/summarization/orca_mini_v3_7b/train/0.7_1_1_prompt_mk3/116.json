@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "vanessa santillan 's body was found in a # 400,000 flat in fulham , south west london , at the end of march . the 33-year-old mexican national , who worked as a transgender escort , died at the end of march . her body was found in a flat in fulham having been strangled and beaten to death . a 23-year-old man was arrested in connection with her death but has been bailed .",
+        "vanessa santillan 's body was found in a # 400,000 flat in fulham , south west london , at the end of march . the 33-year-old mexican national , who worked as a transgender escort , died at the end of march . her body was found in a flat in fulham having been strangled and beaten to death . a 23-year-old man was arrested in connection with her death but has been bailed .",
+        "vanessa santillan 's body was found in a # 400,000 flat in fulham , south west london , at the end of march . the 33-year-old mexican national , who worked as a transgender escort , died at the end of march . her body was found in a flat in fulham having been strangled and beaten to death . a 23-year-old man was arrested in connection with her death but has been bailed ."
+    ],
+    "aspect": [
+        "1. A 33-year-old transgender escort named Vanessa Santillan was found strangled and beaten in Fulham, London.",
+        "2. A 23-year-old man was arrested, but has been bailed for further questioning.",
+        "3. Scotland Yard is appealing to anyone who may have had contact with Miss Santillan before her death."
+    ],
+    "explain": [
+        "A 33-year-old transgender escort named Vanessa Santillan from Mexico was tragically found strangled and beaten to death in a #400,000 flat in Fulham, London at the end of March.",
+        "A man in his early twenties has been arrested in connection with the death of Vanessa Santillan, a transgender escort from Mexico, who was found strangled and unconscious in a £400,000 flat in Fulham, London at the end of March. However, he has been released on bail for further questioning.",
+        "Scotland Yard seeks information about any individuals who had contact with Vanessa Santillan before her death, to help solve the case."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of that sentence.",
+        "No, the summary does not contain the context of that sentence.",
+        "No, the summary does not contain the context of this sentence because the sentence discusses an appeal by Scotland Yard to collect information about Miss Santillan's contacts before her death, while the summary, in contrast, focuses on the tragic discovery of her body and the circumstances around her death. The information provided in the summary does not support the subject matter of the given aspect, which is the appeal by Scotland Yard for more information."
+    ],
+    "score": [
+        4,
+        1,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 4.0
+}

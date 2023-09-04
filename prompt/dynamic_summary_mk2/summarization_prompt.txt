@@ -1,0 +1,10 @@
+{{prompt_placeholder}}
+
+Generate three short summarizations of given source text that should be considered when summarizing a document.
+You need to give answer with the form of list. Every sentences must be seperated with '\\n'.
+You should focus on "who" did " "what".
+
+Source text: {{gt}}
+
+{{response_placeholder}}
+Three short summarization: {{gen 'summarization' temperature=0.7}}

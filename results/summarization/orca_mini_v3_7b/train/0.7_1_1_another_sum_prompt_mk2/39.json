@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bereaved mother , named dawn , was appearing on jeremy kyle show and accused burglar jamie . when one of mr kyle 's famous lie detector tests revealed she burst into tears and stormed off . the drama began when dawn , who has previously appeared on the itv talk show . suspecting house-mate jamie and his girlfriend carol confronted them but was initially met with a flat denial .",
+        "bereaved mother , named dawn , was appearing on jeremy kyle show and accused burglar jamie . when one of mr kyle 's famous lie detector tests revealed she burst into tears and stormed off . the drama began when dawn , who has previously appeared on the itv talk show . suspecting house-mate jamie and his girlfriend carol confronted them but was initially met with a flat denial .",
+        "bereaved mother , named dawn , was appearing on jeremy kyle show and accused burglar jamie . when one of mr kyle 's famous lie detector tests revealed she burst into tears and stormed off . the drama began when dawn , who has previously appeared on the itv talk show . suspecting house-mate jamie and his girlfriend carol confronted them but was initially met with a flat denial ."
+    ],
+    "aspect": [
+        "1. A woman with seven miscarriages, Dawn, was devastated after her friend, convicted burglar Jamie, stole money from her, initially denying the accusation, until a lie detector test proved otherwise.",
+        "2. The money was intended for the gravestone of her deceased child, Daniel James.",
+        "3. Jamie confessed to taking the money via a Facebook message and blamed his girlfriend, Carol, but was caught in the lie detector test."
+    ],
+    "explain": [
+        "The aspect tells the story of Dawn, a woman who has experienced seven miscarriages, who suspects her house-mate Jamie and his girlfriend Carol of stealing money from her. Initially, they deny the accusation, but a lie detector test reveals the truth and confirms Jamie's guilt.",
+        "The money in question was meant to be used for a gravestone bearing the name of Dawn's deceased child, Daniel James.",
+        "The aspect revolves around Jamie's confession of taking the money and lying about it, which led to him being caught in the lie detector test."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the given sentence.",
+        "Yes, the summary does not clearly mention that the money was intended for a gravestone, but it does state that Dawn accused burglar Jamie on the Jeremy Kyle show.",
+        "Yes, the aspect is conveyed in the summary, albeit in a less detailed manner."
+    ],
+    "score": [
+        4,
+        2,
+        4
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 3.333333333325
+}

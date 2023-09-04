@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane .",
+        "the custom-built boeing 747 is believed to have cost its ultra-wealthy owner # 400million after it was customised to fit his specifications exactly over a three-year period . the jumbo jet would normally carry as many as 600 passengers - but this version was built for just a single tycoon , although he will be able to fit dozens of guests . it contains a large dining room where travellers can enjoy meals cooked in an adjoining kitchen , with a lounge and ` state room ' at the back of the plane ."
+    ],
+    "aspect": [
+        "1. A mystery billionaire's customized £400 million Boeing 747-8 has been turned into a luxury home with multiple lounges, bedrooms, a restaurant, and an onboard dining room.",
+        "2. The converted plane includes a main suite, conference room, office, and expansive lounges, and is complete with a kitchen, dining room, and even a hotel-like ambience.",
+        "3. The exclusive luxury jet is the most expensive private plane ever built, featuring a hotel-like environment and accommodations for dozens of guests."
+    ],
+    "explain": [
+        "A billionaire's £400 million customized Boeing 747-8 has been transformed into a luxurious private jet with various lounges, bedrooms, a restaurant, and an onboard dining area, catering to the owner's specific preferences.",
+        "The custom-built Boeing 747 for a wealthy owner features a luxurious main suite, conference room, office, and various lounges, as well as a fully functional kitchen and dining facility, emulating a hotel ambience and providing an exclusive travel experience.",
+        "This aspect highlights the exclusive luxury jet, which is the most expensive private plane ever built, offering an opulent hotel-like environment with accommodations for dozens of guests, compared to its original capacity to carry 600 passengers."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary includes the context of the given sentence.",
+        "No, I believe the summary and the context do not match completely. The summary emphasizes the custom-built Boeing 747 for a single owner, its specific purpose, and its unique features, such as a large dining room, lounge, and state room. The sentence from the given aspect discusses the plane's exclusivity, expense, and facilities, which contradicts some of the aspects mentioned in the summary."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.583333333325
+}

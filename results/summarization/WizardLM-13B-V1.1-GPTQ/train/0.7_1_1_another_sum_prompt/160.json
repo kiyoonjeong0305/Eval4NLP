@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season .",
+        "hull city were beaten 2-0 by southampton at st mary's on saturday . steve bruce's side are just two points clear of the relegation zone . but bruce is adamant he can keep hull in the premier league this season ."
+    ],
+    "aspect": [
+        "1. Steve Bruce wants to keep Hull City in the Premier League.",
+        "2. Bruce targets 9 or 8 wins for survival.",
+        "3. Hull lost to Southampton, now facing tough fixtures.",
+        "4. Bruce believes in staying positive for a turnaround.",
+        "5. Hull has struggled due to injuries to key players.",
+        "6. Koeman's Southampton moved up to 5th."
+    ],
+    "explain": [
+        "\nSteve Bruce, the manager of Hull City, is determined to keep his team in the Premier League this season. Despite losing 2-0 to Southampton at St Mary's on Saturday, Bruce remains confident in his ability to guide the team to safety. Hull City currently sit just two points clear of the relegation zone, but Bruce is committed to turning their fortunes around and maintaining their Premier League status.",
+        "Bruce believes that Hull City will need to win at least 9 or 8 matches in the remaining 19 games to secure their spot in the Premier League for the next season. He thinks that this number of wins is sufficient to overcome the current deficit and pull themselves out of the relegation zone. Bruce's aim is to ensure Hull avoid the drop and remains in the top-flight league.",
+        "To make the main point or essence of something clear and understandable.\n\nIn the context of the given aspect, \"Hull lost to Southampton, now facing tough fixtures,\" the core idea is that Hull City, currently in a difficult position in the Premier League, has suffered a recent setback by losing to Southampton, and must now confront a series of challenging matches. This aspect highlights the adversity Hull faces in their fight against relegation, with their remaining fixtures becoming even more challenging after the defeat. This situation emphasizes the importance of a strong response from Steve Bruce and his team to guide Hull through this difficult period in the season.",
+        "To elaborate on or unfold the main thought or essence of something, making it clear and understandable. In this case, the core idea of the aspect is that Steve Bruce, the manager of Hull City, believes in maintaining a positive attitude and staying optimistic despite the team's current situation. Bruce is confident that he can guide Hull City out of the relegation zone and preserve their status in the Premier League. By focusing on the positive aspects and maintaining a positive mindset, Bruce aims to turn the team's fortune around and prevent their relegation.",
+        "To describe or account for the central concept or main point of something.\n\nIn the given aspect, the core idea is that Hull City's struggles in the Premier League this season have been exacerbated by the injuries to key players. The team has faced numerous challenges due to the absence of essential players, which has impacted their performance and contributed to their position in the relegation zone. Despite these difficulties, Steve Bruce remains confident that he can keep Hull City in the Premier League this season.",
+        "\"Koeman's Southampton moved up to 5th.\"\n\nIn the context of the given summary, the core idea of the aspect is that Southampton, under the guidance of coach Ronald Koeman, had a strong performance against Hull City, enabling them to climb up to the 5th position in the Premier League table. This result highlights the team's ability to consistently perform well and move up the rankings, showcasing their potential to challenge for a UEFA Champions League qualification spot."
+    ],
+    "answer": [
+        "\nNo, the summary does not contain the core idea of the given aspect. Although the summary mentions that Hull City lost to Southampton and are just two points clear of the relegation zone, it does not highlight Steve Bruce's determination to keep the team in the Premier League or his confidence in his ability to do so.",
+        "No, the summary does not contain the core idea as it only mentions Hull City's recent defeat and their current position in the Premier League table. It does not provide detail on the specific number of wins Bruce believes is necessary for survival, which is the focus of the aspect.",
+        "Yes, I do not believe the summary contains the core idea mentioned in the aspect. While the summary mentions Hull City's defeat by Southampton at St. Mary's Stadium, it does not emphasize the specific challenges that Hull faces in terms of fixtures or the impact of this loss on their struggle against relegation. The aspect, on the other hand, highlights both the recent setback of the loss and the series of tough matches that Hull will face as a result.",
+        "\nNo, the summary does not contain the core idea mentioned in the aspect because while it mentions Steve Bruce's side losing to Southampton and currently being just two points clear of the relegation zone, it does not specifically highlight Bruce's positive attitude towards turning the team's fortune around. The summary only mentions that Bruce is adamant he can keep Hull City in the Premier League this season, which is a broader statement.",
+        "No, the summary does not contain the core idea. Although the summary mentions that Hull City were beaten 2-0 by Southampton at St. Mary's on Saturday and that they are just two points clear of the relegation zone, it does not explicitly state that the team's struggles are due to injuries to key players. The aspect explicitly highlights this factor as a crucial reason for Hull City's performance.",
+        "No, the summary does not contain the core idea.\n\nReason: The summary focuses primarily on Hull City's loss to Southampton and their current position in the Premier League, rather than highlighting Southampton's achievement of moving up to 5th place. Although the aspect mentions Ronald Koeman, the coach of Southampton, it does not provide enough information to determine his impact on the team's performance or how they were able to improve their position in the table."
+    ],
+    "score": [
+        2,
+        2,
+        2,
+        2,
+        0,
+        2
+    ],
+    "mean_score": 1.6666666666666667,
+    "gt_score": 4.5
+}

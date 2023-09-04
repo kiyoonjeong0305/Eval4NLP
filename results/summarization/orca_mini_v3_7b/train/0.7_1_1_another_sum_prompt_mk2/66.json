@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bradley wiggins will attempt to break cycling's hour record in june . the four-time olympic champion will race at london's olympic velodrome . wiggins finished his team sky career in the paris-roubaix on sunday .",
+        "bradley wiggins will attempt to break cycling's hour record in june . the four-time olympic champion will race at london's olympic velodrome . wiggins finished his team sky career in the paris-roubaix on sunday .",
+        "bradley wiggins will attempt to break cycling's hour record in june . the four-time olympic champion will race at london's olympic velodrome . wiggins finished his team sky career in the paris-roubaix on sunday ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins attempts cycling's hour record on June 7 at London's Olympic Velodrome, after an impressive career including four Olympic championships and the 2012 Tour de France win.",
+        "2. Wiggins' goal is to challenge himself and inspire others, and he aims to break the current record of 52.491km set by Australian rider Rohan Dennis in February.",
+        "3. Tickets for the event go on sale from April 19, with prices starting at £49, and the event will be broadcast live on Sky Sports."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins seeks to break the cycling's hour record on June 7th at London's prestigious Olympic Velodrome. With an impressive career and multiple Olympic championships to his name, including a historic 2012 Tour de France win, Wiggins retires from his team Sky career with the iconic Paris-Roubaix race.",
+        "Wiggins intends to challenge himself by aiming to break the current cycling hour record of 52.491 km, and hopes to inspire others in the process.",
+        "Tickets for Bradley Wiggins' hour record attempt will go on sale April 19, starting at £49. The event will also be broadcasted live on Sky Sports."
+    ],
+    "answer": [
+        "Yes, the summary reflects the core idea of the aspect, as it mentions Sir Bradley Wiggins attempting the cycling's hour record in June at the London's Olympic Velodrome.",
+        "The summary does not contain the given sentence context, as it only discusses Wiggins attempting the hour record at London's Olympic Velodrome and his 2012 cycling career.",
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4,
+        1,
+        4
+    ],
+    "mean_score": 3.0,
+    "gt_score": 5.0
+}

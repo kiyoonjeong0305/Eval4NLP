@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "tevez has been told to terminate his contract with juventus . the former manchester city striker has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31-year-old . tevez is on course to win a second serie a title with the old lady . carlos tevez has shocked juventus by suggesting he wants to leave .",
+        "tevez has been told to terminate his contract with juventus . the former manchester city striker has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31-year-old . tevez is on course to win a second serie a title with the old lady . carlos tevez has shocked juventus by suggesting he wants to leave .",
+        "tevez has been told to terminate his contract with juventus . the former manchester city striker has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31-year-old . tevez is on course to win a second serie a title with the old lady . carlos tevez has shocked juventus by suggesting he wants to leave ."
+    ],
+    "aspect": [
+        "1. Carlos Tevez wants to return to Boca Juniors, his former club in Argentina, and has asked Juventus to terminate his contract.",
+        "2. Boca Juniors are close to completing a deal for the 31-year-old, but Juventus is reluctant to lose their top scorer.",
+        "3. Tevez's international manager, Tata Martino, suggests the player's future will be decided by Tevez's performance and personal preferences."
+    ],
+    "explain": [
+        "Carlos Tevez wishes to return to his prior team, Boca Juniors, and has requested Juventus terminate his contract.",
+        "Both Juventus and Boca Juniors are eager to sign the 31-year-old striker Carlo Tevez, with Boca Juniors coming close to completing a deal. However, Juventus is reluctant to lose their top scorer, emphasizing how this situation showcases both teams' vested interest in signing this highly sought-after player.",
+        "Tevez's international manager, Tata Martino, believes that the player's future will be determined by his performance and personal preferences."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of the sentence.",
+        "No, the context of the aspect is not exactly in the summary. It can be found more clearly in the provided aspect sentence."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.0
+}

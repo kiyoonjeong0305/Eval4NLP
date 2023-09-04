@@ -1,0 +1,24 @@
+{
+    "summary": [
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation .",
+        "james hayward had arrived at east midlands airport with his parents , phil , 44 , and hazel , 38 , with his brightly coloured toy - which fires sponge darts - packed in his hand luggage for their flight out to lanzarote . but security officers , who were described as 'over-zealous ' by the boy 's father , took exception to james 's harmless toy when it was picked up on the system 's x-ray machines . dad phil has labelled the security checks ' ludicrous ' and criticized how staff reacted in the situation ."
+    ],
+    "aspect": [
+        "1. Four-year-old James Hayward had his toy gun confiscated at East Midlands Airport.",
+        "2. Four-year-old James Hayward's toy gun was confiscated at East Midlands Airport."
+    ],
+    "explain": [
+        "The core idea of the given aspect is that a four-year-old boy, James Hayward, had his toy gun (which fires sponge darts) confiscated at East Midlands Airport.",
+        "The aspect highlights that a four-year-old boy's toy gun, which was a brightly coloured toy that fires sponge darts, was confiscated by security officers at East Midlands Airport when he and his family were traveling to Lanzarote."
+    ],
+    "answer": [
+        "The summary does not contain the core idea of the given aspect. The aspect states that James Hayward's toy gun was confiscated, while the summary only mentions that his \"brightly coloured toy - which fires sponge darts - packed in his hand luggage\" was taken by security officers. The summary does not mention the confiscation of the toy gun.",
+        "No, the summary does not contain the core idea of the aspect. The aspect mentions the confiscation of the toy gun by security officers, which is not mentioned in the summary."
+    ],
+    "score": [
+        0,
+        0
+    ],
+    "mean_score": 0.0,
+    "gt_score": 4.25
+}

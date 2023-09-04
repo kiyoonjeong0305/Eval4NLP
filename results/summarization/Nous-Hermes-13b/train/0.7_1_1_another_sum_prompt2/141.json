@@ -1,0 +1,44 @@
+{
+    "summary": [
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident .",
+        "luigi costa , 71 , accused of stomping on his elderly neighbour terrence freebody 's head , cutting his throat and stabbing him multiple times in the dining room of his home . forensic psychiatrist professor paul mullen examined costa after the attack and believes there was evidence of the accused 's state of mind declining in the lead-up to the incident ."
+    ],
+    "aspect": [
+        "1. Luigi Costa is accused of stomping on Terrence Freebody's head, cutting his throat, and stabbing him multiple times in the dining room of his home in Red Hill, Canberra in 2012.",
+        "2. Professor Paul Mullen examined Costa and believes there was evidence of his state of mind declining before and during the incident.",
+        "3. Forensic psychiatrist Professor Paul Mullen testified that Costa's mood fluctuated from moment to moment based on 000 calls made during the incident.",
+        "4. Professor Mullin suggested that Costa's confused mental state was due to dementia and alcohol abuse.",
+        "5. The prosecutor suggested that Costa feigned memory loss during an interview with Professor Mullin, which Professor Mullin denied.",
+        "6. The jury can return a not guilty verdict if Costa's unstable mindset at time of the attack can be proven."
+    ],
+    "explain": [
+        "Luigi Costa was accused of committing a heinous murder on his elderly neighbor. The victim, Terrence Freebody, was brutally attacked and killed in his own home. Costa is accused of stomping on Freebody's head, cutting his throat, and stabbing him multiple times. The crime occurred in Red Hill, Canberra in 2012.",
+        "This core idea states that Professor Paul Mullen examined Costa and found evidence which suggests that his mental state deteriorated before and during the incident.",
+        "The given aspect highlights that Professor Paul Mullen, a forensic psychiatrist, examined Costa after the attack and believes there was evidence of his state of mind declining. Furthermore, 000 calls made during the incident revealed that Costa's mood fluctuated from moment to moment.",
+        "Professor Mullin suggested that Costa's confused mental state was due to dementia and alcohol abuse. This means that the forensic psychiatrist believed that the decline in Costa's mental state leading up to the attack could be attributed to his age-related cognitive decline and his consistent consumption of alcohol.",
+        "Profssor Mullin disputes the prosecutor's claim that Costa feigned memory loss during their interview, and asserts that Costa's mental state was declining in the lead-up to the incident.",
+        "The jury can return a not guilty verdict if Costa's unstable mindset at time of the attack can be proven."
+    ],
+    "answer": [
+        "The summary states that Luigi Costa, a 71-year-old man, was accused of committing a heinous murder on his elderly neighbor Terrence Freebody. The victim was brutally attacked and killed in his own home, and Costa is accused of stomping on Freebody's head, cutting his throat, and stabbing him multiple times. The crime occurred in Red Hill, Canberra in 2012. This aspect provides details about elements of the crime, including the type of weapon used and the number of times the victim was stabbed.",
+        "Yes, the summary does contain the core idea.",
+        "I apologize, I made a mistake when typing the aspect. The correct aspect is:\n\nAspect: 3. Forensic psychiatrist Professor Paul Mullen testified that Costa's mood fluctuated from moment to moment based on 000 calls made during the incident.\n\nExplain a core idea of given aspect.\n\nExplain: The core idea of this aspect is that according to the testimony of Forensic psychiatrist Professor Paul Mullen, Costa's mood fluctuated from moment to moment as demonstrated by the 000 calls made during the incident.",
+        "I'm afraid I do not understand your question. Could you please restate it for me?",
+        "No, the aspect does not contain the core idea of the summary. The summary states that Luigi Costa was accused of stomping on his elderly neighbor's head, cutting his throat, and stabbing him multiple times in the dining room of his home, while the aspect discusses Costa's state of mind and whether or not he feigned memory loss during an interview with Professor Mullin.",
+        "The given aspect explains that the jury can return a not guilty verdict if Costa's unstable mindset at time of the attack can be proven."
+    ],
+    "score": [
+        5,
+        5,
+        4,
+        5,
+        4,
+        5
+    ],
+    "mean_score": 4.666666666666667,
+    "gt_score": 4.5
+}

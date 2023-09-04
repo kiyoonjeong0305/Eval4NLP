@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "three vehicles collided on brisbane valley highway on wednesday afternoon . three vehicles were taken to ipswich hospital in brisbane . the three were involved in a crash crash in brisbane , brisbane . three people were including four children , have been taken to hospital with minor injuries . three car pileup happened at the brisbane valley west of fernvale . a 40-year-old man with chest and shoulder injuries and a five-year-old boy suffered from abdominal pain . the two were airlifted to hospital and airlifted a number of patients to hospital ."
+    ],
+    "aspect": [
+        "1. Ten people, including four children, involved in a multi-vehicle crash in Brisbane's west. 2. Three-vehicle collision on Brisbane Valley Highway, with three flown to hospital and six others with minor injuries. 3. One person trapped, rescued by firefighters and airlifted to hospital."
+    ],
+    "explain": [
+        "In a three-vehicle crash on the Brisbane Valley Highway, 10 people, including four children, were involved. Three vehicles were pushed to Ipswich Hospital for minor injuries, and three people were flown to a hospital due to severe injuries."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of that sentence."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 2.5
+}

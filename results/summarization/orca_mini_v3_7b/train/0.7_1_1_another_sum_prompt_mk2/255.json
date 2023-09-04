@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team .",
+        "radamel falcao spent eight years with the argentine side before leaving for porto in 2009 and river plate are open to equal colombia 's all-time goalscoring record with 24 goals . falcao scored 34 goals in 90 appearances for the argentine club during his four seasons in the first team ."
+    ],
+    "aspect": [
+        "1. River Plate wants to sign Manchester United's Radamel Falcao, though deal is challenging.",
+        "2. Vice president Matias Patanian expresses the club's desire to have Falcao back.",
+        "3. Falcao has struggled during Manchester United loan spell, but is in good form for Colombia."
+    ],
+    "explain": [
+        "River Plate aims to acquire Manchester United's Radamel Falcao, but the deal faces difficulties.",
+        "The vice president of River Plate expresses the club's eagerness for Radamel Falcao to return and break Colombia's all-time goalscoring record of 24 goals, as Falcao has already scored 34 goals in his previous stint with the club.",
+        "Falcao's performance with Manchester United was not impressive, but he is shining in his role for Colombia's national team."
+    ],
+    "answer": [
+        "No",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        1,
+        4,
+        1
+    ],
+    "mean_score": 2.0,
+    "gt_score": 2.583333333325
+}

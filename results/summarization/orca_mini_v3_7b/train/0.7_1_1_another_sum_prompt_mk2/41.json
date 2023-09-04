@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines .",
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines .",
+        "james hayward had his toy gun confiscated at east midlands airport . a four-year-old boy was frisked by airport security and then forced to hand over his plastic nerf gun after it was deemed a security risk . security officers , who were described as ` over-zealous ' by the boy 's father , then took exception to james 's harmless toy when it was picked up on the system 's x-ray machines ."
+    ],
+    "aspect": [
+        "1. Four-year-old James Hayward's toy gun confiscated at East Midlands Airport.",
+        "2. James Hayward's toy gun deemed a security risk, forcing him to hand it over.",
+        "3. The Hayward family later bought a replacement toy gun for James after their holiday."
+    ],
+    "explain": [
+        "James Hayward, a four-year-old, had his plastic Nerf gun confiscated by airport security as they deemed it a security risk. The decision was deemed excessive by the boy's father, who believed that the toy was harmless.",
+        "James Hayward's toy gun was deemed a security risk due to the airport's strict policies or the overzealousness of the security officers, which led him to hand it over.",
+        "The Hayward family was concerned about James' confiscated toy gun, so they bought a replacement toy gun for him after their trip."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the sentence.",
+        "No, the summary does not accurately represent the context of the given sentence. It only mentions the original incident at the airport but not the purchase of a new toy gun."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.16666666665
+}

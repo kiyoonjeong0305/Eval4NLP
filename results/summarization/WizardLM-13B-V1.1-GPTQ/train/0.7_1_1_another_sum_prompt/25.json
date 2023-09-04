@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis .",
+        "yazidis are of kurdish descent , and their religion is considered a pre-islamic sect that draws from christianity , judaism and zoroastrianism . isis ' conquest of the town of sinjar , in particular , provoked a major humanitarian crisis ."
+    ],
+    "aspect": [
+        "1. ISIS released 200 Yazidis, including women, children, and elderly, with the help of Arab tribal leaders.",
+        "2. Peshmerga forces received and sent the freed Yazidis to the Kurdish regional capital, Irbil.",
+        "3. Yazidis were captured, killed, enslaved, and persecuted by ISIS.",
+        "WHO: ISIS, Peshmerga forces, Arab tribal leaders, Kurdish Regional Government",
+        "WHAT: Released 200 Yazidis, coordinated the release, received and sent freed Yazidis"
+    ],
+    "explain": [
+        "To provide an understanding or an overview, or to clarify the main point of a text or an idea.\nCore idea of given aspect: \nDespite the atrocities committed by ISIS against the Yazidis, there were instances where Arab tribal leaders assisted in the release of 200 Yazidis, including women, children, and the elderly, during the humanitarian crisis in Sinjar.",
+        "The Peshmerga forces played a crucial role in rescuing the Yazidis who were trapped in Sinjar, and escorted them to the Kurdish regional capital, Irbil, where they could be safely relocated. This action not only saved the lives of countless Yazidis but also highlighted the bravery and dedication of the Peshmerga forces in protecting the Kurdish people.",
+        "To make clear or evident; clarify.\nThe core idea of Aspect 3 is that the Yazidis faced various forms of violence and persecution at the hands of ISIS, including capture, murder, enslavement, and ill-treatment. This aspect refers to the systematic mistreatment of Yazidis by ISIS during their occupation of the town of Sinjar, which led to a humanitarian crisis. The abuse was not limited to one form, but rather, was a multifaceted and widespread problem that affected many Yazidis in the region.",
+        "To make clear or evident; to represent the essence of something.\n\nIn the given aspect, the focus is on the various actors involved in the humanitarian crisis that occurred in Sinjar, particularly after ISIS's takeover. ISIS, Peshmerga forces, Arab tribal leaders, and the Kurdish Regional Government were the main players in this crisis.\n\nThe core idea of this aspect is to illustrate the multifaceted nature of the response to the humanitarian crisis in Sinjar. It highlights the involvement of various groups, including those considered as either allies or opponents, in the efforts to address the situation and provide aid to the affected populations. By understanding the roles played by these different actors, we can gain a deeper understanding of the complexities and dynamics of the crisis.",
+        "In the context of the provided summary, the aspect refers to a group or organization that released and coordinated the release of 200 Yazidis who had been trapped and/or captured by ISIS in Sinjar, specifically during the humanitarian crisis that occurred there.\n\nCore idea: A group or organization played a crucial role in the release of Yazidis who had been affected by ISIS's actions in the town of Sinjar. The release involved coordinating efforts to free the Yazidis, and ensure their safe transfer to a safe location.\n\nWhat: Released 200 Yazidis, coordinated the release, received and sent freed Yazidis\nWhen: During the major humanitarian crisis provoked by ISIS's conquest of the town of Sinjar\nWhy: To aid in alleviating the humanitarian crisis by freeing and reuniting captive Yazidis with their families and communities\nHow: By working collaboratively with various stakeholders, such as government authorities, NGOs, and other organizations, to facilitate the release and safe transportation of the Yazidis"
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the given aspect.\n\nBased on the given summary, the core idea of the aspect is not directly mentioned or highlighted. The summary is brief, providing a general overview of the Yazidis and their religion, as well as the humanitarian crisis caused by ISIS in the town of Sinjar. However, it does not specifically mention the release of 200 Yazidis with the help of Arab tribal leaders.\n\nTo reiterate, the core idea of the given aspect is:\n\n\"Despite the atrocities committed by ISIS against the Yazidis, there were instances where Arab tribal leaders assisted in the release of 200 Yazidis, including women, children, and the elderly, during the humanitarian crisis in Sinjar.\"",
+        "No, the summary does not contain the core idea explicitly. However, it does provide context for the aspect. The aspect mentions the Peshmerga forces rescuing and evacuating Yazidis who were trapped in Sinjar, mainly focusing on their assistance in escorting the Yazidis to the Kurdish regional capital, Irbil. The core idea could be said to revolve around the role of the Peshmerga forces in ensuring the safety and relocation of the Yazidis during the humanitarian crisis in Sinjar.",
+        "\nNo, the summary does not contain the core idea, which is the systematic mistreatment of Yazidis by ISIS during their occupation of the town of Sinjar. While the summary mentions the town of Sinjar and the Yazidi religion, it does not provide enough detail about the specific atrocities committed by ISIS against the Yazidis, such as capture, killing, enslavement, and persecution.",
+        "I apologize for any confusion in my previous response. Upon re-examining the summary word by word, I realize that my initial statement was inaccurate.\n\nUpon closer examination, I understand that the summary does not contain the core idea mentioned in the aspect. The summary provides information about the Yazidi religion and their descent, as well as the historical background of their religion. It also mentions the humanitarian crisis in Sinjar specifically caused by ISIS. However, it does not provide enough context to explain the multifaceted response to the crisis, as the aspect suggests.",
+        "I apologize for the confusion in my previous response. Upon closer examination of the summary, the core idea may not be directly addressed. The aspect refers to a group or organization that received and sent freed Yazidis, but it does not clarify the organization's role in the initial release of the Yazidis."
+    ],
+    "score": [
+        2,
+        4,
+        2,
+        2,
+        2
+    ],
+    "mean_score": 2.4,
+    "gt_score": 3.33333333335
+}

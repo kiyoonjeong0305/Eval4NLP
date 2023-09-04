@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '",
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '",
+        "hull were beaten 2-0 by southampton at st mary 's stadium on saturday . steve bruce is confident he can keep hull city in the premier league . but bruce insists : ` everyone is up for the challenge and i 'm sure and convinced that we 'll do it '"
+    ],
+    "aspect": [
+        "1. Steve Bruce believes he can keep Hull City in the Barclays Premier League, despite their recent 2-0 defeat. He hopes 'nine or eight might be enough' to secure their spot.",
+        "2. Hull City has had a strong start with six wins, but their performance has been inconsistent.",
+        "3. Steve Bruce attributes the team's struggles to long-term injuries to key players, which have impacted their overall performance."
+    ],
+    "explain": [
+        "Despite the recent 2-0 defeat, Steve Bruce remains confident in his team's ability to stay in the Barclays Premier League. He believes \"nine or eight might be enough\" to secure their spot.",
+        "Hull City had an average start in terms of wins, but overall performance has been inconsistent due to their inconsistency in winning games.",
+        "Steve Bruce attributes the team's struggles to long-term injuries to key players, which have impacted their overall performance."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of that sentence as Steve Bruce's confidence regarding the team's Premier League position is discussed.",
+        "No",
+        "Long-term injuries to key players"
+    ],
+    "score": [
+        4,
+        1,
+        3
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.0
+}

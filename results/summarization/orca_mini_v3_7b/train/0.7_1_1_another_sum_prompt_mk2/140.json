@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson .",
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson .",
+        "jacob phillips , 23 , plunged down the cliff when he leapt over a fence in the dark . mr phillips had caught the cab home after a night out with friends in december . inquest heard he ran from the driver , who gave chase at the seaside town of penarth . the university graduate had been out drinking in cardiff before catching a taxi with friends padraig crowley and rory robinson ."
+    ],
+    "aspect": [
+        "1. A young accountant, Jacob Phillips, fell down a 70ft cliff and died after running from a taxi he caught to avoid paying the fare.",
+        "2. Phillips had caught the cab after a night out with friends in December, but didn't have enough money.",
+        "3. Cabbie Dave Sidaway tried to stop the taxi, but Phillips ran off, fell down the cliff, and was found dead the next day."
+    ],
+    "explain": [
+        "Jacob Phillips, a 23-year-old university graduate, plunged to his death from a 70ft cliff after running from a cab he caught with friends in December. In an alcohol-fueled night out in Cardiff, Mr. Phillips and his friends had decided to avoid paying the fare by running away from the driver.",
+        "Phillips had a night out with friends in December, but failed to save money for the cab ride, which led him to jump over a fence to escape the chasing driver.",
+        "The tragic incident occurred when Jacob Phillips, 23, attempted to flee his cab driver, Dave Sidaway, by running away from him during the night. His desperate attempt to escape led to his unfortunate fall down a cliff, resulting in his death the following day."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes",
+        "Yes, the summary contains the context of the given sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.5
+}

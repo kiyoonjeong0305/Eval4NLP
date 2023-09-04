@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31 - year - old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first .",
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31 - year - old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first .",
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31 - year - old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first .",
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31 - year - old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first .",
+        "carlos tevez has been told to terminate his contract with juventus to complete a return to his former club boca juniors in argentina . the former manchester city striker 's deal with the serie a champions does not expire until the end of next season but he has reportedly told the club he wishes to leave this summer . boca have confirmed they are close to completing a deal for the 31 - year - old , but club president daniel angelici has stressed that tevez must terminate his contract with the italians first ."
+    ],
+    "aspect": [
+        "- Carlos Tevez has asked to terminate his contract with Juventus to return to Boca Juniors in Argentina.",
+        "- Juventus does not want to lose him but has accepted his desire to leave.",
+        "- Tevez is Juventus' top scorer but has decided to leave this summer.",
+        "- Boca Juniors wants to bring him back.",
+        "- Tevez's international manager claims his move will not affect his Argentina future."
+    ],
+    "explain": [
+        "\nIn the given aspect, we learn that Carlos Tevez has asked to cancel his contract with Juventus to return to Boca Juniors in Argentina. This move would mean that the player is voluntarily ending his contract with the Italian club, and he will return to his former team in Argentina. The fact that Tevez is actively seeking to cancel his contract and leave Juventus suggests that he is eager to return to Boca and has no plans to continue playing for Juventus.",
+        "The core idea of this aspect is that Juventus does not want to lose Tevez but has accepted his desire to leave. Even though Tevez still has a year left on his contract, the club has decided to allow him to leave this summer.",
+        "Tevez is Juventus' top scorer but has decided to leave this summer.",
+        "Carlos Tevez has been told by his current club Juventus to terminate his contract in order to complete a return to his former club Boca Juniors in Argentina. Although his deal with the Serie A champions does not expire until the end of next season, Tevez has reportedly told the club that he wants to leave this summer. Boca Juniors has confirmed that they are close to completing a deal for the 31-year-old, but the club's president Daniel Angelici has stressed that Tevez must first terminate his contract with Juventus.",
+        "The core idea expressed in the given aspect is that Carlos Tevez's move to Boca Juniors from Juventus will not affect his future with the Argentina national team. His international manager claims that his decision to join Boca will not impact his place on the national team."
+    ],
+    "answer": [
+        "NO, the summary does not contain the core idea of the given aspect. The aspect provides information about Carlos Tevez's request to terminate his contract with Juventus to return to Boca Juniors in Argentina, while the summary only mentions that Tevez has been told to cancel his contract with Juventus and complete a return to Boca Juniors. The core idea is the player's intention to end his contract with Juventus and return to Boca, which is not present in the summary.",
+        "No, the aspect provided does not contain the core idea of the summary. The aspect only mentions that Juventus has accepted Tevez's desire to leave, but it does not mention that Tevez has already informed the club of his wish to terminate his contract and return to Boca Juniors in Argentina.",
+        "The aspect states that Tevez is Juventus' top scorer but has decided to leave this summer.",
+        "Yes, the aspect that Boca Juniors wants to bring him back is contained within the summary. It is mentioned that Tevez has reportedly told the club he wishes to leave this summer, and Boca Juniors has confirmed they are close to completing a deal for the 31-year-old.",
+        "It depends on the perspective. If we talk about the aspect, then yes, it contains the core idea that Carlos Tevez's move to Boca Juniors will not affect his future with the Argentina national team. However, if we talk about the summary, then it does not contain any information about Carlos Tevez's international manager or his future with the national team."
+    ],
+    "score": [
+        0,
+        4,
+        5,
+        5,
+        3
+    ],
+    "mean_score": 3.4,
+    "gt_score": 4.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "The gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the Marriott Springhill Suites . Police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock , and using the momentum from another vehicle . The agent 's gear bag , backpack , and some clothing and tools were also stolen during the March 27 theft .",
+        "The gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the Marriott Springhill Suites . Police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock , and using the momentum from another vehicle . The agent 's gear bag , backpack , and some clothing and tools were also stolen during the March 27 theft .",
+        "The gun was inside a hard rifle case and was ` secured properly ' to a truck safe with padlocks and chains while the car was parked at the Marriott Springhill Suites . Police believe the thief stole the rifle by breaking the rear right passenger-side window , tying a rope around the rifle case 's handle or a cable lock , and using the momentum from another vehicle . The agent 's gear bag , backpack , and some clothing and tools were also stolen during the March 27 theft ."
+    ],
+    "aspect": [
+        "1. An FBI agent's sniper rifle was stolen from a Salt Lake City hotel parking lot, where President Obama was set to visit Utah.",
+        "2. The FBI agent's rifle was secured properly in a hard rifle case, but the thief managed to break the case's handle and steal the weapon.",
+        "3. The stolen rifle's serial number has been entered into the National Crime Information Computer, and the Secret Service was notified before President Obama's visit."
+    ],
+    "explain": [
+        "In Salt Lake City, an FBI agent's sniper rifle was stolen from a hotel parking lot where President Obama was supposed to visit Utah, while the agent's other personal belongings were also taken.",
+        "The thief managed to steal the FBI agent's rifle despite the case being secured properly, as they managed to break the case's handle.",
+        "The stolen rifle's serial number was entered into the National Crime Information Computer, and the Secret Service was notified before President Obama's visit, ensuring increased security during his visit, even though the rifle was already stolen."
+    ],
+    "answer": [
+        "Yes",
+        "Yes",
+        "Yes, the summary captures the essential idea of the given aspect."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.08333333335
+}

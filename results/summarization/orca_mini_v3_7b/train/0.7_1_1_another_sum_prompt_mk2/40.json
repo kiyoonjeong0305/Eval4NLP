@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year",
+        "Chipotle is planning to launch a delivery service for online and mobile orders in 67 cities by the end of the year"
+    ],
+    "aspect": [
+        "1. Chipotle partners with Postmates for food delivery in 67 cities, adding a 9% service charge.",
+        "2. Chipotle's collaboration with Postmates comes after rejecting previous delivery service offers.",
+        "3. Chipotle's presidential candidate customers include Marco Rubio and Hillary Clinton."
+    ],
+    "explain": [
+        "Chipotle partners with Postmates for delivery in 67 cities, adding a 9% service charge.",
+        "Chipotle is collaborating with Postmates after rejecting other delivery service offers to expand its delivery service to 67 cities by the end of the year.",
+        "Chipotle's presidential candidate customers, such as Marco Rubio and Hillary Clinton, show their support for the company by participating in the delivery service."
+    ],
+    "answer": [
+        "Yes, the context of this sentence is present in the summary.",
+        "Yes, the summary contains the context of the sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . the 44-year-old took charge of the club last summer , signing a two-year-deal , and is only six games away from winning the title . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . the 44-year-old took charge of the club last summer , signing a two-year-deal , and is only six games away from winning the title . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance .",
+        "barcelona club president josep maria bartomeu has insisted that the la liga leaders have no plans to replace luis enrique and they 're ` very happy ' with him . the 44-year-old took charge of the club last summer , signing a two-year-deal , and is only six games away from winning the title . barcelona president josep maria bartemou says the club are ` very happy ' with enrique 's performance ."
+    ],
+    "aspect": [
+        "1. Barcelona president Josep Maria Bartomeu insists they have no plans to replace Luis Enrique, who's impressed them with his performance.",
+        "2. Despite speculation, Luis Enrique's contract will be discussed later, and the Barcelona president is satisfied with his performance.",
+        "3. Luis Suarez and Lionel Messi scored goals in Barcelona's comfortable victory against Valencia, who are chasing the Champions League."
+    ],
+    "explain": [
+        "Barcelona's club president, Josep Maria Bartomeu, has stated that the team has no plans to replace manager Luis Enrique for the time being, as he has impressed them with his excellent performance.",
+        "Despite rumors, Luis Enrique's contract won't be discussed until later, and Barcelona's president is pleased with his performance.",
+        "Lionel Messi and Luis Suarez scored goals in Barcelona's easy win against Valencia, who are aiming for the Champions League."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.166666666675
+}

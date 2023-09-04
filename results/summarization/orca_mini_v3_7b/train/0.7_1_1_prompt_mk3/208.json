@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "( cnn ) a north pacific gray whale has earned a spot in the record books after completing the longest migration of a mammal ever recorded . the whale , named varvara , swam nearly 14,000 miles ( 22,500 kilometers ) , according to a release from oregon state university , whose scientists helped conduct the whale - tracking study . varvara 's journey surpassed a record listed on the guinness worlds records website ."
+    ],
+    "aspect": [
+        "A North Pacific gray whale, Varvara, completed the longest migration of a mammal ever recorded, covering nearly 14,000 miles, potentially suggesting that some western gray whales are actually eastern grays."
+    ],
+    "explain": [
+        "The mammal with the longest migration ever recorded is a North Pacific gray whale named Varvara, who traveled approximately 14,000 miles. This discovery suggests that some western gray whales might actually be eastern gray whales."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of this sentence."
+    ],
+    "score": [
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.75
+}

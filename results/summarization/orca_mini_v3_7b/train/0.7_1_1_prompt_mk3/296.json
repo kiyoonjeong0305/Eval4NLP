@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean .",
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean .",
+        "A North Pacific gray whale completes the longest migration of a mammal ever recorded . The whale , named Varvara , swam nearly 14,000 miles -LRB- 22,500 kilometers -RRB- She left her primary feeding ground off Russia 's Sakhalin Island to cross the Pacific Ocean ."
+    ],
+    "aspect": [
+        "1. A North Pacific gray whale named Varvara completed the longest migration ever recorded, traveling nearly 14,000 miles.",
+        "2. Varvara's journey surpassed a Guinness World Records humpback whale's swimming distance, suggesting the whale could be from a different species.",
+        "3. Varvara's immense trip may indicate that some western gray whales are actually eastern grays, with only a small number of western grays in existence."
+    ],
+    "explain": [
+        "A North Pacific gray whale named Varvara made the longest migration on record, covering approximately 14,000 miles, demonstrating exceptional feats of long-distance travel in the animal kingdom.",
+        "The journey of Varvara, the North Pacific gray whale, surpassed a previous whale's Guinness World Records swimming distance, indicating that Varvara might belong to a different species.",
+        "The long journey of Varvara might suggest that there are more eastern gray whales than previously thought, with only a small population of western gray whales remaining."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of this sentence.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.666666666675
+}

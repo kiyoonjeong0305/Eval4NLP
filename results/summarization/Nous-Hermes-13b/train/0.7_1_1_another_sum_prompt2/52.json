@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning . the driver of the car was pumping gas at a 76 station in south los angeles . the group covered his white dodge charger in gasoline and lit it ablaze . the man 's grandmother said the fire was lit after the suspects attempted to carjack her grandson .",
+        "at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning . the driver of the car was pumping gas at a 76 station in south los angeles . the group covered his white dodge charger in gasoline and lit it ablaze . the man 's grandmother said the fire was lit after the suspects attempted to carjack her grandson .",
+        "at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning . the driver of the car was pumping gas at a 76 station in south los angeles . the group covered his white dodge charger in gasoline and lit it ablaze . the man 's grandmother said the fire was lit after the suspects attempted to carjack her grandson .",
+        "at least three people poured gasoline on a car that stopped to fill up at california gas station early on saturday morning . the driver of the car was pumping gas at a 76 station in south los angeles . the group covered his white dodge charger in gasoline and lit it ablaze . the man 's grandmother said the fire was lit after the suspects attempted to carjack her grandson ."
+    ],
+    "aspect": [
+        "1. A group of suspects poured gasoline on a car at a California gas station and set it on fire. ",
+        "2. The suspects attempted to carjack the driver's grandson. ",
+        "3. No one was injured, but the car was completely ruined. ",
+        "4. The incident occurred at 12:15am on Saturday and is being investigated as an arson."
+    ],
+    "explain": [
+        "The core idea of this aspect is that a group of suspects poured gasoline on a car at a California gas station and set it on fire.",
+        "The aspect highlights that the car was set on fire after the suspects attempted to steal it.",
+        "The aspect highlights that no one was injured in the act of pouring gasoline on the car and setting it ablaze, but the car was completely ruined.",
+        "The incident of arson at the California gas station that occurred at 12:15am on Saturday is being investigated by the authorities as a case of intentional burning of a car."
+    ],
+    "answer": [
+        "I'm not sure if the summary contains the core idea. Could you provide me with more context or information?",
+        "I think the aspect explains that the driver's grandson was targeted by the suspects, and they attempted to steal his car. The core idea of this aspect is that the car was set on fire after an attempted carjacking.",
+        "No, the aspect does not seem to be present in the summary.",
+        "No, the aspect provided does not seem to be a core idea of the summary. The aspect mentions an investigation into an arson incident that occurred at 12:15am on Saturday, while the summary is about three people pouring gasoline on a car and setting it on fire at a gas station."
+    ],
+    "score": [
+        0,
+        4,
+        0,
+        2
+    ],
+    "mean_score": 1.5,
+    "gt_score": 4.5
+}

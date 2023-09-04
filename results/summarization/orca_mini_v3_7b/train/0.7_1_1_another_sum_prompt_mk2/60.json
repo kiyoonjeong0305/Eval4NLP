@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the collector 's paradise in horfield , bristol , has gone untouched for more than 80 years . original features including stained-glass windows , oil-fired central heating and retro jars of popular food . with features that were once commonplace but are now considered decidedly old-fashioned , the semi-detached property has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , has gone untouched for more than 80 years . original features including stained-glass windows , oil-fired central heating and retro jars of popular food . with features that were once commonplace but are now considered decidedly old-fashioned , the semi-detached property has a guide price of between # 200,000 and # 250,000 .",
+        "the collector 's paradise in horfield , bristol , has gone untouched for more than 80 years . original features including stained-glass windows , oil-fired central heating and retro jars of popular food . with features that were once commonplace but are now considered decidedly old-fashioned , the semi-detached property has a guide price of between # 200,000 and # 250,000 ."
+    ],
+    "aspect": [
+        "1. Timewarp home in Horfield, Bristol, untouched since 1930s, features original stained-glass windows, oil-fired central heating, and vintage cupboards.",
+        "2. Semi-detached property with original bathroom, kitchen, and wood-panelled hallway listed at £200,000 to £250,000, making it a collector's or antique lover's paradise.",
+        "3. Historic house boasts several original 1930s features, including dated kitchen, fire, and sink, with some upgrades, but auctioneers believe the cost of renovations could deter potential developers."
+    ],
+    "explain": [
+        "The core idea of the aspect is that a timewap home in Horfield, Bristol, from the 1930s, has remained untouched, featuring original stained-glass windows, oil-fired central heating, and vintage cupboards. The property, with a guide price between £200K and £250K, displays distinctive old-fashioned features that are now considered unusual in modern homes.",
+        "The semi-detached property in Horfield, Bristol, has been untouched for over 80 years, and features include original stained-glass windows, oil-fired central heating, and retro jars of popular food, with a guide price of between £200,000 and £250,000, making it a potential paradise for collectors and antique lovers.",
+        "The historic house's untouched features from the 1930s make it an interesting collector's paradise, but the dated kitchen, fire, and sink could deter potential developers due to the possible cost of renovations."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.16666666665
+}

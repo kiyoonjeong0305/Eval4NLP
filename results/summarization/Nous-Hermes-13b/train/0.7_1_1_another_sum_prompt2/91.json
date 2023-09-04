@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins finished his team sky career in the paris-roubaix 253.5km one-day race on sunday .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins finished his team sky career in the paris-roubaix 253.5km one-day race on sunday .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins finished his team sky career in the paris-roubaix 253.5km one-day race on sunday .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . wiggins finished his team sky career in the paris-roubaix 253.5km one-day race on sunday ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins will attempt to break cycling's hour record at London's Olympic Velodrome on June 7. ",
+        "2. Wiggins, a four-time Olympic champion and 2012 Tour de France winner, wants to motivate people to challenge themselves. ",
+        "3. Wiggins will hope for a sell-out crowd and plans to ride in the event live on Sky Sports. ",
+        "4. The current record is held by Rohan Dennis, who cycled 52.491km in an hour."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins, a four-time Olympic champion and 2012 Tour de France winner, plans to attempt breaking cycling's hour record at London's Olympic Velodrome on June 7.",
+        "The aspect states that Sir Bradley Wiggins wants to challenge himself by making an attempt at the hour record. His motivation behind this challenge is to also motivate people around the world to challenge themselves, inspire others and show the world that cycling is a sport that requires tremendous amount of fitness, determination, and grit. By breaking this record, he will prove that it is never too late to set a new goal and go after it with all that one has.",
+        "The core idea of this aspect is that Sir Bradley Wiggins is aiming to break the hour record at the London Olympic Velodrome. He wants a sell-out crowd to watch him ride and has arranged for the event to be televised live on Sky Sports. This will allow as many people as possible to witness his attempt to break the record.",
+        "The aspect highlights the current record holder for cycling's hour record, which is set by Rohan Dennis. The record is measured by how far the cyclist can ride in 60 minutes. As of now, the current record is held by Rohan Dennis who was able to cycle a distance of 52.491 km in an hour. Thus, Sir Bradley Wiggins will be attempting to break this record when he competes in the hour record on June 7, 2016 at London's Olympic Velodrome."
+    ],
+    "answer": [
+        "The summary doesn't contain the core idea. It only provides information about Sir Bradley Wiggins' plan to attempt breaking the hour record at the London's Olympic Velodrome on June 7. The core idea is mentioned in the given aspect.",
+        "No, the aspect \"Wiggins wants to motivate people to challenge themselves\" is not the core idea of the summary. The summary only mentions Wiggins' attempt at breaking the hour record in June at the Olympic Velodrome.",
+        "no, the summary does not contain the core idea of the aspect. The aspect mentions that Sir Bradley Wiggins is aiming to break the hour record, which is not mentioned in the summary. Additionally, the summary only mentions that he is riding at the London Olympic Velodrome, but does not mention that he wants a sell-out crowd or that the event will be televised live on Sky Sports.",
+        "NO, the summary does not contain the core idea of the aspect. The core idea of the aspect is that Rohan Dennis currently holds the record for cycling's hour record, which measures how far a cyclist can ride in 60 minutes. The summary only mentions that Sir Bradley Wiggins will attempt to break this record on June 7, 2016 at London's Olympic Velodrome, without mentioning the current record holder or the distance he cycled."
+    ],
+    "score": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "mean_score": 0.25,
+    "gt_score": 4.166666666675
+}

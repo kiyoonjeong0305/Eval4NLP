@@ -1,0 +1,19 @@
+{
+    "summary": [
+        "everton defeated burnley 1-0 in their premier league clash on saturday . ross barkley missed from the spot in the 10th minute at goodison park . the toffees boss roberto martinez was forced to defend his player . leighton baines has scored 15 penalties from 16 attempts in the league ."
+    ],
+    "aspect": [
+        "1. Barkley misses penalty kick, sparking debate on who should take them in the future. 2. Everton manager defends Barkley's decision, stating that players should take control of big moments. 3. Despite penalty miss, Everton secures 1-0 win against Burnley due to Mirallas' goal."
+    ],
+    "explain": [
+        "1. Ross Barkley's penalty miss leads to a debate on who should take penalty kicks in the future, with Everton manager Roberto Martinez emphasizing players taking charge of important moments.\n\n2. Everton's 1-0 victory against Burnley is still secured, mainly due to Mirallas' goal."
+    ],
+    "answer": [
+        "No, the summary does not contain the context of this sentence provided. It does not mention Martinez emphasizing players taking charge of big moments."
+    ],
+    "score": [
+        1
+    ],
+    "mean_score": 1.0,
+    "gt_score": 4.5
+}

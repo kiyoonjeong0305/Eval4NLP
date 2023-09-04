@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "jordan henderson thinks his side could catch manchester city . henderson and simon mignolet both played their 47th game of season . england midfielder believes liverpool can pile the pressure on to city . henderson played his 47th game of season in 2-0 win over newcastle united . jordan henderson believes his side could catch manchester city in the premier league .",
+        "jordan henderson thinks his side could catch manchester city . henderson and simon mignolet both played their 47th game of season . england midfielder believes liverpool can pile the pressure on to city . henderson played his 47th game of season in 2-0 win over newcastle united . jordan henderson believes his side could catch manchester city in the premier league .",
+        "jordan henderson thinks his side could catch manchester city . henderson and simon mignolet both played their 47th game of season . england midfielder believes liverpool can pile the pressure on to city . henderson played his 47th game of season in 2-0 win over newcastle united . jordan henderson believes his side could catch manchester city in the premier league ."
+    ],
+    "aspect": [
+        "1. Liverpool vice-captain, Jordan Henderson, believes his team could challenge Manchester City for the Champions League title.",
+        "2. Henderson and Mignolet equal top five European leagues' appearance record.",
+        "3. Liverpool's recent win against Newcastle puts them four points behind City in the race for the Champions League."
+    ],
+    "explain": [
+        "Liverpool vice-captain, Jordan Henderson, believes his team has a strong chance of competing with Manchester City for the prestigious Champions League title.",
+        "Henderson and Mignolet, both key players for Liverpool, have reached an impressive achievement by equally surpassing the top five European leagues' appearance record, symbolizing their essential role in the team and their significant contributions during their career. Their consistent dedication to their sport, combined with their team's recent successes, has solidified their presence in European football and made them stand out among their peers.",
+        "Liverpool's recent win against Newcastle United puts them four points behind Manchester City in the race for the Champions League."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary contains the context of the sentence as it mentions Henderson playing their 47th game in a win and his belief that Liverpool could catch Manchester City in the Premier League.",
+        "\"No\""
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.833333333325
+}

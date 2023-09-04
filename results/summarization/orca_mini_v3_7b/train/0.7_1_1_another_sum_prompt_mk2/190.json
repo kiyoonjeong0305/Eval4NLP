@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "referee mark clattenburg has been named to take charge of the manchester derby on sunday . city captain vincent kompany was dismissed for two bookable offences during belgium 's narrow euro 2016 qualifier on march 31 . clattenburg has been accused of favouring louis van gaal 's side in the past .",
+        "referee mark clattenburg has been named to take charge of the manchester derby on sunday . city captain vincent kompany was dismissed for two bookable offences during belgium 's narrow euro 2016 qualifier on march 31 . clattenburg has been accused of favouring louis van gaal 's side in the past .",
+        "referee mark clattenburg has been named to take charge of the manchester derby on sunday . city captain vincent kompany was dismissed for two bookable offences during belgium 's narrow euro 2016 qualifier on march 31 . clattenburg has been accused of favouring louis van gaal 's side in the past ."
+    ],
+    "aspect": [
+        "1. Mark Clattenburg named to officiate the Manchester derby despite sending off three players from United and City this season.",
+        "2. Clattenburg sent off City's Kompany and accused of favoring United, but generally regarded as a top Premier League referee.",
+        "3. Manchester United move a point above City ahead of the crucial derby, adding extra incentive for both sides."
+    ],
+    "explain": [
+        "Mark Clattenburg has been appointed to judge the Manchester derby game between two rivals Manchester United and Manchester City, even though he has been responsible for issuing penalty kicks for United and City players earlier during this season.",
+        "Clattenburg gained the reputation of favouring Manchester United in the past, but he is still regarded as a top Premier League referee. He sent off Manchester City's Kompany during a Euro 2016 qualifier, which reinforces the initial accusations.",
+        "Manchester United is now a point ahead of City before their crucial derby, which creates more motivation for both teams to win."
+    ],
+    "answer": [
+        "Yes\n\n",
+        "Yes, the summary contains the context of the given sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.75
+}

@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large .",
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large .",
+        "a man in a 'distinctive' cartoon mask robbed a christchurch dairy on saturday . he made off with the dairy's till and about $1500 in cash . police say there were no signs of any weapons used but that the robber remained at large ."
+    ],
+    "aspect": [
+        "1. New Zealand police seek public help to identify a man who robbed a Christchurch dairy wearing a 'distinctive' cartoon mask.",
+        "2. The offender stole the dairy's till and approximately $1,500 in cash.",
+        "3. The robber is described as 'very tall' and wore a fluro orange sweatshirt and oversized mask during the incident."
+    ],
+    "explain": [
+        "The New Zealand police are asking for the public's assistance in identifying a man who robbed a Christchurch dairy wearing a distinctive cartoon mask, taking the cash and till from the shop without using any weapons.",
+        "In this incident, a man wearing a distinctive cartoon mask robbed a Christchurch dairy. He took away the shop's cash register and approximately $1,500 in cash. Police noted the absence of weapons but the offender still remains uncaught.",
+        "The robber is described as very tall and wore a distinctive, fluro orange sweatshirt and an oversized cartoon mask during the incident."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary does indeed contain the context of the given sentence.",
+        "No, the summary does not contain the context of this sentence."
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.916666666675
+}

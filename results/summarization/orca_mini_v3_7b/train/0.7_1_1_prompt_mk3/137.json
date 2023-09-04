@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened .",
+        "toddler slipped and fell into a cheetah exhibit at cleveland metroparks zoo . the toddler was taken to metrohealth medical center and suffered from minor injuries . the boy 's mother was holding him and another child when he slipped to 12ft . the baby boy was airlifted to hospital and is listed in stable condition . he suffered minor injuries in the fall , but he was not attacked by the animals . the zoo said the boy was not approached by the fast feline because they were frightened ."
+    ],
+    "aspect": [
+        "1. A two-year-old boy fell into a cheetah exhibit after his parents dangled him over the edge, recovering with minor injuries.",
+        "2. The cheetahs did not attack the child, and zoo officials believe they were frightened by the unexpected presence in their pen.",
+        "3. Cleveland Metroparks Zoo plans to press child endangerment charges against the family."
+    ],
+    "explain": [
+        "A two-year-old boy fell into a cheetah exhibit after his parents held him over the edge, receiving minor injuries.",
+        "In the given aspect, it is mentioned that the cheetahs did not attack the child, and zoo officials believe they were frightened by the unexpected presence in their pen. This core idea highlights that though the toddler fell into the cheetah exhibit, the cheetahs didn't harm him due to a possible fear reaction, and the boy remained unattacked.",
+        "Cleveland Metroparks Zoo plans to hold the family responsible for the child's endangerment due to the incident at the cheetah exhibit."
+    ],
+    "answer": [
+        "Yes.",
+        "Yes, the summary contains the context of this sentence.",
+        "No"
+    ],
+    "score": [
+        4,
+        4,
+        1
+    ],
+    "mean_score": 3.0,
+    "gt_score": 3.1666666666750003
+}

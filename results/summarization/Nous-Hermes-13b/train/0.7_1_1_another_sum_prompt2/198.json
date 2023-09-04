@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "dzhokhar tsarnaev was found guilty on all 30 charges he faced related to the bombings at the 2013 race and the dramatic violence that dragged out for days afterward . the sentencing phase begins tuesday , a day after this year 's edition of the landmark race . it is expected to last four weeks .",
+        "dzhokhar tsarnaev was found guilty on all 30 charges he faced related to the bombings at the 2013 race and the dramatic violence that dragged out for days afterward . the sentencing phase begins tuesday , a day after this year 's edition of the landmark race . it is expected to last four weeks .",
+        "dzhokhar tsarnaev was found guilty on all 30 charges he faced related to the bombings at the 2013 race and the dramatic violence that dragged out for days afterward . the sentencing phase begins tuesday , a day after this year 's edition of the landmark race . it is expected to last four weeks ."
+    ],
+    "aspect": [
+        "1. The parents of the youngest victim of the Boston Marathon bombings are making an emotional plea to take the death penalty off the table for the man convicted in the case. ",
+        "2. They are urging the Justice Department to bring the case to a close. ",
+        "3. They argue against the death penalty, saying it would prolong the pain and bring years of appeals."
+    ],
+    "explain": [
+        "One of the core ideas of the given aspect is that the parents of the youngest victim of the Boston Marathon bombings are making an emotional plea to take the death penalty off the table for the man convicted in the case. This means that they are asking for the defendant to receive life in prison instead of the death penalty. Their decision was made based on their own emotions and beliefs, and they are urging the court to take their plea into consideration. Whether or not their request is granted is up to the court and its interpretation of the law.",
+        "One core idea of the given aspect is the public's desire for closure after the Boston Marathon bombing trial. With the conclusion of the trial, there is now a strong impetus for the Justice Department to bring the case to a definitive resolution, so that the public can move on from this traumatic event and the accused can be held accountable for his actions.",
+        "According to the aspect, those against the death penalty argue that it would prolong the pain of the victims and bring about years of appeals, thus causing more trauma."
+    ],
+    "answer": [
+        "Yes, the summary contains the core idea of the given aspect. The summary states that the defendant was found guilty on all 30 charges he faced related to the bombings and that the sentencing phase begins on Tuesday. The aspect states that the parents of the youngest victim are making an emotional plea to take the death penalty off the table for the defendant. These two pieces of information are related because the parents are asking for the defendant's sentence to be reduced from the death penalty to life in prison.",
+        "No, the summary does not contain the core idea of the given aspect. The summary is a brief overview of the bombing trial, while the aspect speaks to the public's desire for closure and the need for the Justice Department to bring the case to a conclusion.",
+        "\nBased on my understanding of the summary, the core idea of the aspect is not explicitly contained within it. The summary only briefly mentions the accused and the charges he faces, without providing any information about the arguments against the death penalty."
+    ],
+    "score": [
+        5,
+        1,
+        1
+    ],
+    "mean_score": 2.3333333333333335,
+    "gt_score": 3.666666666675
+}

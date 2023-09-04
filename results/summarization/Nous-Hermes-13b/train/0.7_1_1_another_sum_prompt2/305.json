@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . ` the hour record is a holy grail for cyclists , ' wiggins said .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . ` the hour record is a holy grail for cyclists , ' wiggins said .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . ` the hour record is a holy grail for cyclists , ' wiggins said .",
+        "sir bradley wiggins will bid for cycling 's hour record on june 7 at london 's olympic velodrome . the four-time olympic champion and 2012 tour de france winner , who is 35 on april 28 , will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the lee valley velopark . ` the hour record is a holy grail for cyclists , ' wiggins said ."
+    ],
+    "aspect": [
+        "1. Sir Bradley Wiggins will attempt to break the cycling's hour record at London's Olympic Velodrome on June 7.",
+        "2. Wiggins will ride for 60 minutes to attempt to set a record that is expected to last for some time.",
+        "3. Wiggins will look to beat the record of Australian Rohan Dennis who cycled 52.491km in an hour.",
+        "4. Tickets to watch Wiggins' attempt will go on sale on April 19 for £49, £39, and £29."
+    ],
+    "explain": [
+        "Sir Bradley Wiggins, a four-time Olympic champion and 2012 Tour de France winner, will attempt to break the cycling's hour record at London's Olympic Velodrome on June 7. This attempt marks an important accomplishment for Wiggins as he attempts to add to his list of achievements by riding the furthest distance in 60 minutes at the Lee Valley Velopark. The hour record is considered a \"holy grail\" for cyclists.",
+        "Sir Bradley Wiggins, a four-time Olympic champion and 2012 Tour de France winner, is attempting to break the hour record by riding the furthest distance in 60 minutes. The hour record is a prestigious accomplishment for cyclists, and Wiggins is aiming to set a new record that is expected to last for some time.",
+        "The given aspect highlights that Sir Bradley Wiggins is aiming to break the hour record, which is the distance covered on a bicycle in a single hour. The record is currently held by Australian cyclist Rohan Dennis, who cycled a distance of 52.491 kilometers in an hour. Wiggins will attempt to beat this record by riding the furthest distance in 60 minutes at the Lee Valley Velopark in London.",
+        "The given aspect highlights that tickets to watch Sir Bradley Wiggins' attempt at the hour record will go on sale on April 19th and they will cost £49 for the best seats, £39 for the second best seats, and £29 for the cheapest seats. The prices vary depending on the location and quality of the seat."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea. The core idea is explained in the first sentence of the aspect.",
+        "Sir Bradley Wiggins will bid for cycling's hour record on June 7 at London's Olympic Velodrome. The four-time Olympic champion and 2012 Tour de France winner, who is 35 on April 28, will attempt to add to his accomplishments by riding the furthest distance in 60 minutes at the Lee Valley Velopark.",
+        "It's not quite clear from the given aspect what the core idea is. Can you help me understand it better?",
+        "Aspect: 4. Tickets to watch Wiggins' attempt will go on sale on April 19 for £49, £39, and £29.\nExplain: The given aspect highlights that tickets to watch Sir Bradley Wiggins' attempt at the hour record will go on sale on April 19th and they will cost £49 for the best seats, £39 for the second best seats, and £29 for the cheapest seats. The prices vary depending on the location and quality of the seat."
+    ],
+    "score": [
+        0,
+        5,
+        0,
+        5
+    ],
+    "mean_score": 2.5,
+    "gt_score": 4.75
+}

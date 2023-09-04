@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "bob katter said the government believes mr gordon would quit after he was recently accused of domestic violence . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position .",
+        "bob katter said the government believes mr gordon would quit after he was recently accused of domestic violence . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position .",
+        "bob katter said the government believes mr gordon would quit after he was recently accused of domestic violence . mr katter , federal mp for kennedy , is of lebanese descent . he said he 's been personally subjected to racist attitudes from both major parties in the past , and that he sympathised with mr gordon 's position ."
+    ],
+    "aspect": [
+        "1. Bob Katter accused QLD Government of treating Billy Gordon as a \"black puppet on a string\" after domestic violence allegations.",
+        "2. Katter, of Lebanese descent, experienced racism from major parties in the past.",
+        "3. Katter sympathizes with Gordon's position, defending his statement as a reaction to personal experiences."
+    ],
+    "explain": [
+        "In the given aspect, the major focus is Bob Katter's accusation towards the Queensland Government of treating Billy Gordon, a local government official, as a \"black puppet on a string\" after domestic violence allegations. Bob Katter suggests that the government is controlling and manipulating Billy Gordon, influenced by his race. This indicates that the government may be biased or prejudiced in their treatment of Gordon, based on his race, rather than focusing on the allegations against him.",
+        "To clarify or make clear by giving a detailed account.\n\nIn this context, I will explain the core idea of the given aspect: Bob Katter, who is a Federal MP for Kennedy and of Lebanese descent, has personally experienced racism from both major parties in the past.",
+        "To make clear and easy to understand.\nCorrect key phrases in given summary.\nEmphasize given aspect in response.\n\nBob Katter, a Federal MP from Kennedy, shared his perspective on the domestic violence allegations against Mr. Gordon. Despite being Lebanese-descent, he has experienced racist attitudes from both major parties in the past. Katter sympathizes with Mr. Gordon's position, understanding the challenges he might face due to his personal experiences. He believes the government may have thought Mr. Gordon would quit, but he wants to make it clear that Mr. Gordon shouldn't be judged solely based on the allegations."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea of the aspect. While the summary mentions Bob Katter's sympathy towards Billy Gordon and his past experiences with racism, it does not explicitly state his accusation that the Queensland Government is treating him as a \"black puppet on a string.\" This idea is crucial to understanding the focus of the aspect, which is Bob Katter's allegation of racial bias in the government's handling of the situation.",
+        "Yes, the summary contains the core idea. The specific part of the summary that mentions Bob Katter's Lebanese descent and experiences with racism from major parties is in line with the given aspect.",
+        "\nYes"
+    ],
+    "score": [
+        2,
+        5,
+        4
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 4.583333333325
+}

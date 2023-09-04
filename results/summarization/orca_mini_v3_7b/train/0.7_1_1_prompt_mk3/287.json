@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "babies given antibiotics in the first six months of life are more likely to be fat as toddlers . just as antibiotics are used to make farm animals put on weight , the may also be fattening our children . a third of 10-11 year olds in england are overweight or obese . finnish researchers compared the weight and height of more than 12,000 healthy two year old with records on antibiotic prescription .",
+        "babies given antibiotics in the first six months of life are more likely to be fat as toddlers . just as antibiotics are used to make farm animals put on weight , the may also be fattening our children . a third of 10-11 year olds in england are overweight or obese . finnish researchers compared the weight and height of more than 12,000 healthy two year old with records on antibiotic prescription .",
+        "babies given antibiotics in the first six months of life are more likely to be fat as toddlers . just as antibiotics are used to make farm animals put on weight , the may also be fattening our children . a third of 10-11 year olds in england are overweight or obese . finnish researchers compared the weight and height of more than 12,000 healthy two year old with records on antibiotic prescription ."
+    ],
+    "aspect": [
+        "1. Babies given antibiotics in their first six months have a higher chance of being overweight as toddlers.",
+        "2. The study found that antibiotics may contribute to childhood obesity due to their effect on gut bacteria.",
+        "3. The over-prescription of antibiotics could lead to antibiotic resistance and harder-to-treat infections."
+    ],
+    "explain": [
+        "Babies exposed to antibiotics in their first six months are more likely to be overweight as toddlers, as antibiotics may disrupt the microbiome and contribute to weight gain.",
+        "The study found a potential connection between antibiotics use in infants and obesity, suggesting that antibiotics may alter the gut bacteria, leading to weight issues in kids.",
+        "The excessive prescription of antibiotics can lead to antibiotic resistance, making future infections harder to treat."
+    ],
+    "answer": [
+        "Yes, I believe the sentence captures the main idea from the context of the paragraph in the summary.",
+        "Yes",
+        "Yes"
+    ],
+    "score": [
+        4,
+        4,
+        3
+    ],
+    "mean_score": 3.6666666666666665,
+    "gt_score": 4.666666666675
+}

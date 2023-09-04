@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region .",
+        "tim durkan photographed aerial shots of the sunset warming the city 's skyline and shared them on cnn ireport . the fires were started in southeastern siberia , by farmers burning grass in their fields . the flames quickly grew out of control because of strong winds and spread throughout the region ."
+    ],
+    "aspect": [
+        "1. Fiery sunset in Washington caused by wildfires in Siberia.",
+        "2. Seattle native Tim Durkan photographed the sunset, sharing on CNN iReport.",
+        "3. Wildfires in southeastern Siberia started by farmers burning grass, later spread by strong winds."
+    ],
+    "explain": [
+        "The sunset in Washington was caused by wildfires in Siberia, which were triggered by farmers burning grass in their fields and subsequently spread due to strong winds.",
+        "Tim Durkan, a Seattle native, captured the breathtaking sunset from an aerial perspective and shared these pictures on CNN iReport, providing a visual representation of the event.",
+        "The core idea of the given aspect is about the wildfires in southeastern Siberia that started due to farmers burning grass in their fields and subsequently spread due to strong winds, impacting the region."
+    ],
+    "answer": [
+        "Yes",
+        "Yes, the summary contains the context of the given sentence.",
+        "No, the summary does not contain the context of that sentence. It only mentions that the fire started in southeastern Siberia and was intensified by strong winds."
+    ],
+    "score": [
+        4,
+        4,
+        2
+    ],
+    "mean_score": 3.3333333333333335,
+    "gt_score": 4.33333333335
+}

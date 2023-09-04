@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control .",
+        "the fires were started in southeastern siberia on april 14 . the fires have destroyed dozens of villages in the region . the smoke from siberia grew out of control ."
+    ],
+    "aspect": [
+        "1. Fiery sunsets in Washington were caused by wildfires in Siberia, which started in southeastern Siberia and later spread throughout the region due to strong winds, destroying dozens of villages.",
+        "2. The red and orange hues in the sunsets are a result of smoke particles filtering out shorter wavelength colors, allowing red and orange to penetrate the air unfiltered. The sunset colors are more intense during sunrises and sunsets as there is more atmosphere for light to travel through to reach a person's eye.",
+        "3. As the smoke dissipates, air quality will improve, and the fiery sunsets will become less intense."
+    ],
+    "explain": [
+        "The core idea of the aspect is that wildfires started in southeastern Siberia on April 14, spread throughout the region due to strong winds, and resulted in the destruction of many villages. Additionally, these fires led to fiery sunsets being observed in Washington.",
+        "The red and orange sunset colors are formed due to the filtering out of shorter wavelength colors by smoke particles. Sunrise and sunset have more intense colors as light travels through more atmosphere to reach the eyes.",
+        "Eventually, as the smoke clears due to the fires in Southeastern Siberia, air quality improves, and the vibrant sunsets caused by the smoke will subside."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the explanation for the aspect.",
+        "Yes, the sentence in the aspect is about the coloration of sunsets and sunrises due to the presence of smoke particles in the atmosphere, and the greater intensity of the colors during these times.",
+        "Yes, the summary mentions the fires in Southeastern Siberia and the improvement in air quality, which can be related to the aspect statement."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 3.1666666666750003
+}

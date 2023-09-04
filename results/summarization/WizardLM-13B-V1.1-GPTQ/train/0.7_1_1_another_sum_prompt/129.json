@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "the extra stretch of coastline on shiretoko peninsula near the town of rausu has risen from the sea surface . melting ice and snow caused a section of land to drop , pivoting the underwater area into the air . the mass , which has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide .",
+        "the extra stretch of coastline on shiretoko peninsula near the town of rausu has risen from the sea surface . melting ice and snow caused a section of land to drop , pivoting the underwater area into the air . the mass , which has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide .",
+        "the extra stretch of coastline on shiretoko peninsula near the town of rausu has risen from the sea surface . melting ice and snow caused a section of land to drop , pivoting the underwater area into the air . the mass , which has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide .",
+        "the extra stretch of coastline on shiretoko peninsula near the town of rausu has risen from the sea surface . melting ice and snow caused a section of land to drop , pivoting the underwater area into the air . the mass , which has risen some 30 to 50ft above sea level , measures roughly 1,000 - 1,640 ft long , and 100ft wide ."
+    ],
+    "aspect": [
+        "1. A landslide caused an unexpected emergence of 1,000ft of seabed on Shiretoko Peninsula near Rausu.",
+        "2. The new coastline measures roughly 1,000-1,640ft long and 100ft wide, rising 50ft above sea level.",
+        "3. Local residents didn't hear or feel any signs of movement before the land appeared.",
+        "4. Authorities believe the landslide occurred but don't expect further expansion."
+    ],
+    "explain": [
+        "The aspect highlights that the emergence of 1,000ft of seabed on Shiretoko Peninsula near Rausu was caused by a landslide rather than melting ice and snow. While melting ice and snow is a contributing factor to the rise of the coastline, it is the landslide that directly led to the sudden exposure of the seabed. This distinction is crucial as it shifts the focus from the gradual, ongoing changes brought by climate change to the sudden and dramatic effects of geological events.",
+        "To present a clear and concise summary of a key point.\n\nThe core idea of aspect 2 is that the newly formed coastline on Shiretoko Peninsula's coast, near the town of Rausu, extends from 1,000 to 1,640 feet in length and is 100 feet wide. This area rises about 50 feet above sea level, making it noticeably higher than the rest of the surrounding landscape. This aspect highlights the dimensions and elevation of this extraordinary phenomenon.",
+        "To make an idea clear by presenting the main points or essential features in a concise and understandable way. In the context of the given aspect, the core idea is that local residents did not experience or sense any indications of movement or changes in the land before the sudden rise of a new coastline on the Shiretoko Peninsula near the town of Rausu. This aspect highlights the surprising nature of this event, as it seemingly occurred without any prior warning or noticeable indications.",
+        "To give an explanation or make clear.\n\nBased on the given aspect, authorities believe that the landslide occurred, leading to the sudden rise of the extra stretch of coastline. However, they do not expect further expansion or any significant risks to the surrounding area. Although they acknowledge the occurrence of the landslide, they believe that it is a isolated event and not a cause for alarm or concern about future landslides in the area."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea mentioned in the aspect. While the summary does mention the rise of a section of land from the sea surface near Rausu due to melting ice and snow, it does not directly mention a landslide as the underlying cause of the emergence of 1,000ft of seabed. The summary instead suggests that the rise is primarily a result of the melting ice and snow causing a section of land to drop, pivoting the underwater area into the air.",
+        "\nNo",
+        "After reexamining the given summary, I understand that the core idea stated in the aspect is not directly present in the summary. The summary mainly discusses the sudden rise of a new coastline on the Shiretoko Peninsula near the town of Rausu due to melting ice and snow. It does not explicitly mention that local residents did not experience or sense any indications of movement or changes before the event. Therefore, the aspect is not directly supported by the summary.",
+        "Yes, I apologize for the confusion. Upon reexamining the summary, I see that the core idea is the rise of the extra stretch of coastline due to melting ice and snow, which caused a section of land to drop and pivot the underwater area into the air. This event has created a new section of land that measures roughly 1,000-1,640 ft long and 100ft wide, rising about 30-50ft above sea level."
+    ],
+    "score": [
+        3,
+        2,
+        2,
+        4
+    ],
+    "mean_score": 2.75,
+    "gt_score": 5.0
+}

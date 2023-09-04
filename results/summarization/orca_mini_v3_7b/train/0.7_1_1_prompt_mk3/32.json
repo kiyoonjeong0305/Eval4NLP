@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities , according to a report in nation 's restaurant news . but mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand . the app hires independent contractors who drive their own cars in a similar model to uber taxis .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities , according to a report in nation 's restaurant news . but mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand . the app hires independent contractors who drive their own cars in a similar model to uber taxis .",
+        "the fast-casual chain will work with the postmates app to begin offering delivery for online and mobile orders in 67 cities , according to a report in nation 's restaurant news . but mexican food fans should know that the restaurant plans to add a nine per cent service charge - with the delivery fees for postmates beginning at $ 5 and up , depending on distance and demand . the app hires independent contractors who drive their own cars in a similar model to uber taxis ."
+    ],
+    "aspect": [
+        "1. Mexican restaurant Chipotle partners with Postmates app to enter food delivery market, considering $70 billion delivery market.",
+        "2. Chipotle to include a 9% service charge with delivery fees starting at $5, depending on distance and demand.",
+        "3. Chipotle expands to 67 cities with Postmates, joining Starbucks, Taco Bell, McDonald's, and Burger King in delivery ventures."
+    ],
+    "explain": [
+        "Chipotle, a Mexican fast-casual restaurant chain, partners with Postmates app to deliver food in 67 cities, adding a service charge of 9% and delivery fees of $5-$x, depending on distance and demand, entering the $70 billion food delivery market.",
+        "Chipotle will impose a 9% service charge for delivery orders, starting with fees of at least $5, depending on the distance and demand requirements.",
+        "Chipotle, a fast-casual chain, expands to 67 cities via a partnership with Postmates for delivery services, joining major brands like Starbucks, Taco Bell, McDonald's, and Burger King in their delivery ventures. The company, however, plans to add a service charge of 9% for online and mobile orders and will charge delivery fees depending on distance and demand, starting at $5 and up, which will be facilitated by independent contractors from Postmates who offer similar services as Uber taxis."
+    ],
+    "answer": [
+        "Yes, the summary contains the context of the sentence.",
+        "Yes, the summary contains the context of the sentence you provided. It mentions the 9% service charge for delivery orders, starting with fees of at least $5, and dependent on distance and demand requirements.",
+        "Yes, the summary contains the context of the sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 4.166666666675
+}

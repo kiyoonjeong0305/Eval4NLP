@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "the queen's guard was left red-faced after he slipped on a manhole cover . he lost his footing and slid sideways, knocking his bearskin on the side . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past as if nothing had happened . tourist david meadwell recorded the unscheduled manouevre outside buckingham palace on thursday afternoon .",
+        "the queen's guard was left red-faced after he slipped on a manhole cover . he lost his footing and slid sideways, knocking his bearskin on the side . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past as if nothing had happened . tourist david meadwell recorded the unscheduled manouevre outside buckingham palace on thursday afternoon .",
+        "the queen's guard was left red-faced after he slipped on a manhole cover . he lost his footing and slid sideways, knocking his bearskin on the side . the embarrassed soldier quickly scrambled to his feet as his colleagues marched past as if nothing had happened . tourist david meadwell recorded the unscheduled manouevre outside buckingham palace on thursday afternoon ."
+    ],
+    "aspect": [
+        "1. A Buckingham Palace guard slipped and fell on a manhole cover during the Changing of the Guard, embarrassing himself in front of tourists.",
+        "2. The Queen's Guard lost his balance and dropped his rifle, falling sideways on the manhole cover.",
+        "3. The incident was caught on camera, causing the guard to feel embarrassed, but he quickly regained composure as his colleagues marched past."
+    ],
+    "explain": [
+        "A Buckingham Palace guard slipped and fell on a manhole cover during the Changing of the Guard, causing an embarrassing moment in front of tourists.",
+        "In the given scenario, the Queen's Guard, known for being a stoic and impressive figure, slipped on a manhole cover, causing him to lose his balance. He fell sideways and damaged his bearskin hat, but his colleagues marched past as if nothing had happened. A tourist witnessed and recorded the event.",
+        "A guard at Buckingham Palace fell when slipping on a manhole cover but managed to regain composure as his colleagues passed, due to a tourist recording the incident, now causing embarrassment."
+    ],
+    "answer": [
+        "Yes, the summary does contain the context of the sentence.",
+        "Yes, the summary contains the context of the given sentence.",
+        "Yes, the summary conveys the context of the mentioned sentence."
+    ],
+    "score": [
+        4,
+        4,
+        4
+    ],
+    "mean_score": 4.0,
+    "gt_score": 5.0
+}

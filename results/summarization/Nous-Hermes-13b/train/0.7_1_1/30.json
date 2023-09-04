@@ -1,0 +1,29 @@
+{
+    "summary": [
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands",
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands",
+        "Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands"
+    ],
+    "aspect": [
+        "1. A yellow speed camera in Birmingham has been directed at a specific house for more than two years. ",
+        "2. A speed camera that was not working for more than two years on a residential road in Birmingham has been re-aimed at a specific house. ",
+        "3. A yellow speed camera that was decommissioned in 2013 has been re-aimed at a specific house in Birmingham."
+    ],
+    "explain": [
+        "According to the aspect, a yellow speed camera in Birmingham has been directed at a specific house for more than two years. \nCore idea: The aspect highlights that the speed camera in Birmingham has been aimed at a particular house for more than two years.",
+        "A core idea of this aspect is that a speed camera that was not working for more than two years on a residential road in Birmingham has been re-aimed.",
+        "A core idea of the aspect is that a decommissioned speed camera has been re-aimed at a specific house in Birmingham, after being turned round. This means that the camera, which was no longer in use, has been repositioned to capture footage and take photos of cars or vehicles that drive past the house, despite being taken out of service three years ago."
+    ],
+    "answer": [
+        "Yes. The summary contains the core idea of the aspect. The aspect mentions that the speed camera has been directed at a specific house for more than two years, which is included in the summary as \"Speed camera has been turned round and is pointing at this house in Birmingham, West Midlands\".",
+        "The answer to the previous question is \"No.\" The summary does not contain the core idea of the aspect.",
+        "The summary does not explicitly mention the idea of a decommissioned speed camera being re-aimed at a specific house, but it does refer to a \"speed camera\" that has been turned round and is now \"pointing at this house\" in Birmingham. This could potentially refer to the same camera mentioned in the aspect. However, without more information, it is difficult to say for certain."
+    ],
+    "score": [
+        5,
+        0,
+        3
+    ],
+    "mean_score": 2.6666666666666665,
+    "gt_score": 4.666666666675
+}

@@ -1,0 +1,39 @@
+{
+    "summary": [
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says .",
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says .",
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says .",
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says .",
+        "russian fighter jet intercepted a u.s. reconnaissance plane in an `` unsafe and unprofessional manner '' on tuesday , a u.s. rc-135u was flying over the baltic sea when it was intercepted by a russian su-27 flanker . the u.s. crew believed the russian pilot 's actions were `` unsafe and unprofessional due to the aggressive maneuvers it performed in close proximity to their aircraft and its high rate of speed , '' pentagon spokesman says ."
+    ],
+    "aspect": [
+        "1. Russian fighter jet intercepts U.S. reconnaissance plane in the Baltic Sea.",
+        "2. U.S. complains to Moscow about the incident, stating the Russian pilot's actions were unsafe and unprofessional. ",
+        "3. The incident occurred in international airspace north of Poland, according to the Pentagon. ",
+        "4. The Russian jet flew around the U.S. plane several times to identify it and get its tail number. ",
+        "5. The U.S. will file a diplomatic complaint with Russia."
+    ],
+    "explain": [
+        "\nOne core idea of aspect 1 is that a Russian fighter jet intercepted a U.S. reconnaissance plane in the Baltic Sea. The Russian SU-27 Flanker flew in close proximity to the U.S. RC-135U and performed aggressive maneuvers, which the U.S. crew considered unsafe and unprofessional.",
+        "The aspect summarises the response of the U.S. towards the incident in which a Russian fighter jet intercepted a U.S. reconnaissance plane. The U.S. Pentagon has accused the Russian pilot of performing aggressive maneuvers and that his actions were unsafe and unprofessional while intercepting the U.S. aircraft.",
+        "The aspect states that the incident happened in international airspace north of Poland.",
+        "The Russian jet flew around the U.S. plane several times to identify it and get its tail number.",
+        "The given aspect states that the United States will file a diplomatic complaint with Russia. This means that the U.S. government is expressing its disapproval towards Russia's actions through a formal diplomatic procedure. The complaint could include details of the incident and demonstrate how the Russian pilot's actions were considered unsafe and unprofessional. By filing this complaint, the U.S. is indicating that it expects Russia to take responsibility for its behavior and avoid repeating such actions in the future."
+    ],
+    "answer": [
+        "No, the summary does not contain the core idea. The core idea of aspect 1 is that a Russian fighter jet intercepted a U.S. reconnaissance plane in the Baltic Sea and the U.S. crew considered the actions of the Russian pilot to be unsafe and unprofessional.",
+        "Yes, the summary does contain the core idea, which is that a Russian fighter jet intercepted a U.S. reconnaissance plane in an \"unsafe and unprofessional manner\" on Tuesday, and the U.S. complains to Moscow about the incident, stating the Russian pilot's actions were unsafe and unprofessional.",
+        "Yes. The core idea of this aspect is that the incident took place in an international area located north of Poland, according to the Pentagon.",
+        "The given aspect is not present in the summary. It may be an additional information or a speculation.",
+        "No, I don't think the summary contains the core idea of the aspect. The summary mentions the intercepting of a U.S. reconnaissance plane by a Russian fighter jet and the Pentagon's reaction to the incident, but it doesn't mention anything about a diplomatic complaint being filed with Russia."
+    ],
+    "score": [
+        5,
+        5,
+        5,
+        0,
+        0
+    ],
+    "mean_score": 3.0,
+    "gt_score": 4.41666666665
+}

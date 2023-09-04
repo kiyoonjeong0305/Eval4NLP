@@ -1,0 +1,34 @@
+{
+    "summary": [
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc .",
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc .",
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc .",
+        "gregory van der wiel says he 's not interested in leaving paris saint-germain . but van der wiel insists he 's happy in paris and wants to sign a new contract . the dutchman recently had a falling out with his boss laurent blanc ."
+    ],
+    "aspect": [
+        "1. Gregory van der Wiel denies leaving Paris Saint-Germain in the summer.",
+        "2. Van der Wiel says he's happy at PSG and loves the club, city, and teammates.",
+        "3. Van der Wiel wants to sign a new contract and is ready when called upon.",
+        "4. Van der Wiel has no plans to leave PSG despite being linked with Dani Alves' potential move."
+    ],
+    "explain": [
+        "Gregory van der Wiel denies leaving Paris Saint-Germain in the summer.\nCore Idea: Gregory van der Wiel, a professional footballer playing for Paris Saint-Germain (PSG), has asserted that he has no intention of leaving the club during the summer transfer window. He wishes to remain with the team and even sign a new contract.\n\nContext: The summary highlights van der Wiel's recent change in relationship with his manager, Laurent Blanc, which might have led to speculations about his future with the club. However, van der Wiel has publicly denied any plans to leave PSG and is expressing his desire to stay and continue playing for the club.",
+        "Gregory van der Wiel, a Dutch professional footballer, currently plays for Paris Saint-Germain (PSG) in the French Ligue 1. Despite rumors about his potential departure from the club, van der Wiel has emphasized his happiness at PSG and expressed his desire to sign a new contract. He has mentioned that he is content with his teammates, the club, and the city of Paris, which showcases his dedication and loyalty to PSG.",
+        "Based on the summary, Gregory van der Wiel is content with his current situation at Paris Saint-Germain and desires to extend his stay beyond his current contract. He has expressed his willingness to sign a new contract and is committed to the team. His statement indicates that he is ready to play when called upon.",
+        "While there have been rumors of Dani Alves potentially leaving Paris Saint-Gregory van der Wiel says he has no intention of leaving the club. The Dutch fullback seems happy and content with his current situation at Paris Saint-Germain, and he has no plans to pursue any opportunities elsewhere."
+    ],
+    "answer": [
+        "Yes, the summary does contain the core idea. The sentence \"But van der Wiel insists he 's happy in paris and wants to sign a new contract. \" conveys van der Wiel's intention to stay with the club and potentially sign a new contract, supporting the core idea that he denies leaving PSG in the summer. While the summary and aspect both mention Gregory van der Wiel and Paris Saint-Germain, the aspect focuses specifically on his denial of leaving in the summer, which is addressed in the summary as well.",
+        "No, I do not think the summary contains the core idea of the aspect provided. Although the summary mentions van der Wiel's happiness in Paris and his desire to sign a new contract, it does not directly address his feelings about the club, teammates, and city. Rather, it mentions a falling out with the team's manager Laurent Blanc, suggesting that the aspect might have been overlooked or not emphasized in the summary.",
+        "Upon reevaluating the summary, I apologize for my previous response. The summary does not directly address Gregory van der Wiel's contract situation. Instead, it discusses his feelings about leaving Paris Saint-Germain and his relationship with his boss, Laurent Blanc. However, it does mention that he recently had a falling out with Laurent Blanc. I must clarify that the given aspect does not pertain to Gregory van der Wiel's contract situation, but rather his availability and readiness to play for the team when called upon.",
+        "No, the summary does not fully contain the core idea of the aspect"
+    ],
+    "score": [
+        4,
+        2,
+        3,
+        2
+    ],
+    "mean_score": 2.75,
+    "gt_score": 4.08333333335
+}
