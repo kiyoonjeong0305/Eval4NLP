@@ -1,0 +1,22 @@
+{{prompt_placeholder}}
+{{penalty_prompt}}
+{{previous_answer}}
+
+Generate one sentence of definition of {{aspect}}.
+And then, generate three lines of strategy to evaluate {{aspect}} of given summraization.
+And then, generate conditions to evaluate {{aspect}} of given summraization to be {{score_options.good}} or {{score_options.soso}} or {{score_options.bad}}.
+Make your answer in the form of:
+Definition: definition of {{aspect}}
+
+Strategy:
+1. strategy 1
+2. strategy 2
+3. strategy 3
+
+Condition:
+{{score_options.good}}:
+{{score_options.soso}}:
+{{score_options.bad}}:
+
+{{response_placeholder}}
+{{gen 'answer' temperature=0}}

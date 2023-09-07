@@ -1,0 +1,13 @@
+{{prompt_placeholder}}
+Select the score of the following summary based on the given source text wheter it is {{score_options.good}} or {{score_options.soso}} or {{score_options.bad}}.
+
+Source text:
+{{source}}
+
+Summary:
+{{summary}}
+
+{{guide}}
+
+{{response_placeholder}}
+{{select 'selection' logprobs='logprobs' options=options}}
