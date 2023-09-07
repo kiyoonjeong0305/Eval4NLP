@@ -23,42 +23,41 @@ def make_initial_guide(BPG):
     return con, coh, rel
 
 def find_penalty(results):
-    gt_score = results['score']['gt']
+
+    consistency_score = results['kendall_tau']['consistency']
+    coherence_score = results['kendall_tau']['coherence']
+    relevance_score = results['kendall_tau']['relevance']
     
-    coherence_score = results['score']['coherence']
-    consistency_score = results['score']['consistency']
-    relevance_score = results['score']['relevance']
+    con_coh_score = results['kendall_tau']['con_coh']
+    con_rel_score = results['kendall_tau']['con_rel']
+    coh_rel_score = results['kendall_tau']['coh_rel']
     
-    coh_con_score = results['score']['coh_con']
-    coh_rel_score = results['score']['coh_rel']
-    con_rel_score = results['score']['con_rel']
-    
-    coh_con_rel_score = results['score']['coh_con_rel']
+    con_coh_rel_score = results['kendall_tau']['con_coh_rel']
     
     # 가장 높은 스코어를 찾습니다.
     max_score = max(coherence_score, consistency_score, relevance_score, 
-                    coh_con_score, coh_rel_score, con_rel_score, 
-                    coh_con_rel_score)
+                    con_coh_score, con_rel_score, coh_rel_score, 
+                    con_coh_rel_score)
 
     # 가장 높은 스코어에 해당하는 스코어들을 반환합니다.
-    if max_score == coherence_score:
+    if max_score == consistency_score:
         return (0, 1, 1)
-    elif max_score == consistency_score:
+    elif max_score == coherence_score:
         return (1, 0, 1)
     elif max_score == relevance_score:
         return (1, 1, 0)
-    elif max_score == coh_con_score:
+    elif max_score == con_coh_score:
         return (0, 0, 1)
-    elif max_score == coh_rel_score:
-        return (0, 1, 0)
     elif max_score == con_rel_score:
+        return (0, 1, 0)
+    elif max_score == coh_rel_score:
         return (1, 0, 0)
-    elif max_score == coh_con_rel_score:
+    elif max_score == con_coh_rel_score:
         return (0, 0, 0)
 
 
 
-def penalty_guide(BPG, con, coh, rel, score, penalty_tuple, penalty_prompt):
+def penalty_guide(BPG, con, coh, rel, penalty_tuple, penalty_prompt):
     if penalty_tuple[0]:
         con = BPG.do_guide(penalty_prompt=penalty_prompt,
                            previous_answer=con,
@@ -102,10 +101,9 @@ def run(consistency,
         'aspect': {},
         'prompt': {},
         'score': {
-            'gt': [],
             'consistency': [],
             'coherence': [],
-            'relevance': []
+            'relevance': [],
         },
         'kendall_tau': {}
     }
@@ -120,9 +118,10 @@ def run(consistency,
     
     final_results['score_options'] = score_options
     
-    final_results['score']['gt'] = data['Score']
+    final_results['score']['gt'] = list(data['Score'])
     
     guides = [consistency, coherence, relevance]
+    # len(data)
     for i in tqdm(range(len(data))):
         try: 
             con_coh_rel = []
@@ -145,28 +144,28 @@ def run(consistency,
         except:
             pass
         
-    consistency = final_results['score']['consistency']
-    coherence = final_results['score']['coherence']
-    relevance = final_results['score']['relevance']
-    gt_score = final_results['score']['gt']
+    consistency = np.array(final_results['score']['consistency'])
+    coherence = np.array(final_results['score']['coherence'])
+    relevance = np.array(final_results['score']['relevance'])
+    gt_score = np.array(final_results['score']['gt']) # test
     
     # pdb.set_trace()
     consistency_score = score_kendall(consistency, gt_score)
     coherence_score = score_kendall(coherence, gt_score)
     relevance_score = score_kendall(relevance, gt_score)
     
-    coh_con_score = score_kendall(coherence + consistency)
-    coh_rel_score = score_kendall(coherence + relevance)
-    con_rel_score = score_kendall(consistency + relevance)
+    con_coh_score = score_kendall((consistency + coherence), gt_score)
+    con_rel_score = score_kendall((consistency + relevance), gt_score)
+    coh_rel_score = score_kendall((coherence + relevance), gt_score)
     
-    coh_con_rel_score = score_kendall(coherence + consistency + relevance)
+    con_coh_rel_score = score_kendall((consistency + coherence + relevance), gt_score)
     
-    final_results['kendall_tau']['coherence'] = coherence_score
     final_results['kendall_tau']['consistency'] = consistency_score
+    final_results['kendall_tau']['coherence'] = coherence_score
     final_results['kendall_tau']['relevance'] = relevance_score
-    final_results['kendall_tau']['coh_con'] = coh_con_score
-    final_results['kendall_tau']['coh_rel'] = coh_rel_score
+    final_results['kendall_tau']['con_coh'] = con_coh_score
     final_results['kendall_tau']['con_rel'] = con_rel_score
-    final_results['kendall_tau']['coh_con_rel'] = coh_con_rel_score
+    final_results['kendall_tau']['coh_rel'] = coh_rel_score
+    final_results['kendall_tau']['con_coh_rel'] = con_coh_rel_score
     
     return final_results

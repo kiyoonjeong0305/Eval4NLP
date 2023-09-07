@@ -9,7 +9,7 @@ import os
 import json
 from run import make_initial_guide, find_penalty, penalty_guide, run
 import guidance
-
+import pdb
 
 
 def main(args):
@@ -63,16 +63,16 @@ def main(args):
                         penalty_prompt=penalty_prompt,
                         )
         
+        # pdb.set_trace()
         with open(f'{output_path}/{idx}.json','w') as f:
             json.dump(results, f, ensure_ascii=False, indent=4)
         
         penalty_tuple = find_penalty(results)
         
         consistency, coherence, relevance = penalty_guide(BPG=BPG,
-                                                            con=con,
-                                                            coh=coh,
-                                                            rel=rel,
-                                                            score_options=score_options,
+                                                            con=consistency,
+                                                            coh=coherence,
+                                                            rel=relevance,
                                                             penalty_tuple=penalty_tuple,
                                                             penalty_prompt=penalty_prompt,
                                                             )
