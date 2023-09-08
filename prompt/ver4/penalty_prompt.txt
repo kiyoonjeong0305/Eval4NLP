@@ -1,0 +1,5 @@
+You need to keep in mind that your previous answer was bad!!!
+So, carefully check your previous answer and make sure that you make a better answer than the previous one.
+Previous answer:
+{{previous_answer}}
+Remeber that your new answer MUST be better than the previous one and also different from the previous one.

@@ -1,26 +1,65 @@
 {
     "aspect": {
-        "consistency": "Definition: Coherence refers to the logical consistency and smooth flow of ideas within a text or summary.\n\nStrategy 1: Read the summary carefully and identify the main points.\nStrategy 2: Assess if the main points are logically connected and support one another.\nStrategy 3: Check if the summary maintains a clear and concise structure, making it easy to follow.\n\nCondition:\nGood: The summary demonstrates strong coherence, with well-connected main points and a clear structure.\nSoso: The summary has some coherence issues, with some disconnected main points or a slightly confusing structure.\nBad: The summary lacks coherence, with unrelated main points or a confusing structure that makes it difficult to follow.</s>",
-        "coherence": "Definition: Consistency refers to the ability of a system, process, or person to maintain uniformity, accuracy, and agreement among its components, actions, or decisions.\n\nStrategy 1: Compare the given summary with the original source or authoritative information to identify any discrepancies or inconsistencies.\nStrategy 2: Analyze the summary's structure, clarity, and coherence to ensure it accurately represents the original content.\nStrategy 3: Assess the summary's relevance and completeness by checking if it covers all essential points and does not omit any crucial information.\n\nCondition:\nGood: If the summary is accurate, consistent, and complete, reflecting the original content without omissions or distortions.\nSoso: If the summary is mostly accurate but has some inconsistencies or omissions, or if it is unclear or less coherent.\nBad: If the summary contains significant inaccuracies, inconsistencies, or omissions, or if it is not relevant or coherent.</s>",
-        "relevance": "Definition: Relevance refers to the degree to which the content of a text, statement, or idea is appropriate, applicable, or connected to a specific topic, situation, or context.\n\nStrategy 1: Assess the connection between the given summary and the original source material.\nStrategy 2: Determine if the summary accurately represents the main points or ideas of the original content.\nStrategy 3: Evaluate the relevance of the summary in relation to the specific context or situation it is intended for.\n\nCondition:\nGood: The given summary is relevant if it effectively captures the main points of the original content and is appropriate for the intended context or situation.\nSoso: The given summary is somewhat relevant if it partially captures the main points of the original content but may not be entirely appropriate for the intended context or situation.\nBad: The given summary is irrelevant if it fails to capture the main points of the original content or is not appropriate for the intended context or situation.</s>"
+        "consistency": "Definition: Coherence refers to the logical consistency and clarity of a particular text, thought process, or argument.\n\nStrategy:\n1) Assess the structure and organization of the given summary.\n2) Identify any contradictions, illogical connections, or vague statements.\n3) Analyze the clarity with which the key points are presented without omitting important information.\n\nCondition:\nGood: Coherence is maintained in the given summary, with a clear and logical flow of ideas.\nSoso: Some aspects of the given summary are coherent, but others may be unclear or contain inconsistencies.\nBad: The given summary lacks coherence overall, featuring contradictions or illogical connections. It might be difficult to understand without clarification.</s>",
+        "coherence": "Consistency refers to the quality of remaining unchanged, uniform, or coherent in form, manner, or quality over time.\n\nStrategy 1: Compare the original content with the summary to identify if any significant information has been omitted or misrepresented in the latter.\nStrategy 2: Look for any contradictions within the summary, such as opposing points or incompatible details, which may compromise its consistency.\nStrategy 3: Examine the clarity and structure of the summary to ensure it maintains the original's coherence, whether in terms of paragraphs, sentences, or individual statements.\n\nCondition:\n- Good: The given summary accurately represents and retains the key points of the original content without any major omissions or contradictions.\n- Soso: The given summary captures the general essence of the original content but might involve minor inconsistencies or omissions.\n- Bad: The given summary fails to reflect the main idea of the original content, contains significant contradictions, or has a poorly structured presentation.</s>",
+        "relevance": "Definition: Relevance is the degree to which information or content is suitable or applicable to a particular context or audience.\n\nStrategy 1: Consider the target audience and their interests before assessing the relevance of the given summary.\nStrategy 2: Examine the accuracy and comprehensiveness of the summary in relation to the original content, as providing incomplete or inaccurate information can impact relevance.\nStrategy 3: Assess whether the summary covers crucial aspects of the topic, as omitting important details can render it less relevant to the intended context or audience.\n\nCondition:\nGood: If the given summary is suitable, applicable, accurate, comprehensive, and covers crucial aspects of the original content.\nSoso: If the summary partially meets the above criteria but has shortcomings in one or more aspects.\nBad: If the given summary does not meet the above criteria and is not appropriate, accurate, or comprehensive for the intended context or audience.</s>"
     },
     "prompt": {
-        "guide": "{{prompt_placeholder}}\n{{penalty_prompt}}\n{{previous_answer}}\n\nGenerate one sentence of definition of {{aspect}}.\nAnd then, generate three lines of strategy to evaluate {{aspect}} of given summraization.\nAnd then, generate conditions to evaluate {{aspect}} of given summraization to be {{score_options.good}} or {{score_options.soso}} or {{score_options.bad}}.\nMake your answer in the form of:\nDefinition: definition of {{aspect}}\n\nStrategy:\n1. strategy 1\n2. strategy 2\n3. strategy 3\n\nCondition:\n{{score_options.good}}:\n{{score_options.soso}}:\n{{score_options.bad}}:\n\n{{response_placeholder}}\n{{gen 'answer' temperature=0}}",
+        "guide": "{{prompt_placeholder}}\n{{penalty_prompt}}\n{{previous_answer}}\n\nGenerate one sentence of definition of {{aspect}}.\nAnd then, generate three lines of strategy to evaluate {{aspect}} of given summraization.\nAnd then, generate conditions to evaluate {{aspect}} of given summraization to be {{score_options.good}} or {{score_options.soso}} or {{score_options.bad}}.\nMake your answer in the form of:\nDefinition: definition of {{aspect}}\n\nStrategy:\n1. strategy 1\n2. strategy 2\n3. strategy 3\n\nCondition:\n{{score_options.good}}:\n{{score_options.soso}}:\n{{score_options.bad}}:\n\n{{response_placeholder}}\n{{gen 'answer' temperature=1 stop='###'}}",
         "score": "{{prompt_placeholder}}\nSelect the score of the following summary based on the given source text wheter it is {{score_options.good}} or {{score_options.soso}} or {{score_options.bad}}.\n\nSource text:\n{{source}}\n\nSummary:\n{{summary}}\n\n{{guide}}\n\n{{response_placeholder}}\n{{select 'selection' logprobs='logprobs' options=options}}",
         "penalty": "Your previous answer was not good enough.\nSo, your new answer must differ from the previous answer!!!\nPrevious answer:"
     },
     "score": {
         "consistency": [
-            4.991271080900738,
-            4.982805334595549
+            4.988124881479748,
+            4.94725549508244,
+            4.914442908856838,
+            4.006947587239712,
+            4.687166827687143,
+            3.7134492287432876,
+            3.1354871274140943,
+            4.258091946580051,
+            4.803678051849943,
+            4.978774546584368,
+            4.377746549353359,
+            3.5800565265712683,
+            3.2502511966014844,
+            3.580185741051844,
+            4.93760786634561
         ],
         "coherence": [
-            4.996688445667944,
-            4.992675644476805
+            4.995634820700785,
+            4.955385870582829,
+            4.967609820741738,
+            4.929471195635278,
+            4.983760436686271,
+            4.6833357536621625,
+            3.577945794287874,
+            4.7948630085668205,
+            4.99351211342996,
+            4.991334667972906,
+            4.973011002315731,
+            4.874190696239984,
+            4.907286076293671,
+            4.909181745281302,
+            4.996101530217659
         ],
         "relevance": [
-            4.991905012624154,
-            4.868618245064041
+            4.953916813886514,
+            4.404940988098437,
+            4.3237047990674915,
+            3.8142572619306647,
+            4.624776481752805,
+            3.085760055882716,
+            2.9959459717113917,
+            3.117535095848695,
+            3.82963622267699,
+            4.945593895812517,
+            4.33696976276184,
+            3.710250463187203,
+            2.6296778970580936,
+            3.140019065467729,
+            4.877985656631229
         ],
         "gt": [
             4.583333333325,
@@ -346,13 +385,13 @@
         ]
     },
     "kendall_tau": {
-        "consistency": 1.0,
-        "coherence": 1.0,
-        "relevance": 1.0,
-        "con_coh": 1.0,
-        "con_rel": 1.0,
-        "coh_rel": 1.0,
-        "con_coh_rel": 1.0
+        "consistency": 0.16346909545460608,
+        "coherence": 0.3750173366311551,
+        "relevance": 0.259627386898492,
+        "con_coh": 0.22116407032093763,
+        "con_rel": 0.20193241203216047,
+        "coh_rel": 0.27885904518726917,
+        "con_coh_rel": 0.24039572860971484
     },
     "score_options": {
         "good": "Good",

@@ -19,4 +19,4 @@ Condition:
 {{score_options.bad}}:
 
 {{response_placeholder}}
-{{gen 'answer' temperature=0}}
+{{gen 'answer' temperature=1 stop='###'}}

@@ -139,6 +139,7 @@ def run(consistency,
             final_results['score']['relevance'].append(con_coh_rel[2])
             
         except KeyboardInterrupt:
+            del BPG
             exit()
         
         except:
